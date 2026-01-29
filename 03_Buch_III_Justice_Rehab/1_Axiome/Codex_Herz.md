@@ -1,4 +1,7 @@
-﻿# Buch III | Herz-Domäne (§1-9)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Herz-Domäne (§1-9)
 
 ## §1 Das Recht auf physische Unversehrtheit
 Verbot nicht-konsensualer Krafteinwirkung. Absolutes Gewaltverbot.

@@ -1,15 +1,19 @@
-﻿# Buch II | Kapitel §1: Die Puls-Einheit & Der Energie-Standard
+﻿# ⚡ SYSTEM: PULS-OS LOGIK (v3.7.2)
+## Die Kybernetische Wertschöpfung
 
-## I. Technische Spezifikation
-- Definition puls: Energetisches Ressourcen-Äquivalent.
-- Demurrage-Mechanismus: Automatischer Rückfluss nicht genutzter Einheiten (Halbwertszeit).
-- Kopplung der Geldmenge M an reale Regenerationsraten (E_gen).
+Das Puls-OS ist kein Finanzsystem, sondern ein Energie-Allokations-System.
 
-## II. Expertenübersetzung
-- kybernetische Ressourcensteuerung statt klassischer Marktmechanismen.
-- Prävention von Akkumulation und Machtkonzentration durch Währungsdesign.
-- Entropie-basierte Bepreisung zur ökologischen Lenkung.
+### 1. Das Energy-Cap (Inflations-Schutz)
+Im Gegensatz zu Fiat-Puls kann Puls nicht "gedruckt" werden.
+- **Total Supply:** Die Gesamtmenge an zirkulierendem Puls entspricht exakt der Summe der gespeicherten und erzeugten Energie im Cluster (gemessen in kWh).
+- **Hard Link:** 1 Puls ~ 1 kWh (Referenzwert, dynamisch angepasst an Effizienz).
 
-## III. Laienverständnis
-- Beispiel 'Fahrrad-Kauf': Wirtschaft als atmendes System. Was nicht verbraucht wird, nützt der Gemeinschaft.
-- Kernbotschaft: Sicherheit durch garantierten Zugang zu Ressourcen ohne Zukunftsangst.
+### 2. Die Verteilung (Spherical Link)
+Wie kommt Puls zum Menschen?
+- **Quelle:** Der Bürger leistet Arbeit.
+- **Bewertung:** Das Tool **[Spherical Compensation]** berechnet den Wert basierend auf T.Ö.E.
+- **Auszahlung:** Der Cluster überweist den Anteil aus dem Energie-Pool auf den **[Node One]** des Bürgers.
+
+### 3. Der Kreislauf
+- Bürger zahlt Puls für Ressourcen (Nahrung, Wohnraum).
+- Dieser Puls fließt zurück in den Cluster-Pool zur Wartung der Infrastruktur (Hand-Domäne).

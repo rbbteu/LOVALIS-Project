@@ -13,3 +13,8 @@
 ## III. Laienverständnis
 - Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
 - Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.

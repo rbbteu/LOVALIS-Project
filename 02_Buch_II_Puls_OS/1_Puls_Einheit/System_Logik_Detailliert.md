@@ -15,3 +15,8 @@
 2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
 3. Verteilung der Basis-Allokation (P_base) an alle 150 Bürger (§10-12).
 4. Monitoring des Umlaufs und Rückfluss durch Demurrage.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.

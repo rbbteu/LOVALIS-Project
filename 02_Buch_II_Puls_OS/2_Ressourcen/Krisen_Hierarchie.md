@@ -10,3 +10,10 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 - Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
 - Stufe §3: Deaktivierung von Mobilitäts-Intervallen (§16) für nicht-essenzielle Reisen.
 - Stufe §4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenständen.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.

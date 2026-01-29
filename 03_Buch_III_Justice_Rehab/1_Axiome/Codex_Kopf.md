@@ -1,4 +1,7 @@
-﻿# Buch III | Kopf-Domäne (§19-27)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kopf-Domäne (§19-27)
 
 ## §19 Die totale Transparenz
 Alle Entscheidungsprotokolle müssen öffentlich sein.

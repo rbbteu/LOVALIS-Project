@@ -1,4 +1,7 @@
-﻿# Buch III | Kapitel §2: Das Protokoll bei logischen Brüchen
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kapitel §2: Das Protokoll bei logischen Brüchen
 
 ## I. Technische Spezifikation
 - Phasen: Detektion, Isolation (Sandbox), Root-Cause-Analysis (RCA), Patch/Restitution.

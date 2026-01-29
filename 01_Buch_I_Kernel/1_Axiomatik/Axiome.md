@@ -13,4 +13,4 @@ Der T.Ö.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethisch
 
 ## III. Laienverständnis (Bürger-Ebene)
 Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauüber (Ö) und freundlich (E) sind.
-*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, aüber Menschen krank macht oder die Natur zerstört.
+*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Puls-Einheiten bringt, aüber Menschen krank macht oder die Natur zerstört.

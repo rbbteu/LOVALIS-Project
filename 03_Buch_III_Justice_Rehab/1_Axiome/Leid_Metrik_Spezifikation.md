@@ -1,4 +1,7 @@
-﻿# Buch III | Anhang B: Spezifikation der Leid-Metrik (L-Validierung)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Anhang B: Spezifikation der Leid-Metrik (L-Validierung)
 
 Jedes der 27 Gesetze wird durch folgende Sensoren validiert:
 - **Physisch:** Biometrische Stressindikatoren (via Anker Frontier).

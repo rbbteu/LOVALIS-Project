@@ -13,3 +13,10 @@
 ## III. Laienverständnis
 - Beispiel 'Der Gärtner': Wer beiträgt, bekommt mehr Möglichkeiten (Pulse), aüber wer pausiert, fällt niemals ins Bodenlose.
 - Kernbotschaft: Freiheit durch Sicherheit – Arbeit als Wahl, nicht als Zwang.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.

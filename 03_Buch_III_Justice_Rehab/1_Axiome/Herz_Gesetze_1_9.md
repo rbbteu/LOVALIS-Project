@@ -1,4 +1,7 @@
-﻿# Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil §1: Herz-Domäne)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil §1: Herz-Domäne)
 
 ## §1 Das Recht auf physische Unversehrtheit
 - **Technische Spezifikation:** Verbot nicht-konsensualer Krafteinwirkung. Sensor-Trigger bei biologischen Stresssignalen ( > §0$).

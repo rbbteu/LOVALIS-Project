@@ -44,3 +44,8 @@
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
 - **Expertenübersetzung:** Die Thermodynamik ist die oüberste Richterin über technische Projekte (Limitierung der Umweltbelastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
+
+
+---
+### VERFASSUNGS-BINDUNG
+Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz** gestoppt werden, sofern eine Verletzung des Axioms der **Leidminimierung** nachgewiesen wird.

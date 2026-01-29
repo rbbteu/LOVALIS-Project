@@ -1,4 +1,7 @@
-﻿# Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil §3: Kopf-Domäne)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil §3: Kopf-Domäne)
 
 ## §19 Die totale Transparenz
 - **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unveränderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.

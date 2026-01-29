@@ -1,4 +1,7 @@
-﻿# Buch III | Kapitel §1: Die Verfassungs-Axiome (Die Grundgesetze)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kapitel §1: Die Verfassungs-Axiome (Die Grundgesetze)
 
 ## I. Technische Spezifikation
 - Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.

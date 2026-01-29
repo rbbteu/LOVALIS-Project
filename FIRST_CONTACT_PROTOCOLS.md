@@ -17,10 +17,10 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 
 ## ❓ Frage §2: Der Beitrags-Check (Axiom: Puls-OS)
 **Die Frage:**
-> "Glaubst du, dass der Wert deiner Arbeit daran gemessen werden sollte, wie viel Geld sie einbringt, oder daran, wie sehr sie das Leben anderer Menschen tatsächlich verbessert?"
+> "Glaubst du, dass der Wert deiner Arbeit daran gemessen werden sollte, wie viel Puls-Einheiten sie einbringt, oder daran, wie sehr sie das Leben anderer Menschen tatsächlich verbessert?"
 
 **Die Analyse:**
-- **Fokus auf Geld:** Tief verwurzelt im Legacy-System. Benötigt Transitionshilfe.
+- **Fokus auf Puls-Einheiten:** Tief verwurzelt im Legacy-System. Benötigt Transitionshilfe.
 - **Fokus auf Wirkung:** Natürliche Resonanz mit dem Puls-Prinzip (Proof of Contribution).
 
 ---

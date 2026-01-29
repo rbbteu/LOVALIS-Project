@@ -1,4 +1,7 @@
-﻿# Buch III | Kapitel 1.2: Der Vollständige Codex (27 Gesetze)
+﻿
+> **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
+---
+# Buch III | Kapitel 1.2: Der Vollständige Codex (27 Gesetze)
 
 ## I. Technische Spezifikation (L-Protokoll)
 - Invariante §1-27: Jedes Gesetz ist als harter Constraint im System-Validator hinterlegt.
