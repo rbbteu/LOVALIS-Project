@@ -27,7 +27,7 @@ Die Werkzeuge f�r den Alltag.
 
 ---
 
-## ? SCHNELLZUGRIFF (NEXUS)
+## 🧭 SCHNELLZUGRIFF (NEXUS)
 
 Hast du ein konkretes Problem?
 ?? **[�FFNE DIE NEXUS MAP](./VALITAS_NEXUS_MAP.md)**

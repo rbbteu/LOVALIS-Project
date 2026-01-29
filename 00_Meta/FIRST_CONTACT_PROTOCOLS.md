@@ -1,11 +1,11 @@
-# ?? LOVALIS | Protokoll f�r den Erstkontakt
+# 🛡️ LOVALIS | Protokoll f�r den Erstkontakt
 
 Dieses Dokument enth�lt die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
 mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen.
 
 ---
 
-## ? Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
+## ❓ Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
 **Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du aber keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, aber f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
 
 **Die Analyse:**
@@ -15,7 +15,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ---
 
-## ? Frage 2: Der Beitrags-Check (Axiom: Puls-OS)
+## ❓ Frage 2: Der Beitrags-Check (Axiom: Puls-OS)
 **Die Frage:**
 > "Glaubst du, dass der Wert deiner Arbeit daran gemessen werden sollte, wie viel Geld sie einbringt, oder daran, wie sehr sie das Leben anderer Menschen tats�chlich verbessert?"
 
@@ -25,7 +25,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ---
 
-## ? Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
+## ❓ Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
 **Die Frage:**
 > "K�nntest du mit einer Wahrheit leben, die deinen eigenen �berzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
 

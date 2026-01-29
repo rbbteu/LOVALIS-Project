@@ -1,4 +1,4 @@
-# ?? LOVALIS (LV 3.7) | Das Master-Verzeichnis (V1.0)
+# 🛡️ LOVALIS (LV 3.7) | Das Master-Verzeichnis (V1.0)
 
 Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride Gesamtwerk. Alle Module sind nach dem Open-Logic-Prinzip strukturiert und durch den kaskadierten Deep Scan validiert.
 

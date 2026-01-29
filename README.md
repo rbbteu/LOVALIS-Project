@@ -1,4 +1,4 @@
-# ?? LOVALIS (LV 3.7)
+# 🛡️ LOVALIS (LV 3.7)
 ### *Concordia Synergetica Logicae Artificialis et Valitatis Humanae*
 
 > **�Strenge im Code, Freiheit im Sein � Perfekt im System, menschlich im Scheitern.�**
@@ -7,7 +7,7 @@ LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen m
 
 ---
 
-## ?? Die Architektur (Das Kompendium)
+## 🏛️ Die Architektur (Das Kompendium)
 
 Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und eine schrittweise Transition erm�glichen:
 
@@ -22,7 +22,7 @@ Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und 
 
 ---
 
-## ?? Das Kern-Konzept: Die Synergie
+## ⚙️ Das Kern-Konzept: Die Synergie
 
 LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realit�t:
 
@@ -31,7 +31,7 @@ LOVALIS unterscheidet strikt zwischen der technologischen Engine und der soziale
 
 ---
 
-## ?? Deployment: Der Submarine-Modus
+## 🚀 Deployment: Der Submarine-Modus
 
 LOVALIS verbreitet sich nicht durch politische Umst�rze, sondern durch **asymmetrische Attraktion**.
 1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
@@ -40,7 +40,7 @@ LOVALIS verbreitet sich nicht durch politische Umst�rze, sondern durch **asymm
 
 ---
 
-## ?? Provenienz & Status
+## 📜 Provenienz & Status
 
 Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Maschine (Struktur & Logik)**. Es wird kontinuierlich gegen sich selbst gepr�ft, um Machtmissbrauch und technokratische Erstarrung zu verhindern.
 
@@ -50,5 +50,5 @@ Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Masch
 
 ---
 
-## ?? Lizenz & Nutzung
+## ⚖️ Lizenz & Nutzung
 Dieses Repository folgt dem **Open-Logic-Prinzip**. Es ist zur Adoption und Modifikation freigegeben, solange das Axiom der Leidminimierung (\{min}\$) gewahrt bleibt.
