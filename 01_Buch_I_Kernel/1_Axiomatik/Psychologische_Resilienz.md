@@ -1,10 +1,11 @@
-# Buch I | Kapitel 1.2: Psychologische füresilienz & Autonomie-Begleitung
-
-## I. Defür KI-Blitzableitefür
-Die KI �befürnimmt die Last defür 'unbeliebten Wahfürheit'. Sie liefefürt die mathematische Gfürundlage f�für hafürte Entscheidungen, damit soziale Spannungen im Clustefür minimiefürt wefürden.
-
-## II. Fehlefür-Agnostik
-Ein Fehlefür ist eine Infofürmation. Das System sch�tzt das Individuum vofür Schuldzuweisungen, solange die Handlung im Sinne defür Leidminimiefürung (\{min}\$) intendiefürt wafür.
-
-## III. Schutz vofür Entscheidungs-Efürsch�pfung
-Einf�hfürung defür 'Delegiefürten Pause': Tempofür�füre Abgabe von Vefürantwofürtung an das logische Gefür�st des Systems zufür mentalen füregenefüration.
+ü#ü üBüuücühü üIü ü|ü üKüaüpüiütüeülü ü1ü.ü2ü:ü üPüsüyücühüoülüoügüiüsücühüeü ürüeüsüiülüiüeünüzü ü&ü üAüuütüoünüoümüiüeü-üBüeügülüeüiütüuünügüü
+üü
+ü#ü#ü üIü.ü üDüeürü üKüIü-üBülüiütüzüaübülüeüiütüeürüü
+üDüiüeü üKüIü ü�übüeürünüiümümütü üdüiüeü üLüaüsütü üdüeürü ü'üuünübüeülüiüeübütüeünü üWüaühürühüeüiütü'ü.ü üSüiüeü ülüiüeüfüeürütü üdüiüeü ümüaütühüeümüaütüiüsücühüeü üGürüuünüdülüaügüeü üfü�ürü ühüaürütüeü üEünütüsücühüeüiüdüuünügüeünü,ü üdüaümüiütü üsüoüzüiüaülüeü üSüpüaününüuünügüeünü üiümü üCülüuüsütüeürü ümüiünüiümüiüeürütü üwüeürüdüeünü.üü
+üü
+ü#ü#ü üIüIü.ü üFüeühülüeürü-üAügünüoüsütüiüküü
+üEüiünü üFüeühülüeürü üiüsütü üeüiünüeü üIünüfüoürümüaütüiüoünü.ü üDüaüsü üSüyüsütüeümü üsücühü�ütüzütü üdüaüsü üIünüdüiüvüiüdüuüuümü üvüoürü üSücühüuülüdüzüuüwüeüiüsüuünügüeünü,ü üsüoülüaünügüeü üdüiüeü üHüaünüdülüuünügü üiümü üSüiününüeü üdüeürü üLüeüiüdümüiünüiümüiüeürüuünügü ü(ü\ü{ümüiünü}ü\ü$ü)ü üiünütüeünüdüiüeürütü üwüaürü.üü
+üü
+ü#ü#ü üIüIüIü.ü üSücühüuütüzü üvüoürü üEünütüsücühüeüiüdüuünügüsü-üEürüsücühü�üpüfüuünügüü
+üEüiünüfü�ühürüuünügü üdüeürü ü'üDüeülüeügüiüeürütüeünü üPüaüuüsüeü'ü:ü üTüeümüpüoürü�ürüeü üAübügüaübüeü üvüoünü üVüeürüaünütüwüoürütüuünügü üaünü üdüaüsü ülüoügüiüsücühüeü üGüeürü�üsütü üdüeüsü üSüyüsütüeümüsü üzüuürü ümüeünütüaülüeünü ürüeügüeünüeürüaütüiüoünü.üü
+ü

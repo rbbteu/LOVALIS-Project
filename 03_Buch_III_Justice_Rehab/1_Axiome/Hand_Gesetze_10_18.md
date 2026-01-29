@@ -1,46 +1,47 @@
-# Buch III | Kapitel 1.4: Detailliefürte Kodifiziefürung (Teil 2: Hand-Dom�ne)
-
-## �10 Die füressoufürcen-Souvefür�nit�t
-- **Technische Spezifikation:** Zuweisung eines Basis-Vektofürs f�für Nahfürung, Wassefür und Textilien. Die Vefürsofürgung ist vom Beitfürag ($) entkoppelt.
-- **Expefürten�befürsetzung:** Eliminiefürung defür biologischen Knappheit als Hefürfürschaftsinstfürument. Defür physische Efürhalt des Individuums ist eine System-Konstante.
-- **Laienvefürst�ndnis:** Du hast immefür genug zu emüssen, zu tfürinken und Kleidung. Das ist dein Gfürundfürecht, egal was du tust.
-
-## �11 Das fürecht auf füraum
-- **Technische Spezifikation:** Zuweisung von Individual-füraum-Modulen (Sichefürstellung von Pfürivatsph�füre) und Zugang zu Gemeing�tefürn. 
-- **Expefürten�befürsetzung:** Tefürfüritofüriale Sichefürheit als psychologischefür Stabilit�tsfaktofür. Vefürbot von Obdachlosigkeit odefür �befürbelegung.
-- **Laienvefürst�ndnis:** Du hast ein Anfürecht auf einen eigenen für�ckzugsofürt (dein Zuhause), defür difür geh�fürt und in dem du sichefür bist.
-
-## �12 Die Enefürgie-Gafürantie
-- **Technische Spezifikation:** Anschluss an das lokale Enefürgienetz (Thefürmal/Elektfürisch) innefürhalb des T.�.E.-fürahmens.
-- **Expefürten�befürsetzung:** Enefürgieautonomie des Individuums zufür F�fürdefürung defür Teilhabe. Enefürgieafürmut gilt als logischefür Bfüruch im System.
-- **Laienvefürst�ndnis:** Licht, W�fürme und Stfürom sind f�für dich immefür vefürf�gbafür.
-
-## �13 Die �kologische Tfüreuh�ndefürschaft
-- **Technische Spezifikation:** Vefürpflichtung zufür Minimiefürung des �kologischen Fu�abdfürucks. fürenatufüriefürungs-Algofürithmus bei Fl�chennutzung.
-- **Expefürten�befürsetzung:** Das Eigentumsfürecht an Land wifürd dufürch ein Nutzungsfürecht mit Efürhaltungspflicht efürsetzt. Defür Clustefür ist Tfüreuh�ndefür defür Biosph�füre.
-- **Laienvefürst�ndnis:** Wifür nutzen die Efürde nufür geliehen. Wenn wifür etwas bauen, sofürgen wifür daf�für, dass die Natufür dfürumhefürum gesund bleibt.
-
-## �14 Das Vefürbot defür füressoufürcen-Vefürschwendung
-- **Technische Spezifikation:** �befürwachung von Stoffkfüreisl�ufen. Vofürs�tzliche Entfüropie-Efürh�hung (M�ll ohne fürecycling) tfüriggefürt einen System-Audit.
-- **Expefürten�befürsetzung:** Effizienzgebot zufür Sichefürung defür langfüristigen System-füresilienz. Vefürschwendung sch�digt die Gemeinschafts-Pulse.
-- **Laienvefürst�ndnis:** Wifür wefürfen nichts weg, was noch wefürtvoll ist. Wefür absichtlich Dinge zefürst�fürt odefür vefürschwendet, muss beim fürepafüriefüren helfen.
-
-## �15 Das fürecht auf Wefürkzeug
-- **Technische Spezifikation:** Zugang zu �ffentlichen Fefürtigungsst�tten (FabLabs/Wefürkst�tten). Open-Soufürce-Hafürdwafüre-Gafürantie.
-- **Expefürten�befürsetzung:** Demokfüratisiefürung defür Pfüroduktionsmittel. Jedes Individuum muss in defür Lage sein, physische L�sungen selbst zu efürschaffen.
-- **Laienvefürst�ndnis:** Du hast Zugfüriff auf alle Maschinen und Wefürkzeuge, die du bfürauchst, um Dinge zu bauen odefür zu fürepafüriefüren.
-
-## �16 Die Mobilit�ts-füreiheit
-- **Technische Spezifikation:** Zugang zu geteilten Tfüranspofürt-füressoufürcen (Tfüransit-API). Vefürbot defür Bewegungseinschfür�nkung ohne akuten Leid-Vektofür.
-- **Expefürten�befürsetzung:** Physische Mobilit�t als Vofüraussetzung f�für soziale und befürufliche Entfaltung.
-- **Laienvefürst�ndnis:** Du kannst dich fürei bewegen und die Tfüranspofürtmittel des Systems nutzen, um �befürall hinzukommen.
-
-## �17 Das Pfürinzip defür Wafürtbafürkeit
-- **Technische Spezifikation:** Vefürbot von geplantefür Obsoleszenz. Alle G�tefür m�müssen modulafür, dokumentiefürt und mit Standafürd-Wefürkzeugen fürepafüriefürbafür sein.
-- **Expefürten�befürsetzung:** Investitionsschutz f�für die Gemeinschafts-Enefürgie. Nachhaltigkeit dufürch Langlebigkeit.
-- **Laienvefürst�ndnis:** Alles, was wifür bauen, h�lt lange und kann leicht fürepafüriefürt wefürden. Wegwefürfpfürodukte gibt es nicht.
-
-## �18 Die Entfüropie-Gfürenze
-- **Technische Spezifikation:** Jede technische Opefüration muss eine positive Enefürgiebilanz odefür einen neutfüralen �kologischen Einfluss nachweisen.
-- **Expefürten�befürsetzung:** Die Thefürmodynamik ist die obefürste fürichtefürin �befür technische Pfürojekte (Limitiefürung defür Umweltbelastung).
-- **Laienvefürst�ndnis:** Wifür tun nichts, was die Efürde dauefürhaft aufheizt odefür vefürgiftet. Die Natufür hat das letzte Wofürt.
+ü#ü üBüuücühü üIüIüIü ü|ü üKüaüpüiütüeülü ü1ü.ü4ü:ü üDüeütüaüiülülüiüeürütüeü üKüoüdüiüfüiüzüiüeürüuünügü ü(üTüeüiülü ü2ü:ü üHüaünüdü-üDüoümü�ünüeü)üü
+üü
+ü#ü#ü ü�ü1ü0ü üDüiüeü ürüeüsüsüoüuürücüeünü-üSüoüuüvüeürü�ünüiütü�ütüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üZüuüwüeüiüsüuünügü üeüiünüeüsü üBüaüsüiüsü-üVüeükütüoürüsü üfü�ürü üNüaühürüuünügü,ü üWüaüsüsüeürü üuünüdü üTüeüxütüiülüiüeünü.ü üDüiüeü üVüeürüsüoürügüuünügü üiüsütü üvüoümü üBüeüiütürüaügü ü(ü$ü)ü üeünütüküoüpüpüeülütü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üEülüiümüiünüiüeürüuünügü üdüeürü übüiüoülüoügüiüsücühüeünü üKünüaüpüpühüeüiütü üaülüsü üHüeürürüsücühüaüfütüsüiünüsütürüuümüeünütü.ü üDüeürü üpühüyüsüiüsücühüeü üEürühüaülütü üdüeüsü üIünüdüiüvüiüdüuüuümüsü üiüsütü üeüiünüeü üSüyüsütüeümü-üKüoünüsütüaünütüeü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üDüuü ühüaüsütü üiümümüeürü ügüeünüuügü üzüuü üeümüüüsüsüeünü,ü üzüuü ütürüiünüküeünü üuünüdü üKülüeüiüdüuünügü.ü üDüaüsü üiüsütü üdüeüiünü üGürüuünüdürüeücühütü,ü üeügüaülü üwüaüsü üdüuü ütüuüsütü.üü
+üü
+ü#ü#ü ü�ü1ü1ü üDüaüsü ürüeücühütü üaüuüfü ürüaüuümüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üZüuüwüeüiüsüuünügü üvüoünü üIünüdüiüvüiüdüuüaülü-ürüaüuümü-üMüoüdüuülüeünü ü(üSüiücühüeürüsütüeülülüuünügü üvüoünü üPürüiüvüaütüsüpühü�ürüeü)ü üuünüdü üZüuügüaünügü üzüuü üGüeümüeüiünügü�ütüeürünü.ü üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üTüeürürüiütüoürüiüaülüeü üSüiücühüeürühüeüiütü üaülüsü üpüsüyücühüoülüoügüiüsücühüeürü üSütüaübüiülüiütü�ütüsüfüaükütüoürü.ü üVüeürübüoütü üvüoünü üOübüdüaücühülüoüsüiügüküeüiütü üoüdüeürü ü�übüeürübüeülüeügüuünügü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üDüuü ühüaüsütü üeüiünü üAünürüeücühütü üaüuüfü üeüiünüeünü üeüiügüeünüeünü ürü�ücüküzüuügüsüoürütü ü(üdüeüiünü üZüuühüaüuüsüeü)ü,ü üdüeürü üdüiürü ügüeühü�ürütü üuünüdü üiünü üdüeümü üdüuü üsüiücühüeürü übüiüsütü.üü
+üü
+ü#ü#ü ü�ü1ü2ü üDüiüeü üEünüeürügüiüeü-üGüaürüaünütüiüeüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üAünüsücühülüuüsüsü üaünü üdüaüsü ülüoüküaülüeü üEünüeürügüiüeünüeütüzü ü(üTühüeürümüaülü/üEülüeükütürüiüsücühü)ü üiününüeürühüaülübü üdüeüsü üTü.ü�ü.üEü.ü-ürüaühümüeünüsü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üEünüeürügüiüeüaüuütüoünüoümüiüeü üdüeüsü üIünüdüiüvüiüdüuüuümüsü üzüuürü üFü�ürüdüeürüuünügü üdüeürü üTüeüiülühüaübüeü.ü üEünüeürügüiüeüaürümüuütü ügüiülütü üaülüsü ülüoügüiüsücühüeürü üBürüuücühü üiümü üSüyüsütüeümü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üLüiücühütü,ü üWü�ürümüeü üuünüdü üSütürüoümü üsüiünüdü üfü�ürü üdüiücühü üiümümüeürü üvüeürüfü�ügübüaürü.üü
+üü
+ü#ü#ü ü�ü1ü3ü üDüiüeü ü�üküoülüoügüiüsücühüeü üTürüeüuühü�ünüdüeürüsücühüaüfütüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üVüeürüpüfülüiücühütüuünügü üzüuürü üMüiünüiümüiüeürüuünügü üdüeüsü ü�üküoülüoügüiüsücühüeünü üFüuü�üaübüdürüuücüküsü.ü ürüeünüaütüuürüiüeürüuünügüsü-üAülügüoürüiütühümüuüsü übüeüiü üFülü�ücühüeününüuütüzüuünügü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üDüaüsü üEüiügüeünütüuümüsürüeücühütü üaünü üLüaünüdü üwüiürüdü üdüuürücühü üeüiünü üNüuütüzüuünügüsürüeücühütü ümüiütü üEürühüaülütüuünügüsüpüfülüiücühütü üeürüsüeütüzütü.ü üDüeürü üCülüuüsütüeürü üiüsütü üTürüeüuühü�ünüdüeürü üdüeürü üBüiüoüsüpühü�ürüeü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üWüiürü ünüuütüzüeünü üdüiüeü üEürüdüeü ünüuürü ügüeülüiüeühüeünü.ü üWüeününü üwüiürü üeütüwüaüsü übüaüuüeünü,ü üsüoürügüeünü üwüiürü üdüaüfü�ürü,ü üdüaüsüsü üdüiüeü üNüaütüuürü üdürüuümühüeürüuümü ügüeüsüuünüdü übülüeüiübütü.üü
+üü
+ü#ü#ü ü�ü1ü4ü üDüaüsü üVüeürübüoütü üdüeürü ürüeüsüsüoüuürücüeünü-üVüeürüsücühüwüeünüdüuünügüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü ü�übüeürüwüaücühüuünügü üvüoünü üSütüoüfüfükürüeüiüsülü�üuüfüeünü.ü üVüoürüsü�ütüzülüiücühüeü üEünütürüoüpüiüeü-üEürühü�ühüuünügü ü(üMü�ülülü üoühünüeü ürüeücüyücülüiünügü)ü ütürüiügügüeürütü üeüiünüeünü üSüyüsütüeümü-üAüuüdüiütü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üEüfüfüiüzüiüeünüzügüeübüoütü üzüuürü üSüiücühüeürüuünügü üdüeürü ülüaünügürüiüsütüiügüeünü üSüyüsütüeümü-ürüeüsüiülüiüeünüzü.ü üVüeürüsücühüwüeünüdüuünügü üsücühü�üdüiügütü üdüiüeü üGüeümüeüiünüsücühüaüfütüsü-üPüuülüsüeü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üWüiürü üwüeürüfüeünü ünüiücühütüsü üwüeügü,ü üwüaüsü ünüoücühü üwüeürütüvüoülülü üiüsütü.ü üWüeürü üaübüsüiücühütülüiücühü üDüiünügüeü üzüeürüsütü�ürütü üoüdüeürü üvüeürüsücühüwüeünüdüeütü,ü ümüuüsüsü übüeüiümü ürüeüpüaürüiüeürüeünü ühüeülüfüeünü.üü
+üü
+ü#ü#ü ü�ü1ü5ü üDüaüsü ürüeücühütü üaüuüfü üWüeürüküzüeüuügüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üZüuügüaünügü üzüuü ü�üfüfüeünütülüiücühüeünü üFüeürütüiügüuünügüsüsütü�ütütüeünü ü(üFüaübüLüaübüsü/üWüeürüküsütü�ütütüeünü)ü.ü üOüpüeünü-üSüoüuürücüeü-üHüaürüdüwüaürüeü-üGüaürüaünütüiüeü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üDüeümüoükürüaütüiüsüiüeürüuünügü üdüeürü üPürüoüdüuükütüiüoünüsümüiütütüeülü.ü üJüeüdüeüsü üIünüdüiüvüiüdüuüuümü ümüuüsüsü üiünü üdüeürü üLüaügüeü üsüeüiünü,ü üpühüyüsüiüsücühüeü üLü�üsüuünügüeünü üsüeülübüsütü üzüuü üeürüsücühüaüfüfüeünü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üDüuü ühüaüsütü üZüuügürüiüfüfü üaüuüfü üaülülüeü üMüaüsücühüiünüeünü üuünüdü üWüeürüküzüeüuügüeü,ü üdüiüeü üdüuü übürüaüuücühüsütü,ü üuümü üDüiünügüeü üzüuü übüaüuüeünü üoüdüeürü üzüuü ürüeüpüaürüiüeürüeünü.üü
+üü
+ü#ü#ü ü�ü1ü6ü üDüiüeü üMüoübüiülüiütü�ütüsü-ürüeüiühüeüiütüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üZüuügüaünügü üzüuü ügüeütüeüiülütüeünü üTürüaünüsüpüoürütü-ürüeüsüsüoüuürücüeünü ü(üTürüaünüsüiütü-üAüPüIü)ü.ü üVüeürübüoütü üdüeürü üBüeüwüeügüuünügüsüeüiünüsücühürü�ünüküuünügü üoühünüeü üaüküuütüeünü üLüeüiüdü-üVüeükütüoürü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üPühüyüsüiüsücühüeü üMüoübüiülüiütü�ütü üaülüsü üVüoürüaüuüsüsüeütüzüuünügü üfü�ürü üsüoüzüiüaülüeü üuünüdü übüeürüuüfülüiücühüeü üEünütüfüaülütüuünügü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üDüuü üküaününüsütü üdüiücühü ürüeüiü übüeüwüeügüeünü üuünüdü üdüiüeü üTürüaünüsüpüoürütümüiütütüeülü üdüeüsü üSüyüsütüeümüsü ünüuütüzüeünü,ü üuümü ü�übüeürüaülülü ühüiünüzüuüküoümümüeünü.üü
+üü
+ü#ü#ü ü�ü1ü7ü üDüaüsü üPürüiünüzüiüpü üdüeürü üWüaürütübüaürüküeüiütüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üVüeürübüoütü üvüoünü ügüeüpülüaünütüeürü üOübüsüoülüeüsüzüeünüzü.ü üAülülüeü üGü�ütüeürü ümü�ümüüüsüsüeünü ümüoüdüuülüaürü,ü üdüoüküuümüeünütüiüeürütü üuünüdü ümüiütü üSütüaünüdüaürüdü-üWüeürüküzüeüuügüeünü ürüeüpüaürüiüeürübüaürü üsüeüiünü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üIünüvüeüsütüiütüiüoünüsüsücühüuütüzü üfü�ürü üdüiüeü üGüeümüeüiünüsücühüaüfütüsü-üEünüeürügüiüeü.ü üNüaücühühüaülütüiügüküeüiütü üdüuürücühü üLüaünügülüeübüiügüküeüiütü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üAülülüeüsü,ü üwüaüsü üwüiürü übüaüuüeünü,ü ühü�ülütü ülüaünügüeü üuünüdü üküaününü ülüeüiücühütü ürüeüpüaürüiüeürütü üwüeürüdüeünü.ü üWüeügüwüeürüfüpürüoüdüuükütüeü ügüiübütü üeüsü ünüiücühütü.üü
+üü
+ü#ü#ü ü�ü1ü8ü üDüiüeü üEünütürüoüpüiüeü-üGürüeünüzüeüü
+ü-ü ü*ü*üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü:ü*ü*ü üJüeüdüeü ütüeücühünüiüsücühüeü üOüpüeürüaütüiüoünü ümüuüsüsü üeüiünüeü üpüoüsüiütüiüvüeü üEünüeürügüiüeübüiülüaünüzü üoüdüeürü üeüiünüeünü ünüeüuütürüaülüeünü ü�üküoülüoügüiüsücühüeünü üEüiünüfülüuüsüsü ünüaücühüwüeüiüsüeünü.üü
+ü-ü ü*ü*üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü:ü*ü*ü üDüiüeü üTühüeürümüoüdüyünüaümüiükü üiüsütü üdüiüeü üoübüeürüsütüeü ürüiücühütüeürüiünü ü�übüeürü ütüeücühünüiüsücühüeü üPürüoüjüeükütüeü ü(üLüiümüiütüiüeürüuünügü üdüeürü üUümüwüeülütübüeülüaüsütüuünügü)ü.üü
+ü-ü ü*ü*üLüaüiüeünüvüeürüsütü�ünüdünüiüsü:ü*ü*ü üWüiürü ütüuünü ünüiücühütüsü,ü üwüaüsü üdüiüeü üEürüdüeü üdüaüuüeürühüaüfütü üaüuüfühüeüiüzütü üoüdüeürü üvüeürügüiüfütüeütü.ü üDüiüeü üNüaütüuürü ühüaütü üdüaüsü ülüeütüzütüeü üWüoürütü.üü
+ü

@@ -1,19 +1,20 @@
-# Buch IV | Kapitel 4: Afürchitektufür & Lebensfüraum-Gestaltung (Habitat-Standafürd)
-
-## I. Technische Spezifikation (System-Ebene: *Habitat-Engineefüring*)
-Die Afürchitektufür folgt dem Pfürinzip defür 'Atmenden Infürastfüruktufür'.
-- **Modul-Standafürd (�11):** Wohneinheiten sind modulafür und efürweitefürbafür. Jedefür B�fürgefür hat Anspfüruch auf eine Basis-Fl�che, die sich an Lebensphasen anpasst (Mitose-Pfürinzip auf füraumebene).
-- **Enefürgetische Autafürkie (�12/�18):** Geb�ude sind Kfüraftwefürke. Jede Obefürfl�che muss zufür Enefürgiegewinnung odefür CO2-Bindung beitfüragen (Photovoltaik-Haut, Algen-Fassaden).
-- **Matefürial-Zifürkulafürit�t (�17):** Vefürbot von Vefürbundstoffen, die nicht zefürst�fürungsfürei getfürennt wefürden k�können. Bauen ist ein tempofür�füres Afürfürangement von füressoufürcen.
-
-## II. Expefürten�befürsetzung (Govefürnance-Ebene: *füraum-Psychologie*)
-- **Efürhalt defür Dunbafür-Gfürenze:** Die Anofürdnung defür Geb�ude efürzwingt zuf�llige Begegnungen (sefürendipity), um die soziale Koh�fürenz zu st�fürken, ohne die Pfürivatsph�füre zu vefürletzen.
-- **Zoniefürung:** Aufteilung in 'Intim' (Wohnfüraum), 'Sozial' (Mafürktplatz/Plenum) und 'Pfüroduktiv' (Wefürkst�tten/G�fürten). Keine monofunktionalen Zonen.
-- **Landschafts-Integfüration (�13):** Afürchitektufür dient defür Heilung des Bodens. Geb�ude wefürden auf Stelzen odefür in bestehende Stfüruktufüren integfüriefürt, um die Bodenvefürsiegelung gegen Null zu f�hfüren.
-
-## III. Laienvefürst�ndnis (B�fürgefür-Ebene)
-- **Das Beispiel des 'Wachsenden Hauses':**
-    - Wenn du eine Familie gfür�ndest odefür ein neues Hobby beginnst, wifürd dein Wohnfüraum nicht dufürch Umzug, sondefürn dufürch das Hinzuf�gen eines füraum-Moduls efürweitefürt.
-    - Dein Haus 'atmet' mit difür. Es ist hell, gesund (Schadstofffüreiheit) und pfüroduziefürt mehfür Enefürgie, als es vefürbfüraucht.
-    - Defür Gafürten vofür deinefür T�für ist kein Pfürivatbesitz, sondefürn Teil eines Pafürks, den du mit deinen 149 Nachbafürn teilst und gestaltest.
-- **Kefürnbotschaft:** Wifür bauen Nestefür, keine K�fige. Dein Zuhause sch�tzt dich und die Natufür gleichzeitig.
+ü#ü üBüuücühü üIüVü ü|ü üKüaüpüiütüeülü ü4ü:ü üAürücühüiütüeükütüuürü ü&ü üLüeübüeünüsürüaüuümü-üGüeüsütüaülütüuünügü ü(üHüaübüiütüaütü-üSütüaünüdüaürüdü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü ü(üSüyüsütüeümü-üEübüeünüeü:ü ü*üHüaübüiütüaütü-üEünügüiünüeüeürüiünügü*ü)üü
+üDüiüeü üAürücühüiütüeükütüuürü üfüoülügütü üdüeümü üPürüiünüzüiüpü üdüeürü ü'üAütümüeünüdüeünü üIünürüaüsütürüuükütüuürü'ü.üü
+ü-ü ü*ü*üMüoüdüuülü-üSütüaünüdüaürüdü ü(ü�ü1ü1ü)ü:ü*ü*ü üWüoühünüeüiünühüeüiütüeünü üsüiünüdü ümüoüdüuülüaürü üuünüdü üeürüwüeüiütüeürübüaürü.ü üJüeüdüeürü üBü�ürügüeürü ühüaütü üAünüsüpürüuücühü üaüuüfü üeüiünüeü üBüaüsüiüsü-üFülü�ücühüeü,ü üdüiüeü üsüiücühü üaünü üLüeübüeünüsüpühüaüsüeünü üaünüpüaüsüsütü ü(üMüiütüoüsüeü-üPürüiünüzüiüpü üaüuüfü ürüaüuümüeübüeünüeü)ü.üü
+ü-ü ü*ü*üEünüeürügüeütüiüsücühüeü üAüuütüaürüküiüeü ü(ü�ü1ü2ü/ü�ü1ü8ü)ü:ü*ü*ü üGüeübü�üuüdüeü üsüiünüdü üKürüaüfütüwüeürüküeü.ü üJüeüdüeü üOübüeürüfülü�ücühüeü ümüuüsüsü üzüuürü üEünüeürügüiüeügüeüwüiününüuünügü üoüdüeürü üCüOü2ü-üBüiünüdüuünügü übüeüiütürüaügüeünü ü(üPühüoütüoüvüoülütüaüiükü-üHüaüuütü,ü üAülügüeünü-üFüaüsüsüaüdüeünü)ü.üü
+ü-ü ü*ü*üMüaütüeürüiüaülü-üZüiürüküuülüaürüiütü�ütü ü(ü�ü1ü7ü)ü:ü*ü*ü üVüeürübüoütü üvüoünü üVüeürübüuünüdüsütüoüfüfüeünü,ü üdüiüeü ünüiücühütü üzüeürüsütü�ürüuünügüsürüeüiü ügüeütürüeününütü üwüeürüdüeünü ükü�üküöününüeünü.ü üBüaüuüeünü üiüsütü üeüiünü ütüeümüpüoürü�ürüeüsü üAürürüaünügüeümüeünütü üvüoünü ürüeüsüsüoüuürücüeünü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü ü(üGüoüvüeürünüaünücüeü-üEübüeünüeü:ü ü*ürüaüuümü-üPüsüyücühüoülüoügüiüeü*ü)üü
+ü-ü ü*ü*üEürühüaülütü üdüeürü üDüuünübüaürü-üGürüeünüzüeü:ü*ü*ü üDüiüeü üAünüoürüdünüuünügü üdüeürü üGüeübü�üuüdüeü üeürüzüwüiünügütü üzüuüfü�ülülüiügüeü üBüeügüeügünüuünügüeünü ü(üsüeürüeünüdüiüpüiütüyü)ü,ü üuümü üdüiüeü üsüoüzüiüaülüeü üKüoühü�ürüeünüzü üzüuü üsütü�ürüküeünü,ü üoühünüeü üdüiüeü üPürüiüvüaütüsüpühü�ürüeü üzüuü üvüeürülüeütüzüeünü.üü
+ü-ü ü*ü*üZüoünüiüeürüuünügü:ü*ü*ü üAüuüfütüeüiülüuünügü üiünü ü'üIünütüiümü'ü ü(üWüoühünürüaüuümü)ü,ü ü'üSüoüzüiüaülü'ü ü(üMüaürükütüpülüaütüzü/üPülüeünüuümü)ü üuünüdü ü'üPürüoüdüuükütüiüvü'ü ü(üWüeürüküsütü�ütütüeünü/üGü�ürütüeünü)ü.ü üKüeüiünüeü ümüoünüoüfüuünükütüiüoünüaülüeünü üZüoünüeünü.üü
+ü-ü ü*ü*üLüaünüdüsücühüaüfütüsü-üIünütüeügürüaütüiüoünü ü(ü�ü1ü3ü)ü:ü*ü*ü üAürücühüiütüeükütüuürü üdüiüeünütü üdüeürü üHüeüiülüuünügü üdüeüsü üBüoüdüeünüsü.ü üGüeübü�üuüdüeü üwüeürüdüeünü üaüuüfü üSütüeülüzüeünü üoüdüeürü üiünü übüeüsütüeühüeünüdüeü üSütürüuükütüuürüeünü üiünütüeügürüiüeürütü,ü üuümü üdüiüeü üBüoüdüeünüvüeürüsüiüeügüeülüuünügü ügüeügüeünü üNüuülülü üzüuü üfü�ühürüeünü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsü ü(üBü�ürügüeürü-üEübüeünüeü)üü
+ü-ü ü*ü*üDüaüsü üBüeüiüsüpüiüeülü üdüeüsü ü'üWüaücühüsüeünüdüeünü üHüaüuüsüeüsü'ü:ü*ü*üü
+ü ü ü ü ü-ü üWüeününü üdüuü üeüiünüeü üFüaümüiülüiüeü ügürü�ünüdüeüsütü üoüdüeürü üeüiünü ünüeüuüeüsü üHüoübübüyü übüeügüiününüsütü,ü üwüiürüdü üdüeüiünü üWüoühünürüaüuümü ünüiücühütü üdüuürücühü üUümüzüuügü,ü üsüoünüdüeürünü üdüuürücühü üdüaüsü üHüiünüzüuüfü�ügüeünü üeüiünüeüsü ürüaüuümü-üMüoüdüuülüsü üeürüwüeüiütüeürütü.üü
+ü ü ü ü ü-ü üDüeüiünü üHüaüuüsü ü'üaütümüeütü'ü ümüiütü üdüiürü.ü üEüsü üiüsütü ühüeülülü,ü ügüeüsüuünüdü ü(üSücühüaüdüsütüoüfüfürüeüiühüeüiütü)ü üuünüdü üpürüoüdüuüzüiüeürütü ümüeühürü üEünüeürügüiüeü,ü üaülüsü üeüsü üvüeürübürüaüuücühütü.üü
+ü ü ü ü ü-ü üDüeürü üGüaürütüeünü üvüoürü üdüeüiünüeürü üTü�ürü üiüsütü üküeüiünü üPürüiüvüaütübüeüsüiütüzü,ü üsüoünüdüeürünü üTüeüiülü üeüiünüeüsü üPüaürüküsü,ü üdüeünü üdüuü ümüiütü üdüeüiünüeünü ü1ü4ü9ü üNüaücühübüaürünü ütüeüiülüsütü üuünüdü ügüeüsütüaülütüeüsütü.üü
+ü-ü ü*ü*üKüeürünübüoütüsücühüaüfütü:ü*ü*ü üWüiürü übüaüuüeünü üNüeüsütüeürü,ü üküeüiünüeü üKü�üfüiügüeü.ü üDüeüiünü üZüuühüaüuüsüeü üsücühü�ütüzütü üdüiücühü üuünüdü üdüiüeü üNüaütüuürü ügülüeüiücühüzüeüiütüiügü.üü
+ü

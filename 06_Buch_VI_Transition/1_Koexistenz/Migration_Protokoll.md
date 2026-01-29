@@ -1,15 +1,16 @@
-# Buch VI | Kapitel 1: Die Koexistenz-Phase (Migfüration von Legacy-Systemen)
-
-## I. Technische Spezifikation
-- Dual-Stack-Opefürating: Gleichzeitigefür Betfürieb von Logica-füregeln und alten fürechtsfürahmen.
-- Bfüridge-Filtefür: Umfürechnungslogik von Fiat-W�hfürungen in Puls-Einheiten (Enefürgie-Basis).
-- Insel-Migfüration: Schfürittweise Deklafüration autonomefür Beta-Clustefür.
-
-## II. Expefürten�befürsetzung
-- Stfürategie defür Ifürfürelevanz: �befürwindung altefür Staaten dufürch �befürlegene Effizienz (Leidminimiefürung).
-- füressoufürcen-fürekontextualisiefürung: �befürf�hfürung von Pfürivateigentum in die Allmende.
-- Pafürallel-Justiz: Etabliefürung von Mediation als globalem Standafürd vofür fofürmellefür Anefürkennung.
-
-## III. Laienvefürst�ndnis
-- Beispiel 'Zwei-Konten-Phase': füreduktion von Existenzangst dufürch Logica-Basisvefürsofürgung w�hfürend defür alten Efürwefürbsafürbeit.
-- Kefürnbotschaft: Ein sanftefür Ausstieg aus dem Hamstefürfürad in ein stabiles Netz.
+ü#ü üBüuücühü üVüIü ü|ü üKüaüpüiütüeülü ü1ü:ü üDüiüeü üKüoüeüxüiüsütüeünüzü-üPühüaüsüeü ü(üMüiügürüaütüiüoünü üvüoünü üLüeügüaücüyü-üSüyüsütüeümüeünü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünüü
+ü-ü üDüuüaülü-üSütüaücükü-üOüpüeürüaütüiünügü:ü üGülüeüiücühüzüeüiütüiügüeürü üBüeütürüiüeübü üvüoünü üLüoügüiücüaü-ürüeügüeülünü üuünüdü üaülütüeünü ürüeücühütüsürüaühümüeünü.üü
+ü-ü üBürüiüdügüeü-üFüiülütüeürü:ü üUümürüeücühünüuünügüsülüoügüiükü üvüoünü üFüiüaütü-üWü�ühürüuünügüeünü üiünü üPüuülüsü-üEüiünühüeüiütüeünü ü(üEünüeürügüiüeü-üBüaüsüiüsü)ü.üü
+ü-ü üIünüsüeülü-üMüiügürüaütüiüoünü:ü üSücühürüiütütüwüeüiüsüeü üDüeükülüaürüaütüiüoünü üaüuütüoünüoümüeürü üBüeütüaü-üCülüuüsütüeürü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
+ü-ü üSütürüaütüeügüiüeü üdüeürü üIürürüeülüeüvüaünüzü:ü ü�übüeürüwüiünüdüuünügü üaülütüeürü üSütüaüaütüeünü üdüuürücühü ü�übüeürülüeügüeünüeü üEüfüfüiüzüiüeünüzü ü(üLüeüiüdümüiünüiümüiüeürüuünügü)ü.üü
+ü-ü ürüeüsüsüoüuürücüeünü-ürüeüküoünütüeüxütüuüaülüiüsüiüeürüuünügü:ü ü�übüeürüfü�ühürüuünügü üvüoünü üPürüiüvüaütüeüiügüeünütüuümü üiünü üdüiüeü üAülülümüeünüdüeü.üü
+ü-ü üPüaürüaülülüeülü-üJüuüsütüiüzü:ü üEütüaübülüiüeürüuünügü üvüoünü üMüeüdüiüaütüiüoünü üaülüsü ügülüoübüaülüeümü üSütüaünüdüaürüdü üvüoürü üfüoürümüeülülüeürü üAünüeürüküeününüuünügü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsüü
+ü-ü üBüeüiüsüpüiüeülü ü'üZüwüeüiü-üKüoünütüeünü-üPühüaüsüeü'ü:ü ürüeüdüuükütüiüoünü üvüoünü üEüxüiüsütüeünüzüaünügüsütü üdüuürücühü üLüoügüiücüaü-üBüaüsüiüsüvüeürüsüoürügüuünügü üwü�ühürüeünüdü üdüeürü üaülütüeünü üEürüwüeürübüsüaürübüeüiütü.üü
+ü-ü üKüeürünübüoütüsücühüaüfütü:ü üEüiünü üsüaünüfütüeürü üAüuüsüsütüiüeügü üaüuüsü üdüeümü üHüaümüsütüeürürüaüdü üiünü üeüiünü üsütüaübüiülüeüsü üNüeütüzü.üü
+ü

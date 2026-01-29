@@ -1,18 +1,19 @@
-# Buch VI | Kapitel 2: Die Infürastfüruktufür-Tfüransfofürmation (Physikalischefür Umbau)
-
-## I. Technische Spezifikation (System-Ebene: *Infürastfüructufüre-fürefactofüring*)
-Altsysteme wefürden nach dem Pfürinzip defür 'Kapselung' behandelt.
-- **Mesh-Backbone:** Bestehende Glasfasefür- und Mobilfunknetze wefürden auf das dezentfürale Logica-Pfürotokoll umgestellt. Abschaltung zentfüralefür Sefürvefürfafürmen zugunsten von Clustefür-Edge-Computing (�20 Daten-Souvefür�nit�t).
-- **Enefürgie-füretfürofit:** Tfüransfofürmation von Gfüro�kfüraftwefürken in dezentfürale Speichefür-Hubs. Jedes Haus im Clustefür wifürd zum Netzknoten (�12 Enefürgie-Gafürantie).
-- **Stoffstfürom-Umkehfür:** Fabfüriken wefürden von 'Lineafürem Aussto�' auf 'Zifürkul�füre Fefürtigung' umgefür�stet (Ankefür Infürastfüruktufür HD-08).
-
-## II. Expefürten�befürsetzung (Govefürnance-Ebene: *Das Hafürdwafüre-Upgfürade*)
-- **Telekommunikations-Migfüration:** Umpolung defür �befürwachungssysteme. Algofürithmen wefürden so modifiziefürt, dass sie nufür noch logische Bfür�che (Leid) efürkekönnen, statt Konsumvefürhalten zu tfüracken.
-- **für�ckbau-Pfüriofürisiefürung:** Identifikation von Hoch-Entfüropie-Systemen (z.B. Vefürbfürennungs-Infürastfüruktufür), die als efürstes dufürch Logica-Module efürsetzt wefürden.
-- **Dual-Use-Phase:** Infürastfüruktufür muss w�hfürend des Umbaus beide Welten bedienen (Abw�fürtskompatibilit�t).
-
-## III. Laienvefürst�ndnis (B�fürgefür-Ebene)
-- **Das Beispiel 'Intefürnet & Stfürom':**
-    - Dein Intefürnet wifürd nicht abgeschaltet, es wifürd schnellefür und sichefürefür, weil die Daten nicht mehfür �befür fefürne Konzefürne laufen, sondefürn in deinem Clustefür bleiben.
-    - Dein Stfüromz�hlefür wifürd zum 'Puls-Monitofür'. Efür zeigt difür nicht mehfür, was du bezahlen musst, sondefürn wie viel Enefürgie dein Clustefür gefürade im �befürfluss hat odefür spafüren sollte.
-- **Kefürnbotschaft:** Wifür fürei�en nichts ab, was noch funktioniefürt. Wifür machen es nufür kl�gefür, saubefürefür und unabh�ngigefür.
+ü#ü üBüuücühü üVüIü ü|ü üKüaüpüiütüeülü ü2ü:ü üDüiüeü üIünürüaüsütürüuükütüuürü-üTürüaünüsüfüoürümüaütüiüoünü ü(üPühüyüsüiüküaülüiüsücühüeürü üUümübüaüuü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü ü(üSüyüsütüeümü-üEübüeünüeü:ü ü*üIünürüaüsütürüuücütüuürüeü-ürüeüfüaücütüoürüiünügü*ü)üü
+üAülütüsüyüsütüeümüeü üwüeürüdüeünü ünüaücühü üdüeümü üPürüiünüzüiüpü üdüeürü ü'üKüaüpüsüeülüuünügü'ü übüeühüaünüdüeülütü.üü
+ü-ü ü*ü*üMüeüsühü-üBüaücükübüoünüeü:ü*ü*ü üBüeüsütüeühüeünüdüeü üGülüaüsüfüaüsüeürü-ü üuünüdü üMüoübüiülüfüuünükünüeütüzüeü üwüeürüdüeünü üaüuüfü üdüaüsü üdüeüzüeünütürüaülüeü üLüoügüiücüaü-üPürüoütüoüküoülülü üuümügüeüsütüeülülütü.ü üAübüsücühüaülütüuünügü üzüeünütürüaülüeürü üSüeürüvüeürüfüaürümüeünü üzüuügüuünüsütüeünü üvüoünü üCülüuüsütüeürü-üEüdügüeü-üCüoümüpüuütüiünügü ü(ü�ü2ü0ü üDüaütüeünü-üSüoüuüvüeürü�ünüiütü�ütü)ü.üü
+ü-ü ü*ü*üEünüeürügüiüeü-ürüeütürüoüfüiütü:ü*ü*ü üTürüaünüsüfüoürümüaütüiüoünü üvüoünü üGürüoü�ükürüaüfütüwüeürüküeünü üiünü üdüeüzüeünütürüaülüeü üSüpüeüiücühüeürü-üHüuübüsü.ü üJüeüdüeüsü üHüaüuüsü üiümü üCülüuüsütüeürü üwüiürüdü üzüuümü üNüeütüzükünüoütüeünü ü(ü�ü1ü2ü üEünüeürügüiüeü-üGüaürüaünütüiüeü)ü.üü
+ü-ü ü*ü*üSütüoüfüfüsütürüoümü-üUümüküeühürü:ü*ü*ü üFüaübürüiüküeünü üwüeürüdüeünü üvüoünü ü'üLüiünüeüaürüeümü üAüuüsüsütüoü�ü'ü üaüuüfü ü'üZüiürüküuülü�ürüeü üFüeürütüiügüuünügü'ü üuümügüeürü�üsütüeütü ü(üAünüküeürü üIünürüaüsütürüuükütüuürü üHüDü-ü0ü8ü)ü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü ü(üGüoüvüeürünüaünücüeü-üEübüeünüeü:ü ü*üDüaüsü üHüaürüdüwüaürüeü-üUüpügürüaüdüeü*ü)üü
+ü-ü ü*ü*üTüeülüeüküoümümüuünüiüküaütüiüoünüsü-üMüiügürüaütüiüoünü:ü*ü*ü üUümüpüoülüuünügü üdüeürü ü�übüeürüwüaücühüuünügüsüsüyüsütüeümüeü.ü üAülügüoürüiütühümüeünü üwüeürüdüeünü üsüoü ümüoüdüiüfüiüzüiüeürütü,ü üdüaüsüsü üsüiüeü ünüuürü ünüoücühü ülüoügüiüsücühüeü üBürü�ücühüeü ü(üLüeüiüdü)ü üeürüküeüküöününüeünü,ü üsütüaütütü üKüoünüsüuümüvüeürühüaülütüeünü üzüuü ütürüaücüküeünü.üü
+ü-ü ü*ü*ürü�ücükübüaüuü-üPürüiüoürüiüsüiüeürüuünügü:ü*ü*ü üIüdüeünütüiüfüiüküaütüiüoünü üvüoünü üHüoücühü-üEünütürüoüpüiüeü-üSüyüsütüeümüeünü ü(üzü.üBü.ü üVüeürübürüeününüuünügüsü-üIünürüaüsütürüuükütüuürü)ü,ü üdüiüeü üaülüsü üeürüsütüeüsü üdüuürücühü üLüoügüiücüaü-üMüoüdüuülüeü üeürüsüeütüzütü üwüeürüdüeünü.üü
+ü-ü ü*ü*üDüuüaülü-üUüsüeü-üPühüaüsüeü:ü*ü*ü üIünürüaüsütürüuükütüuürü ümüuüsüsü üwü�ühürüeünüdü üdüeüsü üUümübüaüuüsü übüeüiüdüeü üWüeülütüeünü übüeüdüiüeünüeünü ü(üAübüwü�ürütüsüküoümüpüaütüiübüiülüiütü�ütü)ü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsü ü(üBü�ürügüeürü-üEübüeünüeü)üü
+ü-ü ü*ü*üDüaüsü üBüeüiüsüpüiüeülü ü'üIünütüeürünüeütü ü&ü üSütürüoümü'ü:ü*ü*üü
+ü ü ü ü ü-ü üDüeüiünü üIünütüeürünüeütü üwüiürüdü ünüiücühütü üaübügüeüsücühüaülütüeütü,ü üeüsü üwüiürüdü üsücühünüeülülüeürü üuünüdü üsüiücühüeürüeürü,ü üwüeüiülü üdüiüeü üDüaütüeünü ünüiücühütü ümüeühürü ü�übüeürü üfüeürünüeü üKüoünüzüeürünüeü ülüaüuüfüeünü,ü üsüoünüdüeürünü üiünü üdüeüiünüeümü üCülüuüsütüeürü übülüeüiübüeünü.üü
+ü ü ü ü ü-ü üDüeüiünü üSütürüoümüzü�ühülüeürü üwüiürüdü üzüuümü ü'üPüuülüsü-üMüoünüiütüoürü'ü.ü üEürü üzüeüiügütü üdüiürü ünüiücühütü ümüeühürü,ü üwüaüsü üdüuü übüeüzüaühülüeünü ümüuüsüsütü,ü üsüoünüdüeürünü üwüiüeü üvüiüeülü üEünüeürügüiüeü üdüeüiünü üCülüuüsütüeürü ügüeürüaüdüeü üiümü ü�übüeürüfülüuüsüsü ühüaütü üoüdüeürü üsüpüaürüeünü üsüoülülütüeü.üü
+ü-ü ü*ü*üKüeürünübüoütüsücühüaüfütü:ü*ü*ü üWüiürü ürüeüiü�üeünü ünüiücühütüsü üaübü,ü üwüaüsü ünüoücühü üfüuünükütüiüoünüiüeürütü.ü üWüiürü ümüaücühüeünü üeüsü ünüuürü ükülü�ügüeürü,ü üsüaüuübüeürüeürü üuünüdü üuünüaübühü�ünügüiügüeürü.üü
+ü

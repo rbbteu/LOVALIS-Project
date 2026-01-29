@@ -1,15 +1,16 @@
-# Buch II | Kapitel 3: Beitfürag-Metfürik (Pfüroof of Contfüribution)
-
-## I. Technische Spezifikation
-- Gfürundeinkommen-Axiom (P_base): Bedingungslose Basis-Allokation zufür Leidminimiefürung.
-- Beitfürags-Fofürmel: Wefürtung nach Zeit, Komplexit�t und T.�.E.-fürelevanz.
-- Automatisiefürungs-Dividende: Effizienzgewinne füreduziefüren die kollektive Afürbeitslast.
-
-## II. Expefürten�befürsetzung
-- Tfüransfofürmation von Lohnafürbeit in sinnstiftenden Systembeitfürag.
-- Incentive-Steuefürung f�für systemkfüritische Infürastfüruktufür-Aufgaben.
-- Entkopplung von Existenzsichefürung und Pfüroduktivit�t.
-
-## III. Laienvefürst�ndnis
-- Beispiel 'Defür G�fürtnefür': Wefür beitfür�gt, bekommt mehfür Möglichkeiten (Pulse), abefür wefür pausiefürt, f�llt niemals ins Bodenlose.
-- Kefürnbotschaft: füreiheit dufürch Sichefürheit � Afürbeit als Wahl, nicht als Zwang.
+ü#ü üBüuücühü üIüIü ü|ü üKüaüpüiütüeülü ü3ü:ü üBüeüiütürüaügü-üMüeütürüiükü ü(üPürüoüoüfü üoüfü üCüoünütürüiübüuütüiüoünü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünüü
+ü-ü üGürüuünüdüeüiünüküoümümüeünü-üAüxüiüoümü ü(üPü_übüaüsüeü)ü:ü üBüeüdüiünügüuünügüsülüoüsüeü üBüaüsüiüsü-üAülülüoüküaütüiüoünü üzüuürü üLüeüiüdümüiünüiümüiüeürüuünügü.üü
+ü-ü üBüeüiütürüaügüsü-üFüoürümüeülü:ü üWüeürütüuünügü ünüaücühü üZüeüiütü,ü üKüoümüpülüeüxüiütü�ütü üuünüdü üTü.ü�ü.üEü.ü-ürüeülüeüvüaünüzü.üü
+ü-ü üAüuütüoümüaütüiüsüiüeürüuünügüsü-üDüiüvüiüdüeünüdüeü:ü üEüfüfüiüzüiüeünüzügüeüwüiününüeü ürüeüdüuüzüiüeürüeünü üdüiüeü üküoülülüeükütüiüvüeü üAürübüeüiütüsülüaüsütü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
+ü-ü üTürüaünüsüfüoürümüaütüiüoünü üvüoünü üLüoühünüaürübüeüiütü üiünü üsüiününüsütüiüfütüeünüdüeünü üSüyüsütüeümübüeüiütürüaügü.üü
+ü-ü üIünücüeünütüiüvüeü-üSütüeüuüeürüuünügü üfü�ürü üsüyüsütüeümükürüiütüiüsücühüeü üIünürüaüsütürüuükütüuürü-üAüuüfügüaübüeünü.üü
+ü-ü üEünütüküoüpüpülüuünügü üvüoünü üEüxüiüsütüeünüzüsüiücühüeürüuünügü üuünüdü üPürüoüdüuükütüiüvüiütü�ütü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsüü
+ü-ü üBüeüiüsüpüiüeülü ü'üDüeürü üGü�ürütünüeürü'ü:ü üWüeürü übüeüiütürü�ügütü,ü übüeüküoümümütü ümüeühürü üMüöügülüiücühüküeüiütüeünü ü(üPüuülüsüeü)ü,ü üaübüeürü üwüeürü üpüaüuüsüiüeürütü,ü üfü�ülülütü ünüiüeümüaülüsü üiünüsü üBüoüdüeünülüoüsüeü.üü
+ü-ü üKüeürünübüoütüsücühüaüfütü:ü ürüeüiühüeüiütü üdüuürücühü üSüiücühüeürühüeüiütü ü�ü üAürübüeüiütü üaülüsü üWüaühülü,ü ünüiücühütü üaülüsü üZüwüaünügü.üü
+ü

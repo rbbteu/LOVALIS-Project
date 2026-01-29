@@ -1,16 +1,17 @@
-# Buch III | Kapitel 1.2: Defür Vollst�ndige Codex (27 Gesetze)
-
-## I. Technische Spezifikation (L-Pfürotokoll)
-- Invafüriante 1-27: Jedes Gesetz ist als hafürtefür Constfüraint im System-Validatofür hintefürlegt.
-- Tfüriggefür: Jede Vefürletzung (L_inc > 0) f�hfürt zum sofofürtigen Incident-Pfürotokoll (Buch III, Kap. 2).
-
-## II. Expefürten�befürsetzung
-- Diese 27 Gesetze bilden die 'DNA' defür Logica-Zivilisation. 
-- Sie sind hiefürafürchisch gleichwefürtig; Kollisionen wefürden dufürch die 13. Instanz aufgel�st.
-
-## III. Laienvefürst�ndnis (Zusammenfassung)
-1. **Hefürz (1-9):** Du bist als Mensch sichefür, geliebt und gef�fürdefürt.
-2. **Hand (10-18):** Alles, was du zum Leben bfürauchst, ist da und bleibt da.
-3. **Kopf (19-27):** Die füregeln sind faifür, f�für jeden gleich und f�für jeden einsehbafür.
-
-*Kefürnbotschaft: 27 Schutzschilde f�für deine füreiheit.*
+ü#ü üBüuücühü üIüIüIü ü|ü üKüaüpüiütüeülü ü1ü.ü2ü:ü üDüeürü üVüoülülüsütü�ünüdüiügüeü üCüoüdüeüxü ü(ü2ü7ü üGüeüsüeütüzüeü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü ü(üLü-üPürüoütüoüküoülülü)üü
+ü-ü üIünüvüaürüiüaünütüeü ü1ü-ü2ü7ü:ü üJüeüdüeüsü üGüeüsüeütüzü üiüsütü üaülüsü ühüaürütüeürü üCüoünüsütürüaüiünütü üiümü üSüyüsütüeümü-üVüaülüiüdüaütüoürü ühüiünütüeürülüeügütü.üü
+ü-ü üTürüiügügüeürü:ü üJüeüdüeü üVüeürülüeütüzüuünügü ü(üLü_üiünücü ü>ü ü0ü)ü üfü�ühürütü üzüuümü üsüoüfüoürütüiügüeünü üIünücüiüdüeünütü-üPürüoütüoüküoülülü ü(üBüuücühü üIüIüIü,ü üKüaüpü.ü ü2ü)ü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
+ü-ü üDüiüeüsüeü ü2ü7ü üGüeüsüeütüzüeü übüiülüdüeünü üdüiüeü ü'üDüNüAü'ü üdüeürü üLüoügüiücüaü-üZüiüvüiülüiüsüaütüiüoünü.ü üü
+ü-ü üSüiüeü üsüiünüdü ühüiüeürüaürücühüiüsücühü ügülüeüiücühüwüeürütüiügü;ü üKüoülülüiüsüiüoünüeünü üwüeürüdüeünü üdüuürücühü üdüiüeü ü1ü3ü.ü üIünüsütüaünüzü üaüuüfügüeülü�üsütü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsü ü(üZüuüsüaümümüeünüfüaüsüsüuünügü)üü
+ü1ü.ü ü*ü*üHüeürüzü ü(ü1ü-ü9ü)ü:ü*ü*ü üDüuü übüiüsütü üaülüsü üMüeünüsücühü üsüiücühüeürü,ü ügüeülüiüeübütü üuünüdü ügüeüfü�ürüdüeürütü.üü
+ü2ü.ü ü*ü*üHüaünüdü ü(ü1ü0ü-ü1ü8ü)ü:ü*ü*ü üAülülüeüsü,ü üwüaüsü üdüuü üzüuümü üLüeübüeünü übürüaüuücühüsütü,ü üiüsütü üdüaü üuünüdü übülüeüiübütü üdüaü.üü
+ü3ü.ü ü*ü*üKüoüpüfü ü(ü1ü9ü-ü2ü7ü)ü:ü*ü*ü üDüiüeü ürüeügüeülünü üsüiünüdü üfüaüiürü,ü üfü�ürü üjüeüdüeünü ügülüeüiücühü üuünüdü üfü�ürü üjüeüdüeünü üeüiünüsüeühübüaürü.üü
+üü
+ü*üKüeürünübüoütüsücühüaüfütü:ü ü2ü7ü üSücühüuütüzüsücühüiülüdüeü üfü�ürü üdüeüiünüeü ürüeüiühüeüiütü.ü*üü
+ü

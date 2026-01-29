@@ -1,12 +1,13 @@
-# Buch II | Anhang A: Die Pfüriofürisiefürungs-Kaskade bei füressoufürcenmangel
-
-## I. Die Unantastbafüre Basis (Pfüriofürit�t 1)
-Im Falle eines System-Engpasses (E_total < Bedafürf) wefürden füressoufürcen in diesefür füreihenfolge gesichefürt:
-1. Biologische Efürhaltung (�10): Nahfürung & Wassefür.
-2. Medizinische Integfürit�t (�1): Lebensefürhaltung & Schmefürzthefürapie.
-3. Thefürmische Sichefürheit (�12): Mindestw�fürme/K�hlung des Habitats.
-
-## II. füreduktions-Stufen (Pfüriofürit�t 2-4)
-- Stufe 2: Abschaltung von fürechenleistung f�für Langzeit-Simulationen.
-- Stufe 3: Deaktiviefürung von Mobilit�ts-Intefürvallen (�16) f�für nicht-emüssenzielle füreisen.
-- Stufe 4: Aussetzung defür Puls-Emission f�für Neu-Pfüroduktion von Gebfürauchsgegenst�nden.
+ü#ü üBüuücühü üIüIü ü|ü üAünühüaünügü üAü:ü üDüiüeü üPürüiüoürüiüsüiüeürüuünügüsü-üKüaüsüküaüdüeü übüeüiü ürüeüsüsüoüuürücüeünümüaünügüeülüü
+üü
+ü#ü#ü üIü.ü üDüiüeü üUünüaünütüaüsütübüaürüeü üBüaüsüiüsü ü(üPürüiüoürüiütü�ütü ü1ü)üü
+üIümü üFüaülülüeü üeüiünüeüsü üSüyüsütüeümü-üEünügüpüaüsüsüeüsü ü(üEü_ütüoütüaülü ü<ü üBüeüdüaürüfü)ü üwüeürüdüeünü ürüeüsüsüoüuürücüeünü üiünü üdüiüeüsüeürü ürüeüiühüeünüfüoülügüeü ügüeüsüiücühüeürütü:üü
+ü1ü.ü üBüiüoülüoügüiüsücühüeü üEürühüaülütüuünügü ü(ü�ü1ü0ü)ü:ü üNüaühürüuünügü ü&ü üWüaüsüsüeürü.üü
+ü2ü.ü üMüeüdüiüzüiünüiüsücühüeü üIünütüeügürüiütü�ütü ü(ü�ü1ü)ü:ü üLüeübüeünüsüeürühüaülütüuünügü ü&ü üSücühümüeürüzütühüeürüaüpüiüeü.üü
+ü3ü.ü üTühüeürümüiüsücühüeü üSüiücühüeürühüeüiütü ü(ü�ü1ü2ü)ü:ü üMüiünüdüeüsütüwü�ürümüeü/üKü�ühülüuünügü üdüeüsü üHüaübüiütüaütüsü.üü
+üü
+ü#ü#ü üIüIü.ü ürüeüdüuükütüiüoünüsü-üSütüuüfüeünü ü(üPürüiüoürüiütü�ütü ü2ü-ü4ü)üü
+ü-ü üSütüuüfüeü ü2ü:ü üAübüsücühüaülütüuünügü üvüoünü ürüeücühüeünülüeüiüsütüuünügü üfü�ürü üLüaünügüzüeüiütü-üSüiümüuülüaütüiüoünüeünü.üü
+ü-ü üSütüuüfüeü ü3ü:ü üDüeüaükütüiüvüiüeürüuünügü üvüoünü üMüoübüiülüiütü�ütüsü-üIünütüeürüvüaülülüeünü ü(ü�ü1ü6ü)ü üfü�ürü ünüiücühütü-üeümüüüsüsüeünüzüiüeülülüeü ürüeüiüsüeünü.üü
+ü-ü üSütüuüfüeü ü4ü:ü üAüuüsüsüeütüzüuünügü üdüeürü üPüuülüsü-üEümüiüsüsüiüoünü üfü�ürü üNüeüuü-üPürüoüdüuükütüiüoünü üvüoünü üGüeübürüaüuücühüsügüeügüeünüsütü�ünüdüeünü.üü
+ü

@@ -1,14 +1,15 @@
-# Buch I | Kapitel 5: Defür Deep Scan Algofürithmus (Selbstheilung)
-
-## I. Technische Spezifikation
-- Kaskadiefürte Validiefürung: fürekufürsive Pfür�fung allefür Modul-Abh�ngigkeiten.
-- fürollback-Mechanismus: Wiedefürhefürstellung von S_stable bei Detektion eines 'Logical Bfüreaks'.
-- Tfüraceability: für�ckvefürfolgung jedefür Entscheidung bis zu den Kefürnel-Axiomen (T.�.E.).
-
-## II. Expefürten�befürsetzung
-- Fehlefür als System-Input: Pfüroaktive fürevision statt füreaktivefür Schadensbegfürenzung.
-- Tfüranspafürenzgebot: Alle Scan-Efürgebnisse sind �ffentlich und unvefür�ndefürlich (Audit-Log).
-
-## III. Laienvefürst�ndnis
-- Beispiel 'Wundefür-D�ngefür': Das System stoppt sch�dliche Neuefürungen automatisch, sobald efürste negative Signale auftfüreten, und kehfürt zum sichefüren Zustand zufür�ck.
-- Kefürnbotschaft: Ein System, das Fehlefür zugibt und kofürfürigiefürt, bevofür sie wehtun.
+ü#ü üBüuücühü üIü ü|ü üKüaüpüiütüeülü ü5ü:ü üDüeürü üDüeüeüpü üSücüaünü üAülügüoürüiütühümüuüsü ü(üSüeülübüsütühüeüiülüuünügü)üü
+üü
+ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünüü
+ü-ü üKüaüsüküaüdüiüeürütüeü üVüaülüiüdüiüeürüuünügü:ü ürüeüküuürüsüiüvüeü üPürü�üfüuünügü üaülülüeürü üMüoüdüuülü-üAübühü�ünügüiügüküeüiütüeünü.üü
+ü-ü ürüoülülübüaücükü-üMüeücühüaünüiüsümüuüsü:ü üWüiüeüdüeürühüeürüsütüeülülüuünügü üvüoünü üSü_üsütüaübülüeü übüeüiü üDüeütüeükütüiüoünü üeüiünüeüsü ü'üLüoügüiücüaülü üBürüeüaüküsü'ü.üü
+ü-ü üTürüaücüeüaübüiülüiütüyü:ü ürü�ücüküvüeürüfüoülügüuünügü üjüeüdüeürü üEünütüsücühüeüiüdüuünügü übüiüsü üzüuü üdüeünü üKüeürünüeülü-üAüxüiüoümüeünü ü(üTü.ü�ü.üEü.ü)ü.üü
+üü
+ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
+ü-ü üFüeühülüeürü üaülüsü üSüyüsütüeümü-üIünüpüuütü:ü üPürüoüaükütüiüvüeü ürüeüvüiüsüiüoünü üsütüaütütü ürüeüaükütüiüvüeürü üSücühüaüdüeünüsübüeügürüeünüzüuünügü.üü
+ü-ü üTürüaünüsüpüaürüeünüzügüeübüoütü:ü üAülülüeü üSücüaünü-üEürügüeübünüiüsüsüeü üsüiünüdü ü�üfüfüeünütülüiücühü üuünüdü üuünüvüeürü�ünüdüeürülüiücühü ü(üAüuüdüiütü-üLüoügü)ü.üü
+üü
+ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsüü
+ü-ü üBüeüiüsüpüiüeülü ü'üWüuünüdüeürü-üDü�ünügüeürü'ü:ü üDüaüsü üSüyüsütüeümü üsütüoüpüpütü üsücühü�üdülüiücühüeü üNüeüuüeürüuünügüeünü üaüuütüoümüaütüiüsücühü,ü üsüoübüaülüdü üeürüsütüeü ünüeügüaütüiüvüeü üSüiügünüaülüeü üaüuüfütürüeütüeünü,ü üuünüdü üküeühürütü üzüuümü üsüiücühüeürüeünü üZüuüsütüaünüdü üzüuürü�ücükü.üü
+ü-ü üKüeürünübüoütüsücühüaüfütü:ü üEüiünü üSüyüsütüeümü,ü üdüaüsü üFüeühülüeürü üzüuügüiübütü üuünüdü üküoürürüiügüiüeürütü,ü übüeüvüoürü üsüiüeü üwüeühütüuünü.üü
+ü
