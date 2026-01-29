@@ -7,7 +7,7 @@ Dieses Dokument dient als zentrale Navigationsinstanz für das gesamte hybride G
 ## 🏗 Buch I: Der Kernel (Hardware der Gesellschaft)
 - 01_Axiomatik\Kern_Philosophie.md – Die Basis der Leidminimierung & Ko-Kreation.
 - 02_Logik_Filter\TOE_Spezifikation.md – Der technische Filter (Technik, Ökologie, Ethik).
-- 03_Treiüber_§102_Anker\Anker_Definition_Detailliert.md – Funktionale Rollen (Herz, Hand, Kopf).
+- 03_Treiber_12_Anker\Anker_Definition_Detailliert.md – Funktionale Rollen (Herz, Hand, Kopf).
 - 04_Instanz_13\Sortition_Protokoll.md – Der System-Kritiker & das Veto-Recht.
 - 05_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md – Die algorithmische Selbstprüfung.
 
