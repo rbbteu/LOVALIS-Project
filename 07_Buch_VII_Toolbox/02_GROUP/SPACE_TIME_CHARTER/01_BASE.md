@@ -1,0 +1,2 @@
+# BASE
+Priority = Urgency * Impact.

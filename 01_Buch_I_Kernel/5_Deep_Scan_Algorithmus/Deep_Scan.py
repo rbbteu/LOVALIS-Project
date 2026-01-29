@@ -4,36 +4,15 @@
 class DeepScan:
     def __init__(self):
         self.L_min = 0.0 # Leid-Metrik target
-        self.E_gen = 100.0 # Regenerationsrate (Ökologie)
+        self.E_gen = 100.0 # Regenerationsrate
         
-    def scan_operation(self, operation):
-        print(f'Scanning Op: {operation.name}...')
-        
-        # 1. Technical Check (Efficiency)
-        if operation.entropy > 0.5:
-            return self.veto('HIGH_ENTROPY')
-            
-        # 2. Ecological Check (Sustainability)
-        if operation.resource_cost > self.E_gen:
-            return self.veto('ECO_DEBT')
-            
-        # 3. Ethical Check (Suffering)
-        if operation.suffering_index > self.L_min:
-            return self.veto('LOGICAL_BREAK_DETECTED')
-            
+    def scan_operation(self, op_name, entropy, cost, suffering):
+        print(f'Scanning: {op_name}...')
+        if entropy > 0.5: return 'VETO: HIGH_ENTROPY'
+        if cost > self.E_gen: return 'VETO: ECO_DEBT'
+        if suffering > self.L_min: return 'VETO: LOGICAL_BREAK'
         return 'VALIDATED'
 
-    def veto(self, reason):
-        return f'KERNEL PANIC: {reason} - Operation blocked by 13th Instance.'
-
-# Simulation Run
 if __name__ == '__main__':
     scanner = DeepScan()
-    # Beispiel-Operation
-    class Op:
-        name = 'Forest_Clearance_Project'
-        entropy = 0.2
-        resource_cost = 150.0 # Zu teuer für die Natur!
-        suffering_index = 0.0
-        
-    print(scanner.scan_operation(Op()))
+    print(scanner.scan_operation('Forest_Clearance', 0.8, 200, 0.0))
