@@ -1,0 +1,10 @@
+# Buch III | Hand-Domäne (§10-§18)
+
+## §10 Die Ressourcen-Souveränität
+Die Versorgung (Nahrung/Wasser) ist vom Beitrag ($) entkoppelt.
+
+## §12 Die Energie-Garantie
+Anschluss an das lokale Energienetz ist ein Grundrecht.
+
+## §17 Das Prinzip der Wartbarkeit
+Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
