@@ -2,14 +2,14 @@
 
 ## I. Technische Spezifikation
 - Dual-Stack-Operating: Gleichzeitiger Betrieb von Logica-Regeln und alten Rechtsrahmen.
-- Bridge-Filter: Umrechnungslogik von Fiat-Währungen in Puls-Einheiten (Energie-Basis).
+- Bridge-Filter: Umrechnungslogik von Fiat-WÃ¤hrungen in Puls-Einheiten (Energie-Basis).
 - Insel-Migration: Schrittweise Deklaration autonomer Beta-Cluster.
 
-## II. ExpertenÜbersetzung
-- Strategie der Irrelevanz: überwindung älter Staaten durch überlegene Effizienz (Leidminimierung).
-- Ressourcen-Rekontextualisierung: überf�hrung von Privateigentum in die Allmende.
+## II. ExpertenÃœbersetzung
+- Strategie der Irrelevanz: Ã¼berwindung Ã¤lter Staaten durch Ã¼berlegene Effizienz (Leidminimierung).
+- Ressourcen-Rekontextualisierung: Ã¼berfï¿½hrung von Privateigentum in die Allmende.
 - Parallel-Justiz: Etablierung von Mediation als globalem Standard vor formeller Anerkennung.
 
-## III. Laienverst�ndnis
-- Beispiel 'Zwei-Konten-Phase': Reduktion von Existenzangst durch Logica-Basisversorgung w�hrend der alten Erwerbsarbeit.
+## III. Laienverstï¿½ndnis
+- Beispiel 'Zwei-Konten-Phase': Reduktion von Existenzangst durch Logica-Basisversorgung wï¿½hrend der alten Erwerbsarbeit.
 - Kernbotschaft: Ein sanfter Ausstieg aus dem Hamsterrad in ein stabiles Netz.

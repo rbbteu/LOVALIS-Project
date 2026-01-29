@@ -2,11 +2,11 @@
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazität.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei Ã¼berschreitung der KapazitÃ¤t.
 
-## II. ExpertenÜbersetzung
-- **Anti-Anonymit�ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
-- **Care-Ratio**: 1:11 (13 Ratsmitglieder auf 150 B�rger).
+## II. ExpertenÃœbersetzung
+- **Anti-Anonymitï¿½ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
+- **Care-Ratio**: 1:11 (13 Ratsmitglieder auf 150 Bï¿½rger).
 
-## III. Laienverst�ndnis
-- **Beispiel**: Statt anonymer Gro�st�dte bilden sich 'Schwester-D�rfer', damit jeder gesehen wird.
+## III. Laienverstï¿½ndnis
+- **Beispiel**: Statt anonymer Groï¿½stï¿½dte bilden sich 'Schwester-Dï¿½rfer', damit jeder gesehen wird.

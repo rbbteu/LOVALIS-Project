@@ -2,14 +2,14 @@
 
 ## I. Technische Spezifikation
 - Implementierung als 3er-Team (Triade) mit gemeinsamer Stimme.
-- Asynchrone Rotation: Offset-Formel delta = T13 / 3 garantiert Kontinuit�t der Kritik.
-- Hard-Veto-Berechtigung bei Detektion logischer Br�che im T.�.E.-Filter.
+- Asynchrone Rotation: Offset-Formel delta = T13 / 3 garantiert Kontinuitï¿½t der Kritik.
+- Hard-Veto-Berechtigung bei Detektion logischer Brï¿½che im T.ï¿½.E.-Filter.
 
-## II. ExpertenÜbersetzung
+## II. ExpertenÃœbersetzung
 - Institutionalisierte Antithese zur Vermeidung von Machtkonzentration.
 - Schutz vor 'Groupthink' durch personelle Oszillation.
-- Fokus: Aufsp�ren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
+- Fokus: Aufspï¿½ren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
 
-## III. Laienverst�ndnis
-- Beispiel 'Die Schiedsrichter': Ein Team aus drei W�chtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
-- Kernbotschaft: Deine Sicherheit vor Willk�r durch st�ndige, unabhängige Kontrolle.
+## III. Laienverstï¿½ndnis
+- Beispiel 'Die Schiedsrichter': Ein Team aus drei Wï¿½chtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
+- Kernbotschaft: Deine Sicherheit vor Willkï¿½r durch stï¿½ndige, unabhÃ¤ngige Kontrolle.

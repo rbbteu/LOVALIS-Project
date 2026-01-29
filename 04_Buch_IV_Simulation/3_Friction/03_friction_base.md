@@ -12,7 +12,7 @@
 
 ## II. THE SOFT BLOCK (Conflict Resolution)
 **Principle:** Separation > Litigation.
-* **Algorithm:** If two Nodes generate repeated friction (Noise complaints, harassments) without violating �1 (Physical Harm):
+* **Algorithm:** If two Nodes generate repeated friction (Noise complaints, harassments) without violating ï¿½1 (Physical Harm):
 * **Action:** The System executes a "Soft Block".
     * Work schedules are shifted so they don't overlap.
     * Housing offers are prioritized to move one party to a comparable unit in a different sector.

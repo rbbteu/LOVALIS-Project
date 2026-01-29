@@ -20,5 +20,5 @@
 ## 3. Fear of Death vs. Legacy
 **Status Quo:** People hoard money because they fear their children will suffer.
 **Valitas Logic:**
-* Since the System guarantees the safety and resources of the children (�2 Commons), the *need* to hoard disappears.
+* Since the System guarantees the safety and resources of the children (ï¿½2 Commons), the *need* to hoard disappears.
 * You don't leave money. You leave a functioning System. That is the ultimate inheritance.

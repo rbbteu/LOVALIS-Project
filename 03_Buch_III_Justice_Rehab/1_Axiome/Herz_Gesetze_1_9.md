@@ -1,46 +1,46 @@
-# Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil 1: Herz-Dom�ne)
+# Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil 1: Herz-Domï¿½ne)
 
-## �1 Das Recht auf physische Unversehrtheit
+## ï¿½1 Das Recht auf physische Unversehrtheit
 - **Technische Spezifikation:** Verbot nicht-konsensualer Krafteinwirkung. Sensor-Trigger bei biologischen Stresssignalen ( > 0$).
-- **ExpertenÜbersetzung:** Absolutes Gewaltverbot, inklusive staatlicher oder pr�ventiver Zwangsmittel. Nur minimale Defensiv-Neutralisierung zul�ssig.
-- **Laienverst�ndnis:** Niemand darf dir k�rperlich wehtun oder dich festhalten. Das System sch�tzt deine Grenzen aktiv.
+- **ExpertenÃœbersetzung:** Absolutes Gewaltverbot, inklusive staatlicher oder prï¿½ventiver Zwangsmittel. Nur minimale Defensiv-Neutralisierung zulï¿½ssig.
+- **Laienverstï¿½ndnis:** Niemand darf dir kï¿½rperlich wehtun oder dich festhalten. Das System schï¿½tzt deine Grenzen aktiv.
 
-## �2 Das Recht auf psychische Integrität
-- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). überwachung von Mobbing-Mustern durch Anker Konflikt.
-- **ExpertenÜbersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
-- **Laienverst�ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gef�hle geh�ren dir.
+## ï¿½2 Das Recht auf psychische IntegritÃ¤t
+- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). Ã¼berwachung von Mobbing-Mustern durch Anker Konflikt.
+- **ExpertenÃœbersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf prï¿½ventive Mediations-Protokolle.
+- **Laienverstï¿½ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gefï¿½hle gehï¿½ren dir.
 
-## �3 Die Freiheit der Entfaltung
+## ï¿½3 Die Freiheit der Entfaltung
 - **Technische Spezifikation:** Verbot von Berufs-Zuweisung. Bereitstellung von Bildungs-Ressourcen basierend auf intrinsischer Motivation.
-- **ExpertenÜbersetzung:** Ende des �konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondern ein autonomer Entwicklungsknoten.
-- **Laienverst�ndnis:** Du darfst werden, wer du sein willst, ohne Angst um deine Existenz haben zu müssen.
+- **ExpertenÃœbersetzung:** Ende des ï¿½konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondern ein autonomer Entwicklungsknoten.
+- **Laienverstï¿½ndnis:** Du darfst werden, wer du sein willst, ohne Angst um deine Existenz haben zu mÃ¼ssen.
 
-## �4 Das Recht auf soziale Sichtbarkeit
-- **Technische Spezifikation:** Monitoring der Interaktions-Rate durch Anker Inklusion. Diskretions-Protokoll bei Unterschreitung von I_min zur Einsamkeits-Pr�vention.
-- **ExpertenÜbersetzung:** Pr�vention von Isolation als systemischer Gesundheitsfaktor. Soziale Sichtbarkeit garantiert Schutz vor Leid.
-- **Laienverst�ndnis:** Niemand verschwindet in der Anonymit�t. Wenn du einsam wirst, bietet dir das System Gemeinschaft an.
+## ï¿½4 Das Recht auf soziale Sichtbarkeit
+- **Technische Spezifikation:** Monitoring der Interaktions-Rate durch Anker Inklusion. Diskretions-Protokoll bei Unterschreitung von I_min zur Einsamkeits-Prï¿½vention.
+- **ExpertenÃœbersetzung:** Prï¿½vention von Isolation als systemischer Gesundheitsfaktor. Soziale Sichtbarkeit garantiert Schutz vor Leid.
+- **Laienverstï¿½ndnis:** Niemand verschwindet in der Anonymitï¿½t. Wenn du einsam wirst, bietet dir das System Gemeinschaft an.
 
-## �5 Der Schutz der Kindheit
+## ï¿½5 Der Schutz der Kindheit
 - **Technische Spezifikation:** Definition von Hochsicherheits-Spielzonen. Verbot von Leistungs-Tracking und Standardisierungs-Drill.
-- **ExpertenÜbersetzung:** Vorrang des Kindeswohls vor �konomischen Interessen. Schutz der sensibelsten Netzwerkknoten.
-- **Laienverst�ndnis:** Kinder d�rfen Kinder sein. Sie lernen spielerisch und ohne Druck.
+- **ExpertenÃœbersetzung:** Vorrang des Kindeswohls vor ï¿½konomischen Interessen. Schutz der sensibelsten Netzwerkknoten.
+- **Laienverstï¿½ndnis:** Kinder dï¿½rfen Kinder sein. Sie lernen spielerisch und ohne Druck.
 
-## �6 Das Recht auf Weisheit
+## ï¿½6 Das Recht auf Weisheit
 - **Technische Spezifikation:** Verpflichtung zur Bereitstellung von Mentor-Netzwerken und freiem Zugang zum Logica-Wissensspeicher.
-- **ExpertenÜbersetzung:** Wissen als öffentliche Infrastruktur. F�rderung des generationsÜbergreifenden Erfahrungstransfers.
-- **Laienverst�ndnis:** Du hast immer Zugang zu Lehrern und Wissen � dein ganzes Leben lang.
+- **ExpertenÃœbersetzung:** Wissen als Ã¶ffentliche Infrastruktur. Fï¿½rderung des generationsÃœbergreifenden Erfahrungstransfers.
+- **Laienverstï¿½ndnis:** Du hast immer Zugang zu Lehrern und Wissen ï¿½ dein ganzes Leben lang.
 
-## �7 Die Inklusions-Garantie
-- **Technische Spezifikation:** Alle Schnittstellen (Hardware/Software) müssen 'UNIVERSAL_ACCESS' erf�llen. Barrieren gelten als Systemfehler.
-- **ExpertenÜbersetzung:** Radikale Inklusion. Die Welt passt sich der Biologie des Menschen an (Alter, Behinderung, Neurodivergenz).
-- **Laienverst�ndnis:** Egal wie du dich bewegst oder wahrnimmst: Es gibt keine Hindernisse für dich.
+## ï¿½7 Die Inklusions-Garantie
+- **Technische Spezifikation:** Alle Schnittstellen (Hardware/Software) mÃ¼ssen 'UNIVERSAL_ACCESS' erfï¿½llen. Barrieren gelten als Systemfehler.
+- **ExpertenÃœbersetzung:** Radikale Inklusion. Die Welt passt sich der Biologie des Menschen an (Alter, Behinderung, Neurodivergenz).
+- **Laienverstï¿½ndnis:** Egal wie du dich bewegst oder wahrnimmst: Es gibt keine Hindernisse fÃ¼r dich.
 
-## �8 Das Recht auf gewaltfreie Konfliktl�sung
+## ï¿½8 Das Recht auf gewaltfreie Konfliktlï¿½sung
 - **Technische Spezifikation:** Automatischer Mediations-Trigger bei Status 'DISPUTE'. Verbot von Machtentscheidungen.
-- **ExpertenÜbersetzung:** Ersatz des Gewaltmonopols durch ein neutrales Mediationsmonopol.
-- **Laienverst�ndnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine Lösung für beide Seiten sucht.
+- **ExpertenÃœbersetzung:** Ersatz des Gewaltmonopols durch ein neutrales Mediationsmonopol.
+- **Laienverstï¿½ndnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine LÃ¶sung fÃ¼r beide Seiten sucht.
 
-## �9 Die Würde des Abschieds
+## ï¿½9 Die WÃ¼rde des Abschieds
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
-- **ExpertenÜbersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
-- **Laienverst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.
+- **ExpertenÃœbersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, wï¿½rdevollen Ã¼bergangs.
+- **Laienverstï¿½ndnis:** Auch am Ende deines Weges lï¿½sst dich das System nicht allein und respektiert deine Entscheidung.

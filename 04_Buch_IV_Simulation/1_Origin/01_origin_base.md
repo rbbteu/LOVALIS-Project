@@ -8,7 +8,7 @@
 A biological node between age 0 and 18 is classified as a **"Ward of the System"**.
 * **Sovereignty:** The Ward is a sovereign entity, not the property of the parents (Progenitors).
 * **Resource Guarantee:** The System automatically allocates a "Growth Budget" (Nutrition, Healthcare, Data, Transport) directly to the Ward's ID. This allocation is independent of the parents' wealth.
-* **Bio-Integrity Monitoring:** Passive sensors monitor stress levels and physical health ($T-Check) to prevent neglect or abuse (�1 Violation).
+* **Bio-Integrity Monitoring:** Passive sensors monitor stress levels and physical health ($T-Check) to prevent neglect or abuse (ï¿½1 Violation).
 
 ## II. THE NEXUS INTERFACE (Educational Logistics)
 Education is not a place (School), but a **Service**.
