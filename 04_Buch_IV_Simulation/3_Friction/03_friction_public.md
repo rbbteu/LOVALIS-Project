@@ -1,4 +1,4 @@
-﻿# §0§3_FRICTION: PUBLIC INTERFACE
+﻿# §003_FRICTION: PUBLIC INTERFACE
 **Context:** When things go wrong.
 **Focus:** Help, not Handcuffs.
 

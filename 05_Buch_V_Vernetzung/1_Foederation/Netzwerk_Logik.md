@@ -5,7 +5,7 @@
 - Reputations-Hashing zur Sicherung der Inter-Cluster-Integrität.
 - Globale Allmende-Verwaltung für nicht-lokale Ressourcen (Ozeane, Orbit).
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Polyzentrische Governance statt Nationalstaatlichkeit.
 - Systemische Prävention von Machtkonzentration durch globale Puls-Demurrage.
 - Inter-Cluster-Mediation als Ersatz für klassische Diplomatie/Krieg.

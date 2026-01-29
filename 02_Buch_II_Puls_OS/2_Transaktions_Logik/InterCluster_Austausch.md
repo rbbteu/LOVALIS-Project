@@ -5,7 +5,7 @@
 - Zero-Sum-Constraint: Schutz der lokalen Systemstabilität bei Exporten.
 - Entropie-basierte Logistik: Priorisierung kurzer Ketten.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
 - Hoher Autarkiegrad (min. §7§0%) zur Resilienz-Sicherung.
 - Automatisches Solidaritäts-Protokoll bei lokalen Krisen.

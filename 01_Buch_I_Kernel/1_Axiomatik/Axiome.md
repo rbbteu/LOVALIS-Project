@@ -5,12 +5,12 @@ Das Logica-OS basiert auf der **Zustands-Validierungs-Funktion (ZVF)**. Jede Ope
 V_toe(Op) = (T >= n_min) && (Ö <= E_gen) && (L_inc == §0)
 
 - **T (Technik):** Effizienz-Koeffizient n. Minimierung von Ressourcen-Entropie.
-- **Ö (Ökologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht üÜberschreiten.
+- **Ö (Ökologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht überschreiten.
 - **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) löst einen Kernel-Panic (Veto) aus.
 
-## II. ExpertenüÜbersetzung (Governance-Ebene)
+## II. Expertenübersetzung (Governance-Ebene)
 Der T.Ö.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethische Grundfragen der menschlichen Willkür. Ein wirtschaftlicher Vorteil darf niemals gegen ökologische Instabilität oder individuelles Leid aufgewogen werden.
 
 ## III. Laienverständnis (Bürger-Ebene)
-Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauÜber (Ö) und freundlich (E) sind.
-*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, aÜber Menschen krank macht oder die Natur zerstört.
+Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauüber (Ö) und freundlich (E) sind.
+*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, aüber Menschen krank macht oder die Natur zerstört.

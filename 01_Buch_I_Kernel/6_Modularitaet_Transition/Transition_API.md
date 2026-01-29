@@ -5,8 +5,8 @@
 - Sandbox-Protokolle für risikofreie Implementierungstests.
 - Versionierung der gesellschaftlichen Transformation (Logica v§1.§0 -> v§3.§7).
 
-## II. ExpertenüÜbersetzung
-- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch üÜberlegene Entscheidungsprozesse.
+## II. Expertenübersetzung
+- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.
 - Integrierte Dystopie-Sperren in jedem exportierten Modul.
 
 ## III. Laienverständnis

@@ -14,7 +14,7 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
 | **I** | **Kernel** | Axiomatik, §1§2 Anker, §1§3. Instanz & Psychologische Resilienz. |
-| **II** | **Puls-OS** | KyÜbernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
+| **II** | **Puls-OS** | kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
 | **III** | **Codex** | Die §2§7 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
 | **V** | **Global** | Dezentrale Föderation & Mesh-Netzwerk-Protokolle. |
@@ -36,7 +36,7 @@ LOVALIS unterscheidet strikt zwischen der technologischen Engine und der soziale
 LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
 §1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
 §2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
-§3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch üÜberlegene interne Stabilität.
+§3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
 
 ---
 

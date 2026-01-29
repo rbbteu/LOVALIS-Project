@@ -5,7 +5,7 @@
 - Asynchrone Rotation: Offset-Formel delta = T§1§3 / §3 garantiert Kontinuität der Kritik.
 - Hard-Veto-Berechtigung bei Detektion logischer Brüche im T.Ö.E.-Filter.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Institutionalisierte Antithese zur Vermeidung von Machtkonzentration.
 - Schutz vor 'Groupthink' durch personelle Oszillation.
 - Fokus: Aufspüren von 'Toten Winkeln' in den Entscheidungen der §1§2 Anker.

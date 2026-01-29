@@ -5,40 +5,40 @@ Dieses Dokument dient als zentrale Navigationsinstanz für das gesamte hybride G
 ---
 
 ## 🏗 Buch I: Der Kernel (Hardware der Gesellschaft)
-- §1_Axiomatik\Kern_Philosophie.md – Die Basis der Leidminimierung & Ko-Kreation.
-- §2_Logik_Filter\TOE_Spezifikation.md – Der technische Filter (Technik, Ökologie, Ethik).
-- §3_TreiÜber_§1§2_Anker\Anker_Definition_Detailliert.md – Funktionale Rollen (Herz, Hand, Kopf).
-- §4_Instanz_§1§3\Sortition_Protokoll.md – Der System-Kritiker & das Veto-Recht.
-- §5_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md – Die algorithmische Selbstprüfung.
+- 01_Axiomatik\Kern_Philosophie.md – Die Basis der Leidminimierung & Ko-Kreation.
+- 02_Logik_Filter\TOE_Spezifikation.md – Der technische Filter (Technik, Ökologie, Ethik).
+- 03_Treiüber_§102_Anker\Anker_Definition_Detailliert.md – Funktionale Rollen (Herz, Hand, Kopf).
+- 04_Instanz_13\Sortition_Protokoll.md – Der System-Kritiker & das Veto-Recht.
+- 05_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md – Die algorithmische Selbstprüfung.
 
-## 💳 Buch II: Puls-OS (Die kyÜbernetische Ökonomie)
-- §1_Puls_Einheit\System_Logik_Detailliert.md – Energie-Kopplung & Demurrage-Mathematik.
-- §2_Ressourcen\Krisen_Hierarchie.md – Priorisierung bei systemischem Mangel.
-- §3_Beitrag\Proof_of_Contribution.md – Anerkennung statt Entlohnung.
+## 💳 Buch II: Puls-OS (Die kybernetische Ökonomie)
+- 01_Puls_Einheit\System_Logik_Detailliert.md – Energie-Kopplung & Demurrage-Mathematik.
+- 02_Ressourcen\Krisen_Hierarchie.md – Priorisierung bei systemischem Mangel.
+- 03_Beitrag\Proof_of_Contribution.md – Anerkennung statt Entlohnung.
 
 ## ⚖️ Buch III: Justice-Rehab (Der Codex)
-- §1_Axiome\Herz_Gesetze_§1_§9.md – Schutz der Integrität & Sichtbarkeit.
-- §1_Axiome\Hand_Gesetze_§1§0_§1§8.md – Ressourcen, Raum & Ökologie.
-- §1_Axiome\Kopf_Gesetze_§1§9_§2§7.md – Datenhoheit, Transparenz & Logik.
-- §1_Axiome\Leid_Metrik_Spezifikation.md – Technische Messbarkeit von Gerechtigkeit.
+- 01_Axiome\Herz_Gesetze_01_§9.md – Schutz der Integrität & Sichtbarkeit.
+- 01_Axiome\Hand_Gesetze_§100_18.md – Ressourcen, Raum & Ökologie.
+- 01_Axiome\Kopf_Gesetze_§109_27.md – Datenhoheit, Transparenz & Logik.
+- 01_Axiome\Leid_Metrik_Spezifikation.md – Technische Messbarkeit von Gerechtigkeit.
 
 ## 🏘 Buch IV: Simulation (Lebenswelt & Interaktion)
-- §1_Interaktion\Soziale_Protokolle.md – Plenum, Mitose & Cluster-Dynamik.
-- §2_Evolution\Bildungs_Logik.md – Pädagogik der Ineffizienz & Weisheit.
-- §2_Evolution\Entropie_Impuls.md – Schutz vor Stagnation (Herausforderung).
-- §3_Technik\Symbiose_Logik.md – Mensch-Maschine-Koppelung (§§2§1/§2§2).
-- §4_Habitat\Architektur_Logik.md – Modulare Bauweise & ökologische Heilung.
+- 01_Interaktion\Soziale_Protokolle.md – Plenum, Mitose & Cluster-Dynamik.
+- 02_Evolution\Bildungs_Logik.md – Pädagogik der Ineffizienz & Weisheit.
+- 02_Evolution\Entropie_Impuls.md – Schutz vor Stagnation (Herausforderung).
+- 03_Technik\Symbiose_Logik.md – Mensch-Maschine-Koppelung (§§2§1/§2§2).
+- 04_Habitat\Architektur_Logik.md – Modulare Bauweise & ökologische Heilung.
 
 ## 🌐 Buch V: Vernetzung (Globale Föderation)
-- §1_Foederation\Netzwerk_Logik.md – Das dezentrale Mesh-Protokoll.
-- §2_Resilienz\Krisen_Protokolle.md – Globale Solidarität & Schwarm-Logik.
-- §3_Frontier\Weltraum_Logik.md – Nachhaltige Expansion & Exoplanetare Ethik.
+- 01_Foederation\Netzwerk_Logik.md – Das dezentrale Mesh-Protokoll.
+- 02_Resilienz\Krisen_Protokolle.md – Globale Solidarität & Schwarm-Logik.
+- 03_Frontier\Weltraum_Logik.md – Nachhaltige Expansion & Exoplanetare Ethik.
 
 ## 🌉 Buch VI: Transition (Der Weg der mäßigration)
-- §1_Koexistenz\mäßigration_Protokoll.md – Legacy-Brücken & Sog-Effekt-Strategie.
-- §2_Infrastruktur\Umbau_Protokoll.md – Physikalisches Refactoring (Netze/Energie).
-- §3_Psychologie\Bewusstseins_Wandel.md – Angstbewältigung & Identitätstransformation.
-- §4_Integritaet\Wachsamkeits_Modul.md – Schutz vor technokratischer Erstarrung.
+- 01_Koexistenz\mäßigration_Protokoll.md – Legacy-Brücken & Sog-Effekt-Strategie.
+- 02_Infrastruktur\Umbau_Protokoll.md – Physikalisches Refactoring (Netze/Energie).
+- 03_Psychologie\Bewusstseins_Wandel.md – Angstbewältigung & Identitätstransformation.
+- 04_Integritaet\Wachsamkeits_Modul.md – Schutz vor technokratischer Erstarrung.
 
 ---
 

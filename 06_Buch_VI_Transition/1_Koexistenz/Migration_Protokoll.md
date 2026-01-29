@@ -5,9 +5,9 @@
 - Bridge-Filter: Umrechnungslogik von Fiat-Währungen in Puls-Einheiten (Energie-Basis).
 - Insel-mäßigration: Schrittweise Deklaration autonomer Beta-Cluster.
 
-## II. ExpertenüÜbersetzung
-- Strategie der Irrelevanz: ÜÜberwindung alter Staaten durch üÜberlegene Effizienz (Leidminimierung).
-- Ressourcen-Rekontextualisierung: ÜÜberführung von Privateigentum in die Allmende.
+## II. Expertenübersetzung
+- Strategie der Irrelevanz: überwindung alter Staaten durch überlegene Effizienz (Leidminimierung).
+- Ressourcen-Rekontextualisierung: überführung von Privateigentum in die Allmende.
 - Parallel-Justiz: Etablierung von Mediation als globalem Standard vor formeller Anerkennung.
 
 ## III. Laienverständnis

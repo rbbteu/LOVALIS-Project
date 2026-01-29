@@ -9,5 +9,5 @@ Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV §3.§7) erkenn
 - **Ludische Räume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
 
 ## III. Kernbotschaft
-Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aÜber wir lassen den Stolz der ÜÜberwindung.
+Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aüber wir lassen den Stolz der überwindung.
 

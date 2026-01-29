@@ -1,4 +1,4 @@
-﻿# §0§4_LEGACY: PUBLIC INTERFACE
+﻿# §004_LEGACY: PUBLIC INTERFACE
 **Context:** The End of the Journey.
 **Focus:** Dignity and Fairness.
 

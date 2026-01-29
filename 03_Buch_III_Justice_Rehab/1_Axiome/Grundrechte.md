@@ -5,7 +5,7 @@
 - Integritäts-Garantie: Absolute Unversehrtheit als Primär-Constraint.
 - Veto-Vorbehalt durch die §1§3. Instanz bei Detektion von systemischem Leid.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkohärenzen.
 - Restitutions-Prinzip: Fokus auf Wiederherstellung und Wiedergutmachung.
 - Präventive Spannungs-Analyse zur Vermeidung von Konflikteskalation.

@@ -1,4 +1,4 @@
-﻿# §0§3_FRICTION: BASE LAYER
+﻿# §003_FRICTION: BASE LAYER
 **Context:** Conflict, Crime, and Mental Health
 **System Function:** Restoration & De-escalation (No Punishment)
 

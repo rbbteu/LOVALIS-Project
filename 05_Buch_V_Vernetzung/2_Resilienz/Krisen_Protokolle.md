@@ -5,7 +5,7 @@
 - Globale Daten-Replikation: Sofortige Open-Source-Verfügbarkeit von Krisenlösungen.
 - Schwarm-Koordination: Temporäre Inter-Cluster-Triaden für transregionale Bedrohungen.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Subsidiarität statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
 - Automatische Auflösung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
 - Präventive Redundanz: §3§0-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.

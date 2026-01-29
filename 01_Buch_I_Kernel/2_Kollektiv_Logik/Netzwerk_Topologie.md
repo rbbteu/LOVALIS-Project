@@ -2,9 +2,9 @@
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = §1§5§0 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei ÜÜberschreitung der Kapazität.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazität.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - **Anti-Anonymitäts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
 - **Care-Ratio**: §1:§1§1 (§§1§3 Ratsmitglieder auf §1§5§0 Bürger).
 

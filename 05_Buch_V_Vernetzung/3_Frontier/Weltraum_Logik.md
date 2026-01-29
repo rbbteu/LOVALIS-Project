@@ -5,7 +5,7 @@
 - Non-Contamination-Directive: Schutz potenzieller außerirdischer Biosphären (§§1§3).
 - Open-Space-Policy: Alle Weltraum-Erkenntnisse sind globales Gemeingut.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Prävention von Space-Feudalismus durch Anwendung des Codex Logica im All.
 - Erweiterte Rolle des Ankers Frontier (HD-§0§7) für orbitale Resilienz.
 - Beibehaltung des mäßigrationsrechts (§§2§6) zwischen Erde und All.

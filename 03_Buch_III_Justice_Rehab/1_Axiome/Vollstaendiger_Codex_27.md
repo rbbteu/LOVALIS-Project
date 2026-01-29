@@ -4,7 +4,7 @@
 - Invariante §1-§2§7: Jedes Gesetz ist als harter Constraint im System-Validator hinterlegt.
 - Trigger: Jede Verletzung (L_inc > §0) führt zum sofortigen Incident-Protokoll (Buch III, Kap. §2).
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Diese §2§7 Gesetze bilden die 'DNA' der Logica-Zivilisation. 
 - Sie sind hierarchisch gleichwertig; Kollisionen werden durch die §1§3. Instanz aufgelöst.
 

@@ -5,7 +5,7 @@
 - Mitose-Trigger-Logik: Simulation von Zellteilung ab N=§1§4§0 Bürgern.
 - Feedback-Loop: Integration von Bürger-Feedback in den Deep-Scan-Algorithmus.
 
-## II. ExpertenüÜbersetzung
+## II. Expertenübersetzung
 - Transformation von Governance in Moderation: Die Anker als Facilitator.
 - Institutionalisierung der Fehlerkultur durch 'Debugging-Events'.
 - Sicherstellung von Minderheitenschutz durch die §1§3. Instanz im Konsensprozess.

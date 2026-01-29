@@ -16,10 +16,10 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 - **HD-§0§8 (Infrastruktur/Space):** Primär-Validator für §§1§5 (Werkzeug), §§1§6 (Mobilität) und §§1§7 (Wartbarkeit).
 
 ### Domäne KOPF (Wächter der Logik)
-- **KP-§0§9 (Budget/Puls):** ÜÜberwachung der Puls-Flüsse nach Buch II.
+- **KP-§0§9 (Budget/Puls):** überwachung der Puls-Flüsse nach Buch II.
 - **KP-§1§0 (Recht/Codex):** Zentraler Verwalter der Invarianten §§1§9, §§2§3, §§2§5 und §§2§7.
 - **KP-§1§1 (Innovation/Daten):** Primär-Validator für §§2§0, §§2§1 und §§2§2 (Daten-Souveränität & Algorithmen).
 - **KP-§1§2 (External):** Primär-Validator für §§2§4 (Veto) und §§2§6 (mäßigration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen ÜÜberprüfung der Anker-Rolle durch die §1§3. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die §1§3. Instanz.

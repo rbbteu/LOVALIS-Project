@@ -5,8 +5,8 @@
 - Demurrage-Mechanismus: Automatischer Rückfluss nicht genutzter Einheiten (Halbwertszeit).
 - Kopplung der Geldmenge M an reale Regenerationsraten (E_gen).
 
-## II. ExpertenüÜbersetzung
-- KyÜbernetische Ressourcensteuerung statt klassischer Marktmechanismen.
+## II. Expertenübersetzung
+- kybernetische Ressourcensteuerung statt klassischer Marktmechanismen.
 - Prävention von Akkumulation und Machtkonzentration durch Währungsdesign.
 - Entropie-basierte Bepreisung zur ökologischen Lenkung.
 

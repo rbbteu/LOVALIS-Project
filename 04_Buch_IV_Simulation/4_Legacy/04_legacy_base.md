@@ -1,4 +1,4 @@
-﻿# §0§4_LEGACY: BASE LAYER
+﻿# §004_LEGACY: BASE LAYER
 **Context:** The Elder Phase (§§6§5+), Death, and Inheritance
 **System Function:** Wisdom Retention & Entropy Reset
 

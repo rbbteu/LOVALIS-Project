@@ -1,4 +1,4 @@
-﻿# Buch II | Kapitel §1: Die puls-KyÜbernetik (Erweiterte Spezifikation)
+﻿# Buch II | Kapitel §1: Die puls-kybernetik (Erweiterte Spezifikation)
 
 ## I. Mathematische Absicherung
 - Kopplung der Geldmenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
@@ -8,7 +8,7 @@
 ## II. Governance-Koppelung (Die Hand-Anker)
 - **HD-§0§5 & HD-§0§6:** Definieren die physische Basis für die Puls-Emission.
 - **KP-§0§9 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
-- **KP-§1§0 (Recht):** ÜÜberwacht, dass die Puls-Allokation niemals §§1§0 (Souveränität) verletzt.
+- **KP-§1§0 (Recht):** überwacht, dass die Puls-Allokation niemals §§1§0 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
 §1. Erfassung der Energie-Kapazität (Anker Energie).
