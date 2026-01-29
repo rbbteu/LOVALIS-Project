@@ -35,7 +35,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ---
 
-## ?? Sicherheits-Hinweis (Submarine Mode)
+## Sicherheits-Hinweis (Submarine Mode)
 Wenn die Antworten eine Resonanz von > 70% zeigen, kann vorsichtig mit der Einf�hrung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.

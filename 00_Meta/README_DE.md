@@ -6,7 +6,7 @@
 
 ---
 
-## ?? SYSTEM ARCHITEKTUR
+## SYSTEM ARCHITEKTUR
 
 Dieser Core besteht aus drei interagierenden Komponenten:
 
