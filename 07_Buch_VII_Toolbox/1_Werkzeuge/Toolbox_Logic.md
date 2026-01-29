@@ -1,10 +1,13 @@
-# Buch VII | The Toolbox
-## 7.1 Das V-Gate
-- **Formel:** V = T ∩ O ∩ E.
-- **Zweck:** Prüfung auf Machbarkeit, Nutzen und Ethik.
+# Buch VII: Die Werkzeuge
 
-## 7.2 Die Grand Tour
-- **Phase:** 18–21 Jahre. Rotation durch alle Sektoren.
+## 1. Das V-Gate (Entscheidungs-Filter)
+Eine mentale oder digitale Schablone für Entscheidungen:
+- Ist es wahr? (Fakten)
+- Ist es notwendig? (Ressourcen)
+- Ist es gütig? (Leidminimierung)
 
-## 7.3 Das Resonance Ledger
-- **Metrik:** Wert = Zeit * Impact. Sichtbarmachung von Care-Arbeit.
+## 2. Die Grand Tour
+Zwischen dem 18. und 21. Lebensjahr rotieren junge Erwachsenen durch alle 12 Anker-Bereiche, um ein ganzheitliches Verständnis der Gesellschaft zu erlangen.
+
+## 3. Das Resonance Ledger
+Ein dezentrales Hauptbuch, das 'unsichtbare' Arbeit (Pflege, Kunst, Erziehung) sichtbar macht und wertschätzt, ohne sie zu kommerzialisieren.

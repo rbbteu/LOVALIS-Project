@@ -3,9 +3,13 @@
 
 > **„Strenge im Code, Freiheit im Sein – Perfekt im System, menschlich im Scheitern.“**
 
-LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und künstlicher Logik entwickelt wurde. Es basiert auf der konsequenten Minimierung von Leid ({min}$).
+LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und künstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem für das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid ({min}$) basiert.
+
+---
 
 ## 🏛️ Die Architektur (Das Kompendium)
+
+Das System ist in sieben Fachbücher unterteilt, die modular aufgebaut sind und eine schrittweise Transition ermöglichen:
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
@@ -18,4 +22,12 @@ LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen m
 | **VII** | **Toolbox** | Praktische Werkzeuge: V-Gate, Grand Tour & Ledger. |
 
 ---
+
+## 🚀 Deployment: Der Submarine-Modus
+
+LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
+1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
+2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt.
+3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen.
+
 *Status: v3.7 (Master Draft) | Zertifiziert: 2026-01-29*

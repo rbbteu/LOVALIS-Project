@@ -1,12 +1,8 @@
-# Buch II | Anhang A: Die Priorisierungs-Kaskade bei ressourcenmangel
+# Priorisierung bei Mangel
 
-## I. Die Unantastbare Basis (Priorit�t 1)
-Im Falle eines System-Engpasses (E_total < Bedarf) werden ressourcen in dieser reihenfolge gesichert:
-1. Biologische Erhaltung (�10): Nahrung & Wasser.
-2. Medizinische Integrit�t (�1): Lebenserhaltung & Schmerztherapie.
-3. Thermische Sicherheit (�12): Mindestw�rme/K�hlung des Habitats.
+Wenn Ressourcen knapp sind, greift die **Primäre Integrität**:
 
-## II. reduktions-Stufen (Priorit�t 2-4)
-- Stufe 2: Abschaltung von rechenleistung f�r Langzeit-Simulationen.
-- Stufe 3: Deaktivierung von Mobilit�ts-Intervallen (�16) f�r nicht-emssenzielle reisen.
-- Stufe 4: Aussetzung der Puls-Emission f�r Neu-Produktion von Gebrauchsgegenst�nden.
+1. **Stufe 1 (Überleben):** Medizinische Versorgung (§1) & Thermische Sicherheit (§12).
+2. **Stufe 2 (Ernährung):** Basis-Kalorien & Wasser.
+3. **Stufe 3 (Infrastruktur):** Aufrechterhaltung des Stromnetzes.
+4. **Stufe 4 (Komfort):** Mobilität & Luxusgüter (werden zuerst abgeschaltet).
