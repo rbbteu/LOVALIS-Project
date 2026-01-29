@@ -1,46 +1,46 @@
-# Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil 2: Hand-Dom�ne)
+# Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil 2: Hand-Domäne)
 
-## �10 Die ressourcen-Souver�nit�t
-- **Technische Spezifikation:** Zuweisung eines Basis-Vektors f�r Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
-- **Experten�bersetzung:** Eliminierung der biologischen Knappheit als Herrschaftsinstrument. Der physische Erhalt des Individuums ist eine System-Konstante.
-- **Laienverst�ndnis:** Du hast immer genug zu emssen, zu trinken und Kleidung. Das ist dein Grundrecht, egal was du tust.
+## §10 Die Ressourcen-Souveränität
+- **Technische Spezifikation:** Zuweisung eines Basis-Vektors für Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
+- **Expertenübersetzung:** Eliminierung der biologischen Knappheit als Herrschaftsinstrument. Der physische Erhalt des Individuums ist eine System-Konstante.
+- **Laienverständnis:** Du hast immer genug zu essen, zu trinken und Kleidung. Das ist dein Grundrecht, egal was du tust.
 
-## �11 Das recht auf raum
-- **Technische Spezifikation:** Zuweisung von Individual-raum-Modulen (Sicherstellung von Privatsph�re) und Zugang zu Gemeing�tern. 
-- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder �berbelegung.
-- **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen r�ckzugsort (dein Zuhause), der dir geh�rt und in dem du sicher bist.
+## §11 Das Recht auf Raum
+- **Technische Spezifikation:** Zuweisung von Individual-Raum-Modulen (Sicherstellung von Privatsphäre) und Zugang zu Gemeingütern.
+- **Expertenübersetzung:** Territoriale Sicherheit als psychologischer Stabilitätsfaktor. Verbot von Obdachlosigkeit oder Überbelegung.
+- **Laienverständnis:** Du hast ein Anrecht auf einen eigenen Rückzugsort (dein Zuhause), der dir gehört und in dem du sicher bist.
 
-## �12 Die Energie-Garantie
-- **Technische Spezifikation:** Anschluss an das lokale Energienetz (Thermal/Elektrisch) innerhalb des T.�.E.-rahmens.
-- **Experten�bersetzung:** Energieautonomie des Individuums zur F�rderung der Teilhabe. Energiearmut gilt als logischer Bruch im System.
-- **Laienverst�ndnis:** Licht, W�rme und Strom sind f�r dich immer verf�gbar.
+## §12 Die Energie-Garantie
+- **Technische Spezifikation:** Anschluss an das lokale Energienetz (Thermal/Elektrisch) innerhalb des T.Ö.E.-Rahmens.
+- **Expertenübersetzung:** Energieautonomie des Individuums zur Förderung der Teilhabe. Energiearmut gilt als logischer Bruch im System.
+- **Laienverständnis:** Licht, Wärme und Strom sind für dich immer verfügbar.
 
-## �13 Die �kologische Treuh�nderschaft
-- **Technische Spezifikation:** Verpflichtung zur Minimierung des �kologischen Fu�abdrucks. renaturierungs-Algorithmus bei Fl�chennutzung.
-- **Experten�bersetzung:** Das Eigentumsrecht an Land wird durch ein Nutzungsrecht mit Erhaltungspflicht ersetzt. Der Cluster ist Treuh�nder der Biosph�re.
-- **Laienverst�ndnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir daf�r, dass die Natur drumherum gesund bleibt.
+## §13 Die ökologische Treuhänderschaft
+- **Technische Spezifikation:** Verpflichtung zur Minimierung des ökologischen Fußabdrucks. Renaturierungs-Algorithmus bei Flächennutzung.
+- **Expertenübersetzung:** Das Eigentumsrecht an Land wird durch ein Nutzungsrecht mit Erhaltungspflicht ersetzt. Der Cluster ist Treuhänder der Biosphäre.
+- **Laienverständnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir dafür, dass die Natur drumherum gesund bleibt.
 
-## �14 Das Verbot der ressourcen-Verschwendung
-- **Technische Spezifikation:** �berwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne recycling) triggert einen System-Audit.
-- **Experten�bersetzung:** Effizienzgebot zur Sicherung der langristigen System-resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
-- **Laienverst�ndnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerst�rt oder verschwendet, muss beim reparieren helfen.
+## §14 Das Verbot der Ressourcen-Verschwendung
+- **Technische Spezifikation:** Überwachung von Stoffkreisläufen. Vorsätzliche Entropie-Erhöhung (Müll ohne Recycling) triggert einen System-Audit.
+- **Expertenübersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung schädigt die Gemeinschafts-Pulse.
+- **Laienverständnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerstört oder verschwendet, muss beim Reparieren helfen.
 
-## �15 Das recht auf Werkzeug
-- **Technische Spezifikation:** Zugang zu �ffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
-- **Experten�bersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische L�sungen selbst zu erschaffen.
-- **Laienverst�ndnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
+## §15 Das Recht auf Werkzeug
+- **Technische Spezifikation:** Zugang zu öffentlichen Fertigungsstätten (FabLabs/Werkstätten). Open-Source-Hardware-Garantie.
+- **Expertenübersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische Lösungen selbst zu erschaffen.
+- **Laienverständnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
 
-## �16 Die Mobilit�ts-reiheit
-- **Technische Spezifikation:** Zugang zu geteilten Transport-ressourcen (Transit-API). Verbot der Bewegungseinschr�nkung ohne akuten Leid-Vektor.
-- **Experten�bersetzung:** Physische Mobilit�t als Voraussetzung f�r soziale und berufliche Entfaltung.
-- **Laienverst�ndnis:** Du kannst dich rei bewegen und die Transportmittel des Systems nutzen, um �berall hinzukommen.
+## §16 Die Mobilitäts-Freiheit
+- **Technische Spezifikation:** Zugang zu geteilten Transport-Ressourcen (Transit-API). Verbot der Bewegungseinschränkung ohne akuten Leid-Vektor.
+- **Expertenübersetzung:** Physische Mobilität als Voraussetzung für soziale und berufliche Entfaltung.
+- **Laienverständnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um überall hinzukommen.
 
-## �17 Das Prinzip der Wartbarkeit
-- **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter m�mssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
-- **Experten�bersetzung:** Investitionsschutz f�r die Gemeinschafts-Energie. Nachhaltigkeit durch Langlebigkeit.
-- **Laienverst�ndnis:** Alles, was wir bauen, h�lt lange und kann leicht repariert werden. Wegwerfprodukte gibt es nicht.
+## §17 Das Prinzip der Wartbarkeit
+- **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle Güter müssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
+- **Expertenübersetzung:** Investitionsschutz für die Gemeinschafts-Energie. Nachhaltigkeit durch Langlebigkeit.
+- **Laienverständnis:** Alles, was wir bauen, hält lange und kann leicht repariert werden. Wegwerfprodukte gibt es nicht.
 
-## �18 Die Entropie-Grenze
-- **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen �kologischen Einfluss nachweisen.
-- **Experten�bersetzung:** Die Thermodynamik ist die oberste richterin �ber technische Projekte (Limitierung der Umweltbelastung).
-- **Laienverst�ndnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
+## §18 Die Entropie-Grenze
+- **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
+- **Expertenübersetzung:** Die Thermodynamik ist die oberste Richterin über technische Projekte (Limitierung der Umweltbelastung).
+- **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
