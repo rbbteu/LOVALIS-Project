@@ -2,10 +2,10 @@
 
 ## I. Technische Spezifikation
 - Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
-- Integrit�ts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
+- Integritäts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
 - Veto-Vorbehalt durch die 13. Instanz bei Detektion von systemischem Leid.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkoh�renzen.
 - Restitutions-Prinzip: Fokus auf Wiederherstellung und Wiedergutmachung.
 - Pr�ventive Spannungs-Analyse zur Vermeidung von Konflikteskalation.

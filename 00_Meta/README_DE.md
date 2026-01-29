@@ -1,5 +1,5 @@
 # LOGICA VALITAS CORE (v3.7)
-### Das Betriebssystem f�r Gesellschaft, Selbst und Systeme.
+### Das Betriebssystem für Gesellschaft, Selbst und Systeme.
 
 > **Status:** Active / Genesis Phase
 > **Version:** 3.7 (Refined Logic)
@@ -16,13 +16,13 @@ Der rechtliche und logische Code.
 * **Ziel:** Eine logikbasierte Grundordnung ohne Widerspr�che.
 
 ### 2. [VALITAS LIFE MATRIX](./valitas-life-matrix) (Das Interface)
-Das Betriebssystem f�r das Zusammenleben.
+Das Betriebssystem für das Zusammenleben.
 * **Inhalt:** Human OS, Sicherheitskonzepte, Rotationsprinzipien.
 * **Ziel:** Reibungslose Interaktion zwischen Individuen.
 
 ### 3. [VALITAS TOOLBOX](./valitas-toolbox) (Die Applikation)
-Die Werkzeuge f�r den Alltag.
-* **Inhalt:** Konkrete L�sungen f�r Arbeit, Familie und Staat.
+Die Werkzeuge für den Alltag.
+* **Inhalt:** Konkrete Lösungen für Arbeit, Familie und Staat.
 * **Struktur:** Jedes Tool folgt dem L-Protokoll (Base -> Logic -> Public).
 
 ---
@@ -31,7 +31,7 @@ Die Werkzeuge f�r den Alltag.
 
 Hast du ein konkretes Problem?
 ?? **[�FFNE DIE NEXUS MAP](./VALITAS_NEXUS_MAP.md)**
-*(Finde dein Problem und klicke direkt zur L�sung)*
+*(Finde dein Problem und klicke direkt zur Lösung)*
 
 ---
 *Generiert durch Valitas-Genesis-Protocol.*

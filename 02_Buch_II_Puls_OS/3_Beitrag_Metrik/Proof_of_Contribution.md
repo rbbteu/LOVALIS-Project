@@ -5,11 +5,11 @@
 - Beitrags-Formel: Wertung nach Zeit, Komplexit�t und T.�.E.-Relevanz.
 - Automatisierungs-Dividende: Effizienzgewinne reduzieren die kollektive Arbeitslast.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Transformation von Lohnarbeit in sinnstiftenden Systembeitrag.
-- Incentive-Steuerung f�r systemkritische Infrastruktur-Aufgaben.
+- Incentive-Steuerung für systemkritische Infrastruktur-Aufgaben.
 - Entkopplung von Existenzsicherung und Produktivit�t.
 
 ## III. Laienverst�ndnis
-- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
+- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr Möglichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
 - Kernbotschaft: Freiheit durch Sicherheit � Arbeit als Wahl, nicht als Zwang.

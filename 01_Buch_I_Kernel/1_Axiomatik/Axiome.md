@@ -6,11 +6,11 @@ V_toe(Op) = (T >= n_min) && (� <= E_gen) && (L_inc == 0)
 
 - **T (Technik):** Effizienz-Koeffizient n. Minimierung von Ressourcen-Entropie.
 - **� (�kologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht überschreiten.
-- **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) l�st einen Kernel-Panic (Veto) aus.
+- **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) löst einen Kernel-Panic (Veto) aus.
 
-## II. Experten�bersetzung (Governance-Ebene)
+## II. ExpertenÜbersetzung (Governance-Ebene)
 Der T.�.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethische Grundfragen der menschlichen Willk�r. Ein wirtschaftlicher Vorteil darf niemals gegen �kologische Instabilit�t oder individuelles Leid aufgewogen werden.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
-Logica ist wie ein Schutzschild f�r dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauber (�) und freundlich (E) sind.
+Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauber (�) und freundlich (E) sind.
 *Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, über Menschen krank macht oder die Natur zerst�rt.

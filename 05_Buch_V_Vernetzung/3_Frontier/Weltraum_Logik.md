@@ -2,12 +2,12 @@
 
 ## I. Technische Spezifikation
 - Closed-Loop-Life-Support: 99% stoffliche Kreislauff�hrung in orbitalen Habitaten.
-- Non-Contamination-Directive: Schutz potenzieller au�erirdischer Biosph�ren (�13).
+- Non-Contamination-Directive: Schutz potenzieller außerirdischer Biosph�ren (�13).
 - Open-Space-Policy: Alle Weltraum-Erkenntnisse sind globales Gemeingut.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Pr�vention von Space-Feudalismus durch Anwendung des Codex Logica im All.
-- Erweiterte Rolle des Ankers Frontier (HD-07) f�r orbitale Resilienz.
+- Erweiterte Rolle des Ankers Frontier (HD-07) für orbitale Resilienz.
 - Beibehaltung des Migrationsrechts (�26) zwischen Erde und All.
 
 ## III. Laienverst�ndnis

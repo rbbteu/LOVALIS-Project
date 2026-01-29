@@ -5,10 +5,10 @@
 - Zero-Sum-Constraint: Schutz der lokalen Systemstabilit�t bei Exporten.
 - Entropie-basierte Logistik: Priorisierung kurzer Ketten.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engp�ssen.
 - Hoher Autarkiegrad (min. 70%) zur Resilienz-Sicherung.
-- Automatisches Solidarit�ts-Protokoll bei lokalen Krisen.
+- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.

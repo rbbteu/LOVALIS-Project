@@ -5,7 +5,7 @@
 - Incident-Metrik: Messung der Leid-Steigerung (L_inc) zur Priorisierung.
 - System-Learning: Anonymisierte Dokumentation im Global-Log zur pr�ventiven Fehlervermeidung.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Triaden-Gremium zur Konfliktl�sung (Konflikt, Recht, 13. Instanz).
 - Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombek�mpfung.

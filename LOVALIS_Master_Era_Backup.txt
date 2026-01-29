@@ -1,6 +1,6 @@
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_base.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_base.md ---
 
 # 01_ORIGIN: BASE LAYER
 **Context:** The Developmental Phase (0-18 Years)
@@ -28,7 +28,7 @@ The System acts as the logistical backbone for the family unit.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_logic.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_logic.md ---
 
 # 01_ORIGIN: LOGIC LAYER
 **Context:** Sociological Derivation
@@ -56,7 +56,7 @@ The System acts as the logistical backbone for the family unit.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_public.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\01_ORIGIN\01_origin_public.md ---
 
 # 01_ORIGIN: PUBLIC INTERFACE
 **Context:** Growing up in Valitas
@@ -84,7 +84,7 @@ Imagine a game where you have Admin Access to the world. That is your childhood.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_base.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_base.md ---
 
 # 02_MOTION: BASE LAYER
 **Context:** The Operating Phase (18-65 Years)
@@ -119,7 +119,7 @@ Housing is defined as a Service, not an Asset.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_logic.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_logic.md ---
 
 # 02_MOTION: LOGIC LAYER
 **Context:** Economic & Social Efficiency
@@ -148,7 +148,7 @@ Housing is defined as a Service, not an Asset.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_public.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\02_MOTION\02_motion_public.md ---
 
 # 02_MOTION: PUBLIC INTERFACE
 **Context:** Adulting in Valitas
@@ -181,7 +181,7 @@ Life changes. Your home changes with it.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_base.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_base.md ---
 
 # 03_FRICTION: BASE LAYER
 **Context:** Conflict, Crime, and Mental Health
@@ -214,7 +214,7 @@ Life changes. Your home changes with it.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_logic.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_logic.md ---
 
 # 03_FRICTION: LOGIC LAYER
 **Context:** Criminology & Psychology
@@ -243,7 +243,7 @@ Life changes. Your home changes with it.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_public.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\03_FRICTION\03_friction_public.md ---
 
 # 03_FRICTION: PUBLIC INTERFACE
 **Context:** When things go wrong.
@@ -278,7 +278,7 @@ You feel burned out? You are depressed?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_base.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_base.md ---
 
 # 04_LEGACY: BASE LAYER
 **Context:** The Elder Phase (65+), Death, and Inheritance
@@ -308,7 +308,7 @@ You feel burned out? You are depressed?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_logic.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_logic.md ---
 
 # 04_LEGACY: LOGIC LAYER
 **Context:** Sociology & Game Theory
@@ -338,7 +338,7 @@ You feel burned out? You are depressed?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_public.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\04_LEGACY\04_legacy_public.md ---
 
 # 04_LEGACY: PUBLIC INTERFACE
 **Context:** The End of the Journey.
@@ -367,7 +367,7 @@ We don't keep you alive just to bill your insurance.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\README.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-life-matrix\README.md ---
 
 # VALITAS LIFE MATRIX
 **Project:** Societal Documentation
@@ -386,7 +386,7 @@ We don't keep you alive just to bill your insurance.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\01_BASE.md ---
 
 # TOOL: ARCHETYPE COMPASS (BASE)
 Vector = Max(Hand, Heart, Head).
@@ -394,7 +394,7 @@ Vector = Max(Hand, Heart, Head).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\02_LOGIC.md ---
 
 # LOGIC
 Trait vs State. Align work with biology.
@@ -402,7 +402,7 @@ Trait vs State. Align work with biology.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\ARCHETYPE_COMPASS\03_PUBLIC.md ---
 
 # STARTER-KIT
 Test: Do you get energy from Things, People, or Systems?
@@ -410,7 +410,7 @@ Test: Do you get energy from Things, People, or Systems?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\01_BASE.md ---
 
 # BASE
 Formula: Energy_Net = (Sleep+Food) - (Stress+Work).
@@ -418,7 +418,7 @@ Formula: Energy_Net = (Sleep+Food) - (Stress+Work).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\02_LOGIC.md ---
 
 # LOGIC
 The body is a biological machine. Ignoring maintenance leads to crash.
@@ -426,7 +426,7 @@ The body is a biological machine. Ignoring maintenance leads to crash.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\03_PUBLIC.md ---
 
 # KIT
 Daily Check: 1. Fuel? 2. Stress < 7? 3. Sleep > 7h? If 2x No -> Sleep.
@@ -434,7 +434,7 @@ Daily Check: 1. Fuel? 2. Stress < 7? 3. Sleep > 7h? If 2x No -> Sleep.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\01_BASE.md ---
 
 # TOOL: FOCUS FILTER (BASE)
 Value = (Impact * Scale) - Friction.
@@ -442,7 +442,7 @@ Value = (Impact * Scale) - Friction.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\02_LOGIC.md ---
 
 # LOGIC
 Busy is not productive. Entropy reduction.
@@ -450,7 +450,7 @@ Busy is not productive. Entropy reduction.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\FOCUS_FILTER\03_PUBLIC.md ---
 
 # STARTER-KIT
 Audit: Delete Type 4 Tasks (Low Impact/High Friction).
@@ -458,7 +458,7 @@ Audit: Delete Type 4 Tasks (Low Impact/High Friction).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\01_BASE.md ---
 
 # BASE
 Info without Action = Entropy.
@@ -466,7 +466,7 @@ Info without Action = Entropy.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\02_LOGIC.md ---
 
 # LOGIC
 Anxiety Loop: Fear without agency releases cortisol.
@@ -474,7 +474,7 @@ Anxiety Loop: Fear without agency releases cortisol.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\MEDIA_SHIELD\03_PUBLIC.md ---
 
 # KIT
 3-Sec Filter: Is it Data? Does it affect me? Can I fix it? -> If No, Block.
@@ -482,7 +482,7 @@ Anxiety Loop: Fear without agency releases cortisol.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\01_BASE.md ---
 
 # BASE
 Formula: V = T n O n E. Decision is valid only if Technical, Operational, and Ethical checks pass.
@@ -490,7 +490,7 @@ Formula: V = T n O n E. Decision is valid only if Technical, Operational, and Et
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\02_LOGIC.md ---
 
 # LOGIC
 Prevents Sunk Cost Fallacy. Forces Real-Time Assessment of ROI.
@@ -498,7 +498,7 @@ Prevents Sunk Cost Fallacy. Forces Real-Time Assessment of ROI.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\01_PERSONAL\V_GATE\03_PUBLIC.md ---
 
 # KIT
 Checklist: 1. Possible? (T) 2. Worth it? (O) 3. Fair? (E). If 1x No -> STOP.
@@ -506,7 +506,7 @@ Checklist: 1. Possible? (T) 2. Worth it? (O) 3. Fair? (E). If 1x No -> STOP.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\01_BASE.md ---
 
 # TOOL: CONFLICT SOLVER (BASE)
 Game Theory: Tit-for-Tat with Forgiveness.
@@ -514,7 +514,7 @@ Game Theory: Tit-for-Tat with Forgiveness.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\02_LOGIC.md ---
 
 # LOGIC
 Conflict is expensive entropy. Cooperation is efficiency.
@@ -522,7 +522,7 @@ Conflict is expensive entropy. Cooperation is efficiency.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CONFLICT_SOLVER\03_PUBLIC.md ---
 
 # STARTER-KIT
 Script: 'Stop. State Data. Negotiate.'
@@ -530,7 +530,7 @@ Script: 'Stop. State Data. Negotiate.'
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\01_BASE.md ---
 
 # TOOL: COUNCIL PROTOCOL (BASE)
 Roles: Proposer, Calculator, Guardian (Veto).
@@ -538,7 +538,7 @@ Roles: Proposer, Calculator, Guardian (Veto).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\02_LOGIC.md ---
 
 # LOGIC
 Separation of Charisma, Math, and Ethics.
@@ -546,7 +546,7 @@ Separation of Charisma, Math, and Ethics.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\COUNCIL_PROTOCOL\03_PUBLIC.md ---
 
 # STARTER-KIT
 Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
@@ -554,7 +554,7 @@ Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\01_BASE.md ---
 
 # BASE
 Intrinsic Motivation > Extrinsic Force.
@@ -562,7 +562,7 @@ Intrinsic Motivation > Extrinsic Force.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\02_LOGIC.md ---
 
 # LOGIC
 Autonomy Support: Kids hate control, not learning.
@@ -570,7 +570,7 @@ Autonomy Support: Kids hate control, not learning.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\CURIOSITY_CONTRACT\03_PUBLIC.md ---
 
 # KIT
 Template: Kid sets goal ('Beat Level 5'). Parent sets reward ('No Nagging').
@@ -578,7 +578,7 @@ Template: Kid sets goal ('Beat Level 5'). Parent sets reward ('No Nagging').
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\01_BASE.md ---
 
 # BASE
 Value = Task_Time * Impact_Factor. Goal: Equilibrium.
@@ -586,7 +586,7 @@ Value = Task_Time * Impact_Factor. Goal: Equilibrium.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\02_LOGIC.md ---
 
 # LOGIC
 Making invisible work (cleaning) visible removes resentment.
@@ -594,7 +594,7 @@ Making invisible work (cleaning) visible removes resentment.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\RESONANCE_LEDGER\03_PUBLIC.md ---
 
 # KIT
 Excel Setup: Col A: Who, Col B: Task, Col C: Points. Weekly settlement.
@@ -602,7 +602,7 @@ Excel Setup: Col A: Who, Col B: Task, Col C: Points. Weekly settlement.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\01_BASE.md ---
 
 # BASE
 Priority = Urgency * Impact.
@@ -610,7 +610,7 @@ Priority = Urgency * Impact.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\02_LOGIC.md ---
 
 # LOGIC
 Zoning removes ego conflicts.
@@ -618,7 +618,7 @@ Zoning removes ego conflicts.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\02_GROUP\SPACE_TIME_CHARTER\03_PUBLIC.md ---
 
 # KIT
 Red Zone (7-8 AM): Efficiency Only. Penalty for dirt: 50 RP.
@@ -626,7 +626,7 @@ Red Zone (7-8 AM): Efficiency Only. Penalty for dirt: 50 RP.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\01_BASE.md ---
 
 # BASE
 Competence is independent of Identity.
@@ -634,7 +634,7 @@ Competence is independent of Identity.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\02_LOGIC.md ---
 
 # LOGIC
 Halo Effect: We cannot train bias away, we must hide the trigger.
@@ -642,7 +642,7 @@ Halo Effect: We cannot train bias away, we must hide the trigger.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\BLIND_HIRING\03_PUBLIC.md ---
 
 # KIT
 Process: 1. Work Sample. 2. Remove Names. 3. Decide.
@@ -650,7 +650,7 @@ Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\01_BASE.md ---
 
 # BASE
 Reverse Projection defines solutions.
@@ -658,7 +658,7 @@ Reverse Projection defines solutions.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\02_LOGIC.md ---
 
 # LOGIC
 Backcasting prevents extrapolating today's errors.
@@ -666,7 +666,7 @@ Backcasting prevents extrapolating today's errors.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\RETRO_CAST\03_PUBLIC.md ---
 
 # KIT
 Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's action.
@@ -674,7 +674,7 @@ Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's acti
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\01_BASE.md ---
 
 # TOOL: SPHERICAL COMPENSATION (BASE)
 Pay = Base + (Task * Peer * Client)
@@ -682,7 +682,7 @@ Pay = Base + (Task * Peer * Client)
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\02_LOGIC.md ---
 
 # LOGIC
 Monetizing Potential instead of punishing lack of skill.
@@ -690,7 +690,7 @@ Monetizing Potential instead of punishing lack of skill.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_FIRM\SPHERICAL_COMPENSATION\03_PUBLIC.md ---
 
 # STARTER-KIT
 Calculate: Base (Secure) + Bonus (Variable).
@@ -698,7 +698,7 @@ Calculate: Base (Secure) + Bonus (Variable).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\01_BASE.md ---
 
 # BASE
 Physical Sovereignty. Local Compute > Cloud Dependency.
@@ -706,7 +706,7 @@ Physical Sovereignty. Local Compute > Cloud Dependency.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\02_LOGIC.md ---
 
 # LOGIC
 Data Privacy requires physical ownership of the CPU.
@@ -714,7 +714,7 @@ Data Privacy requires physical ownership of the CPU.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\03_PUBLIC.md ---
 
 # KIT
 Bill of Materials: Raspberry Pi 4, NVMe SSD, FLIRC Case. Install UmbrelOS.
@@ -722,7 +722,7 @@ Bill of Materials: Raspberry Pi 4, NVMe SSD, FLIRC Case. Install UmbrelOS.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\01_BASE.md ---
 
 # TOOL: GLASS HOUSE PROTOCOL (BASE)
 Open Ledger for all public funds > 100 Units.
@@ -730,7 +730,7 @@ Open Ledger for all public funds > 100 Units.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\02_LOGIC.md ---
 
 # LOGIC
 Sunlight is the best disinfectant against corruption.
@@ -738,7 +738,7 @@ Sunlight is the best disinfectant against corruption.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\03_PUBLIC.md ---
 
 # STARTER-KIT
 1. Publish Ledger. 2. Enable Citizen Veto.
@@ -746,7 +746,7 @@ Sunlight is the best disinfectant against corruption.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\01_BASE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\01_BASE.md ---
 
 # BASE
 Distributed Sensing > Central Inspection.
@@ -754,7 +754,7 @@ Distributed Sensing > Central Inspection.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\02_LOGIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\02_LOGIC.md ---
 
 # LOGIC
 Citizens are sensors for entropy (potholes).
@@ -762,7 +762,7 @@ Citizens are sensors for entropy (potholes).
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\03_PUBLIC.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\04_STATE\LIQUID_FEEDBACK\03_PUBLIC.md ---
 
 # KIT
 System: 5 Upvotes per Citizen. Council must address Top 3.
@@ -770,7 +770,7 @@ System: 5 Upvotes per Citizen. Council must address Top 3.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\README.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\README.md ---
 
 # VALITAS TOOLBOX
 **Mission:** Applied Sovereignty.
@@ -788,7 +788,7 @@ System: 5 Upvotes per Citizen. Council must address Top 3.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\GRAND_OVERVIEW.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\GRAND_OVERVIEW.md ---
 
 # VALITAS PROJECT OVERVIEW
 * **REPO 1: MATRIX OS (Kernel)** - The Code & Law.
@@ -798,7 +798,7 @@ System: 5 Upvotes per Citizen. Council must address Top 3.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README.md ---
 
 # LOGICA VALITAS CORE (v3.7)
 ### The Operating System for Society, Self, and Systems.
@@ -848,10 +848,10 @@ Do you have a specific problem?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README_DE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README_DE.md ---
 
 # LOGICA VALITAS CORE (v3.7)
-### Das Betriebssystem f�r Gesellschaft, Selbst und Systeme.
+### Das Betriebssystem für Gesellschaft, Selbst und Systeme.
 
 > **Status:** Active / Genesis Phase
 > **Version:** 3.7 (Refined Logic)
@@ -868,13 +868,13 @@ Der rechtliche und logische Code.
 * **Ziel:** Eine logikbasierte Grundordnung ohne Widerspr�che.
 
 ### 2. [VALITAS LIFE MATRIX](./valitas-life-matrix) (Das Interface)
-Das Betriebssystem f�r das Zusammenleben.
+Das Betriebssystem für das Zusammenleben.
 * **Inhalt:** Human OS, Sicherheitskonzepte, Rotationsprinzipien.
 * **Ziel:** Reibungslose Interaktion zwischen Individuen.
 
 ### 3. [VALITAS TOOLBOX](./valitas-toolbox) (Die Applikation)
-Die Werkzeuge f�r den Alltag.
-* **Inhalt:** Konkrete L�sungen f�r Arbeit, Familie und Staat.
+Die Werkzeuge für den Alltag.
+* **Inhalt:** Konkrete Lösungen für Arbeit, Familie und Staat.
 * **Struktur:** Jedes Tool folgt dem L-Protokoll (Base -> Logic -> Public).
 
 ---
@@ -883,7 +883,7 @@ Die Werkzeuge f�r den Alltag.
 
 Hast du ein konkretes Problem?
 ?? **[�FFNE DIE NEXUS MAP](./VALITAS_NEXUS_MAP.md)**
-*(Finde dein Problem und klicke direkt zur L�sung)*
+*(Finde dein Problem und klicke direkt zur Lösung)*
 
 ---
 *Generiert durch Valitas-Genesis-Protocol.*
@@ -891,7 +891,7 @@ Hast du ein konkretes Problem?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\VALITAS_NEXUS_MAP.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\VALITAS_NEXUS_MAP.md ---
 
 # VALITAS NEXUS MAP
 **Usage:** Find your problem -> Click the Solution.
@@ -911,16 +911,16 @@ Hast du ein konkretes Problem?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Grundrechte.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Grundrechte.md ---
 
 # Buch III | Kapitel 1: Die Verfassungs-Axiome (Die Grundgesetze)
 
 ## I. Technische Spezifikation
 - Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
-- Integrit�ts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
+- Integritäts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
 - Veto-Vorbehalt durch die 13. Instanz bei Detektion von systemischem Leid.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkoh�renzen.
 - Restitutions-Prinzip: Fokus auf Wiederherstellung und Wiedergutmachung.
 - Pr�ventive Spannungs-Analyse zur Vermeidung von Konflikteskalation.
@@ -932,163 +932,163 @@ Hast du ein konkretes Problem?
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Hand_Gesetze_10_18.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Hand_Gesetze_10_18.md ---
 
 # Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil 2: Hand-Dom�ne)
 
-## �10 Die Ressourcen-Souver�nit�t
-- **Technische Spezifikation:** Zuweisung eines Basis-Vektors f�r Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
-- **Experten�bersetzung:** Eliminierung der biologischen Knappheit als Herrschaftsinstrument. Der physische Erhalt des Individuums ist eine System-Konstante.
+## �10 Die Ressourcen-Souveränität
+- **Technische Spezifikation:** Zuweisung eines Basis-Vektors für Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
+- **ExpertenÜbersetzung:** Eliminierung der biologischen Knappheit als Herrschaftsinstrument. Der physische Erhalt des Individuums ist eine System-Konstante.
 - **Laienverst�ndnis:** Du hast immer genug zu essen, zu trinken und Kleidung. Das ist dein Grundrecht, egal was du tust.
 
 ## �11 Das Recht auf Raum
 - **Technische Spezifikation:** Zuweisung von Individual-Raum-Modulen (Sicherstellung von Privatsph�re) und Zugang zu Gemeing�tern. 
-- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder überbelegung.
-- **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen R�ckzugsort (dein Zuhause), der dir geh�rt und in dem du sicher bist.
+- **ExpertenÜbersetzung:** Territoriale Sicherheit als psychologischer Stabilitätsfaktor. Verbot von Obdachlosigkeit oder überbelegung.
+- **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen R�ckzugsort (dein Zuhause), der dir gehört und in dem du sicher bist.
 
 ## �12 Die Energie-Garantie
 - **Technische Spezifikation:** Anschluss an das lokale Energienetz (Thermal/Elektrisch) innerhalb des T.�.E.-Rahmens.
-- **Experten�bersetzung:** Energieautonomie des Individuums zur F�rderung der Teilhabe. Energiearmut gilt als logischer Bruch im System.
-- **Laienverst�ndnis:** Licht, W�rme und Strom sind f�r dich immer verf�gbar.
+- **ExpertenÜbersetzung:** Energieautonomie des Individuums zur F�rderung der Teilhabe. Energiearmut gilt als logischer Bruch im System.
+- **Laienverst�ndnis:** Licht, W�rme und Strom sind für dich immer verf�gbar.
 
 ## �13 Die �kologische Treuh�nderschaft
 - **Technische Spezifikation:** Verpflichtung zur Minimierung des �kologischen Fu�abdrucks. Renaturierungs-Algorithmus bei Fl�chennutzung.
-- **Experten�bersetzung:** Das Eigentumsrecht an Land wird durch ein Nutzungsrecht mit Erhaltungspflicht ersetzt. Der Cluster ist Treuh�nder der Biosph�re.
+- **ExpertenÜbersetzung:** Das Eigentumsrecht an Land wird durch ein Nutzungsrecht mit Erhaltungspflicht ersetzt. Der Cluster ist Treuh�nder der Biosph�re.
 - **Laienverst�ndnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir daf�r, dass die Natur drumherum gesund bleibt.
 
 ## �14 Das Verbot der Ressourcen-Verschwendung
 - **Technische Spezifikation:** überwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
-- **Experten�bersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
+- **ExpertenÜbersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
 - **Laienverst�ndnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerst�rt oder verschwendet, muss beim Reparieren helfen.
 
 ## �15 Das Recht auf Werkzeug
 - **Technische Spezifikation:** Zugang zu öffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
-- **Experten�bersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische L�sungen selbst zu erschaffen.
+- **ExpertenÜbersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische Lösungen selbst zu erschaffen.
 - **Laienverst�ndnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
 
 ## �16 Die Mobilit�ts-Freiheit
 - **Technische Spezifikation:** Zugang zu geteilten Transport-Ressourcen (Transit-API). Verbot der Bewegungseinschr�nkung ohne akuten Leid-Vektor.
-- **Experten�bersetzung:** Physische Mobilit�t als Voraussetzung f�r soziale und berufliche Entfaltung.
+- **ExpertenÜbersetzung:** Physische Mobilit�t als Voraussetzung für soziale und berufliche Entfaltung.
 - **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um überall hinzukommen.
 
 ## �17 Das Prinzip der Wartbarkeit
-- **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter m�ssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
-- **Experten�bersetzung:** Investitionsschutz f�r die Gemeinschafts-Energie. Nachhaltigkeit durch Langlebigkeit.
+- **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter müssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
+- **ExpertenÜbersetzung:** Investitionsschutz für die Gemeinschafts-Energie. Nachhaltigkeit durch Langlebigkeit.
 - **Laienverst�ndnis:** Alles, was wir bauen, h�lt lange und kann leicht repariert werden. Wegwerfprodukte gibt es nicht.
 
 ## �18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen �kologischen Einfluss nachweisen.
-- **Experten�bersetzung:** Die Thermodynamik ist die überste Richterin über technische Projekte (Limitierung der Umweltbelastung).
+- **ExpertenÜbersetzung:** Die Thermodynamik ist die überste Richterin über technische Projekte (Limitierung der Umweltbelastung).
 - **Laienverst�ndnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Herz_Gesetze_1_9.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Herz_Gesetze_1_9.md ---
 
 # Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil 1: Herz-Dom�ne)
 
 ## �1 Das Recht auf physische Unversehrtheit
 - **Technische Spezifikation:** Verbot nicht-konsensualer Krafteinwirkung. Sensor-Trigger bei biologischen Stresssignalen ( > 0$).
-- **Experten�bersetzung:** Absolutes Gewaltverbot, inklusive staatlicher oder pr�ventiver Zwangsmittel. Nur minimale Defensiv-Neutralisierung zul�ssig.
+- **ExpertenÜbersetzung:** Absolutes Gewaltverbot, inklusive staatlicher oder pr�ventiver Zwangsmittel. Nur minimale Defensiv-Neutralisierung zul�ssig.
 - **Laienverst�ndnis:** Niemand darf dir k�rperlich wehtun oder dich festhalten. Das System sch�tzt deine Grenzen aktiv.
 
-## �2 Das Recht auf psychische Integrit�t
+## �2 Das Recht auf psychische Integrität
 - **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). überwachung von Mobbing-Mustern durch Anker Konflikt.
-- **Experten�bersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
+- **ExpertenÜbersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
 - **Laienverst�ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gef�hle geh�ren dir.
 
 ## �3 Die Freiheit der Entfaltung
 - **Technische Spezifikation:** Verbot von Berufs-Zuweisung. Bereitstellung von Bildungs-Ressourcen basierend auf intrinsischer Motivation.
-- **Experten�bersetzung:** Ende des �konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondern ein autonomer Entwicklungsknoten.
-- **Laienverst�ndnis:** Du darfst werden, wer du sein willst, ohne Angst um deine Existenz haben zu m�ssen.
+- **ExpertenÜbersetzung:** Ende des �konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondern ein autonomer Entwicklungsknoten.
+- **Laienverst�ndnis:** Du darfst werden, wer du sein willst, ohne Angst um deine Existenz haben zu müssen.
 
 ## �4 Das Recht auf soziale Sichtbarkeit
 - **Technische Spezifikation:** Monitoring der Interaktions-Rate durch Anker Inklusion. Diskretions-Protokoll bei Unterschreitung von I_min zur Einsamkeits-Pr�vention.
-- **Experten�bersetzung:** Pr�vention von Isolation als systemischer Gesundheitsfaktor. Soziale Sichtbarkeit garantiert Schutz vor Leid.
+- **ExpertenÜbersetzung:** Pr�vention von Isolation als systemischer Gesundheitsfaktor. Soziale Sichtbarkeit garantiert Schutz vor Leid.
 - **Laienverst�ndnis:** Niemand verschwindet in der Anonymit�t. Wenn du einsam wirst, bietet dir das System Gemeinschaft an.
 
 ## �5 Der Schutz der Kindheit
 - **Technische Spezifikation:** Definition von Hochsicherheits-Spielzonen. Verbot von Leistungs-Tracking und Standardisierungs-Drill.
-- **Experten�bersetzung:** Vorrang des Kindeswohls vor �konomischen Interessen. Schutz der sensibelsten Netzwerkknoten.
+- **ExpertenÜbersetzung:** Vorrang des Kindeswohls vor �konomischen Interessen. Schutz der sensibelsten Netzwerkknoten.
 - **Laienverst�ndnis:** Kinder d�rfen Kinder sein. Sie lernen spielerisch und ohne Druck.
 
 ## �6 Das Recht auf Weisheit
 - **Technische Spezifikation:** Verpflichtung zur Bereitstellung von Mentor-Netzwerken und freiem Zugang zum Logica-Wissensspeicher.
-- **Experten�bersetzung:** Wissen als öffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
+- **ExpertenÜbersetzung:** Wissen als öffentliche Infrastruktur. F�rderung des generationsÜbergreifenden Erfahrungstransfers.
 - **Laienverst�ndnis:** Du hast immer Zugang zu Lehrern und Wissen � dein ganzes Leben lang.
 
 ## �7 Die Inklusions-Garantie
-- **Technische Spezifikation:** Alle Schnittstellen (Hardware/Software) m�ssen 'UNIVERSAL_ACCESS' erf�llen. Barrieren gelten als Systemfehler.
-- **Experten�bersetzung:** Radikale Inklusion. Die Welt passt sich der Biologie des Menschen an (Alter, Behinderung, Neurodivergenz).
-- **Laienverst�ndnis:** Egal wie du dich bewegst oder wahrnimmst: Es gibt keine Hindernisse f�r dich.
+- **Technische Spezifikation:** Alle Schnittstellen (Hardware/Software) müssen 'UNIVERSAL_ACCESS' erf�llen. Barrieren gelten als Systemfehler.
+- **ExpertenÜbersetzung:** Radikale Inklusion. Die Welt passt sich der Biologie des Menschen an (Alter, Behinderung, Neurodivergenz).
+- **Laienverst�ndnis:** Egal wie du dich bewegst oder wahrnimmst: Es gibt keine Hindernisse für dich.
 
 ## �8 Das Recht auf gewaltfreie Konfliktl�sung
 - **Technische Spezifikation:** Automatischer Mediations-Trigger bei Status 'DISPUTE'. Verbot von Machtentscheidungen.
-- **Experten�bersetzung:** Ersatz des Gewaltmonopols durch ein neutrales Mediationsmonopol.
-- **Laienverst�ndnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine L�sung f�r beide Seiten sucht.
+- **ExpertenÜbersetzung:** Ersatz des Gewaltmonopols durch ein neutrales Mediationsmonopol.
+- **Laienverst�ndnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine Lösung für beide Seiten sucht.
 
-## �9 Die W�rde des Abschieds
+## �9 Die Würde des Abschieds
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
-- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
+- **ExpertenÜbersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
 - **Laienverst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Kopf_Gesetze_19_27.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Kopf_Gesetze_19_27.md ---
 
 # Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil 3: Kopf-Dom�ne)
 
 ## �19 Die totale Transparenz
 - **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unver�nderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
-- **Experten�bersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung f�r das Vertrauen in die Verwaltung.
+- **ExpertenÜbersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung für das Vertrauen in die Verwaltung.
 - **Laienverst�ndnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
 
-## �20 Die Daten-Souver�nit�t
-- **Technische Spezifikation:** Alle personenbezogenen Daten sind verschl�sselt; der Schl�ssel liegt ausschlie�lich beim Individuum. Automatisches L�schgebot nach Erf�llung des Zwecks.
-- **Experten�bersetzung:** Dateneigentum statt Datennutzung. Das Individuum hat das Recht auf das 'Digitale Vergessen'.
+## �20 Die Daten-Souveränität
+- **Technische Spezifikation:** Alle personenbezogenen Daten sind verschl�sselt; der Schl�ssel liegt ausschließlich beim Individuum. Automatisches L�schgebot nach Erf�llung des Zwecks.
+- **ExpertenÜbersetzung:** Dateneigentum statt Datennutzung. Das Individuum hat das Recht auf das 'Digitale Vergessen'.
 - **Laienverst�ndnis:** Deine Daten geh�ren dir. Das System vergisst alles über dich, was nicht mehr unbedingt gebraucht wird.
 
 ## �21 Das Verbot der Verhaltens-Profilierung
 - **Technische Spezifikation:** Verbot der Aggregation von Verhaltensdaten zur Erstellung von Charakter-Scores. Das System darf keine Vorhersagen über die 'G�te' eines Menschen treffen.
-- **Experten�bersetzung:** Schutz vor Sozialkredit-Systemen. Jeder Moment ist eine neue Chance; keine algorithmische Vorverurteilung.
-- **Laienverst�ndnis:** Es gibt keine Punkte f�r 'gutes Verhalten'. Du wirst nicht nach deiner Vergangenheit bewertet.
+- **ExpertenÜbersetzung:** Schutz vor Sozialkredit-Systemen. Jeder Moment ist eine neue Chance; keine algorithmische Vorverurteilung.
+- **Laienverst�ndnis:** Es gibt keine Punkte für 'gutes Verhalten'. Du wirst nicht nach deiner Vergangenheit bewertet.
 
 ## �22 Die algorithmische Nachvollziehbarkeit
-- **Technische Spezifikation:** Jede KI-gest�tzte Entscheidung muss in nat�rlicher Sprache begr�ndet werden k�nnen. 'Black-Box'-Systeme sind illegal.
-- **Experten�bersetzung:** Rechenschaftspflicht des Codes. Die Logik muss f�r den Menschen auditierbar bleiben.
-- **Laienverst�ndnis:** Wenn das System 'Nein' sagt, muss es dir genau erkl�ren k�nnen, warum � und zwar so, dass du es verstehst.
+- **Technische Spezifikation:** Jede KI-gest�tzte Entscheidung muss in nat�rlicher Sprache begr�ndet werden können. 'Black-Box'-Systeme sind illegal.
+- **ExpertenÜbersetzung:** Rechenschaftspflicht des Codes. Die Logik muss für den Menschen auditierbar bleiben.
+- **Laienverst�ndnis:** Wenn das System 'Nein' sagt, muss es dir genau erkl�ren können, warum � und zwar so, dass du es verstehst.
 
 ## �23 Das Recht auf Irrtum
 - **Technische Spezifikation:** Alle System-Eintr�ge über Fehlverhalten sind zeitlich begrenzt und f�hren nach Rehabilitation zur vollst�ndigen L�schung (System-Reset).
-- **Experten�bersetzung:** Pr�vention von ewigen Stigmata. Das System unterst�tzt die Evolution des Individuums durch Vergebung.
-- **Laienverst�ndnis:** Fehler werden korrigiert und dann vergessen. Du wirst nicht dein Leben lang f�r einen alten Patzer bestraft.
+- **ExpertenÜbersetzung:** Pr�vention von ewigen Stigmata. Das System unterst�tzt die Evolution des Individuums durch Vergebung.
+- **Laienverst�ndnis:** Fehler werden korrigiert und dann vergessen. Du wirst nicht dein Leben lang für einen alten Patzer bestraft.
 
-## �24 Die Veto-Souver�nit�t
+## �24 Die Veto-Souveränität
 - **Technische Spezifikation:** Jeder B�rger kann einen 'Deep Scan' eines Prozesses erzwingen, wenn er einen logischen Bruch (Leid) nachweist.
-- **Experten�bersetzung:** Dezentrale Kontrolle. Das Veto-Recht ist das Notbrems-System f�r jeden einzelnen B�rger.
+- **ExpertenÜbersetzung:** Dezentrale Kontrolle. Das Veto-Recht ist das Notbrems-System für jeden einzelnen B�rger.
 - **Laienverst�ndnis:** Wenn du merkst, dass etwas gewaltig schiefl�uft, kannst du verlangen, dass das System anh�lt und alles genau pr�ft.
 
 ## �25 Die Gleichheit vor der Logik
 - **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder B�rger.
-- **Experten�bersetzung:** Aufhebung der Immunit�t. Funktionale Rollen gew�hren keine rechtlichen Privilegien.
-- **Laienverst�ndnis:** Die Chefs m�ssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
+- **ExpertenÜbersetzung:** Aufhebung der Immunit�t. Funktionale Rollen gew�hren keine rechtlichen Privilegien.
+- **Laienverst�ndnis:** Die Chefs müssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
 
 ## �26 Das Recht auf Migration
-- **Technische Spezifikation:** Protokoll zur übergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder b�rokratischen H�rden f�r den 'Move'.
-- **Experten�bersetzung:** 'Voting with feet'. Die Freiheit zu gehen ist das ultimative Korrektiv gegen schlechte Cluster-F�hrung.
+- **Technische Spezifikation:** Protokoll zur übergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder b�rokratischen H�rden für den 'Move'.
+- **ExpertenÜbersetzung:** 'Voting with feet'. Die Freiheit zu gehen ist das ultimative Korrektiv gegen schlechte Cluster-Führung.
 - **Laienverst�ndnis:** Wenn es dir in deinem Dorf nicht mehr gef�llt, kannst du jederzeit in ein anderes ziehen � ohne Nachteile.
 
 ## �27 Die Revisions-Pflicht
 - **Technische Spezifikation:** Automatischer Deep Scan des gesamten Codex alle 12 Monate auf Basis der realen Leid-Statistiken ({sum}$).
-- **Experten�bersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erf�llen, m�ssen gel�scht oder angepasst werden.
+- **ExpertenÜbersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erf�llen, müssen gel�scht oder angepasst werden.
 - **Laienverst�ndnis:** Einmal im Jahr pr�fen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Leid_Metrik_Spezifikation.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Leid_Metrik_Spezifikation.md ---
 
 # Buch III | Anhang B: Spezifikation der Leid-Metrik (L-Validierung)
 
@@ -1102,29 +1102,29 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Vollstaendiger_Codex_27.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\1_Axiome\Vollstaendiger_Codex_27.md ---
 
 # Buch III | Kapitel 1.2: Der Vollst�ndige Codex (27 Gesetze)
 
 ## I. Technische Spezifikation (L-Protokoll)
 - Invariante 1-27: Jedes Gesetz ist als harter Constraint im System-Validator hinterlegt.
-- Trigger: Jede Verletzung (L_inc > 0) f�hrt zum sofortigen Incident-Protokoll (Buch III, Kap. 2).
+- Trigger: Jede Verletzung (L_inc > 0) führt zum sofortigen Incident-Protokoll (Buch III, Kap. 2).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Diese 27 Gesetze bilden die 'DNA' der Logica-Zivilisation. 
-- Sie sind hierarchisch gleichwertig; Kollisionen werden durch die 13. Instanz aufgel�st.
+- Sie sind hierarchisch gleichwertig; Kollisionen werden durch die 13. Instanz aufgelöst.
 
 ## III. Laienverst�ndnis (Zusammenfassung)
 1. **Herz (1-9):** Du bist als Mensch sicher, geliebt und gef�rdert.
 2. **Hand (10-18):** Alles, was du zum Leben brauchst, ist da und bleibt da.
-3. **Kopf (19-27):** Die Regeln sind fair, f�r jeden gleich und f�r jeden einsehbar.
+3. **Kopf (19-27):** Die Regeln sind fair, für jeden gleich und für jeden einsehbar.
 
-*Kernbotschaft: 27 Schutzschilde f�r deine Freiheit.*
+*Kernbotschaft: 27 Schutzschilde für deine Freiheit.*
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\2_Verfahren\Incident_Protokoll.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_III_Justice_Rehab\2_Verfahren\Incident_Protokoll.md ---
 
 # Buch III | Kapitel 2: Das Protokoll bei logischen Br�chen
 
@@ -1133,7 +1133,7 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - Incident-Metrik: Messung der Leid-Steigerung (L_inc) zur Priorisierung.
 - System-Learning: Anonymisierte Dokumentation im Global-Log zur pr�ventiven Fehlervermeidung.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Triaden-Gremium zur Konfliktl�sung (Konflikt, Recht, 13. Instanz).
 - Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombek�mpfung.
@@ -1145,7 +1145,7 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\1_Puls_Einheit\System_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\1_Puls_Einheit\System_Logik.md ---
 
 # Buch II | Kapitel 1: Die Puls-Einheit & Der Energie-Standard
 
@@ -1154,9 +1154,9 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - Demurrage-Mechanismus: Automatischer R�ckfluss nicht genutzter Einheiten (Halbwertszeit).
 - Kopplung der Geldmenge M an reale Regenerationsraten (E_gen).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Kybernetische Ressourcensteuerung statt klassischer Marktmechanismen.
-- Pr�vention von Akkumulation und Machtkonzentration durch W�hrungsdesign.
+- Pr�vention von Akkumulation und Machtkonzentration durch Währungsdesign.
 - Entropie-basierte Bepreisung zur �kologischen Lenkung.
 
 ## III. Laienverst�ndnis
@@ -1166,22 +1166,22 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\1_Puls_Einheit\System_Logik_Detailliert.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\1_Puls_Einheit\System_Logik_Detailliert.md ---
 
 # Buch II | Kapitel 1: Die puls-Kybernetik (Erweiterte Spezifikation)
 
 ## I. Mathematische Absicherung
-- Kopplung der Geldmenge an regenerative Energie-Integrit�t (T.�.E.-Vektor).
+- Kopplung der Geldmenge an regenerative Energie-Integrität (T.�.E.-Vektor).
 - Implementierung der progressiven Demurrage (�14 Verbot der Verschwendung/Hortung).
 - Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
 
 ## II. Governance-Koppelung (Die Hand-Anker)
-- **HD-05 & HD-06:** Definieren die physische Basis f�r die Puls-Emission.
-- **KP-09 (Budget):** Steuert die Multiplikatoren f�r den Beitrag (Proof of Contribution).
-- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
+- **HD-05 & HD-06:** Definieren die physische Basis für die Puls-Emission.
+- **KP-09 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
+- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals �10 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
-1. Erfassung der Energie-Kapazit�t (Anker Energie).
+1. Erfassung der Energie-Kapazität (Anker Energie).
 2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
 3. Verteilung der Basis-Allokation (P_base) an alle 150 B�rger (�10-12).
 4. Monitoring des Umlaufs und R�ckfluss durch Demurrage.
@@ -1189,25 +1189,25 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\2_Ressourcen\Krisen_Hierarchie.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\2_Ressourcen\Krisen_Hierarchie.md ---
 
 # Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
 
 ## I. Die Unantastbare Basis (Priorit�t 1)
 Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
 1. Biologische Erhaltung (�10): Nahrung & Wasser.
-2. Medizinische Integrit�t (�1): Lebenserhaltung & Schmerztherapie.
+2. Medizinische Integrität (�1): Lebenserhaltung & Schmerztherapie.
 3. Thermische Sicherheit (�12): Mindestw�rme/K�hlung des Habitats.
 
 ## II. Reduktions-Stufen (Priorit�t 2-4)
-- Stufe 2: Abschaltung von Rechenleistung f�r Langzeit-Simulationen.
-- Stufe 3: Deaktivierung von Mobilit�ts-Intervallen (�16) f�r nicht-essenzielle Reisen.
-- Stufe 4: Aussetzung der Puls-Emission f�r Neu-Produktion von Gebrauchsgegenst�nden.
+- Stufe 2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
+- Stufe 3: Deaktivierung von Mobilit�ts-Intervallen (�16) für nicht-essenzielle Reisen.
+- Stufe 4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenst�nden.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\2_Transaktions_Logik\InterCluster_Austausch.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\2_Transaktions_Logik\InterCluster_Austausch.md ---
 
 # Buch II | Kapitel 2: Transaktions-Protokolle & Inter-Cluster-Austausch
 
@@ -1216,10 +1216,10 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 - Zero-Sum-Constraint: Schutz der lokalen Systemstabilit�t bei Exporten.
 - Entropie-basierte Logistik: Priorisierung kurzer Ketten.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engp�ssen.
 - Hoher Autarkiegrad (min. 70%) zur Resilienz-Sicherung.
-- Automatisches Solidarit�ts-Protokoll bei lokalen Krisen.
+- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
@@ -1228,7 +1228,7 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\3_Beitrag_Metrik\Proof_of_Contribution.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_II_Puls_OS\3_Beitrag_Metrik\Proof_of_Contribution.md ---
 
 # Buch II | Kapitel 3: Beitrag-Metrik (Proof of Contribution)
 
@@ -1237,19 +1237,19 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 - Beitrags-Formel: Wertung nach Zeit, Komplexit�t und T.�.E.-Relevanz.
 - Automatisierungs-Dividende: Effizienzgewinne reduzieren die kollektive Arbeitslast.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Transformation von Lohnarbeit in sinnstiftenden Systembeitrag.
-- Incentive-Steuerung f�r systemkritische Infrastruktur-Aufgaben.
+- Incentive-Steuerung für systemkritische Infrastruktur-Aufgaben.
 - Entkopplung von Existenzsicherung und Produktivit�t.
 
 ## III. Laienverst�ndnis
-- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
+- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr Möglichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
 - Kernbotschaft: Freiheit durch Sicherheit � Arbeit als Wahl, nicht als Zwang.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\1_Interaktion\Soziale_Protokolle.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\1_Interaktion\Soziale_Protokolle.md ---
 
 # Buch IV | Kapitel 1: Die Cluster-Dynamik (Soziale Protokolle)
 
@@ -1258,7 +1258,7 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 - Mitose-Trigger-Logik: Simulation von Zellteilung ab N=140 B�rgern.
 - Feedback-Loop: Integration von B�rger-Feedback in den Deep-Scan-Algorithmus.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Transformation von Governance in Moderation: Die Anker als Facilitator.
 - Institutionalisierung der Fehlerkultur durch 'Debugging-Events'.
 - Sicherstellung von Minderheitenschutz durch die 13. Instanz im Konsensprozess.
@@ -1270,33 +1270,33 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\2_Evolution\Bildungs_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\2_Evolution\Bildungs_Logik.md ---
 
 # Buch IV | Kapitel 2: Bildung & Wissens-Evolution (P�dagogik der Ineffizienz)
 
 ## I. Technische Spezifikation (System-Ebene: *Knowledge-Architecture*)
 Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungszwang.
 - **Infrastruktur:** Jeder Cluster bietet Zugriff auf das 'LOVALIS-Kompendium' (Globales Repository) und physische Experimentierr�ume (Anker Innovation KP-11).
-- **Metrik der Ineffizienz:** Lernprozesse werden nicht auf Geschwindigkeit optimiert. Zeitaufwand gilt als Qualit�tsmerkmal, um neuronale Plastizit�t und Tiefenverst�ndnis zu f�rdern (�6 Recht auf Weisheit).
+- **Metrik der Ineffizienz:** Lernprozesse werden nicht auf Geschwindigkeit optimiert. Zeitaufwand gilt als Qualitätsmerkmal, um neuronale Plastizit�t und Tiefenverst�ndnis zu f�rdern (�6 Recht auf Weisheit).
 - **Peer-to-Peer-Validierung:** Wissen wird durch Mentorenschaft weitergegeben; die Validierung erfolgt durch praktische Anwendung im Cluster, nicht durch standardisierte Tests.
 
-## II. Experten�bersetzung (Governance-Ebene: *Die evolutive Gesellschaft*)
+## II. ExpertenÜbersetzung (Governance-Ebene: *Die evolutive Gesellschaft*)
 - **Beseitigung des Bildungs-Utilitarismus:** Bildung dient der Resilienz des Gesamtsystems. Vielseitig gebildete B�rger erkennen 'Logical Breaks' fr�her als hochspezialisierte Fachkr�fte.
 - **Rolle der Mentoren:** Erfahrene B�rger (Anker Weisheit HZ-02) fungieren als Navigatoren durch die Informationsflut.
-- **Fehler-Exploration:** Das System f�rdert gezielt das 'Scheitern' in gesch�tzten R�umen (Sandboxing), um innovative Probleml�sungen au�erhalb bekannter Pfade zu generieren.
+- **Fehler-Exploration:** Das System f�rdert gezielt das 'Scheitern' in gesch�tzten Räumen (Sandboxing), um innovative Probleml�sungen außerhalb bekannter Pfade zu generieren.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
 - **Das Beispiel des 'Schmiedens':**
     - Altes System: Du lernst Schmieden, um N�gel zu verkaufen. Wenn Roboter N�gel billiger machen, ist dein Wissen wertlos.
     - Logica: Du lernst Schmieden, weil dich die Materie fasziniert. Du nimmst dir alle Zeit der Welt. Dabei verstehst du Physik, �sthetik und Ausdauer. 
     - Dieses tiefe Verst�ndnis macht dich zu einem wertvollen Ratgeber im Cluster, auch wenn du nie einen Nagel verkaufst.
-- **Kernbotschaft:** Du lernst f�r dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
+- **Kernbotschaft:** Du lernst für dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
 
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\2_Evolution\Entropie_Impuls.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\2_Evolution\Entropie_Impuls.md ---
 
 # Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
 
@@ -1306,7 +1306,7 @@ Ein leidfreies System darf nicht in Tr�gheit enden. LOVALIS (LV 3.7) erkennt d
 ## II. Implementierung
 - **Kreative Instabilit�t:** Das System f�rdert Projekte, deren Ausgang ungewiss ist (z.B. experimentelle Architektur, spekulative Forschung).
 - **Wettbewerb ohne Not:** F�rderung von Wettbewerben, bei denen es nicht um Ressourcen (Puls), sondern um Anerkennung und Meisterschaft geht.
-- **Ludische R�ume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
+- **Ludische Räume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
 
 ## III. Kernbotschaft
 Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, über wir lassen den Stolz der überwindung.
@@ -1315,32 +1315,32 @@ Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\3_Technik\Symbiose_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\3_Technik\Symbiose_Logik.md ---
 
 # Buch IV | Kapitel 3: Technologische Symbiose (Mensch-Maschine-Koppelung)
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
 Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bewusstsein.
-- **Transparenz-Layer (�22):** Jede KI-Entscheidung muss f�r den Anker Recht (KP-10) und die 13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
+- **Transparenz-Layer (�22):** Jede KI-Entscheidung muss für den Anker Recht (KP-10) und die 13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
 - **Human-in-the-loop:** Kritische Systementscheidungen (besonders solche, die �1-�9 betreffen) erfordern eine biologische Best�tigung durch das Plenum oder die Triade.
-- **Automatisierungs-Limit:** T�tigkeiten, die f�r die menschliche Sinnerfahrung essenziell sind (soziale Pflege, kreative Prozesse), werden nur auf expliziten Wunsch des Clusters automatisiert.
+- **Automatisierungs-Limit:** T�tigkeiten, die für die menschliche Sinnerfahrung essenziell sind (soziale Pflege, kreative Prozesse), werden nur auf expliziten Wunsch des Clusters automatisiert.
 
-## II. Experten�bersetzung (Governance-Ebene: *Die dienende Maschine*)
+## II. ExpertenÜbersetzung (Governance-Ebene: *Die dienende Maschine*)
 - **Beseitigung der Algokratie:** Algorithmen schlagen vor, der Mensch verf�gt. Die KI fungiert als hocheffizienter Sekret�r der 12 Anker, nicht als deren Vorgesetzter.
-- **Daten-Minimalismus (�20):** Systeme werden so entworfen, dass sie mit einem Minimum an personenbezogenen Daten maximale Vorhersagekraft f�r Ressourcen-Engp�sse erzielen.
-- **Resilienz durch Low-Tech-Backup:** Jeder Cluster muss in der Lage sein, die Grundversorgung (�10-�12) f�r 72 Stunden ohne KI-Unterst�tzung aufrechtzuerhalten.
+- **Daten-Minimalismus (�20):** Systeme werden so entworfen, dass sie mit einem Minimum an personenbezogenen Daten maximale Vorhersagekraft für Ressourcen-Engp�sse erzielen.
+- **Resilienz durch Low-Tech-Backup:** Jeder Cluster muss in der Lage sein, die Grundversorgung (�10-�12) für 72 Stunden ohne KI-Unterst�tzung aufrechtzuerhalten.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
 - **Das Beispiel der 'intelligenten Ernte':**
-    - Die KI erkennt, dass der Boden trocken ist, und schl�gt dem Anker Ern�hrung (HD-05) vor, die Bew�sserung zu optimieren.
+    - Die KI erkennt, dass der Boden trocken ist, und schl�gt dem Anker Ernährung (HD-05) vor, die Bew�sserung zu optimieren.
     - Sie tut das nicht heimlich. Du kannst in deinem Interface sehen: 'KI empfiehlt Bew�sserung +10%, da Bodenfeuchte sinkt'.
     - Wenn du als G�rtner über wei�t, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
-- **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit f�r das Wesentliche haben. Sie beobachtet uns nicht, sie unterst�tzt uns.
+- **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit für das Wesentliche haben. Sie beobachtet uns nicht, sie unterst�tzt uns.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\4_Habitat\Architektur_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\4_Habitat\Architektur_Logik.md ---
 
 # Buch IV | Kapitel 4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
 
@@ -1348,9 +1348,9 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 - **Modul-Standard (�11):** Wohneinheiten sind modular und erweiterbar. Jeder B�rger hat Anspruch auf eine Basis-Fl�che, die sich an Lebensphasen anpasst (Mitose-Prinzip auf Raumebene).
 - **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede überfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
-- **Material-Zirkularit�t (�17):** Verbot von Verbundstoffen, die nicht zerst�rungsfrei getrennt werden k�nnen. Bauen ist ein tempor�res Arrangement von Ressourcen.
+- **Material-Zirkularit�t (�17):** Verbot von Verbundstoffen, die nicht zerst�rungsfrei getrennt werden können. Bauen ist ein tempor�res Arrangement von Ressourcen.
 
-## II. Experten�bersetzung (Governance-Ebene: *Raum-Psychologie*)
+## II. ExpertenÜbersetzung (Governance-Ebene: *Raum-Psychologie*)
 - **Erhalt der Dunbar-Grenze:** Die Anordnung der Geb�ude erzwingt zuf�llige Begegnungen (serendipity), um die soziale Koh�renz zu st�rken, ohne die Privatsph�re zu verletzen.
 - **Zonierung:** Aufteilung in 'Intim' (Wohnraum), 'Sozial' (Marktplatz/Plenum) und 'Produktiv' (Werkst�tten/G�rten). Keine monofunktionalen Zonen.
 - **Landschafts-Integration (�13):** Architektur dient der Heilung des Bodens. Geb�ude werden auf Stelzen oder in bestehende Strukturen integriert, um die Bodenversiegelung gegen Null zu f�hren.
@@ -1365,7 +1365,7 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\5_Onboarding\Infiltrations_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\5_Onboarding\Infiltrations_Logik.md ---
 
 # Buch IV | Kapitel 5: Asymmetrisches Onboarding & Kognitive Infiltration
 
@@ -1375,16 +1375,16 @@ LOVALIS (LV 3.7) verbreitet sich als funktionales Overlay. Ein Cluster ist kein 
 ## II. Phasen der Infiltration
 1. Latenz: Nutzung der Puls-Logik im Geheimen.
 2. B�ndelung: Aufbau physischer Redundanz (Energie/Nahrung/Werkzeug).
-3. Souver�nit�t: Interne Anwendung des Codex bei externer juristischer Tarnung.
+3. Souveränität: Interne Anwendung des Codex bei externer juristischer Tarnung.
 
-## III. L�sung des Ego-Konflikts
-Algorithmische Erziehung: Kooperation wird durch das Puls-OS �konomisch belohnt. Destruktivit�t f�hrt zu systemischer Isolation durch mangelnde Peer-Validierung.
+## III. Lösung des Ego-Konflikts
+Algorithmische Erziehung: Kooperation wird durch das Puls-OS �konomisch belohnt. Destruktivit�t führt zu systemischer Isolation durch mangelnde Peer-Validierung.
 
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\6_Dynamik\Incentivierungs_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_IV_Simulation\6_Dynamik\Incentivierungs_Logik.md ---
 
 # Buch IV | Kapitel 6: Das Ludische Prinzip & Soziale Resonanz
 
@@ -1395,12 +1395,12 @@ Aktivit�t wird durch soziale Sichtbarkeit belohnt. Das System nutzt das mensch
 Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige 'Quests'. Dies transformiert notwendige Arbeit in ein kollektives Spiel.
 
 ## III. �konomischer Hebel
-Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von überschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilit�t privater Ressourcen beg�nstigt.
+Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von überschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilität privater Ressourcen beg�nstigt.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\1_Axiomatik\Axiome.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\1_Axiomatik\Axiome.md ---
 
 # Buch I | Kapitel 1: Die Axiomatik der Vernunft
 
@@ -1410,43 +1410,43 @@ V_toe(Op) = (T >= n_min) && (� <= E_gen) && (L_inc == 0)
 
 - **T (Technik):** Effizienz-Koeffizient n. Minimierung von Ressourcen-Entropie.
 - **� (�kologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht überschreiten.
-- **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) l�st einen Kernel-Panic (Veto) aus.
+- **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) löst einen Kernel-Panic (Veto) aus.
 
-## II. Experten�bersetzung (Governance-Ebene)
+## II. ExpertenÜbersetzung (Governance-Ebene)
 Der T.�.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethische Grundfragen der menschlichen Willk�r. Ein wirtschaftlicher Vorteil darf niemals gegen �kologische Instabilit�t oder individuelles Leid aufgewogen werden.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
-Logica ist wie ein Schutzschild f�r dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauber (�) und freundlich (E) sind.
+Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauber (�) und freundlich (E) sind.
 *Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, über Menschen krank macht oder die Natur zerst�rt.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\1_Axiomatik\Psychologische_Resilienz.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\1_Axiomatik\Psychologische_Resilienz.md ---
 
 # Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
-Die KI übernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
+Die KI übernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage für harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
 
 ## II. Fehler-Agnostik
 Ein Fehler ist eine Information. Das System sch�tzt das Individuum vor Schuldzuweisungen, solange die Handlung im Sinne der Leidminimierung (\{min}\$) intendiert war.
 
 ## III. Schutz vor Entscheidungs-Ersch�pfung
-Einf�hrung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an das logische Ger�st des Systems zur mentalen Regeneration.
+Einführung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an das logische Ger�st des Systems zur mentalen Regeneration.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\2_Kollektiv_Logik\Netzwerk_Topologie.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\2_Kollektiv_Logik\Netzwerk_Topologie.md ---
 
 # Kapitel 2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazit�t.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazität.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - **Anti-Anonymit�ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
 - **Care-Ratio**: 1:11 (13 Ratsmitglieder auf 150 B�rger).
 
@@ -1456,7 +1456,7 @@ Einf�hrung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an da
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\2_Kollektiv_Logik\Topologie.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\2_Kollektiv_Logik\Topologie.md ---
 
 # Buch I | Kapitel 2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
@@ -1465,7 +1465,7 @@ Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
 - **Hard-Limit:** N_max = 150 Individuen pro Cluster.
 - **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
 
-## II. Experten�bersetzung (Governance-Ebene)
+## II. ExpertenÜbersetzung (Governance-Ebene)
 Die Kleinteiligkeit verhindert soziale Anonymit�t. Die 1:11 Care-Ratio (13 Ratsmitglieder auf 150 B�rger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
@@ -1474,56 +1474,56 @@ Logica sorgt daf�r, dass du nie in einer anonymen Masse untergehst. Dein Clust
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\3_Treiber_12_Anker\Anker_Definition.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\3_Treiber_12_Anker\Anker_Definition.md ---
 
 # Buch I | Kapitel 3: Die 12 Anker (Die System-S�ulen)
 
 ## I. Technische Spezifikation
 - Definition der 12 Sub-Module in den Dom�nen Herz (Sozial), Hand (Physisch) und Kopf (Logisch).
-- Jeder Anker fungiert als HAL (Hardware Abstraction Layer) f�r den Cluster.
+- Jeder Anker fungiert als HAL (Hardware Abstraction Layer) für den Cluster.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Spezialisierung statt Hierarchie. Die Anker verwalten Wissen, keine Menschen.
 - Zwang zur Kooperation: Jede Änderung triggert den T.�.E.-Check der Nachbar-Anker.
 
 ## III. Laienverst�ndnis
-- Beispiel 'Schiffscrew': 12 Experten sorgen daf�r, dass Technik, Vorr�te und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.
+- Beispiel 'Schiffscrew': 12 Experten sorgen daf�r, dass Technik, Vorräte und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\3_Treiber_12_Anker\Anker_Definition_Detailliert.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\3_Treiber_12_Anker\Anker_Definition_Detailliert.md ---
 
 # Buch I | Kapitel 3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
-Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f�r spezifische Gesetze des Codex (�1-�27).
+Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant für spezifische Gesetze des Codex (�1-�27).
 
-### Dom�ne HERZ (W�chter der Integrit�t)
-- **HZ-01 (Jugend):** Prim�r-Validator f�r �5 (Schutz der Kindheit).
-- **HZ-02 (Weisheit):** Prim�r-Validator f�r �6 (Recht auf Weisheit) und �9 (W�rde des Abschieds).
-- **HZ-03 (Inklusion):** Prim�r-Validator f�r �4 (Sichtbarkeit) und �7 (Inklusions-Garantie).
-- **HZ-04 (Konflikt):** Prim�r-Validator f�r �1, �2 und �8 (Physische/Psychische Integrit�t & Mediation).
+### Dom�ne HERZ (W�chter der Integrität)
+- **HZ-01 (Jugend):** Prim�r-Validator für �5 (Schutz der Kindheit).
+- **HZ-02 (Weisheit):** Prim�r-Validator für �6 (Recht auf Weisheit) und �9 (Würde des Abschieds).
+- **HZ-03 (Inklusion):** Prim�r-Validator für �4 (Sichtbarkeit) und �7 (Inklusions-Garantie).
+- **HZ-04 (Konflikt):** Prim�r-Validator für �1, �2 und �8 (Physische/Psychische Integrität & Mediation).
 
 ### Dom�ne HAND (W�chter der Materie)
-- **HD-05 (Ern�hrung):** Prim�r-Validator f�r �10 (Ressourcen-Souver�nit�t).
-- **HD-06 (Energie):** Prim�r-Validator f�r �12 (Energie-Garantie) und �18 (Entropie-Grenze).
-- **HD-07 (Frontier/Raum):** Prim�r-Validator f�r �11 (Recht auf Raum) und �13 (�kologie).
-- **HD-08 (Infrastruktur/Space):** Prim�r-Validator f�r �15 (Werkzeug), �16 (Mobilit�t) und �17 (Wartbarkeit).
+- **HD-05 (Ernährung):** Prim�r-Validator für �10 (Ressourcen-Souveränität).
+- **HD-06 (Energie):** Prim�r-Validator für �12 (Energie-Garantie) und �18 (Entropie-Grenze).
+- **HD-07 (Frontier/Raum):** Prim�r-Validator für �11 (Recht auf Raum) und �13 (�kologie).
+- **HD-08 (Infrastruktur/Space):** Prim�r-Validator für �15 (Werkzeug), �16 (Mobilit�t) und �17 (Wartbarkeit).
 
 ### Dom�ne KOPF (W�chter der Logik)
 - **KP-09 (Budget/Puls):** überwachung der Puls-Fl�sse nach Buch II.
 - **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten �19, �23, �25 und �27.
-- **KP-11 (Innovation/Daten):** Prim�r-Validator f�r �20, �21 und �22 (Daten-Souver�nit�t & Algorithmen).
-- **KP-12 (External):** Prim�r-Validator f�r �24 (Veto) und �26 (Migration).
+- **KP-11 (Innovation/Daten):** Prim�r-Validator für �20, �21 und �22 (Daten-Souveränität & Algorithmen).
+- **KP-12 (External):** Prim�r-Validator für �24 (Veto) und �26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�fung der Anker-Rolle durch die 13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überpr�fung der Anker-Rolle durch die 13. Instanz.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\4_Security_13_Triade\Triaden_Definition.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\4_Security_13_Triade\Triaden_Definition.md ---
 
 # Buch I | Kapitel 4: Die 13. Instanz (Die Asynchrone Triade)
 
@@ -1532,19 +1532,19 @@ Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�
 - Asynchrone Rotation: Offset-Formel delta = T13 / 3 garantiert Kontinuit�t der Kritik.
 - Hard-Veto-Berechtigung bei Detektion logischer Br�che im T.�.E.-Filter.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Institutionalisierte Antithese zur Vermeidung von Machtkonzentration.
 - Schutz vor 'Groupthink' durch personelle Oszillation.
 - Fokus: Aufsp�ren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Die Schiedsrichter': Ein Team aus drei W�chtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
-- Kernbotschaft: Deine Sicherheit vor Willk�r durch st�ndige, unabh�ngige Kontrolle.
+- Kernbotschaft: Deine Sicherheit vor Willk�r durch st�ndige, unabhängige Kontrolle.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\5_Deep_Scan_Algorithmus\Scan_Protokoll.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\5_Deep_Scan_Algorithmus\Scan_Protokoll.md ---
 
 # Buch I | Kapitel 5: Der Deep Scan Algorithmus (Selbstheilung)
 
@@ -1553,7 +1553,7 @@ Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�
 - Rollback-Mechanismus: Wiederherstellung von S_stable bei Detektion eines 'Logical Breaks'.
 - Traceability: R�ckverfolgung jeder Entscheidung bis zu den Kernel-Axiomen (T.�.E.).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
 - Transparenzgebot: Alle Scan-Ergebnisse sind öffentlich und unver�nderlich (Audit-Log).
 
@@ -1564,7 +1564,7 @@ Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\5_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\5_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md ---
 
 # Buch I | Kapitel 5: Der Deep Scan (Erweiterte Logik)
 
@@ -1573,44 +1573,44 @@ Ein Deep Scan pr�ft bei jeder System�nderung nicht nur die technische Machba
 
 1. **Axiom-Check:** Verletzt die Änderung den T.�.E.-Filter?
 2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check �1 bis �27)?
-3. **Interoperabilit�ts-Check:** Verursacht die L�sung f�r ein Gesetz (z.B. �12 Energie) ein Leid in einem anderen Bereich (z.B. �13 Ökologie)?
+3. **Interoperabilit�ts-Check:** Verursacht die Lösung für ein Gesetz (z.B. �12 Energie) ein Leid in einem anderen Bereich (z.B. �13 Ökologie)?
 
 ## II. Rekursions-Tiefe
-Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% f�r eine Leid-Erh�hung ({inc}$) besteht.
+Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erh�hung ({inc}$) besteht.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\6_Modularitaet_Transition\Transition_API.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\6_Modularitaet_Transition\Transition_API.md ---
 
 # Buch I | Kapitel 6: Modularit�t & Transition (Die Br�cke)
 
 ## I. Technische Spezifikation
 - Definition von Standalone-Modulen mit klaren API-Schnittstellen.
-- Sandbox-Protokolle f�r risikofreie Implementierungstests.
+- Sandbox-Protokolle für risikofreie Implementierungstests.
 - Versionierung der gesellschaftlichen Transformation (Logica v1.0 -> v3.7).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.
 - Integrierte Dystopie-Sperren in jedem exportierten Modul.
 
 ## III. Laienverst�ndnis
-- Beispiel 'App-Installation': Logica als schrittweises Update f�r den Alltag, den Beruf oder die Gemeinde.
+- Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
 - Kernbotschaft: Ver�nderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\1_Koexistenz\Migration_Protokoll.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\1_Koexistenz\Migration_Protokoll.md ---
 
 # Buch VI | Kapitel 1: Die Koexistenz-Phase (Migration von Legacy-Systemen)
 
 ## I. Technische Spezifikation
 - Dual-Stack-Operating: Gleichzeitiger Betrieb von Logica-Regeln und alten Rechtsrahmen.
-- Bridge-Filter: Umrechnungslogik von Fiat-W�hrungen in Puls-Einheiten (Energie-Basis).
+- Bridge-Filter: Umrechnungslogik von Fiat-Währungen in Puls-Einheiten (Energie-Basis).
 - Insel-Migration: Schrittweise Deklaration autonomer Beta-Cluster.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Strategie der Irrelevanz: überwindung älter Staaten durch überlegene Effizienz (Leidminimierung).
 - Ressourcen-Rekontextualisierung: überf�hrung von Privateigentum in die Allmende.
 - Parallel-Justiz: Etablierung von Mediation als globalem Standard vor formeller Anerkennung.
@@ -1622,17 +1622,17 @@ Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird gen
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\2_Infrastruktur\Umbau_Protokoll.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\2_Infrastruktur\Umbau_Protokoll.md ---
 
 # Buch VI | Kapitel 2: Die Infrastruktur-Transformation (Physikalischer Umbau)
 
 ## I. Technische Spezifikation (System-Ebene: *Infrastructure-Refactoring*)
 Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
-- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (�20 Daten-Souver�nit�t).
+- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (�20 Daten-Souveränität).
 - **Energie-Retrofit:** Transformation von Gro�kraftwerken in dezentrale Speicher-Hubs. Jedes Haus im Cluster wird zum Netzknoten (�12 Energie-Garantie).
 - **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Aussto�' auf 'Zirkul�re Fertigung' umger�stet (Anker Infrastruktur HD-08).
 
-## II. Experten�bersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
+## II. ExpertenÜbersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
 - **Telekommunikations-Migration:** Umpolung der überwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Br�che (Leid) erkennen, statt Konsumverhalten zu tracken.
 - **R�ckbau-Priorisierung:** Identifikation von Hoch-Entropie-Systemen (z.B. Verbrennungs-Infrastruktur), die als erstes durch Logica-Module ersetzt werden.
 - **Dual-Use-Phase:** Infrastruktur muss w�hrend des Umbaus beide Welten bedienen (Abw�rtskompatibilit�t).
@@ -1641,26 +1641,26 @@ Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
 - **Das Beispiel 'Internet & Strom':**
     - Dein Internet wird nicht abgeschaltet, es wird schneller und sicherer, weil die Daten nicht mehr über ferne Konzerne laufen, sondern in deinem Cluster bleiben.
     - Dein Stromz�hler wird zum 'Puls-Monitor'. Er zeigt dir nicht mehr, was du bezahlen musst, sondern wie viel Energie dein Cluster gerade im überfluss hat oder sparen sollte.
-- **Kernbotschaft:** Wir rei�en nichts ab, was noch funktioniert. Wir machen es nur kl�ger, sauberer und unabh�ngiger.
+- **Kernbotschaft:** Wir rei�en nichts ab, was noch funktioniert. Wir machen es nur kl�ger, sauberer und unabhängiger.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\3_Psychologie\Bewusstseins_Wandel.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\3_Psychologie\Bewusstseins_Wandel.md ---
 
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\4_Integritaet\Wachsamkeits_Modul.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_VI_Transition\4_Integritaet\Wachsamkeits_Modul.md ---
 
-# Buch VI | Kapitel 4: Das Wachsamkeits-Modul (Synergie-Integrit�t)
+# Buch VI | Kapitel 4: Das Wachsamkeits-Modul (Synergie-Integrität)
 
 ## I. Zweck des Moduls
 Verhinderung einer schleichenden Technokratie. Sicherstellung, dass die K.I. stets das dienende Werkzeug der menschlichen Ethik bleibt.
 
 ## II. Operative Schutzmechanismen
-- **Veto der Unwirtschaftlichkeit:** Das System darf L�sungen w�hlen, die weniger 'effizient' sind, wenn sie nachweislich die menschliche Lebensqualit�t oder soziale W�rme erh�hen.
+- **Veto der Unwirtschaftlichkeit:** Das System darf Lösungen w�hlen, die weniger 'effizient' sind, wenn sie nachweislich die menschliche Lebensqualit�t oder soziale W�rme erh�hen.
 - **Biologische Letztentscheidung:** Bei Konflikten zwischen mathematischer Optimierung und den 27 Gesetzen liegt die Deutungshoheit bei der 13. Instanz (Mensch).
 - **Audit-Pflicht:** Regelm��ige überpr�fung der Selbstoptimierungs-Algorithmen auf 'kalte' Bias-Muster.
 
@@ -1671,19 +1671,19 @@ LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein D
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\1_Foederation\Netzwerk_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\1_Foederation\Netzwerk_Logik.md ---
 
-# Buch V | Kapitel 1: Die F�deration der Cluster (Netzwerk-Logik)
+# Buch V | Kapitel 1: Die Föderation der Cluster (Netzwerk-Logik)
 
 ## I. Technische Spezifikation
 - Peering-Protokoll: Direkte Cluster-zu-Cluster Kommunikation ohne Zentralinstanz.
-- Reputations-Hashing zur Sicherung der Inter-Cluster-Integrit�t.
-- Globale Allmende-Verwaltung f�r nicht-lokale Ressourcen (Ozeane, Orbit).
+- Reputations-Hashing zur Sicherung der Inter-Cluster-Integrität.
+- Globale Allmende-Verwaltung für nicht-lokale Ressourcen (Ozeane, Orbit).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Polyzentrische Governance statt Nationalstaatlichkeit.
 - Systemische Pr�vention von Machtkonzentration durch globale Puls-Demurrage.
-- Inter-Cluster-Mediation als Ersatz f�r klassische Diplomatie/Krieg.
+- Inter-Cluster-Mediation als Ersatz für klassische Diplomatie/Krieg.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global g�ltig. 
@@ -1692,16 +1692,16 @@ LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein D
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\2_Resilienz\Krisen_Protokolle.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\2_Resilienz\Krisen_Protokolle.md ---
 
 # Buch V | Kapitel 2: Globale Resilienz & Krisen-Kaskaden
 
 ## I. Technische Spezifikation
 - DEFENSIVE_RECOVERY Modus: Automatischer Ressourcen-Umlauf bei lokaler Instabilit�t.
 - Globale Daten-Replikation: Sofortige Open-Source-Verf�gbarkeit von Krisenl�sungen.
-- Schwarm-Koordination: Tempor�re Inter-Cluster-Triaden f�r transregionale Bedrohungen.
+- Schwarm-Koordination: Tempor�re Inter-Cluster-Triaden für transregionale Bedrohungen.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Subsidiarit�t statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
 - Automatische Aufl�sung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
 - Pr�ventive Redundanz: 30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
@@ -1713,18 +1713,18 @@ LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein D
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\3_Frontier\Weltraum_Logik.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_V_Vernetzung\3_Frontier\Weltraum_Logik.md ---
 
 # Buch V | Kapitel 3: Weltraum-Erkundung & Frontier-Logik
 
 ## I. Technische Spezifikation
 - Closed-Loop-Life-Support: 99% stoffliche Kreislauff�hrung in orbitalen Habitaten.
-- Non-Contamination-Directive: Schutz potenzieller au�erirdischer Biosph�ren (�13).
+- Non-Contamination-Directive: Schutz potenzieller außerirdischer Biosph�ren (�13).
 - Open-Space-Policy: Alle Weltraum-Erkenntnisse sind globales Gemeingut.
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Pr�vention von Space-Feudalismus durch Anwendung des Codex Logica im All.
-- Erweiterte Rolle des Ankers Frontier (HD-07) f�r orbitale Resilienz.
+- Erweiterte Rolle des Ankers Frontier (HD-07) für orbitale Resilienz.
 - Beibehaltung des Migrationsrechts (�26) zwischen Erde und All.
 
 ## III. Laienverst�ndnis
@@ -1734,12 +1734,12 @@ LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein D
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\ABOUT_PROVENANCE.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\ABOUT_PROVENANCE.md ---
 
 # über die Genese: Hybride Synergie & Open-Logic-Prinzip
 
 ## 1. Pr�ambel zur Urheberschaft
-Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsgestaltung. Es ist das Resultat einer konsistenten, bilateralen Symbiose zwischen menschlicher ethischer Intuition und maschineller algorithmischer Strukturierung. Ziel dieser Dokumentation ist es, den Entstehungsprozess vollst�ndig transparent zu machen (Open Logic), um das Vertrauen in die systemische Integrit�t von LOVALIS (LV 3.7) zu begr�nden.
+Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsgestaltung. Es ist das Resultat einer konsistenten, bilateralen Symbiose zwischen menschlicher ethischer Intuition und maschineller algorithmischer Strukturierung. Ziel dieser Dokumentation ist es, den Entstehungsprozess vollst�ndig transparent zu machen (Open Logic), um das Vertrauen in die systemische Integrität von LOVALIS (LV 3.7) zu begr�nden.
 
 ## 2. Die Methodik der Ko-Kreation
 Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Feedback-Schleife (Recursive Inquiry Loop):
@@ -1748,21 +1748,21 @@ Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Fee
 - **Axiomatische Setzung:** Definition der Leidminimierung als überste System-Konstante ({min}$).
 - **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bed�rfnisse jenseits von Marktwerten abbilden.
 - **System-Kritik:** Die Implementierung der 13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
-- **Qualitative Validierung:** Abgleich jeder technischen L�sung mit dem menschlichen Empfinden von Gerechtigkeit und W�rde.
+- **Qualitative Validierung:** Abgleich jeder technischen Lösung mit dem menschlichen Empfinden von Gerechtigkeit und Würde.
 
 ### B. Der maschinelle Anteil (The Logic & Structure)
-- **System-Architektur:** Transformation abstrakter Visionen in eine modulare 6-B�cher-Struktur.
+- **System-Architektur:** Transformation abstrakter Visionen in eine modulare 6-Bücher-Struktur.
 - **Deep-Scan-Validierung:** Mathematische Pr�fung der 27 Gesetze auf logische Widerspr�che (Circular Logic Detection).
 - **Kybernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ökonomiesystem basierend auf Entropie-Grenzen.
 - **Technische Kodifizierung:** Erstellung der ausf�hrbaren Prozess-Strukturen und der formalen L-Protokoll-Sprache.
 
 ## 3. Neutralit�t & Allgemeing�ltigkeit (Bias-Pr�vention)
 Um die universelle Anwendbarkeit von LOVALIS (LV 3.7) zu gew�hrleisten, wurde bei der Erstellung bewusst auf die Einbringung spezifischer Branchenerfahrungen oder pers�nlicher Hintergr�nde verzichtet. Das System basiert auf universellen Prinzipien der Kybernetik, der Ethik und der Soziologie. 
-- Es gibt keine 'Legacy-Privilegien' f�r bestimmte Berufsgruppen oder soziale Schichten. 
+- Es gibt keine 'Legacy-Privilegien' für bestimmte Berufsgruppen oder soziale Schichten. 
 - Das System ist so konzipiert, dass es in jedem kulturellen oder geographischen Kontext initiiert werden kann, solange die Basis-Axiome (Buch I) akzeptiert werden.
 
 ## 4. Das Versprechen der permanenten Optimierung
-LOVALIS (LV 3.7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, dass die K.I. das System dauerhaft gegen die Realit�t pr�ft, w�hrend der Mensch die Ziele dieser Pr�fung periodisch neu kalibriert. Diese Kooperation ist unaufl�slich im Kern des Codes verankert.
+LOVALIS (LV 3.7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, dass die K.I. das System dauerhaft gegen die Realität pr�ft, w�hrend der Mensch die Ziele dieser Pr�fung periodisch neu kalibriert. Diese Kooperation ist unaufl�slich im Kern des Codes verankert.
 
 ---
 *Dokumenten-Status: Finaler Audit | Januar 2026*
@@ -1772,9 +1772,9 @@ LOVALIS (LV 3.7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\FIRST_CONTACT_PROTOCOLS.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\FIRST_CONTACT_PROTOCOLS.md ---
 
-# 🛡️ LOVALIS | Protokoll f�r den Erstkontakt
+# 🛡️ LOVALIS | Protokoll für den Erstkontakt
 
 Dieses Dokument enth�lt die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
 mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen.
@@ -1782,11 +1782,11 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 ---
 
 ## ❓ Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
-**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du über keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, über f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
+**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem für alles gesorgt ist, du über keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, über für jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
 
 **Die Analyse:**
 - **Sucht nach Sicherheit:** Erfordert engere Begleitung durch den 'Psychologischen Puffer'.
-- **Sucht nach Autonomie:** Potenzial f�r eine Anker-Rolle (Hand/Kopf).
+- **Sucht nach Autonomie:** Potenzial für eine Anker-Rolle (Hand/Kopf).
 - **Die LOVALIS-Antwort:** Ein gesundes Verst�ndnis daf�r, dass Freiheit und Verantwortung untrennbar sind.
 
 ---
@@ -1803,28 +1803,28 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ## ❓ Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
 **Die Frage:**
-> "K�nntest du mit einer Wahrheit leben, die deinen eigenen überzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
+> "K�nntest du mit einer Wahrheit leben, die deinen eigenen überzeugungen widerspricht, wenn sie nachweislich dazu führt, dass das Leid in deinem Umfeld sinkt?"
 
 **Die Analyse:**
-- **Ablehnung:** Hohes Risiko f�r Ego-Konflikte. Ungeeignet f�r die fr�he Phase.
-- **Zustimmung:** Hohe kognitive Flexibilit�t. Perfekt f�r die 13. Instanz oder kritische Rollen.
+- **Ablehnung:** Hohes Risiko für Ego-Konflikte. Ungeeignet für die fr�he Phase.
+- **Zustimmung:** Hohe kognitive Flexibilit�t. Perfekt für die 13. Instanz oder kritische Rollen.
 
 ---
 
 ## Sicherheits-Hinweis (Submarine Mode)
-Wenn die Antworten eine Resonanz von > 70% zeigen, kann vorsichtig mit der Einf�hrung 
+Wenn die Antworten eine Resonanz von > 70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MANIFEST_V1.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MANIFEST_V1.md ---
 
 # LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (V1.3)
 
 ## 0. Pr�ambel: Hybride Genese
-Dieses Dokument beschreibt ein funktionales Framework f�r das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolution�re Ko-Kreation).
+Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolution�re Ko-Kreation).
 
 ---
 
@@ -1853,15 +1853,15 @@ Ein permanenter R�ckkopplungsprozess, der das gesamte Werk auf logische Br�c
 ---
 
 ## 3. Der Faktor Mensch: Die Evolution der Autonomie
-LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist f�r den Menschen konzipiert, wie er ist � unvollkommen, emotional und sch�pferisch.
-- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten f�r die n�chste Optimierungsschleife.
+LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist � unvollkommen, emotional und sch�pferisch.
+- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten für die n�chste Optimierungsschleife.
 - **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
+- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum für empathische Entscheidungen und Mu�e zu lassen.
 
 ---
 
 ## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die überlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+Die Verbreitung erfolgt nicht durch politische MachtÜbernahme, sondern durch die überlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
 
 ---
 *Status: Zertifiziert & Operational*
@@ -1872,11 +1872,11 @@ Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch d
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MASTER_INDEX.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MASTER_INDEX.md ---
 
 # 🛡️ LOVALIS (LV 3.7) | Das Master-Verzeichnis (V1.0)
 
-Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride Gesamtwerk. Alle Module sind nach dem Open-Logic-Prinzip strukturiert und durch den kaskadierten Deep Scan validiert.
+Dieses Dokument dient als zentrale Navigationsinstanz für das gesamte hybride Gesamtwerk. Alle Module sind nach dem Open-Logic-Prinzip strukturiert und durch den kaskadierten Deep Scan validiert.
 
 ---
 
@@ -1893,7 +1893,7 @@ Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride 
 - 3_Beitrag\Proof_of_Contribution.md � Anerkennung statt Entlohnung.
 
 ## Buch III: Justice-Rehab (Der Codex)
-- 1_Axiome\Herz_Gesetze_1_9.md � Schutz der Integrit�t & Sichtbarkeit.
+- 1_Axiome\Herz_Gesetze_1_9.md � Schutz der Integrität & Sichtbarkeit.
 - 1_Axiome\Hand_Gesetze_10_18.md � Ressourcen, Raum & Ökologie.
 - 1_Axiome\Kopf_Gesetze_19_27.md � Datenhoheit, Transparenz & Logik.
 - 1_Axiome\Leid_Metrik_Spezifikation.md � Technische Messbarkeit von Gerechtigkeit.
@@ -1905,15 +1905,15 @@ Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride 
 - 3_Technik\Symbiose_Logik.md � Mensch-Maschine-Koppelung (�21/22).
 - 4_Habitat\Architektur_Logik.md � Modulare Bauweise & �kologische Heilung.
 
-## Buch V: Vernetzung (Globale F�deration)
+## Buch V: Vernetzung (Globale Föderation)
 - 1_Foederation\Netzwerk_Logik.md � Das dezentrale Mesh-Protokoll.
-- 2_Resilienz\Krisen_Protokolle.md � Globale Solidarit�t & Schwarm-Logik.
+- 2_Resilienz\Krisen_Protokolle.md � Globale Solidarität & Schwarm-Logik.
 - 3_Frontier\Weltraum_Logik.md � Nachhaltige Expansion & Exoplanetare Ethik.
 
 ## Buch VI: Transition (Der Weg der Migration)
-- 1_Koexistenz\Migration_Protokoll.md � Legacy-Br�cken & Sog-Effekt-Strategie.
+- 1_Koexistenz\Migration_Protokoll.md � Legacy-Brücken & Sog-Effekt-Strategie.
 - 2_Infrastruktur\Umbau_Protokoll.md � Physikalisches Refactoring (Netze/Energie).
-- 3_Psychologie\Bewusstseins_Wandel.md � Angstbew�ltigung & Identit�tstransformation.
+- 3_Psychologie\Bewusstseins_Wandel.md � Angstbew�ltigung & Identitätstransformation.
 - 4_Integritaet\Wachsamkeits_Modul.md � Schutz vor technokratischer Erstarrung.
 
 ---
@@ -1930,20 +1930,20 @@ Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride 
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\README.md ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\README.md ---
 
 # 🛡️ LOVALIS (LV 3.7)
 ### *Concordia Synergetica Logicae Artificialis et Valitatis Humanae*
 
-> **�Strenge im Code, Freiheit im Sein � Perfekt im System, menschlich im Scheitern.�**
+> **„Strenge im Code, Freiheit im Sein – Perfekt im System, menschlich im Scheitern.“**
 
-LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und k�nstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem f�r das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid (\{min}\$) basiert.
+LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und künstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem für das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid (\{min}\$) basiert.
 
 ---
 
 ## 🏛️ Die Architektur (Das Kompendium)
 
-Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und eine schrittweise Transition erm�glichen:
+Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und eine schrittweise Transition ermöglichen:
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
@@ -1951,26 +1951,26 @@ Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und 
 | **II** | **Puls-OS** | Kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
 | **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
-| **V** | **Global** | Dezentrale F�deration & Mesh-Netzwerk-Protokolle. |
-| **VI** | **Transition** | Legacy-Br�cken, Migrations-Pfade & Wachsamkeits-Modul. |
+| **V** | **Global** | Dezentrale Föderation & Mesh-Netzwerk-Protokolle. |
+| **VI** | **Transition** | Legacy-Brücken, Migrations-Pfade & Wachsamkeits-Modul. |
 
 ---
 
 ## ⚙️ Das Kern-Konzept: Die Synergie
 
-LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realit�t:
+LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realität:
 
-* **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den �logischen Blitzableiter� f�r komplexe Entscheidungen bildet.
+* **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den „logischen Blitzableiter“ für komplexe Entscheidungen bildet.
 * **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. 150 Personen), in denen der Mensch die volle gestalterische Freiheit beh�lt.
 
 ---
 
 ## 🚀 Deployment: Der Submarine-Modus
 
-LOVALIS verbreitet sich nicht durch politische Umst�rze, sondern durch **asymmetrische Attraktion**.
+LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
 1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
-2. **Sog-Effekt:** Steigerung der Lebensqualit�t f�hrt zu freiwilligem Beitritt (Wollen-Effekt).
-3. **Souver�nit�t:** Schrittweise Abl�sung von dysfunktionalen Altsystemen durch überlegene interne Stabilit�t.
+2. **Sog-Effekt:** Steigerung der Lebensqualit�t führt zu freiwilligem Beitritt (Wollen-Effekt).
+3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
 
 ---
 
@@ -1990,7 +1990,7 @@ Dieses Repository folgt dem **Open-Logic-Prinzip**. Es ist zur Adoption und Modi
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\SYSTEM_INTEGRITY_CERTIFICATE.log ---
+--- START DATEI: F:\Valitas\Überpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\SYSTEM_INTEGRITY_CERTIFICATE.log ---
 
 ################################################################################
 # LOVALIS (LV 3.7) | SYSTEM INTEGRITY CERTIFICATE (V1.3 - THE FINAL SEAL)

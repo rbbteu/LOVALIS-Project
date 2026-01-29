@@ -5,9 +5,9 @@
 - Demurrage-Mechanismus: Automatischer R�ckfluss nicht genutzter Einheiten (Halbwertszeit).
 - Kopplung der Geldmenge M an reale Regenerationsraten (E_gen).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Kybernetische Ressourcensteuerung statt klassischer Marktmechanismen.
-- Pr�vention von Akkumulation und Machtkonzentration durch W�hrungsdesign.
+- Pr�vention von Akkumulation und Machtkonzentration durch Währungsdesign.
 - Entropie-basierte Bepreisung zur �kologischen Lenkung.
 
 ## III. Laienverst�ndnis

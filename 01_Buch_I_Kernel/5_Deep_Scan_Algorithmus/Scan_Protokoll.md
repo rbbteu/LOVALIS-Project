@@ -5,7 +5,7 @@
 - Rollback-Mechanismus: Wiederherstellung von S_stable bei Detektion eines 'Logical Breaks'.
 - Traceability: R�ckverfolgung jeder Entscheidung bis zu den Kernel-Axiomen (T.�.E.).
 
-## II. Experten�bersetzung
+## II. ExpertenÜbersetzung
 - Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
 - Transparenzgebot: Alle Scan-Ergebnisse sind öffentlich und unver�nderlich (Audit-Log).
 

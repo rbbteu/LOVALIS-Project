@@ -5,7 +5,7 @@ Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
 - **Hard-Limit:** N_max = 150 Individuen pro Cluster.
 - **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
 
-## II. Experten�bersetzung (Governance-Ebene)
+## II. ExpertenÜbersetzung (Governance-Ebene)
 Die Kleinteiligkeit verhindert soziale Anonymit�t. Die 1:11 Care-Ratio (13 Ratsmitglieder auf 150 B�rger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
