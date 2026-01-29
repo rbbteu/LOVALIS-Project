@@ -1,17 +1,10 @@
 # Buch VII | The Toolbox
-**Kontext:** Angewandte Souver�nit�t im Alltag.
-**System-Funktion:** Bereitstellung modularer Werkzeuge zur individuellen und kollektiven Leidminimierung ({min}$).
+## 7.1 Das V-Gate
+- **Formel:** V = T ∩ O ∩ E.
+- **Zweck:** Prüfung auf Machbarkeit, Nutzen und Ethik.
 
----
+## 7.2 Die Grand Tour
+- **Phase:** 18–21 Jahre. Rotation durch alle Sektoren.
 
-## 7.1 Das V-Gate (Entscheidungs-Filter)
-- **Formel:** V = T n O n E.
-- **Zweck:** Pr�fung auf technische Machbarkeit, Aufwand und ethische Unbedenklichkeit.
-
-## 7.2 Die Grand Tour (Soziale Induktion)
-- **Phase:** Alter 18�21 Jahre.
-- **Zweck:** 3-j�hrige rotation durch alle Cluster-Dom�nen zur Vermeidung von Entremdung.
-
-## 7.3 Das resonance Ledger (Tribe-Management)
-- **Metrik:** Wert = Zeit * Impact_Faktor.
-- **Zweck:** Sichtbarmachung unsichtbarer Arbeit in Kleingruppen.
+## 7.3 Das Resonance Ledger
+- **Metrik:** Wert = Zeit * Impact. Sichtbarmachung von Care-Arbeit.
