@@ -1,19 +1,18 @@
-ü#ü üBüuücühü üVüIü ü|ü üKüaüpüiütüeülü ü2ü:ü üDüiüeü üIünürüaüsütürüuükütüuürü-üTürüaünüsüfüoürümüaütüiüoünü ü(üPühüyüsüiüküaülüiüsücühüeürü üUümübüaüuü)üü
-üü
-ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü ü(üSüyüsütüeümü-üEübüeünüeü:ü ü*üIünürüaüsütürüuücütüuürüeü-ürüeüfüaücütüoürüiünügü*ü)üü
-üAülütüsüyüsütüeümüeü üwüeürüdüeünü ünüaücühü üdüeümü üPürüiünüzüiüpü üdüeürü ü'üKüaüpüsüeülüuünügü'ü übüeühüaünüdüeülütü.üü
-ü-ü ü*ü*üMüeüsühü-üBüaücükübüoünüeü:ü*ü*ü üBüeüsütüeühüeünüdüeü üGülüaüsüfüaüsüeürü-ü üuünüdü üMüoübüiülüfüuünükünüeütüzüeü üwüeürüdüeünü üaüuüfü üdüaüsü üdüeüzüeünütürüaülüeü üLüoügüiücüaü-üPürüoütüoüküoülülü üuümügüeüsütüeülülütü.ü üAübüsücühüaülütüuünügü üzüeünütürüaülüeürü üSüeürüvüeürüfüaürümüeünü üzüuügüuünüsütüeünü üvüoünü üCülüuüsütüeürü-üEüdügüeü-üCüoümüpüuütüiünügü ü(ü�ü2ü0ü üDüaütüeünü-üSüoüuüvüeürü�ünüiütü�ütü)ü.üü
-ü-ü ü*ü*üEünüeürügüiüeü-ürüeütürüoüfüiütü:ü*ü*ü üTürüaünüsüfüoürümüaütüiüoünü üvüoünü üGürüoü�ükürüaüfütüwüeürüküeünü üiünü üdüeüzüeünütürüaülüeü üSüpüeüiücühüeürü-üHüuübüsü.ü üJüeüdüeüsü üHüaüuüsü üiümü üCülüuüsütüeürü üwüiürüdü üzüuümü üNüeütüzükünüoütüeünü ü(ü�ü1ü2ü üEünüeürügüiüeü-üGüaürüaünütüiüeü)ü.üü
-ü-ü ü*ü*üSütüoüfüfüsütürüoümü-üUümüküeühürü:ü*ü*ü üFüaübürüiüküeünü üwüeürüdüeünü üvüoünü ü'üLüiünüeüaürüeümü üAüuüsüsütüoü�ü'ü üaüuüfü ü'üZüiürüküuülü�ürüeü üFüeürütüiügüuünügü'ü üuümügüeürü�üsütüeütü ü(üAünüküeürü üIünürüaüsütürüuükütüuürü üHüDü-ü0ü8ü)ü.üü
-üü
-ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü ü(üGüoüvüeürünüaünücüeü-üEübüeünüeü:ü ü*üDüaüsü üHüaürüdüwüaürüeü-üUüpügürüaüdüeü*ü)üü
-ü-ü ü*ü*üTüeülüeüküoümümüuünüiüküaütüiüoünüsü-üMüiügürüaütüiüoünü:ü*ü*ü üUümüpüoülüuünügü üdüeürü ü�übüeürüwüaücühüuünügüsüsüyüsütüeümüeü.ü üAülügüoürüiütühümüeünü üwüeürüdüeünü üsüoü ümüoüdüiüfüiüzüiüeürütü,ü üdüaüsüsü üsüiüeü ünüuürü ünüoücühü ülüoügüiüsücühüeü üBürü�ücühüeü ü(üLüeüiüdü)ü üeürüküeüküöününüeünü,ü üsütüaütütü üKüoünüsüuümüvüeürühüaülütüeünü üzüuü ütürüaücüküeünü.üü
-ü-ü ü*ü*ürü�ücükübüaüuü-üPürüiüoürüiüsüiüeürüuünügü:ü*ü*ü üIüdüeünütüiüfüiüküaütüiüoünü üvüoünü üHüoücühü-üEünütürüoüpüiüeü-üSüyüsütüeümüeünü ü(üzü.üBü.ü üVüeürübürüeününüuünügüsü-üIünürüaüsütürüuükütüuürü)ü,ü üdüiüeü üaülüsü üeürüsütüeüsü üdüuürücühü üLüoügüiücüaü-üMüoüdüuülüeü üeürüsüeütüzütü üwüeürüdüeünü.üü
-ü-ü ü*ü*üDüuüaülü-üUüsüeü-üPühüaüsüeü:ü*ü*ü üIünürüaüsütürüuükütüuürü ümüuüsüsü üwü�ühürüeünüdü üdüeüsü üUümübüaüuüsü übüeüiüdüeü üWüeülütüeünü übüeüdüiüeünüeünü ü(üAübüwü�ürütüsüküoümüpüaütüiübüiülüiütü�ütü)ü.üü
-üü
-ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsü ü(üBü�ürügüeürü-üEübüeünüeü)üü
-ü-ü ü*ü*üDüaüsü üBüeüiüsüpüiüeülü ü'üIünütüeürünüeütü ü&ü üSütürüoümü'ü:ü*ü*üü
-ü ü ü ü ü-ü üDüeüiünü üIünütüeürünüeütü üwüiürüdü ünüiücühütü üaübügüeüsücühüaülütüeütü,ü üeüsü üwüiürüdü üsücühünüeülülüeürü üuünüdü üsüiücühüeürüeürü,ü üwüeüiülü üdüiüeü üDüaütüeünü ünüiücühütü ümüeühürü ü�übüeürü üfüeürünüeü üKüoünüzüeürünüeü ülüaüuüfüeünü,ü üsüoünüdüeürünü üiünü üdüeüiünüeümü üCülüuüsütüeürü übülüeüiübüeünü.üü
-ü ü ü ü ü-ü üDüeüiünü üSütürüoümüzü�ühülüeürü üwüiürüdü üzüuümü ü'üPüuülüsü-üMüoünüiütüoürü'ü.ü üEürü üzüeüiügütü üdüiürü ünüiücühütü ümüeühürü,ü üwüaüsü üdüuü übüeüzüaühülüeünü ümüuüsüsütü,ü üsüoünüdüeürünü üwüiüeü üvüiüeülü üEünüeürügüiüeü üdüeüiünü üCülüuüsütüeürü ügüeürüaüdüeü üiümü ü�übüeürüfülüuüsüsü ühüaütü üoüdüeürü üsüpüaürüeünü üsüoülülütüeü.üü
-ü-ü ü*ü*üKüeürünübüoütüsücühüaüfütü:ü*ü*ü üWüiürü ürüeüiü�üeünü ünüiücühütüsü üaübü,ü üwüaüsü ünüoücühü üfüuünükütüiüoünüiüeürütü.ü üWüiürü ümüaücühüeünü üeüsü ünüuürü ükülü�ügüeürü,ü üsüaüuübüeürüeürü üuünüdü üuünüaübühü�ünügüiügüeürü.üü
-ü
+# Buch VI | Kapitel 2: Die Inrastruktur-Transformation (Physikalischer Umbau)
+
+## I. Technische Spezifikation (System-Ebene: *Inrastructure-refactoring*)
+Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
+- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (�20 Daten-Souver�nit�t).
+- **Energie-retrofit:** Transformation von Gro�kraftwerken in dezentrale Speicher-Hubs. Jedes Haus im Cluster wird zum Netzknoten (�12 Energie-Garantie).
+- **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Aussto�' auf 'Zirkul�re Fertigung' umger�stet (Anker Inrastruktur HD-08).
+
+## II. Experten�bersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
+- **Telekommunikations-Migration:** Umpolung der �berwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Br�che (Leid) erkekönnen, statt Konsumverhalten zu tracken.
+- **r�ckbau-Priorisierung:** Identifikation von Hoch-Entropie-Systemen (z.B. Verbrennungs-Inrastruktur), die als erstes durch Logica-Module ersetzt werden.
+- **Dual-Use-Phase:** Inrastruktur muss w�hrend des Umbaus beide Welten bedienen (Abw�rtskompatibilit�t).
+
+## III. Laienverst�ndnis (B�rger-Ebene)
+- **Das Beispiel 'Internet & Strom':**
+    - Dein Internet wird nicht abgeschaltet, es wird schneller und sicherer, weil die Daten nicht mehr �ber ferne Konzerne laufen, sondern in deinem Cluster bleiben.
+    - Dein Stromz�hler wird zum 'Puls-Monitor'. Er zeigt dir nicht mehr, was du bezahlen musst, sondern wie viel Energie dein Cluster gerade im �berfluss hat oder sparen sollte.
+- **Kernbotschaft:** Wir rei�en nichts ab, was noch funktioniert. Wir machen es nur kl�ger, sauberer und unabh�ngiger.

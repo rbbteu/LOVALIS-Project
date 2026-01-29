@@ -1,20 +1,19 @@
-ü#ü üBüuücühü üIüVü ü|ü üKüaüpüiütüeülü ü4ü:ü üAürücühüiütüeükütüuürü ü&ü üLüeübüeünüsürüaüuümü-üGüeüsütüaülütüuünügü ü(üHüaübüiütüaütü-üSütüaünüdüaürüdü)üü
-üü
-ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünü ü(üSüyüsütüeümü-üEübüeünüeü:ü ü*üHüaübüiütüaütü-üEünügüiünüeüeürüiünügü*ü)üü
-üDüiüeü üAürücühüiütüeükütüuürü üfüoülügütü üdüeümü üPürüiünüzüiüpü üdüeürü ü'üAütümüeünüdüeünü üIünürüaüsütürüuükütüuürü'ü.üü
-ü-ü ü*ü*üMüoüdüuülü-üSütüaünüdüaürüdü ü(ü�ü1ü1ü)ü:ü*ü*ü üWüoühünüeüiünühüeüiütüeünü üsüiünüdü ümüoüdüuülüaürü üuünüdü üeürüwüeüiütüeürübüaürü.ü üJüeüdüeürü üBü�ürügüeürü ühüaütü üAünüsüpürüuücühü üaüuüfü üeüiünüeü üBüaüsüiüsü-üFülü�ücühüeü,ü üdüiüeü üsüiücühü üaünü üLüeübüeünüsüpühüaüsüeünü üaünüpüaüsüsütü ü(üMüiütüoüsüeü-üPürüiünüzüiüpü üaüuüfü ürüaüuümüeübüeünüeü)ü.üü
-ü-ü ü*ü*üEünüeürügüeütüiüsücühüeü üAüuütüaürüküiüeü ü(ü�ü1ü2ü/ü�ü1ü8ü)ü:ü*ü*ü üGüeübü�üuüdüeü üsüiünüdü üKürüaüfütüwüeürüküeü.ü üJüeüdüeü üOübüeürüfülü�ücühüeü ümüuüsüsü üzüuürü üEünüeürügüiüeügüeüwüiününüuünügü üoüdüeürü üCüOü2ü-üBüiünüdüuünügü übüeüiütürüaügüeünü ü(üPühüoütüoüvüoülütüaüiükü-üHüaüuütü,ü üAülügüeünü-üFüaüsüsüaüdüeünü)ü.üü
-ü-ü ü*ü*üMüaütüeürüiüaülü-üZüiürüküuülüaürüiütü�ütü ü(ü�ü1ü7ü)ü:ü*ü*ü üVüeürübüoütü üvüoünü üVüeürübüuünüdüsütüoüfüfüeünü,ü üdüiüeü ünüiücühütü üzüeürüsütü�ürüuünügüsürüeüiü ügüeütürüeününütü üwüeürüdüeünü ükü�üküöününüeünü.ü üBüaüuüeünü üiüsütü üeüiünü ütüeümüpüoürü�ürüeüsü üAürürüaünügüeümüeünütü üvüoünü ürüeüsüsüoüuürücüeünü.üü
-üü
-ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügü ü(üGüoüvüeürünüaünücüeü-üEübüeünüeü:ü ü*ürüaüuümü-üPüsüyücühüoülüoügüiüeü*ü)üü
-ü-ü ü*ü*üEürühüaülütü üdüeürü üDüuünübüaürü-üGürüeünüzüeü:ü*ü*ü üDüiüeü üAünüoürüdünüuünügü üdüeürü üGüeübü�üuüdüeü üeürüzüwüiünügütü üzüuüfü�ülülüiügüeü üBüeügüeügünüuünügüeünü ü(üsüeürüeünüdüiüpüiütüyü)ü,ü üuümü üdüiüeü üsüoüzüiüaülüeü üKüoühü�ürüeünüzü üzüuü üsütü�ürüküeünü,ü üoühünüeü üdüiüeü üPürüiüvüaütüsüpühü�ürüeü üzüuü üvüeürülüeütüzüeünü.üü
-ü-ü ü*ü*üZüoünüiüeürüuünügü:ü*ü*ü üAüuüfütüeüiülüuünügü üiünü ü'üIünütüiümü'ü ü(üWüoühünürüaüuümü)ü,ü ü'üSüoüzüiüaülü'ü ü(üMüaürükütüpülüaütüzü/üPülüeünüuümü)ü üuünüdü ü'üPürüoüdüuükütüiüvü'ü ü(üWüeürüküsütü�ütütüeünü/üGü�ürütüeünü)ü.ü üKüeüiünüeü ümüoünüoüfüuünükütüiüoünüaülüeünü üZüoünüeünü.üü
-ü-ü ü*ü*üLüaünüdüsücühüaüfütüsü-üIünütüeügürüaütüiüoünü ü(ü�ü1ü3ü)ü:ü*ü*ü üAürücühüiütüeükütüuürü üdüiüeünütü üdüeürü üHüeüiülüuünügü üdüeüsü üBüoüdüeünüsü.ü üGüeübü�üuüdüeü üwüeürüdüeünü üaüuüfü üSütüeülüzüeünü üoüdüeürü üiünü übüeüsütüeühüeünüdüeü üSütürüuükütüuürüeünü üiünütüeügürüiüeürütü,ü üuümü üdüiüeü üBüoüdüeünüvüeürüsüiüeügüeülüuünügü ügüeügüeünü üNüuülülü üzüuü üfü�ühürüeünü.üü
-üü
-ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsü ü(üBü�ürügüeürü-üEübüeünüeü)üü
-ü-ü ü*ü*üDüaüsü üBüeüiüsüpüiüeülü üdüeüsü ü'üWüaücühüsüeünüdüeünü üHüaüuüsüeüsü'ü:ü*ü*üü
-ü ü ü ü ü-ü üWüeününü üdüuü üeüiünüeü üFüaümüiülüiüeü ügürü�ünüdüeüsütü üoüdüeürü üeüiünü ünüeüuüeüsü üHüoübübüyü übüeügüiününüsütü,ü üwüiürüdü üdüeüiünü üWüoühünürüaüuümü ünüiücühütü üdüuürücühü üUümüzüuügü,ü üsüoünüdüeürünü üdüuürücühü üdüaüsü üHüiünüzüuüfü�ügüeünü üeüiünüeüsü ürüaüuümü-üMüoüdüuülüsü üeürüwüeüiütüeürütü.üü
-ü ü ü ü ü-ü üDüeüiünü üHüaüuüsü ü'üaütümüeütü'ü ümüiütü üdüiürü.ü üEüsü üiüsütü ühüeülülü,ü ügüeüsüuünüdü ü(üSücühüaüdüsütüoüfüfürüeüiühüeüiütü)ü üuünüdü üpürüoüdüuüzüiüeürütü ümüeühürü üEünüeürügüiüeü,ü üaülüsü üeüsü üvüeürübürüaüuücühütü.üü
-ü ü ü ü ü-ü üDüeürü üGüaürütüeünü üvüoürü üdüeüiünüeürü üTü�ürü üiüsütü üküeüiünü üPürüiüvüaütübüeüsüiütüzü,ü üsüoünüdüeürünü üTüeüiülü üeüiünüeüsü üPüaürüküsü,ü üdüeünü üdüuü ümüiütü üdüeüiünüeünü ü1ü4ü9ü üNüaücühübüaürünü ütüeüiülüsütü üuünüdü ügüeüsütüaülütüeüsütü.üü
-ü-ü ü*ü*üKüeürünübüoütüsücühüaüfütü:ü*ü*ü üWüiürü übüaüuüeünü üNüeüsütüeürü,ü üküeüiünüeü üKü�üfüiügüeü.ü üDüeüiünü üZüuühüaüuüsüeü üsücühü�ütüzütü üdüiücühü üuünüdü üdüiüeü üNüaütüuürü ügülüeüiücühüzüeüiütüiügü.üü
-ü
+# Buch IV | Kapitel 4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
+
+## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
+Die Architektur folgt dem Prinzip der 'Atmenden Inrastruktur'.
+- **Modul-Standard (�11):** Wohneinheiten sind modular und erweiterbar. Jeder B�rger hat Anspruch auf eine Basis-Fl�che, die sich an Lebensphasen anpasst (Mitose-Prinzip auf raumebene).
+- **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede Oberfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
+- **Material-Zirkularit�t (�17):** Verbot von Verbundstoffen, die nicht zerst�rungsrei getrennt werden k�können. Bauen ist ein tempor�res Arrangement von ressourcen.
+
+## II. Experten�bersetzung (Governance-Ebene: *raum-Psychologie*)
+- **Erhalt der Dunbar-Grenze:** Die Anordnung der Geb�ude erzwingt zuf�llige Begegnungen (serendipity), um die soziale Koh�renz zu st�rken, ohne die Privatsph�re zu verletzen.
+- **Zonierung:** Aufteilung in 'Intim' (Wohnraum), 'Sozial' (Marktplatz/Plenum) und 'Produktiv' (Werkst�tten/G�rten). Keine monofunktionalen Zonen.
+- **Landschafts-Integration (�13):** Architektur dient der Heilung des Bodens. Geb�ude werden auf Stelzen oder in bestehende Strukturen integriert, um die Bodenversiegelung gegen Null zu f�hren.
+
+## III. Laienverst�ndnis (B�rger-Ebene)
+- **Das Beispiel des 'Wachsenden Hauses':**
+    - Wenn du eine Familie gr�ndest oder ein neues Hobby beginnst, wird dein Wohnraum nicht durch Umzug, sondern durch das Hinzuf�gen eines raum-Moduls erweitert.
+    - Dein Haus 'atmet' mit dir. Es ist hell, gesund (Schadstoffreiheit) und produziert mehr Energie, als es verbraucht.
+    - Der Garten vor deiner T�r ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen 149 Nachbarn teilst und gestaltest.
+- **Kernbotschaft:** Wir bauen Nester, keine K�fige. Dein Zuhause sch�tzt dich und die Natur gleichzeitig.

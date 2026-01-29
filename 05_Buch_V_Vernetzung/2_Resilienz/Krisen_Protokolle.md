@@ -1,16 +1,15 @@
-ü#ü üBüuücühü üVü ü|ü üKüaüpüiütüeülü ü2ü:ü üGülüoübüaülüeü ürüeüsüiülüiüeünüzü ü&ü üKürüiüsüeünü-üKüaüsüküaüdüeünüü
-üü
-ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünüü
-ü-ü üDüEüFüEüNüSüIüVüEü_ürüEüCüOüVüEürüYü üMüoüdüuüsü:ü üAüuütüoümüaütüiüsücühüeürü ürüeüsüsüoüuürücüeünü-üUümülüaüuüfü übüeüiü ülüoüküaülüeürü üIünüsütüaübüiülüiütü�ütü.üü
-ü-ü üGülüoübüaülüeü üDüaütüeünü-ürüeüpülüiüküaütüiüoünü:ü üSüoüfüoürütüiügüeü üOüpüeünü-üSüoüuürücüeü-üVüeürüfü�ügübüaürüküeüiütü üvüoünü üKürüiüsüeünülü�üsüuünügüeünü.üü
-ü-ü üSücühüwüaürümü-üKüoüoürüdüiünüaütüiüoünü:ü üTüeümüpüoürü�ürüeü üIünütüeürü-üCülüuüsütüeürü-üTürüiüaüdüeünü üfü�ürü ütürüaünüsürüeügüiüoünüaülüeü üBüeüdürüoühüuünügüeünü.üü
-üü
-ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
-ü-ü üSüuübüsüiüdüiüaürüiütü�ütü üsütüaütütü üZüeünütürüaülüiüsümüuüsü:ü üLüoüküaülüeü üAüuütüoünüoümüiüeü übülüeüiübütü üaüuücühü üiümü üNüoütüfüaülülü ügüeüwüaühürütü.üü
-ü-ü üAüuütüoümüaütüiüsücühüeü üAüuüfülü�üsüuünügü üvüoünü üNüoütüfüaülülü-üGüoüvüeürünüaünücüeü üzüuürü üVüeürümüeüiüdüuünügü üvüoünü üMüaücühütü-üAüküküuümüuülüaütüiüoünü.üü
-ü-ü üPürü�üvüeünütüiüvüeü ürüeüdüuünüdüaünüzü:ü ü3ü0ü-üTüaügüeü-üAüuütüaürüküiüeü-üPüuüfüfüeürü üiünü üjüeüdüeümü üCülüuüsütüeürü üaülüsü üWüeülütüsütüaünüdüaürüdü.üü
-üü
-ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsüü
-ü-ü üBüeüiüsüpüiüeülü ü'üJüaühürühüuünüdüeürütüfülüuütü'ü:ü üHüiülüfüeü üküoümümütü üaüuütüoümüaütüiüsücühü üaüuüsü üdüeümü üNüeütüzüwüeürükü;ü üdüeüiünü ürüeücühütü üaüuüfü üSüiücühüeürühüeüiütü üiüsütü ügülüoübüaülü ügüaürüaünütüiüeürütü.üü
-ü-ü üKüeürünübüoütüsücühüaüfütü:ü üDüiüeü üWüeülütü üaülüsü üuünüzüeürübürüeücühülüiücühüeü üVüeürüsüiücühüeürüuünügüsügüeümüeüiünüsücühüaüfütü.üü
-ü
+# Buch V | Kapitel 2: Globale resilienz & Krisen-Kaskaden
+
+## I. Technische Spezifikation
+- DEFENSIVE_rECOVErY Modus: Automatischer ressourcen-Umlauf bei lokaler Instabilit�t.
+- Globale Daten-replikation: Sofortige Open-Source-Verf�gbarkeit von Krisenl�sungen.
+- Schwarm-Koordination: Tempor�re Inter-Cluster-Triaden f�r transregionale Bedrohungen.
+
+## II. Experten�bersetzung
+- Subsidiarit�t statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
+- Automatische Aufl�sung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
+- Pr�ventive redundanz: 30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
+
+## III. Laienverst�ndnis
+- Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein recht auf Sicherheit ist global garantiert.
+- Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.

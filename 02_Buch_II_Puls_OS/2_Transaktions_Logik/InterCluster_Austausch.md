@@ -1,16 +1,15 @@
-ü#ü üBüuücühü üIüIü ü|ü üKüaüpüiütüeülü ü2ü:ü üTürüaünüsüaükütüiüoünüsü-üPürüoütüoüküoülülüeü ü&ü üIünütüeürü-üCülüuüsütüeürü-üAüuüsütüaüuüsücühüü
-üü
-ü#ü#ü üIü.ü üTüeücühünüiüsücühüeü üSüpüeüzüiüfüiüküaütüiüoünüü
-ü-ü üPüeüeürüiünügü-üPürüoütüoüküoülülü:ü ürüeüsüsüoüuürücüeünüaüuüsügülüeüiücühü üsütüaütütü üGüeüwüiününümüaüxüiümüiüeürüuünügü.üü
-ü-ü üZüeürüoü-üSüuümü-üCüoünüsütürüaüiünütü:ü üSücühüuütüzü üdüeürü ülüoüküaülüeünü üSüyüsütüeümüsütüaübüiülüiütü�ütü übüeüiü üEüxüpüoürütüeünü.üü
-ü-ü üEünütürüoüpüiüeü-übüaüsüiüeürütüeü üLüoügüiüsütüiükü:ü üPürüiüoürüiüsüiüeürüuünügü üküuürüzüeürü üKüeütütüeünü.üü
-üü
-ü#ü#ü üIüIü.ü üEüxüpüeürütüeünü�übüeürüsüeütüzüuünügüü
-ü-ü üGülüoübüaülüeü üBüeüdüaürüfüsü-üMüaütürüiüxü üzüuürü üVüeürümüeüiüdüuünügü üvüoünü ürüeüsüsüoüuürücüeünü-üEünügüpü�ümüüüsüsüeünü.üü
-ü-ü üHüoühüeürü üAüuütüaürüküiüeügürüaüdü ü(ümüiünü.ü ü7ü0ü%ü)ü üzüuürü ürüeüsüiülüiüeünüzü-üSüiücühüeürüuünügü.üü
-ü-ü üAüuütüoümüaütüiüsücühüeüsü üSüoülüiüdüaürüiütü�ütüsü-üPürüoütüoüküoülülü übüeüiü ülüoüküaülüeünü üKürüiüsüeünü.üü
-üü
-ü#ü#ü üIüIüIü.ü üLüaüiüeünüvüeürüsütü�ünüdünüiüsüü
-ü-ü üBüeüiüsüpüiüeülü ü'üGülüaüsü ügüeügüeünü üEünüeürügüiüeü'ü:ü üEüiünü üfüaüiürüeürü üTüaüuüsücühü,ü üdüeürü übüeüiüdüeünü üGüeümüeüiünüsücühüaüfütüeünü üdüiüeünütü,ü üoühünüeü üdüaüsüsü üjüeümüaünüdü üSücühüuülüdüeünü ümüaücühütü.üü
-ü-ü üKüeürünübüoütüsücühüaüfütü:ü üWüoühülüsütüaünüdü üdüuürücühü üKüoüoüpüeürüaütüiüoünü üsütüaütütü üdüuürücühü üKüoünüküuürürüeünüzü.üü
-ü
+# Buch II | Kapitel 2: Transaktions-Protokolle & Inter-Cluster-Austausch
+
+## I. Technische Spezifikation
+- Peering-Protokoll: ressourcenausgleich statt Gewinnmaximierung.
+- Zero-Sum-Constraint: Schutz der lokalen Systemstabilit�t bei Exporten.
+- Entropie-basierte Logistik: Priorisierung kurzer Ketten.
+
+## II. Experten�bersetzung
+- Globale Bedarfs-Matrix zur Vermeidung von ressourcen-Engp�mssen.
+- Hoher Autarkiegrad (min. 70%) zur resilienz-Sicherung.
+- Automatisches Solidarit�ts-Protokoll bei lokalen Krisen.
+
+## III. Laienverst�ndnis
+- Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
+- Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.

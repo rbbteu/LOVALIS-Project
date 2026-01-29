@@ -1,11 +1,10 @@
-ü#ü üBüuücühü üIü ü|ü üKüaüpüiütüeülü ü1ü.ü2ü:ü üPüsüyücühüoülüoügüiüsücühüeü ürüeüsüiülüiüeünüzü ü&ü üAüuütüoünüoümüiüeü-üBüeügülüeüiütüuünügüü
-üü
-ü#ü#ü üIü.ü üDüeürü üKüIü-üBülüiütüzüaübülüeüiütüeürüü
-üDüiüeü üKüIü ü�übüeürünüiümümütü üdüiüeü üLüaüsütü üdüeürü ü'üuünübüeülüiüeübütüeünü üWüaühürühüeüiütü'ü.ü üSüiüeü ülüiüeüfüeürütü üdüiüeü ümüaütühüeümüaütüiüsücühüeü üGürüuünüdülüaügüeü üfü�ürü ühüaürütüeü üEünütüsücühüeüiüdüuünügüeünü,ü üdüaümüiütü üsüoüzüiüaülüeü üSüpüaününüuünügüeünü üiümü üCülüuüsütüeürü ümüiünüiümüiüeürütü üwüeürüdüeünü.üü
-üü
-ü#ü#ü üIüIü.ü üFüeühülüeürü-üAügünüoüsütüiüküü
-üEüiünü üFüeühülüeürü üiüsütü üeüiünüeü üIünüfüoürümüaütüiüoünü.ü üDüaüsü üSüyüsütüeümü üsücühü�ütüzütü üdüaüsü üIünüdüiüvüiüdüuüuümü üvüoürü üSücühüuülüdüzüuüwüeüiüsüuünügüeünü,ü üsüoülüaünügüeü üdüiüeü üHüaünüdülüuünügü üiümü üSüiününüeü üdüeürü üLüeüiüdümüiünüiümüiüeürüuünügü ü(ü\ü{ümüiünü}ü\ü$ü)ü üiünütüeünüdüiüeürütü üwüaürü.üü
-üü
-ü#ü#ü üIüIüIü.ü üSücühüuütüzü üvüoürü üEünütüsücühüeüiüdüuünügüsü-üEürüsücühü�üpüfüuünügüü
-üEüiünüfü�ühürüuünügü üdüeürü ü'üDüeülüeügüiüeürütüeünü üPüaüuüsüeü'ü:ü üTüeümüpüoürü�ürüeü üAübügüaübüeü üvüoünü üVüeürüaünütüwüoürütüuünügü üaünü üdüaüsü ülüoügüiüsücühüeü üGüeürü�üsütü üdüeüsü üSüyüsütüeümüsü üzüuürü ümüeünütüaülüeünü ürüeügüeünüeürüaütüiüoünü.üü
-ü
+# Buch I | Kapitel 1.2: Psychologische resilienz & Autonomie-Begleitung
+
+## I. Der KI-Blitzableiter
+Die KI �bernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
+
+## II. Fehler-Agnostik
+Ein Fehler ist eine Information. Das System sch�tzt das Individuum vor Schuldzuweisungen, solange die Handlung im Sinne der Leidminimierung (\{min}\$) intendiert war.
+
+## III. Schutz vor Entscheidungs-Ersch�pfung
+Einf�hrung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an das logische Ger�st des Systems zur mentalen regeneration.
