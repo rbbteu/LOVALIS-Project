@@ -1,15 +1,15 @@
-ï»¿# Buch V | Kapitel 1: Die FÃ¶deration der Cluster (Netzwerk-Logik)
+# Buch V | Kapitel 1: Die Föderation der Cluster (Netzwerk-Logik)
 
 ## I. Technische Spezifikation
 - Peering-Protokoll: Direkte Cluster-zu-Cluster Kommunikation ohne Zentralinstanz.
-- Reputations-Hashing zur Sicherung der Inter-Cluster-IntegritÃ¤t.
-- Globale Allmende-Verwaltung fÃ¼r nicht-lokale Ressourcen (Ozeane, Orbit).
+- Reputations-Hashing zur Sicherung der Inter-Cluster-Integrität.
+- Globale Allmende-Verwaltung für nicht-lokale Ressourcen (Ozeane, Orbit).
 
-## II. ExpertenÃ¼bersetzung
+## II. Expertenübersetzung
 - Polyzentrische Governance statt Nationalstaatlichkeit.
-- Systemische PrÃ¤vention von Machtkonzentration durch globale Puls-Demurrage.
-- Inter-Cluster-Mediation als Ersatz fÃ¼r klassische Diplomatie/Krieg.
+- Systemische Prävention von Machtkonzentration durch globale Puls-Demurrage.
+- Inter-Cluster-Mediation als Ersatz für klassische Diplomatie/Krieg.
 
-## III. LaienverstÃ¤ndnis
-- Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gÃ¼ltig. 
+## III. Laienverständnis
+- Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gültig. 
 - Kernbotschaft: Eine verbundene Menschheit ohne Grenzen, basierend auf geteilten Werten.

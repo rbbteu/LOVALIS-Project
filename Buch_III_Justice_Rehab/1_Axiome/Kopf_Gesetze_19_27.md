@@ -1,46 +1,46 @@
-ï»¿# Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil 3: Kopf-DomÃ¤ne)
+# Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil 3: Kopf-Domäne)
 
-## Â§19 Die totale Transparenz
-- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unverÃ¤nderlich in das Ã¶ffentliche Cluster-Log (Hash-Chain) geschrieben.
-- **ExpertenÃ¼bersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung fÃ¼r das Vertrauen in die Verwaltung.
-- **LaienverstÃ¤ndnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
+## §19 Die totale Transparenz
+- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unveränderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
+- **Expertenübersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung für das Vertrauen in die Verwaltung.
+- **Laienverständnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
 
-## Â§20 Die Daten-SouverÃ¤nitÃ¤t
-- **Technische Spezifikation:** Alle personenbezogenen Daten sind verschlÃ¼sselt; der SchlÃ¼ssel liegt ausschlieÃŸlich beim Individuum. Automatisches LÃ¶schgebot nach ErfÃ¼llung des Zwecks.
-- **ExpertenÃ¼bersetzung:** Dateneigentum statt Datennutzung. Das Individuum hat das Recht auf das 'Digitale Vergessen'.
-- **LaienverstÃ¤ndnis:** Deine Daten gehÃ¶ren dir. Das System vergisst alles Ã¼ber dich, was nicht mehr unbedingt gebraucht wird.
+## §20 Die Daten-Souveränität
+- **Technische Spezifikation:** Alle personenbezogenen Daten sind verschlüsselt; der Schlüssel liegt ausschließlich beim Individuum. Automatisches Löschgebot nach Erfüllung des Zwecks.
+- **Expertenübersetzung:** Dateneigentum statt Datennutzung. Das Individuum hat das Recht auf das 'Digitale Vergessen'.
+- **Laienverständnis:** Deine Daten gehören dir. Das System vergisst alles über dich, was nicht mehr unbedingt gebraucht wird.
 
-## Â§21 Das Verbot der Verhaltens-Profilierung
-- **Technische Spezifikation:** Verbot der Aggregation von Verhaltensdaten zur Erstellung von Charakter-Scores. Das System darf keine Vorhersagen Ã¼ber die 'GÃ¼te' eines Menschen treffen.
-- **ExpertenÃ¼bersetzung:** Schutz vor Sozialkredit-Systemen. Jeder Moment ist eine neue Chance; keine algorithmische Vorverurteilung.
-- **LaienverstÃ¤ndnis:** Es gibt keine Punkte fÃ¼r 'gutes Verhalten'. Du wirst nicht nach deiner Vergangenheit bewertet.
+## §21 Das Verbot der Verhaltens-Profilierung
+- **Technische Spezifikation:** Verbot der Aggregation von Verhaltensdaten zur Erstellung von Charakter-Scores. Das System darf keine Vorhersagen über die 'Güte' eines Menschen treffen.
+- **Expertenübersetzung:** Schutz vor Sozialkredit-Systemen. Jeder Moment ist eine neue Chance; keine algorithmische Vorverurteilung.
+- **Laienverständnis:** Es gibt keine Punkte für 'gutes Verhalten'. Du wirst nicht nach deiner Vergangenheit bewertet.
 
-## Â§22 Die algorithmische Nachvollziehbarkeit
-- **Technische Spezifikation:** Jede KI-gestÃ¼tzte Entscheidung muss in natÃ¼rlicher Sprache begrÃ¼ndet werden kÃ¶nnen. 'Black-Box'-Systeme sind illegal.
-- **ExpertenÃ¼bersetzung:** Rechenschaftspflicht des Codes. Die Logik muss fÃ¼r den Menschen auditierbar bleiben.
-- **LaienverstÃ¤ndnis:** Wenn das System 'Nein' sagt, muss es dir genau erklÃ¤ren kÃ¶nnen, warum â€“ und zwar so, dass du es verstehst.
+## §22 Die algorithmische Nachvollziehbarkeit
+- **Technische Spezifikation:** Jede KI-gestützte Entscheidung muss in natürlicher Sprache begründet werden können. 'Black-Box'-Systeme sind illegal.
+- **Expertenübersetzung:** Rechenschaftspflicht des Codes. Die Logik muss für den Menschen auditierbar bleiben.
+- **Laienverständnis:** Wenn das System 'Nein' sagt, muss es dir genau erklären können, warum – und zwar so, dass du es verstehst.
 
-## Â§23 Das Recht auf Irrtum
-- **Technische Spezifikation:** Alle System-EintrÃ¤ge Ã¼ber Fehlverhalten sind zeitlich begrenzt und fÃ¼hren nach Rehabilitation zur vollstÃ¤ndigen LÃ¶schung (System-Reset).
-- **ExpertenÃ¼bersetzung:** PrÃ¤vention von ewigen Stigmata. Das System unterstÃ¼tzt die Evolution des Individuums durch Vergebung.
-- **LaienverstÃ¤ndnis:** Fehler werden korrigiert und dann vergessen. Du wirst nicht dein Leben lang fÃ¼r einen alten Patzer bestraft.
+## §23 Das Recht auf Irrtum
+- **Technische Spezifikation:** Alle System-Einträge über Fehlverhalten sind zeitlich begrenzt und führen nach Rehabilitation zur vollständigen Löschung (System-Reset).
+- **Expertenübersetzung:** Prävention von ewigen Stigmata. Das System unterstützt die Evolution des Individuums durch Vergebung.
+- **Laienverständnis:** Fehler werden korrigiert und dann vergessen. Du wirst nicht dein Leben lang für einen alten Patzer bestraft.
 
-## Â§24 Die Veto-SouverÃ¤nitÃ¤t
-- **Technische Spezifikation:** Jeder BÃ¼rger kann einen 'Deep Scan' eines Prozesses erzwingen, wenn er einen logischen Bruch (Leid) nachweist.
-- **ExpertenÃ¼bersetzung:** Dezentrale Kontrolle. Das Veto-Recht ist das Notbrems-System fÃ¼r jeden einzelnen BÃ¼rger.
-- **LaienverstÃ¤ndnis:** Wenn du merkst, dass etwas gewaltig schieflÃ¤uft, kannst du verlangen, dass das System anhÃ¤lt und alles genau prÃ¼ft.
+## §24 Die Veto-Souveränität
+- **Technische Spezifikation:** Jeder Bürger kann einen 'Deep Scan' eines Prozesses erzwingen, wenn er einen logischen Bruch (Leid) nachweist.
+- **Expertenübersetzung:** Dezentrale Kontrolle. Das Veto-Recht ist das Notbrems-System für jeden einzelnen Bürger.
+- **Laienverständnis:** Wenn du merkst, dass etwas gewaltig schiefläuft, kannst du verlangen, dass das System anhält und alles genau prüft.
 
-## Â§25 Die Gleichheit vor der Logik
-- **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder BÃ¼rger.
-- **ExpertenÃ¼bersetzung:** Aufhebung der ImmunitÃ¤t. Funktionale Rollen gewÃ¤hren keine rechtlichen Privilegien.
-- **LaienverstÃ¤ndnis:** Die Chefs mÃ¼ssen sich an dieselben Regeln halten wie du. Niemand steht Ã¼ber dem Gesetz.
+## §25 Die Gleichheit vor der Logik
+- **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder Bürger.
+- **Expertenübersetzung:** Aufhebung der Immunität. Funktionale Rollen gewähren keine rechtlichen Privilegien.
+- **Laienverständnis:** Die Chefs müssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
 
-## Â§26 Das Recht auf Migration
-- **Technische Spezifikation:** Protokoll zur Ãœbergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder bÃ¼rokratischen HÃ¼rden fÃ¼r den 'Move'.
-- **ExpertenÃ¼bersetzung:** 'Voting with feet'. Die Freiheit zu gehen ist das ultimative Korrektiv gegen schlechte Cluster-FÃ¼hrung.
-- **LaienverstÃ¤ndnis:** Wenn es dir in deinem Dorf nicht mehr gefÃ¤llt, kannst du jederzeit in ein anderes ziehen â€“ ohne Nachteile.
+## §26 Das Recht auf Migration
+- **Technische Spezifikation:** Protokoll zur Übergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder bürokratischen Hürden für den 'Move'.
+- **Expertenübersetzung:** 'Voting with feet'. Die Freiheit zu gehen ist das ultimative Korrektiv gegen schlechte Cluster-Führung.
+- **Laienverständnis:** Wenn es dir in deinem Dorf nicht mehr gefällt, kannst du jederzeit in ein anderes ziehen – ohne Nachteile.
 
-## Â§27 Die Revisions-Pflicht
+## §27 Die Revisions-Pflicht
 - **Technische Spezifikation:** Automatischer Deep Scan des gesamten Codex alle 12 Monate auf Basis der realen Leid-Statistiken ({sum}$).
-- **ExpertenÃ¼bersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erfÃ¼llen, mÃ¼ssen gelÃ¶scht oder angepasst werden.
-- **LaienverstÃ¤ndnis:** Einmal im Jahr prÃ¼fen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.
+- **Expertenübersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erfüllen, müssen gelöscht oder angepasst werden.
+- **Laienverständnis:** Einmal im Jahr prüfen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.

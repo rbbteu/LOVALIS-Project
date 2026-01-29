@@ -1,15 +1,15 @@
-ï»¿# Buch V | Kapitel 2: Globale Resilienz & Krisen-Kaskaden
+# Buch V | Kapitel 2: Globale Resilienz & Krisen-Kaskaden
 
 ## I. Technische Spezifikation
-- DEFENSIVE_RECOVERY Modus: Automatischer Ressourcen-Umlauf bei lokaler InstabilitÃ¤t.
-- Globale Daten-Replikation: Sofortige Open-Source-VerfÃ¼gbarkeit von KrisenlÃ¶sungen.
-- Schwarm-Koordination: TemporÃ¤re Inter-Cluster-Triaden fÃ¼r transregionale Bedrohungen.
+- DEFENSIVE_RECOVERY Modus: Automatischer Ressourcen-Umlauf bei lokaler Instabilität.
+- Globale Daten-Replikation: Sofortige Open-Source-Verfügbarkeit von Krisenlösungen.
+- Schwarm-Koordination: Temporäre Inter-Cluster-Triaden für transregionale Bedrohungen.
 
-## II. ExpertenÃ¼bersetzung
-- SubsidiaritÃ¤t statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
-- Automatische AuflÃ¶sung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
-- PrÃ¤ventive Redundanz: 30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
+## II. Expertenübersetzung
+- Subsidiarität statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
+- Automatische Auflösung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
+- Präventive Redundanz: 30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
 
-## III. LaienverstÃ¤ndnis
+## III. Laienverständnis
 - Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.
 - Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.

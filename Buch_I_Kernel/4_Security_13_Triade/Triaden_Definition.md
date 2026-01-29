@@ -1,15 +1,15 @@
-ï»¿# Buch I | Kapitel 4: Die 13. Instanz (Die Asynchrone Triade)
+# Buch I | Kapitel 4: Die 13. Instanz (Die Asynchrone Triade)
 
 ## I. Technische Spezifikation
 - Implementierung als 3er-Team (Triade) mit gemeinsamer Stimme.
-- Asynchrone Rotation: Offset-Formel delta = T13 / 3 garantiert KontinuitÃ¤t der Kritik.
-- Hard-Veto-Berechtigung bei Detektion logischer BrÃ¼che im T.Ã–.E.-Filter.
+- Asynchrone Rotation: Offset-Formel delta = T13 / 3 garantiert Kontinuität der Kritik.
+- Hard-Veto-Berechtigung bei Detektion logischer Brüche im T.Ö.E.-Filter.
 
-## II. ExpertenÃ¼bersetzung
+## II. Expertenübersetzung
 - Institutionalisierte Antithese zur Vermeidung von Machtkonzentration.
 - Schutz vor 'Groupthink' durch personelle Oszillation.
-- Fokus: AufspÃ¼ren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
+- Fokus: Aufspüren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
 
-## III. LaienverstÃ¤ndnis
-- Beispiel 'Die Schiedsrichter': Ein Team aus drei WÃ¤chtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
-- Kernbotschaft: Deine Sicherheit vor WillkÃ¼r durch stÃ¤ndige, unabhÃ¤ngige Kontrolle.
+## III. Laienverständnis
+- Beispiel 'Die Schiedsrichter': Ein Team aus drei Wächtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
+- Kernbotschaft: Deine Sicherheit vor Willkür durch ständige, unabhängige Kontrolle.

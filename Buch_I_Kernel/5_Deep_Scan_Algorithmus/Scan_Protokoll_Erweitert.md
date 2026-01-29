@@ -1,11 +1,11 @@
-ï»¿# Buch I | Kapitel 5: Der Deep Scan (Erweiterte Logik)
+# Buch I | Kapitel 5: Der Deep Scan (Erweiterte Logik)
 
-## I. Kaskadierte GesetzesprÃ¼fung
-Ein Deep Scan prÃ¼ft bei jeder SystemÃ¤nderung nicht nur die technische Machbarkeit, sondern die KonformitÃ¤t mit allen 27 Gesetzen.
+## I. Kaskadierte Gesetzesprüfung
+Ein Deep Scan prüft bei jeder Systemänderung nicht nur die technische Machbarkeit, sondern die Konformität mit allen 27 Gesetzen.
 
-1. **Axiom-Check:** Verletzt die Ã„nderung den T.Ã–.E.-Filter?
-2. **Codex-Check:** Verletzt die Ã„nderung eines der 27 Gesetze (Check Â§1 bis Â§27)?
-3. **InteroperabilitÃ¤ts-Check:** Verursacht die LÃ¶sung fÃ¼r ein Gesetz (z.B. Â§12 Energie) ein Leid in einem anderen Bereich (z.B. Â§13 Ã–kologie)?
+1. **Axiom-Check:** Verletzt die Änderung den T.Ö.E.-Filter?
+2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check §1 bis §27)?
+3. **Interoperabilitäts-Check:** Verursacht die Lösung für ein Gesetz (z.B. §12 Energie) ein Leid in einem anderen Bereich (z.B. §13 Ökologie)?
 
 ## II. Rekursions-Tiefe
-Der Scan lÃ¤uft bis zur Ebene der Axiome zurÃ¼ck. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% fÃ¼r eine Leid-ErhÃ¶hung ({inc}$) besteht.
+Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erhöhung ({inc}$) besteht.

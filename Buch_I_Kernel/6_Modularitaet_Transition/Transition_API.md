@@ -1,14 +1,14 @@
-ï»¿# Buch I | Kapitel 6: ModularitÃ¤t & Transition (Die BrÃ¼cke)
+# Buch I | Kapitel 6: Modularität & Transition (Die Brücke)
 
 ## I. Technische Spezifikation
 - Definition von Standalone-Modulen mit klaren API-Schnittstellen.
-- Sandbox-Protokolle fÃ¼r risikofreie Implementierungstests.
+- Sandbox-Protokolle für risikofreie Implementierungstests.
 - Versionierung der gesellschaftlichen Transformation (Logica v1.0 -> v3.7).
 
-## II. ExpertenÃ¼bersetzung
-- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch Ã¼berlegene Entscheidungsprozesse.
+## II. Expertenübersetzung
+- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.
 - Integrierte Dystopie-Sperren in jedem exportierten Modul.
 
-## III. LaienverstÃ¤ndnis
-- Beispiel 'App-Installation': Logica als schrittweises Update fÃ¼r den Alltag, den Beruf oder die Gemeinde.
-- Kernbotschaft: VerÃ¤nderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
+## III. Laienverständnis
+- Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
+- Kernbotschaft: Veränderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.

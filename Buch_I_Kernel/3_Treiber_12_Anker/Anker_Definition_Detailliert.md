@@ -1,25 +1,25 @@
-ï»¿# Buch I | Kapitel 3: Die 12 Anker (Erweiterte Spezifikation)
+# Buch I | Kapitel 3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
-Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant fÃ¼r spezifische Gesetze des Codex (Â§1-Â§27).
+Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant für spezifische Gesetze des Codex (§1-§27).
 
-### DomÃ¤ne HERZ (WÃ¤chter der IntegritÃ¤t)
-- **HZ-01 (Jugend):** PrimÃ¤r-Validator fÃ¼r Â§5 (Schutz der Kindheit).
-- **HZ-02 (Weisheit):** PrimÃ¤r-Validator fÃ¼r Â§6 (Recht auf Weisheit) und Â§9 (WÃ¼rde des Abschieds).
-- **HZ-03 (Inklusion):** PrimÃ¤r-Validator fÃ¼r Â§4 (Sichtbarkeit) und Â§7 (Inklusions-Garantie).
-- **HZ-04 (Konflikt):** PrimÃ¤r-Validator fÃ¼r Â§1, Â§2 und Â§8 (Physische/Psychische IntegritÃ¤t & Mediation).
+### Domäne HERZ (Wächter der Integrität)
+- **HZ-01 (Jugend):** Primär-Validator für §5 (Schutz der Kindheit).
+- **HZ-02 (Weisheit):** Primär-Validator für §6 (Recht auf Weisheit) und §9 (Würde des Abschieds).
+- **HZ-03 (Inklusion):** Primär-Validator für §4 (Sichtbarkeit) und §7 (Inklusions-Garantie).
+- **HZ-04 (Konflikt):** Primär-Validator für §1, §2 und §8 (Physische/Psychische Integrität & Mediation).
 
-### DomÃ¤ne HAND (WÃ¤chter der Materie)
-- **HD-05 (ErnÃ¤hrung):** PrimÃ¤r-Validator fÃ¼r Â§10 (Ressourcen-SouverÃ¤nitÃ¤t).
-- **HD-06 (Energie):** PrimÃ¤r-Validator fÃ¼r Â§12 (Energie-Garantie) und Â§18 (Entropie-Grenze).
-- **HD-07 (Frontier/Raum):** PrimÃ¤r-Validator fÃ¼r Â§11 (Recht auf Raum) und Â§13 (Ã–kologie).
-- **HD-08 (Infrastruktur/Space):** PrimÃ¤r-Validator fÃ¼r Â§15 (Werkzeug), Â§16 (MobilitÃ¤t) und Â§17 (Wartbarkeit).
+### Domäne HAND (Wächter der Materie)
+- **HD-05 (Ernährung):** Primär-Validator für §10 (Ressourcen-Souveränität).
+- **HD-06 (Energie):** Primär-Validator für §12 (Energie-Garantie) und §18 (Entropie-Grenze).
+- **HD-07 (Frontier/Raum):** Primär-Validator für §11 (Recht auf Raum) und §13 (Ökologie).
+- **HD-08 (Infrastruktur/Space):** Primär-Validator für §15 (Werkzeug), §16 (Mobilität) und §17 (Wartbarkeit).
 
-### DomÃ¤ne KOPF (WÃ¤chter der Logik)
-- **KP-09 (Budget/Puls):** Ãœberwachung der Puls-FlÃ¼sse nach Buch II.
-- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten Â§19, Â§23, Â§25 und Â§27.
-- **KP-11 (Innovation/Daten):** PrimÃ¤r-Validator fÃ¼r Â§20, Â§21 und Â§22 (Daten-SouverÃ¤nitÃ¤t & Algorithmen).
-- **KP-12 (External):** PrimÃ¤r-Validator fÃ¼r Â§24 (Veto) und Â§26 (Migration).
+### Domäne KOPF (Wächter der Logik)
+- **KP-09 (Budget/Puls):** Überwachung der Puls-Flüsse nach Buch II.
+- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten §19, §23, §25 und §27.
+- **KP-11 (Innovation/Daten):** Primär-Validator für §20, §21 und §22 (Daten-Souveränität & Algorithmen).
+- **KP-12 (External):** Primär-Validator für §24 (Veto) und §26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes fÃ¼hrt zur automatischen ÃœberprÃ¼fung der Anker-Rolle durch die 13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen Überprüfung der Anker-Rolle durch die 13. Instanz.

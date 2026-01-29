@@ -1,12 +1,12 @@
-ï»¿# Buch I | Kapitel 3: Die 12 Anker (Die System-SÃ¤ulen)
+# Buch I | Kapitel 3: Die 12 Anker (Die System-Säulen)
 
 ## I. Technische Spezifikation
-- Definition der 12 Sub-Module in den DomÃ¤nen Herz (Sozial), Hand (Physisch) und Kopf (Logisch).
-- Jeder Anker fungiert als HAL (Hardware Abstraction Layer) fÃ¼r den Cluster.
+- Definition der 12 Sub-Module in den Domänen Herz (Sozial), Hand (Physisch) und Kopf (Logisch).
+- Jeder Anker fungiert als HAL (Hardware Abstraction Layer) für den Cluster.
 
-## II. ExpertenÃ¼bersetzung
+## II. Expertenübersetzung
 - Spezialisierung statt Hierarchie. Die Anker verwalten Wissen, keine Menschen.
-- Zwang zur Kooperation: Jede Ã„nderung triggert den T.Ã–.E.-Check der Nachbar-Anker.
+- Zwang zur Kooperation: Jede Änderung triggert den T.Ö.E.-Check der Nachbar-Anker.
 
-## III. LaienverstÃ¤ndnis
-- Beispiel 'Schiffscrew': 12 Experten sorgen dafÃ¼r, dass Technik, VorrÃ¤te und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.
+## III. Laienverständnis
+- Beispiel 'Schiffscrew': 12 Experten sorgen dafür, dass Technik, Vorräte und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.

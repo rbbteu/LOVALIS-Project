@@ -1,12 +1,12 @@
-ï»¿# Kapitel 2: Die Logik des Kollektivs (Netzwerk-Topologie)
+# Kapitel 2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei Ãœberschreitung der KapazitÃ¤t.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei Überschreitung der Kapazität.
 
-## II. ExpertenÃ¼bersetzung
-- **Anti-AnonymitÃ¤ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
-- **Care-Ratio**: 1:11 (13 Ratsmitglieder auf 150 BÃ¼rger).
+## II. Expertenübersetzung
+- **Anti-Anonymitäts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
+- **Care-Ratio**: 1:11 (13 Ratsmitglieder auf 150 Bürger).
 
-## III. LaienverstÃ¤ndnis
-- **Beispiel**: Statt anonymer GroÃŸstÃ¤dte bilden sich 'Schwester-DÃ¶rfer', damit jeder gesehen wird.
+## III. Laienverständnis
+- **Beispiel**: Statt anonymer Großstädte bilden sich 'Schwester-Dörfer', damit jeder gesehen wird.

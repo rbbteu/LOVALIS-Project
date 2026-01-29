@@ -1,15 +1,15 @@
-ï»¿# Buch III | Kapitel 2: Das Protokoll bei logischen BrÃ¼chen
+# Buch III | Kapitel 2: Das Protokoll bei logischen Brüchen
 
 ## I. Technische Spezifikation
 - Phasen: Detektion, Isolation (Sandbox), Root-Cause-Analysis (RCA), Patch/Restitution.
 - Incident-Metrik: Messung der Leid-Steigerung (L_inc) zur Priorisierung.
-- System-Learning: Anonymisierte Dokumentation im Global-Log zur prÃ¤ventiven Fehlervermeidung.
+- System-Learning: Anonymisierte Dokumentation im Global-Log zur präventiven Fehlervermeidung.
 
-## II. ExpertenÃ¼bersetzung
-- Triaden-Gremium zur KonfliktlÃ¶sung (Konflikt, Recht, 13. Instanz).
+## II. Expertenübersetzung
+- Triaden-Gremium zur Konfliktlösung (Konflikt, Recht, 13. Instanz).
 - Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
-- Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf SymptombekÃ¤mpfung.
+- Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombekämpfung.
 
-## III. LaienverstÃ¤ndnis
+## III. Laienverständnis
 - Beispiel 'Vandalismus': Reparatur der Hardware und Heilung der sozialen Ursache gehen Hand in Hand.
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.

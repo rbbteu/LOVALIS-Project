@@ -1,41 +1,41 @@
-ï»¿# ðŸ’  LOVALIS | Protokoll fÃ¼r den Erstkontakt
+# ?? LOVALIS | Protokoll für den Erstkontakt
 
-Dieses Dokument enthÃ¤lt die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
-mit den Kern-Axiomen von LOVALIS zu prÃ¼fen, ohne das System explizit zu nennen.
+Dieses Dokument enthält die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
+mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 
 ---
 
-## â“ Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
-**Die Frage:** > "Wenn du die Wahl hÃ¤ttest zwischen einem Leben, in dem fÃ¼r alles gesorgt ist, du aber keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, aber fÃ¼r jeden Fehler selbst geradestehen musst â€“ wo auf dieser Skala wÃ¼rdest du dich heute wohlfÃ¼hlen?"
+## ? Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
+**Die Frage:** > "Wenn du die Wahl hättest zwischen einem Leben, in dem für alles gesorgt ist, du aber keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, aber für jeden Fehler selbst geradestehen musst – wo auf dieser Skala würdest du dich heute wohlfühlen?"
 
 **Die Analyse:**
 - **Sucht nach Sicherheit:** Erfordert engere Begleitung durch den 'Psychologischen Puffer'.
-- **Sucht nach Autonomie:** Potenzial fÃ¼r eine Anker-Rolle (Hand/Kopf).
-- **Die LOVALIS-Antwort:** Ein gesundes VerstÃ¤ndnis dafÃ¼r, dass Freiheit und Verantwortung untrennbar sind.
+- **Sucht nach Autonomie:** Potenzial für eine Anker-Rolle (Hand/Kopf).
+- **Die LOVALIS-Antwort:** Ein gesundes Verständnis dafür, dass Freiheit und Verantwortung untrennbar sind.
 
 ---
 
-## â“ Frage 2: Der Beitrags-Check (Axiom: Puls-OS)
+## ? Frage 2: Der Beitrags-Check (Axiom: Puls-OS)
 **Die Frage:**
-> "Glaubst du, dass der Wert deiner Arbeit daran gemessen werden sollte, wie viel Geld sie einbringt, oder daran, wie sehr sie das Leben anderer Menschen tatsÃ¤chlich verbessert?"
+> "Glaubst du, dass der Wert deiner Arbeit daran gemessen werden sollte, wie viel Geld sie einbringt, oder daran, wie sehr sie das Leben anderer Menschen tatsächlich verbessert?"
 
 **Die Analyse:**
-- **Fokus auf Geld:** Tief verwurzelt im Legacy-System. BenÃ¶tigt Transitionshilfe.
-- **Fokus auf Wirkung:** NatÃ¼rliche Resonanz mit dem Puls-Prinzip (Proof of Contribution).
+- **Fokus auf Geld:** Tief verwurzelt im Legacy-System. Benötigt Transitionshilfe.
+- **Fokus auf Wirkung:** Natürliche Resonanz mit dem Puls-Prinzip (Proof of Contribution).
 
 ---
 
-## â“ Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
+## ? Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
 **Die Frage:**
-> "KÃ¶nntest du mit einer Wahrheit leben, die deinen eigenen Ãœberzeugungen widerspricht, wenn sie nachweislich dazu fÃ¼hrt, dass das Leid in deinem Umfeld sinkt?"
+> "Könntest du mit einer Wahrheit leben, die deinen eigenen Überzeugungen widerspricht, wenn sie nachweislich dazu führt, dass das Leid in deinem Umfeld sinkt?"
 
 **Die Analyse:**
-- **Ablehnung:** Hohes Risiko fÃ¼r Ego-Konflikte. Ungeeignet fÃ¼r die frÃ¼he Phase.
-- **Zustimmung:** Hohe kognitive FlexibilitÃ¤t. Perfekt fÃ¼r die 13. Instanz oder kritische Rollen.
+- **Ablehnung:** Hohes Risiko für Ego-Konflikte. Ungeeignet für die frühe Phase.
+- **Zustimmung:** Hohe kognitive Flexibilität. Perfekt für die 13. Instanz oder kritische Rollen.
 
 ---
 
-## ðŸ›¡ Sicherheits-Hinweis (Submarine Mode)
-Wenn die Antworten eine Resonanz von > 70% zeigen, kann vorsichtig mit der EinfÃ¼hrung 
+## ?? Sicherheits-Hinweis (Submarine Mode)
+Wenn die Antworten eine Resonanz von > 70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.

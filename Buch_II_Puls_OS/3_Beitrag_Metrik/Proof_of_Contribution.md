@@ -1,15 +1,15 @@
-ï»¿# Buch II | Kapitel 3: Beitrag-Metrik (Proof of Contribution)
+# Buch II | Kapitel 3: Beitrag-Metrik (Proof of Contribution)
 
 ## I. Technische Spezifikation
 - Grundeinkommen-Axiom (P_base): Bedingungslose Basis-Allokation zur Leidminimierung.
-- Beitrags-Formel: Wertung nach Zeit, KomplexitÃ¤t und T.Ã–.E.-Relevanz.
+- Beitrags-Formel: Wertung nach Zeit, Komplexität und T.Ö.E.-Relevanz.
 - Automatisierungs-Dividende: Effizienzgewinne reduzieren die kollektive Arbeitslast.
 
-## II. ExpertenÃ¼bersetzung
+## II. Expertenübersetzung
 - Transformation von Lohnarbeit in sinnstiftenden Systembeitrag.
-- Incentive-Steuerung fÃ¼r systemkritische Infrastruktur-Aufgaben.
-- Entkopplung von Existenzsicherung und ProduktivitÃ¤t.
+- Incentive-Steuerung für systemkritische Infrastruktur-Aufgaben.
+- Entkopplung von Existenzsicherung und Produktivität.
 
-## III. LaienverstÃ¤ndnis
-- Beispiel 'Der GÃ¤rtner': Wer beitrÃ¤gt, bekommt mehr MÃ¶glichkeiten (Pulse), aber wer pausiert, fÃ¤llt niemals ins Bodenlose.
-- Kernbotschaft: Freiheit durch Sicherheit â€“ Arbeit als Wahl, nicht als Zwang.
+## III. Laienverständnis
+- Beispiel 'Der Gärtner': Wer beiträgt, bekommt mehr Möglichkeiten (Pulse), aber wer pausiert, fällt niemals ins Bodenlose.
+- Kernbotschaft: Freiheit durch Sicherheit – Arbeit als Wahl, nicht als Zwang.
