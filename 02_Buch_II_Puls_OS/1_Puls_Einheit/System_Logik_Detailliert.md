@@ -2,16 +2,16 @@
 
 ## I. Mathematische Absicherung
 - Kopplung der Geldmenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
-- Implementierung der progressiven Demurrage (§§1§4 Verbot der Verschwendung/Hortung).
+- Implementierung der progressiven Demurrage (§14 Verbot der Verschwendung/Hortung).
 - Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
 
 ## II. Governance-Koppelung (Die Hand-Anker)
-- **HD-§0§5 & HD-§0§6:** Definieren die physische Basis für die Puls-Emission.
-- **KP-§0§9 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
-- **KP-§1§0 (Recht):** überwacht, dass die Puls-Allokation niemals §§1§0 (Souveränität) verletzt.
+- **HD-05 & HD-06:** Definieren die physische Basis für die Puls-Emission.
+- **KP-09 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
+- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals §10 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
 §1. Erfassung der Energie-Kapazität (Anker Energie).
 §2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
-§3. Verteilung der Basis-Allokation (P_base) an alle §1§5§0 Bürger (§§1§0-§1§2).
+§3. Verteilung der Basis-Allokation (P_base) an alle §150 Bürger (§10-12).
 §4. Monitoring des Umlaufs und Rückfluss durch Demurrage.

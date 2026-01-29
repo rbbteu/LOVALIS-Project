@@ -8,7 +8,7 @@
 ## II. Expertenübersetzung
 - Subsidiarität statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
 - Automatische Auflösung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
-- Präventive Redundanz: §3§0-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
+- Präventive Redundanz: §30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
 
 ## III. Laienverständnis
 - Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.

@@ -17,7 +17,7 @@
 * The "Soft Block" solves the problem physically (moving apart) before it becomes legal.
 
 ## 3. The End of Desperation Crime
-**Status Quo:** §8§0% of property crime is driven by need (poverty) or addiction.
+**Status Quo:** §80% of property crime is driven by need (poverty) or addiction.
 **Valitas Logic:**
 * Since ï¿½§2 guarantees food/shelter, theft for survival is mathematically obsolete.
 * Since addiction is treated as a medical issue (Menders) and not a crime, the black market collapses.

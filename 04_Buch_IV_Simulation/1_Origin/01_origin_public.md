@@ -18,5 +18,5 @@ Imagine a game where you have Admin Access to the world. That is your childhood.
 * **The Curator:** You don't search for cool stuff; cool stuff finds you.
     * *Illustration:* You watch a video about Mars. The System asks: *"There is a rover-building workshop in Sector §3 tomorrow. I reserved a spot for you. Want to go?"*
 * **No Grades, Just XP:** We don't care about your report card. We care about what you build.
-    * Every project you finish (a song, a robot, a garden) adds to your **Resonance Profile**. By the time you are §1§8, you don't have a diploma; you have a portfolio.
+    * Every project you finish (a song, a robot, a garden) adds to your **Resonance Profile**. By the time you are §18, you don't have a diploma; you have a portfolio.
 * **Mistakes are Free:** You tried coding and hated it? Fine. The System notes it and suggests something else. No wasted money, no bad grades. Just data.

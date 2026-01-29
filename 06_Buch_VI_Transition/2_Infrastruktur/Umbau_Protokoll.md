@@ -2,12 +2,12 @@
 
 ## I. Technische Spezifikation (System-Ebene: *Infrastructure-Refactoring*)
 Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
-- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (§§2§0 Daten-Souveränität).
-- **Energie-Retrofit:** Transformation von Großkraftwerken in dezentrale Speicher-Hubs. Jedes Haus im Cluster wird zum Netzknoten (§§1§2 Energie-Garantie).
-- **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Ausstoß' auf 'Zirkuläre Fertigung' umgerüstet (Anker Infrastruktur HD-§0§8).
+- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (§20 Daten-Souveränität).
+- **Energie-Retrofit:** Transformation von Großkraftwerken in dezentrale Speicher-Hubs. Jedes Haus im Cluster wird zum Netzknoten (§12 Energie-Garantie).
+- **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Ausstoß' auf 'Zirkuläre Fertigung' umgerüstet (Anker Infrastruktur HD-08).
 
 ## II. Expertenübersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
-- **Telekommunikations-mäßigration:** Umpolung der überwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Brüche (Leid) erkennen, statt Konsumverhalten zu tracken.
+- **Telekommunikations-Migration:** Umpolung der überwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Brüche (Leid) erkennen, statt Konsumverhalten zu tracken.
 - **Rückbau-Priorisierung:** Identifikation von Hoch-Entropie-Systemen (z.B. Verbrennungs-Infrastruktur), die als erstes durch Logica-Module ersetzt werden.
 - **Dual-Use-Phase:** Infrastruktur muss während des Umbaus beide Welten bedienen (Abwärtskompatibilität).
 

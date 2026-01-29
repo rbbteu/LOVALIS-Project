@@ -1,7 +1,7 @@
-﻿# Buch IV | Kapitel §2.§5: Der Entropie-Impuls (Schutz vor Stagnation)
+﻿# Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
 
 ## I. Die Logik der Herausforderung
-Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV §3.§7) erkennt den Bedarf an 'positiver Reibung' an.
+Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt den Bedarf an 'positiver Reibung' an.
 
 ## II. Implementierung
 - **Kreative Instabilität:** Das System fördert Projekte, deren Ausgang ungewiss ist (z.B. experimentelle Architektur, spekulative Forschung).

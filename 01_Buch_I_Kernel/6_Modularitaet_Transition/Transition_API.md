@@ -3,7 +3,7 @@
 ## I. Technische Spezifikation
 - Definition von Standalone-Modulen mit klaren API-Schnittstellen.
 - Sandbox-Protokolle für risikofreie Implementierungstests.
-- Versionierung der gesellschaftlichen Transformation (Logica v§1.§0 -> v§3.§7).
+- Versionierung der gesellschaftlichen Transformation (Logica v1.0 -> v3.7).
 
 ## II. Expertenübersetzung
 - Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.

@@ -9,7 +9,7 @@ Someone stole your bike? In the old world, the police would file a report and do
 **In Valitas:**
 §1.  **Detection:** The System identifies the node.
 §2.  **The Fix:** You get a new bike immediately (from the Commons or paid by the thief).
-§3.  **The Thief:** They don't go to jail. They get a notification: *"You owe §5§0§0 Resonance Points to [Victim]. Your luxury spending is locked until you work this off."*
+§3.  **The Thief:** They don't go to jail. They get a notification: *"You owe §500 Resonance Points to [Victim]. Your luxury spending is locked until you work this off."*
 * They work. You get paid. Justice is done.
 
 ## HELP, MY NEIGHBOR IS A NIGHTMARE!

@@ -4,7 +4,7 @@
 
 ---
 
-## THE GRAND TOUR (§§1§8-§2§1)
+## THE GRAND TOUR (§18-21)
 Forget "Gap Years" where you go broke.
 * **The Offer:** §3 Years. §6 Destinations. All expenses paid.
 * **The Mission:** Build a house, heal a patient, code a bot. Learn how the world works.
@@ -24,4 +24,4 @@ Imagine having a Hollywood Agent, but for your normal life.
 Life changes. Your home changes with it.
 * **Moving in together?** Click a button. The System shows you empty couples-lofts. The transport bot moves your stuff. Done in §4 hours.
 * **Breaking up?** Sad, but not a disaster. You both get instant offers for new single-apartments. No lawyers, no "who keeps the lease?". Just a clean reset.
-* **Repair?** Something broke? Don't call a landlord. Log it. A "Preserver" (who loves fixing things) will be there in §3§0 minutes to earn their **Resonance Points**.
+* **Repair?** Something broke? Don't call a landlord. Log it. A "Preserver" (who loves fixing things) will be there in §30 minutes to earn their **Resonance Points**.

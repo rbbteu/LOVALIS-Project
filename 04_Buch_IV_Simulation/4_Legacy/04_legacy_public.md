@@ -7,7 +7,7 @@
 ## THE GOLDEN YEARS (Status: Elder)
 You don't "retire" to sit in front of a TV. You graduate.
 * **Your Job:** You are now a Judge. When the young hotshots want to change the rules, they need your signature. You are the guardian of the logic.
-* **Your Value:** You don't work for survival anymore. You mentor a §2§0-year-old who wants to learn your craft. You tell stories. You are honored.
+* **Your Value:** You don't work for survival anymore. You mentor a §20-year-old who wants to learn your craft. You tell stories. You are honored.
 
 ## THE BIG QUESTION: "CAN I LEAVE MY MONEY TO MY KIDS?"
 **Short Answer:** No.

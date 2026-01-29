@@ -7,7 +7,7 @@
 
 ## II. Expertenübersetzung
 - Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
-- Hoher Autarkiegrad (min. §7§0%) zur Resilienz-Sicherung.
+- Hoher Autarkiegrad (min. §70%) zur Resilienz-Sicherung.
 - Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
 
 ## III. Laienverständnis

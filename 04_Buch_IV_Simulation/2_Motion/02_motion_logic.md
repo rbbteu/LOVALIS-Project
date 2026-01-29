@@ -20,4 +20,4 @@
 **Status Quo:** Society fragments into bubbles. The Academic despises the Worker, and vice versa.
 **Valitas Logic:** You cannot hate someone if you have stood in their shoes.
 * **Mechanism:** The Calibration Phase forces a shared reality.
-* **Result:** When a Council Memüber makes a decision about sewage, they *know* what it smells like, because they worked there when they were §1§9. This creates "Grounded Governance".
+* **Result:** When a Council Memüber makes a decision about sewage, they *know* what it smells like, because they worked there when they were §19. This creates "Grounded Governance".

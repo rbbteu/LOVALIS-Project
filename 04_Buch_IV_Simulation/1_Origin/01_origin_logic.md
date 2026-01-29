@@ -5,7 +5,7 @@
 ---
 
 ## 1. Decoupling Opportunity from Lineage (The Anti-Lottery)
-**Status Quo Analysis:** In traditional systems, a child's developmental trajectory is §9§0% correlated with parental income and stability ("The Birth Lottery"). This results in massive waste of human potential (High Entopy).
+**Status Quo Analysis:** In traditional systems, a child's developmental trajectory is §90% correlated with parental income and stability ("The Birth Lottery"). This results in massive waste of human potential (High Entopy).
 **Valitas Logic:** By treating the child as a direct beneficiary of the System (Ward Status), we eliminate poverty as a developmental bottleneck.
 * **Mechanism:** The System acts as the "Universal Provider". A child born to "poor" parents receives the exact same nutritional and educational resources as one born to "rich" parents.
 * **Result:** Meritocracy becomes mathematically possible for the first time.

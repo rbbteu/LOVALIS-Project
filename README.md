@@ -1,4 +1,4 @@
-﻿# 💠 LOVALIS (LV §3.§7)
+﻿# 💠 LOVALIS (LV 3.7)
 ### *Concordia Synergetica Logicae Artificialis et Valitatis Humanae*
 
 > **„Strenge im Code, Freiheit im Sein – Perfekt im System, menschlich im Scheitern.“**
@@ -13,12 +13,12 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
-| **I** | **Kernel** | Axiomatik, §1§2 Anker, §1§3. Instanz & Psychologische Resilienz. |
+| **I** | **Kernel** | Axiomatik, §12 Anker, §13. Instanz & Psychologische Resilienz. |
 | **II** | **Puls-OS** | kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
-| **III** | **Codex** | Die §2§7 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
+| **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
 | **V** | **Global** | Dezentrale Föderation & Mesh-Netzwerk-Protokolle. |
-| **VI** | **Transition** | Legacy-Brücken, mäßigrations-Pfade & Wachsamkeits-Modul. |
+| **VI** | **Transition** | Legacy-Brücken, Migrations-Pfade & Wachsamkeits-Modul. |
 
 ---
 
@@ -27,7 +27,7 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realität:
 
 * **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den „logischen Blitzableiter“ für komplexe Entscheidungen bildet.
-* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. §1§5§0 Personen), in denen der Mensch die volle gestalterische Freiheit behält.
+* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. §150 Personen), in denen der Mensch die volle gestalterische Freiheit behält.
 
 ---
 
@@ -44,9 +44,9 @@ LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymme
 
 Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Maschine (Struktur & Logik)**. Es wird kontinuierlich gegen sich selbst geprüft, um Machtmissbrauch und technokratische Erstarrung zu verhindern.
 
-* **Version:** §1.§3 (Final Master Draft)
+* **Version:** 1.3 (Final Master Draft)
 * **Status:** Operational / Ready for Simulation
-* **Zertifizierung:** Master-Deep-Scan abgeschlossen (§§2§0§2§6-§0§1-§2§9)
+* **Zertifizierung:** Master-Deep-Scan abgeschlossen (2026-01-29)
 
 ---
 

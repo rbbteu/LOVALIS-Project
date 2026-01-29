@@ -1,8 +1,8 @@
-﻿# LOGICA VALITAS CORE (v§3.§7)
+﻿# LOGICA VALITAS CORE (v3.7)
 ### Das Betriebssystem für Gesellschaft, Selbst und Systeme.
 
 > **Status:** Active / Genesis Phase
-> **Version:** §3.§7 (Refined Logic)
+> **Version:** 3.7 (Refined Logic)
 
 ---
 
