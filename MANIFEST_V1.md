@@ -1,7 +1,7 @@
 # LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (v3.7)
 
-## 0. Präambel: Hybride Genese
-Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionäre Ko-Kreation).
+## 0. Prï¿½ambel: Hybride Genese
+Dieses Dokument beschreibt ein funktionales Framework fï¿½r das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionï¿½re Ko-Kreation).
 
 ---
 
@@ -11,34 +11,34 @@ Der operative Kern des Systems ist die mathematische und soziale Reduktion von v
 ---
 
 ## 2. Die Architektur der Resilienz
-Das System stützt sich auf vier ineinandergreifende Säulen:
+Das System stï¿½tzt sich auf vier ineinandergreifende Sï¿½ulen:
 
 ### A. Der Codex (27 Gesetze)
-Die unverrückbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
+Die unverrï¿½ckbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
 
-### B. Das Puls-OS (Kybernetische Ökonomie)
-Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeiträgen basiert. 
+### B. Das Puls-OS (Kybernetische ï¿½konomie)
+Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeitrï¿½gen basiert. 
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
-- **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
+- **Peer-Validation:** Pulse entstehen nur durch bestï¿½tigte soziale Resonanz.
 
 ### C. Die 13. Instanz (Ombudsschaft)
-Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schützt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
+Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schï¿½tzt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kï¿½lte.
 
 ### D. Der Deep Scan (System-Audit)
-Ein permanenter Rückkopplungsprozess, der das gesamte Werk auf logische Brüche und ethische Drift prüft.
+Ein permanenter Rï¿½ckkopplungsprozess, der das gesamte Werk auf logische Brï¿½che und ethische Drift prï¿½ft.
 
 ---
 
 ## 3. Der Faktor Mensch: Die Evolution der Autonomie
-LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist – unvollkommen, emotional und schöpferisch.
-- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten für die nächste Optimierungsschleife.
+LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist fï¿½r den Menschen konzipiert, wie er ist ï¿½ unvollkommen, emotional und schï¿½pferisch.
+- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten fï¿½r die nï¿½chste Optimierungsschleife.
 - **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum für empathische Entscheidungen und Muße zu lassen.
+- **Psychologischer Puffer:** Die KI ï¿½bernimmt die Last der komplexen Logik, um dem Menschen den Raum fï¿½r empathische Entscheidungen und Muï¿½e zu lassen.
 
 ---
 
 ## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch die überlegene Lebensqualität innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+Die Verbreitung erfolgt nicht durch politische Machtï¿½bernahme, sondern durch die ï¿½berlegene Lebensqualitï¿½t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
 
 ---
 *Status: Zertifiziert & Operational*
