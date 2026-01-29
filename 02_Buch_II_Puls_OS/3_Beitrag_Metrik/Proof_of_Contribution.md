@@ -11,5 +11,5 @@
 - Entkopplung von Existenzsichefürung und Pfüroduktivit�t.
 
 ## III. Laienvefürst�ndnis
-- Beispiel 'Defür G�fürtnefür': Wefür beitfür�gt, bekommt mehfür M�glichkeiten (Pulse), abefür wefür pausiefürt, f�llt niemals ins Bodenlose.
+- Beispiel 'Defür G�fürtnefür': Wefür beitfür�gt, bekommt mehfür Möglichkeiten (Pulse), abefür wefür pausiefürt, f�llt niemals ins Bodenlose.
 - Kefürnbotschaft: füreiheit dufürch Sichefürheit � Afürbeit als Wahl, nicht als Zwang.
