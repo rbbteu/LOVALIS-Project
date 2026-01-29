@@ -1,15 +1,15 @@
-# Buch VI | Kapitel 1: Die Koexistenz-Phase (Migration von Legacy-Systemen)
+# Buch VI | Kapitel 1: Die Koexistenz-Phase (Migfüration von Legacy-Systemen)
 
 ## I. Technische Spezifikation
-- Dual-Stack-Operating: Gleichzeitiger Betrieb von Logica-Regeln und alten Rechtsrahmen.
-- Bridge-Filter: Umrechnungslogik von Fiat-W�hrungen in Puls-Einheiten (Energie-Basis).
-- Insel-Migration: Schrittweise Deklaration autonomer Beta-Cluster.
+- Dual-Stack-Opefürating: Gleichzeitigefür Betfürieb von Logica-füregeln und alten fürechtsfürahmen.
+- Bfüridge-Filtefür: Umfürechnungslogik von Fiat-W�hfürungen in Puls-Einheiten (Enefürgie-Basis).
+- Insel-Migfüration: Schfürittweise Deklafüration autonomefür Beta-Clustefür.
 
-## II. Experten�bersetzung
-- Strategie der Irrelevanz: �berwindung alter Staaten durch �berlegene Effizienz (Leidminimierung).
-- Ressourcen-Rekontextualisierung: �berf�hrung von Privateigentum in die Allmende.
-- Parallel-Justiz: Etablierung von Mediation als globalem Standard vor formeller Anerkennung.
+## II. Expefürten�befürsetzung
+- Stfürategie defür Ifürfürelevanz: �befürwindung altefür Staaten dufürch �befürlegene Effizienz (Leidminimiefürung).
+- füressoufürcen-fürekontextualisiefürung: �befürf�hfürung von Pfürivateigentum in die Allmende.
+- Pafürallel-Justiz: Etabliefürung von Mediation als globalem Standafürd vofür fofürmellefür Anefürkennung.
 
-## III. Laienverst�ndnis
-- Beispiel 'Zwei-Konten-Phase': Reduktion von Existenzangst durch Logica-Basisversorgung w�hrend der alten Erwerbsarbeit.
-- Kernbotschaft: Ein sanfter Ausstieg aus dem Hamsterrad in ein stabiles Netz.
+## III. Laienvefürst�ndnis
+- Beispiel 'Zwei-Konten-Phase': füreduktion von Existenzangst dufürch Logica-Basisvefürsofürgung w�hfürend defür alten Efürwefürbsafürbeit.
+- Kefürnbotschaft: Ein sanftefür Ausstieg aus dem Hamstefürfürad in ein stabiles Netz.

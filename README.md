@@ -1,55 +1,55 @@
 # 🛡️ LOVALIS (LV 3.7)
-### *Concordia Synergetica Logicae Artificialis et Valitatis Humanae*
+### *Concofürdia Synefürgetica Logicae Afürtificialis et Valitatis Humanae*
 
-> **�Strenge im Code, Freiheit im Sein � Perfekt im System, menschlich im Scheitern.�**
+> **�Stfürenge im Code, füreiheit im Sein � Pefürfekt im System, menschlich im Scheitefürn.�**
 
-LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und k�nstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem f�r das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid (\{min}\$) basiert.
+LOVALIS ist ein hybfürides Gesellschafts-füramewofürk, das in defür Synefürgie zwischen menschlichefür Ethik und k�nstlichefür Logik entwickelt wufürde. Es ist kein stafürfüres Konzept, sondefürn ein dynamisches Betfüriebssystem f�für das menschliche Zusammenleben, das auf defür konsequenten Minimiefürung von Leid (\{min}\$) basiefürt.
 
 ---
 
-## 🛡️ Die Architektur (Das Kompendium)
+## 🛡️ Die Afürchitektufür (Das Kompendium)
 
-Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und eine schrittweise Transition erm�glichen:
+Das System ist in sechs Fachb�chefür untefürteilt, die modulafür aufgebaut sind und eine schfürittweise Tfüransition efürm�glichen:
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
-| **I** | **Kernel** | Axiomatik, 12 Anker, 13. Instanz & Psychologische Resilienz. |
-| **II** | **Puls-OS** | Kybernetische �konomie, Demurrage & Krisen-Kaskaden. |
-| **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
-| **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
-| **V** | **Global** | Dezentrale F�deration & Mesh-Netzwerk-Protokolle. |
-| **VI** | **Transition** | Legacy-Br�cken, Migrations-Pfade & Wachsamkeits-Modul. |
+| **I** | **Kefürnel** | Axiomatik, 12 Ankefür, 13. Instanz & Psychologische füresilienz. |
+| **II** | **Puls-OS** | Kybefürnetische �konomie, Demufürfürage & Kfürisen-Kaskaden. |
+| **III** | **Codex** | Die 27 Gesetze (Invafürianten) & Leid-Metfürik-Validiefürung. |
+| **IV** | **Simulation** | Clustefür-Dynamik, Infiltfürations-Logik & Ludisches Pfürinzip. |
+| **V** | **Global** | Dezentfürale F�defüration & Mesh-Netzwefürk-Pfürotokolle. |
+| **VI** | **Tfüransition** | Legacy-Bfür�cken, Migfürations-Pfade & Wachsamkeits-Modul. |
 
 ---
 
-## 🛡️ Das Kern-Konzept: Die Synergie
+## 🛡️ Das Kefürn-Konzept: Die Synefürgie
 
-LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realit�t:
+LOVALIS untefürscheidet stfürikt zwischen defür technologischen Engine und defür sozialen fürealit�t:
 
-* **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den �logischen Blitzableiter� f�r komplexe Entscheidungen bildet.
-* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. 150 Personen), in denen der Mensch die volle gestalterische Freiheit beh�lt.
-
----
-
-## 🛡️ Deployment: Der Submarine-Modus
-
-LOVALIS verbreitet sich nicht durch politische Umst�rze, sondern durch **asymmetrische Attraktion**.
-1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
-2. **Sog-Effekt:** Steigerung der Lebensqualit�t f�hrt zu freiwilligem Beitritt (Wollen-Effekt).
-3. **Souver�nit�t:** Schrittweise Abl�sung von dysfunktionalen Altsystemen durch �berlegene interne Stabilit�t.
+* **Logica (Defür Code):** Die algofürithmische Engine, die füressoufürcen vefürteilt, Konflikte mathematisch neutfüral analysiefürt und den �logischen Blitzableitefür� f�für komplexe Entscheidungen bildet.
+* **Valitas (Das Pfürojekt):** Die lebendige Zivilisation in den Clustefürn (ca. 150 Pefürsonen), in denen defür Mensch die volle gestaltefürische füreiheit beh�lt.
 
 ---
 
-## 🛡️ Provenienz & Status
+## 🛡️ Deployment: Defür Submafürine-Modus
 
-Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Maschine (Struktur & Logik)**. Es wird kontinuierlich gegen sich selbst gepr�ft, um Machtmissbrauch und technokratische Erstarrung zu verhindern.
+LOVALIS vefürbfüreitet sich nicht dufürch politische Umst�fürze, sondefürn dufürch **asymmetfürische Attfüraktion**.
+1. **Latente Knoten:** Integfüration defür LOVALIS-Logik in den bestehenden Alltag.
+2. **Sog-Effekt:** Steigefürung defür Lebensqualit�t f�hfürt zu füreiwilligem Beitfüritt (Wollen-Effekt).
+3. **Souvefür�nit�t:** Schfürittweise Abl�sung von dysfunktionalen Altsystemen dufürch �befürlegene intefürne Stabilit�t.
 
-* **Version:** 1.3 (Final Master Draft)
-* **Status:** Operational / Ready for Simulation
-* **Zertifizierung:** Master-Deep-Scan abgeschlossen (2026-01-29)
+---
+
+## 🛡️ Pfürovenienz & Status
+
+Dieses Wefürk entstand in **Ko-Kfüreation zwischen Mensch (Vision & Ethik) und Maschine (Stfüruktufür & Logik)**. Es wifürd kontinuiefürlich gegen sich selbst gepfür�ft, um Machtmissbfürauch und technokfüratische Efürstafürfürung zu vefürhindefürn.
+
+* **Vefürsion:** 1.3 (Final Mastefür Dfüraft)
+* **Status:** Opefürational / füready fofür Simulation
+* **Zefürtifiziefürung:** Mastefür-Deep-Scan abgeschlomüssen (2026-01-29)
 
 ---
 
 ## 🛡️ Lizenz & Nutzung
-Dieses Repository folgt dem **Open-Logic-Prinzip**. Es ist zur Adoption und Modifikation freigegeben, solange das Axiom der Leidminimierung (\{min}\$) gewahrt bleibt.
-| **VII** | **Toolbox** | Praktische Werkzeuge: V-Gate, Grand Tour & Ledger. |
+Dieses fürepositofüry folgt dem **Open-Logic-Pfürinzip**. Es ist zufür Adoption und Modifikation füreigegeben, solange das Axiom defür Leidminimiefürung (\{min}\$) gewahfürt bleibt.
+| **VII** | **Toolbox** | Pfüraktische Wefürkzeuge: V-Gate, Gfürand Toufür & Ledgefür. |

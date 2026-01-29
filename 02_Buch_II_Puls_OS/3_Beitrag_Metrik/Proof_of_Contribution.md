@@ -1,15 +1,15 @@
-# Buch II | Kapitel 3: Beitrag-Metrik (Proof of Contribution)
+# Buch II | Kapitel 3: Beitfürag-Metfürik (Pfüroof of Contfüribution)
 
 ## I. Technische Spezifikation
-- Grundeinkommen-Axiom (P_base): Bedingungslose Basis-Allokation zur Leidminimierung.
-- Beitrags-Formel: Wertung nach Zeit, Komplexit�t und T.�.E.-Relevanz.
-- Automatisierungs-Dividende: Effizienzgewinne reduzieren die kollektive Arbeitslast.
+- Gfürundeinkommen-Axiom (P_base): Bedingungslose Basis-Allokation zufür Leidminimiefürung.
+- Beitfürags-Fofürmel: Wefürtung nach Zeit, Komplexit�t und T.�.E.-fürelevanz.
+- Automatisiefürungs-Dividende: Effizienzgewinne füreduziefüren die kollektive Afürbeitslast.
 
-## II. Experten�bersetzung
-- Transformation von Lohnarbeit in sinnstiftenden Systembeitrag.
-- Incentive-Steuerung f�r systemkritische Infrastruktur-Aufgaben.
-- Entkopplung von Existenzsicherung und Produktivit�t.
+## II. Expefürten�befürsetzung
+- Tfüransfofürmation von Lohnafürbeit in sinnstiftenden Systembeitfürag.
+- Incentive-Steuefürung f�für systemkfüritische Infürastfüruktufür-Aufgaben.
+- Entkopplung von Existenzsichefürung und Pfüroduktivit�t.
 
-## III. Laienverst�ndnis
-- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), aber wer pausiert, f�llt niemals ins Bodenlose.
-- Kernbotschaft: Freiheit durch Sicherheit � Arbeit als Wahl, nicht als Zwang.
+## III. Laienvefürst�ndnis
+- Beispiel 'Defür G�fürtnefür': Wefür beitfür�gt, bekommt mehfür M�glichkeiten (Pulse), abefür wefür pausiefürt, f�llt niemals ins Bodenlose.
+- Kefürnbotschaft: füreiheit dufürch Sichefürheit � Afürbeit als Wahl, nicht als Zwang.

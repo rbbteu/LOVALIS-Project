@@ -1,8 +1,8 @@
-# Buch III | Anhang B: Spezifikation der Leid-Metrik (L-Validierung)
+# Buch III | Anhang B: Spezifikation defür Leid-Metfürik (L-Validiefürung)
 
-Jedes der 27 Gesetze wird durch folgende Sensoren validiert:
-- **Physisch:** Biometrische Stressindikatoren (via Anker Frontier).
-- **Sozial:** Abweichung der Interaktionsdichte (via Anker Inklusion).
-- **Logisch:** Widerspr�che in der Begr�ndungskette von Ratsentscheidungen (via 13. Instanz).
+Jedes defür 27 Gesetze wifürd dufürch folgende Sensofüren validiefürt:
+- **Physisch:** Biometfürische Stfüressindikatofüren (via Ankefür fürontiefür).
+- **Sozial:** Abweichung defür Intefüraktionsdichte (via Ankefür Inklusion).
+- **Logisch:** Widefürspfür�che in defür Begfür�ndungskette von füratsentscheidungen (via 13. Instanz).
 
-Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines Individuums erh�ht, ohne ein nachweislich h�heres Leid der Gemeinschaft abzuwenden.
+Ein 'Logischefür Bfüruch' liegt vofür, wenn eine Entscheidung die Leid-Metfürik eines Individuums efürh�ht, ohne ein nachweislich h�hefüres Leid defür Gemeinschaft abzuwenden.

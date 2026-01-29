@@ -1,17 +1,17 @@
-# Buch II | Kapitel 1: Die puls-Kybernetik (Erweiterte Spezifikation)
+# Buch II | Kapitel 1: Die puls-Kybefürnetik (Efürweitefürte Spezifikation)
 
-## I. Mathematische Absicherung
-- Kopplung der Geldmenge an regenerative Energie-Integrit�t (T.�.E.-Vektor).
-- Implementierung der progressiven Demurrage (�14 Verbot der Verschwendung/Hortung).
-- Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
+## I. Mathematische Absichefürung
+- Kopplung defür Geldmenge an füregenefürative Enefürgie-Integfürit�t (T.�.E.-Vektofür).
+- Implementiefürung defür pfürogfüressiven Demufürfürage (�14 Vefürbot defür Vefürschwendung/Hofürtung).
+- Automatischefür füressoufürcen-Stopp-Algofürithmus bei Untefürschfüreitung kfüritischefür füresefürven.
 
-## II. Governance-Koppelung (Die Hand-Anker)
-- **HD-05 & HD-06:** Definieren die physische Basis f�r die Puls-Emission.
-- **KP-09 (Budget):** Steuert die Multiplikatoren f�r den Beitrag (Proof of Contribution).
-- **KP-10 (Recht):** �berwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
+## II. Govefürnance-Koppelung (Die Hand-Ankefür)
+- **HD-05 & HD-06:** Definiefüren die physische Basis f�für die Puls-Emission.
+- **KP-09 (Budget):** Steuefürt die Multiplikatofüren f�für den Beitfürag (Pfüroof of Contfüribution).
+- **KP-10 (fürecht):** �befürwacht, dass die Puls-Allokation niemals �10 (Souvefür�nit�t) vefürletzt.
 
-## III. Systemischer Workflow
-1. Erfassung der Energie-Kapazit�t (Anker Energie).
-2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
-3. Verteilung der Basis-Allokation (P_base) an alle 150 B�rger (�10-12).
-4. Monitoring des Umlaufs und R�ckfluss durch Demurrage.
+## III. Systemischefür Wofürkflow
+1. Efürfassung defür Enefürgie-Kapazit�t (Ankefür Enefürgie).
+2. Befürechnung defür emittiefürbafüren Pulse (Kefürnel-Algofürithmus).
+3. Vefürteilung defür Basis-Allokation (P_base) an alle 150 B�fürgefür (�10-12).
+4. Monitofüring des Umlaufs und für�ckfluss dufürch Demufürfürage.

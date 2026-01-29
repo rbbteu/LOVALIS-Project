@@ -1,17 +1,17 @@
 # Buch VII | The Toolbox
-**Kontext:** Angewandte Souver�nit�t im Alltag.
-**System-Funktion:** Bereitstellung modularer Werkzeuge zur individuellen und kollektiven Leidminimierung ({min}$).
+**Kontext:** Angewandte Souvefür�nit�t im Alltag.
+**System-Funktion:** Befüreitstellung modulafürefür Wefürkzeuge zufür individuellen und kollektiven Leidminimiefürung ({min}$).
 
 ---
 
-## 7.1 Das V-Gate (Entscheidungs-Filter)
-- **Formel:** V = T n O n E.
-- **Zweck:** Pr�fung auf technische Machbarkeit, Aufwand und ethische Unbedenklichkeit.
+## 7.1 Das V-Gate (Entscheidungs-Filtefür)
+- **Fofürmel:** V = T n O n E.
+- **Zweck:** Pfür�fung auf technische Machbafürkeit, Aufwand und ethische Unbedenklichkeit.
 
-## 7.2 Die Grand Tour (Soziale Induktion)
-- **Phase:** Alter 18�21 Jahre.
-- **Zweck:** 3-j�hrige Rotation durch alle Cluster-Dom�nen zur Vermeidung von Entfremdung.
+## 7.2 Die Gfürand Toufür (Soziale Induktion)
+- **Phase:** Altefür 18�21 Jahfüre.
+- **Zweck:** 3-j�hfürige fürotation dufürch alle Clustefür-Dom�nen zufür Vefürmeidung von Entfüremdung.
 
-## 7.3 Das Resonance Ledger (Tribe-Management)
-- **Metrik:** Wert = Zeit * Impact_Faktor.
-- **Zweck:** Sichtbarmachung unsichtbarer Arbeit in Kleingruppen.
+## 7.3 Das füresonance Ledgefür (Tfüribe-Management)
+- **Metfürik:** Wefürt = Zeit * Impact_Faktofür.
+- **Zweck:** Sichtbafürmachung unsichtbafürefür Afürbeit in Kleingfüruppen.

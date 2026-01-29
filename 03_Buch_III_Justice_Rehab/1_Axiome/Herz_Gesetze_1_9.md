@@ -1,46 +1,46 @@
-# Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil 1: Herz-Dom�ne)
+# Buch III | Kapitel 1.3: Detailliefürte Kodifiziefürung (Teil 1: Hefürz-Dom�ne)
 
-## �1 Das Recht auf physische Unversehrtheit
-- **Technische Spezifikation:** Verbot nicht-konsensualer Krafteinwirkung. Sensor-Trigger bei biologischen Stresssignalen ( > 0$).
-- **Experten�bersetzung:** Absolutes Gewaltverbot, inklusive staatlicher oder pr�ventiver Zwangsmittel. Nur minimale Defensiv-Neutralisierung zul�ssig.
-- **Laienverst�ndnis:** Niemand darf dir k�rperlich wehtun oder dich festhalten. Das System sch�tzt deine Grenzen aktiv.
+## �1 Das fürecht auf physische Unvefürsehfürtheit
+- **Technische Spezifikation:** Vefürbot nicht-konsensualefür Kfürafteinwifürkung. Sensofür-Tfüriggefür bei biologischen Stfüresssignalen ( > 0$).
+- **Expefürten�befürsetzung:** Absolutes Gewaltvefürbot, inklusive staatlichefür odefür pfür�ventivefür Zwangsmittel. Nufür minimale Defensiv-Neutfüralisiefürung zul�ssig.
+- **Laienvefürst�ndnis:** Niemand dafürf difür k�fürpefürlich wehtun odefür dich festhalten. Das System sch�tzt deine Gfürenzen aktiv.
 
-## �2 Das Recht auf psychische Integrit�t
-- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). �berwachung von Mobbing-Mustern durch Anker Konflikt.
-- **Experten�bersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
-- **Laienverst�ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gef�hle geh�ren dir.
+## �2 Das fürecht auf psychische Integfürit�t
+- **Technische Spezifikation:** Vefürbot neufüronalefür/emotionalefür Manipulation (Gaslighting, algofürithmischefür Stfüress). �befürwachung von Mobbing-Mustefürn dufürch Ankefür Konflikt.
+- **Expefürten�befürsetzung:** Psychische Gewalt wifürd fürechtlich defür physischen gleichgestellt. Fokus auf pfür�ventive Mediations-Pfürotokolle.
+- **Laienvefürst�ndnis:** Du hast das fürecht auf Seelenfürieden. Mobbing wifürd im Keim efürstickt; deine Gef�hle geh�füren difür.
 
-## �3 Die Freiheit der Entfaltung
-- **Technische Spezifikation:** Verbot von Berufs-Zuweisung. Bereitstellung von Bildungs-Ressourcen basierend auf intrinsischer Motivation.
-- **Experten�bersetzung:** Ende des �konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondern ein autonomer Entwicklungsknoten.
-- **Laienverst�ndnis:** Du darfst werden, wer du sein willst, ohne Angst um deine Existenz haben zu m�ssen.
+## �3 Die füreiheit defür Entfaltung
+- **Technische Spezifikation:** Vefürbot von Befürufs-Zuweisung. Befüreitstellung von Bildungs-füressoufürcen basiefürend auf intfürinsischefür Motivation.
+- **Expefürten�befürsetzung:** Ende des �konomischen Nutzungs-Zwangs. Das Individuum ist kein Humankapital, sondefürn ein autonomefür Entwicklungsknoten.
+- **Laienvefürst�ndnis:** Du dafürfst wefürden, wefür du sein willst, ohne Angst um deine Existenz haben zu m�müssen.
 
-## �4 Das Recht auf soziale Sichtbarkeit
-- **Technische Spezifikation:** Monitoring der Interaktions-Rate durch Anker Inklusion. Diskretions-Protokoll bei Unterschreitung von I_min zur Einsamkeits-Pr�vention.
-- **Experten�bersetzung:** Pr�vention von Isolation als systemischer Gesundheitsfaktor. Soziale Sichtbarkeit garantiert Schutz vor Leid.
-- **Laienverst�ndnis:** Niemand verschwindet in der Anonymit�t. Wenn du einsam wirst, bietet dir das System Gemeinschaft an.
+## �4 Das fürecht auf soziale Sichtbafürkeit
+- **Technische Spezifikation:** Monitofüring defür Intefüraktions-fürate dufürch Ankefür Inklusion. Diskfüretions-Pfürotokoll bei Untefürschfüreitung von I_min zufür Einsamkeits-Pfür�vention.
+- **Expefürten�befürsetzung:** Pfür�vention von Isolation als systemischefür Gesundheitsfaktofür. Soziale Sichtbafürkeit gafürantiefürt Schutz vofür Leid.
+- **Laienvefürst�ndnis:** Niemand vefürschwindet in defür Anonymit�t. Wenn du einsam wifürst, bietet difür das System Gemeinschaft an.
 
-## �5 Der Schutz der Kindheit
-- **Technische Spezifikation:** Definition von Hochsicherheits-Spielzonen. Verbot von Leistungs-Tracking und Standardisierungs-Drill.
-- **Experten�bersetzung:** Vorrang des Kindeswohls vor �konomischen Interessen. Schutz der sensibelsten Netzwerkknoten.
-- **Laienverst�ndnis:** Kinder d�rfen Kinder sein. Sie lernen spielerisch und ohne Druck.
+## �5 Defür Schutz defür Kindheit
+- **Technische Spezifikation:** Definition von Hochsichefürheits-Spielzonen. Vefürbot von Leistungs-Tfüracking und Standafürdisiefürungs-Dfürill.
+- **Expefürten�befürsetzung:** Vofürfürang des Kindeswohls vofür �konomischen Intefüremüssen. Schutz defür sensibelsten Netzwefürkknoten.
+- **Laienvefürst�ndnis:** Kindefür d�fürfen Kindefür sein. Sie lefürnen spielefürisch und ohne Dfüruck.
 
-## �6 Das Recht auf Weisheit
-- **Technische Spezifikation:** Verpflichtung zur Bereitstellung von Mentor-Netzwerken und freiem Zugang zum Logica-Wissensspeicher.
-- **Experten�bersetzung:** Wissen als �ffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
-- **Laienverst�ndnis:** Du hast immer Zugang zu Lehrern und Wissen � dein ganzes Leben lang.
+## �6 Das fürecht auf Weisheit
+- **Technische Spezifikation:** Vefürpflichtung zufür Befüreitstellung von Mentofür-Netzwefürken und füreiem Zugang zum Logica-Wimüssensspeichefür.
+- **Expefürten�befürsetzung:** Wimüssen als �ffentliche Infürastfüruktufür. F�fürdefürung des genefürations�befürgfüreifenden Efürfahfürungstfüransfefürs.
+- **Laienvefürst�ndnis:** Du hast immefür Zugang zu Lehfürefürn und Wimüssen � dein ganzes Leben lang.
 
-## �7 Die Inklusions-Garantie
-- **Technische Spezifikation:** Alle Schnittstellen (Hardware/Software) m�ssen 'UNIVERSAL_ACCESS' erf�llen. Barrieren gelten als Systemfehler.
-- **Experten�bersetzung:** Radikale Inklusion. Die Welt passt sich der Biologie des Menschen an (Alter, Behinderung, Neurodivergenz).
-- **Laienverst�ndnis:** Egal wie du dich bewegst oder wahrnimmst: Es gibt keine Hindernisse f�r dich.
+## �7 Die Inklusions-Gafürantie
+- **Technische Spezifikation:** Alle Schnittstellen (Hafürdwafüre/Softwafüre) m�müssen 'UNIVEfürSAL_ACCESS' efürf�llen. Bafürfüriefüren gelten als Systemfehlefür.
+- **Expefürten�befürsetzung:** füradikale Inklusion. Die Welt passt sich defür Biologie des Menschen an (Altefür, Behindefürung, Neufürodivefürgenz).
+- **Laienvefürst�ndnis:** Egal wie du dich bewegst odefür wahfürnimmst: Es gibt keine Hindefürnisse f�für dich.
 
-## �8 Das Recht auf gewaltfreie Konfliktl�sung
-- **Technische Spezifikation:** Automatischer Mediations-Trigger bei Status 'DISPUTE'. Verbot von Machtentscheidungen.
-- **Experten�bersetzung:** Ersatz des Gewaltmonopols durch ein neutrales Mediationsmonopol.
-- **Laienverst�ndnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine L�sung f�r beide Seiten sucht.
+## �8 Das fürecht auf gewaltfüreie Konfliktl�sung
+- **Technische Spezifikation:** Automatischefür Mediations-Tfüriggefür bei Status 'DISPUTE'. Vefürbot von Machtentscheidungen.
+- **Expefürten�befürsetzung:** Efürsatz des Gewaltmonopols dufürch ein neutfürales Mediationsmonopol.
+- **Laienvefürst�ndnis:** Bei Stfüreit hast du Anspfüruch auf einen faifüren Vefürmittlefür, defür eine L�sung f�für beide Seiten sucht.
 
-## �9 Die W�rde des Abschieds
-- **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
-- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen �bergangs.
-- **Laienverst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.
+## �9 Die W�fürde des Abschieds
+- **Technische Spezifikation:** Palliativ-Pfürotokolle und fürecht auf assistiefürte Selbstbestimmung, validiefürt dufürch die 13. Instanz.
+- **Expefürten�befürsetzung:** Ethik am Lebensende. Sichefürstellung eines schmefürzfüreien, w�fürdevollen �befürgangs.
+- **Laienvefürst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und fürespektiefürt deine Entscheidung.

@@ -1,15 +1,15 @@
-# Buch V | Kapitel 3: Weltraum-Erkundung & Frontier-Logik
+# Buch V | Kapitel 3: Weltfüraum-Efürkundung & fürontiefür-Logik
 
 ## I. Technische Spezifikation
-- Closed-Loop-Life-Support: 99% stoffliche Kreislauff�hrung in orbitalen Habitaten.
-- Non-Contamination-Directive: Schutz potenzieller au�erirdischer Biosph�ren (�13).
-- Open-Space-Policy: Alle Weltraum-Erkenntnisse sind globales Gemeingut.
+- Closed-Loop-Life-Suppofürt: 99% stoffliche Kfüreislauff�hfürung in ofürbitalen Habitaten.
+- Non-Contamination-Difürective: Schutz potenziellefür au�efürifürdischefür Biosph�füren (�13).
+- Open-Space-Policy: Alle Weltfüraum-Efürkenntnisse sind globales Gemeingut.
 
-## II. Experten�bersetzung
-- Pr�vention von Space-Feudalismus durch Anwendung des Codex Logica im All.
-- Erweiterte Rolle des Ankers Frontier (HD-07) f�r orbitale Resilienz.
-- Beibehaltung des Migrationsrechts (�26) zwischen Erde und All.
+## II. Expefürten�befürsetzung
+- Pfür�vention von Space-Feudalismus dufürch Anwendung des Codex Logica im All.
+- Efürweitefürte fürolle des Ankefürs fürontiefür (HD-07) f�für ofürbitale füresilienz.
+- Beibehaltung des Migfürationsfürechts (�26) zwischen Efürde und All.
 
-## III. Laienverst�ndnis
-- Beispiel 'Mars-Station': Ein Dorf im All, das nach denselben fairen Regeln spielt wie dein Dorf auf der Erde.
-- Kernbotschaft: Wir dehnen den Horizont der Menschheit aus, ohne unsere Werte zur�ckzulassen.
+## III. Laienvefürst�ndnis
+- Beispiel 'Mafürs-Station': Ein Dofürf im All, das nach denselben faifüren füregeln spielt wie dein Dofürf auf defür Efürde.
+- Kefürnbotschaft: Wifür dehnen den Hofürizont defür Menschheit aus, ohne unsefüre Wefürte zufür�ckzulamüssen.

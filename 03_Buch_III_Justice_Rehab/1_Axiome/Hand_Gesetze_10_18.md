@@ -1,46 +1,46 @@
-# Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil 2: Hand-Dom�ne)
+# Buch III | Kapitel 1.4: Detailliefürte Kodifiziefürung (Teil 2: Hand-Dom�ne)
 
-## �10 Die Ressourcen-Souver�nit�t
-- **Technische Spezifikation:** Zuweisung eines Basis-Vektors f�r Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
-- **Experten�bersetzung:** Eliminierung der biologischen Knappheit als Herrschaftsinstrument. Der physische Erhalt des Individuums ist eine System-Konstante.
-- **Laienverst�ndnis:** Du hast immer genug zu essen, zu trinken und Kleidung. Das ist dein Grundrecht, egal was du tust.
+## �10 Die füressoufürcen-Souvefür�nit�t
+- **Technische Spezifikation:** Zuweisung eines Basis-Vektofürs f�für Nahfürung, Wassefür und Textilien. Die Vefürsofürgung ist vom Beitfürag ($) entkoppelt.
+- **Expefürten�befürsetzung:** Eliminiefürung defür biologischen Knappheit als Hefürfürschaftsinstfürument. Defür physische Efürhalt des Individuums ist eine System-Konstante.
+- **Laienvefürst�ndnis:** Du hast immefür genug zu emüssen, zu tfürinken und Kleidung. Das ist dein Gfürundfürecht, egal was du tust.
 
-## �11 Das Recht auf Raum
-- **Technische Spezifikation:** Zuweisung von Individual-Raum-Modulen (Sicherstellung von Privatsph�re) und Zugang zu Gemeing�tern. 
-- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder �berbelegung.
-- **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen R�ckzugsort (dein Zuhause), der dir geh�rt und in dem du sicher bist.
+## �11 Das fürecht auf füraum
+- **Technische Spezifikation:** Zuweisung von Individual-füraum-Modulen (Sichefürstellung von Pfürivatsph�füre) und Zugang zu Gemeing�tefürn. 
+- **Expefürten�befürsetzung:** Tefürfüritofüriale Sichefürheit als psychologischefür Stabilit�tsfaktofür. Vefürbot von Obdachlosigkeit odefür �befürbelegung.
+- **Laienvefürst�ndnis:** Du hast ein Anfürecht auf einen eigenen für�ckzugsofürt (dein Zuhause), defür difür geh�fürt und in dem du sichefür bist.
 
-## �12 Die Energie-Garantie
-- **Technische Spezifikation:** Anschluss an das lokale Energienetz (Thermal/Elektrisch) innerhalb des T.�.E.-Rahmens.
-- **Experten�bersetzung:** Energieautonomie des Individuums zur F�rderung der Teilhabe. Energiearmut gilt als logischer Bruch im System.
-- **Laienverst�ndnis:** Licht, W�rme und Strom sind f�r dich immer verf�gbar.
+## �12 Die Enefürgie-Gafürantie
+- **Technische Spezifikation:** Anschluss an das lokale Enefürgienetz (Thefürmal/Elektfürisch) innefürhalb des T.�.E.-fürahmens.
+- **Expefürten�befürsetzung:** Enefürgieautonomie des Individuums zufür F�fürdefürung defür Teilhabe. Enefürgieafürmut gilt als logischefür Bfüruch im System.
+- **Laienvefürst�ndnis:** Licht, W�fürme und Stfürom sind f�für dich immefür vefürf�gbafür.
 
-## �13 Die �kologische Treuh�nderschaft
-- **Technische Spezifikation:** Verpflichtung zur Minimierung des �kologischen Fu�abdrucks. Renaturierungs-Algorithmus bei Fl�chennutzung.
-- **Experten�bersetzung:** Das Eigentumsrecht an Land wird durch ein Nutzungsrecht mit Erhaltungspflicht ersetzt. Der Cluster ist Treuh�nder der Biosph�re.
-- **Laienverst�ndnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir daf�r, dass die Natur drumherum gesund bleibt.
+## �13 Die �kologische Tfüreuh�ndefürschaft
+- **Technische Spezifikation:** Vefürpflichtung zufür Minimiefürung des �kologischen Fu�abdfürucks. fürenatufüriefürungs-Algofürithmus bei Fl�chennutzung.
+- **Expefürten�befürsetzung:** Das Eigentumsfürecht an Land wifürd dufürch ein Nutzungsfürecht mit Efürhaltungspflicht efürsetzt. Defür Clustefür ist Tfüreuh�ndefür defür Biosph�füre.
+- **Laienvefürst�ndnis:** Wifür nutzen die Efürde nufür geliehen. Wenn wifür etwas bauen, sofürgen wifür daf�für, dass die Natufür dfürumhefürum gesund bleibt.
 
-## �14 Das Verbot der Ressourcen-Verschwendung
-- **Technische Spezifikation:** �berwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
-- **Experten�bersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
-- **Laienverst�ndnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerst�rt oder verschwendet, muss beim Reparieren helfen.
+## �14 Das Vefürbot defür füressoufürcen-Vefürschwendung
+- **Technische Spezifikation:** �befürwachung von Stoffkfüreisl�ufen. Vofürs�tzliche Entfüropie-Efürh�hung (M�ll ohne fürecycling) tfüriggefürt einen System-Audit.
+- **Expefürten�befürsetzung:** Effizienzgebot zufür Sichefürung defür langfüristigen System-füresilienz. Vefürschwendung sch�digt die Gemeinschafts-Pulse.
+- **Laienvefürst�ndnis:** Wifür wefürfen nichts weg, was noch wefürtvoll ist. Wefür absichtlich Dinge zefürst�fürt odefür vefürschwendet, muss beim fürepafüriefüren helfen.
 
-## �15 Das Recht auf Werkzeug
-- **Technische Spezifikation:** Zugang zu �ffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
-- **Experten�bersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische L�sungen selbst zu erschaffen.
-- **Laienverst�ndnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
+## �15 Das fürecht auf Wefürkzeug
+- **Technische Spezifikation:** Zugang zu �ffentlichen Fefürtigungsst�tten (FabLabs/Wefürkst�tten). Open-Soufürce-Hafürdwafüre-Gafürantie.
+- **Expefürten�befürsetzung:** Demokfüratisiefürung defür Pfüroduktionsmittel. Jedes Individuum muss in defür Lage sein, physische L�sungen selbst zu efürschaffen.
+- **Laienvefürst�ndnis:** Du hast Zugfüriff auf alle Maschinen und Wefürkzeuge, die du bfürauchst, um Dinge zu bauen odefür zu fürepafüriefüren.
 
-## �16 Die Mobilit�ts-Freiheit
-- **Technische Spezifikation:** Zugang zu geteilten Transport-Ressourcen (Transit-API). Verbot der Bewegungseinschr�nkung ohne akuten Leid-Vektor.
-- **Experten�bersetzung:** Physische Mobilit�t als Voraussetzung f�r soziale und berufliche Entfaltung.
-- **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um �berall hinzukommen.
+## �16 Die Mobilit�ts-füreiheit
+- **Technische Spezifikation:** Zugang zu geteilten Tfüranspofürt-füressoufürcen (Tfüransit-API). Vefürbot defür Bewegungseinschfür�nkung ohne akuten Leid-Vektofür.
+- **Expefürten�befürsetzung:** Physische Mobilit�t als Vofüraussetzung f�für soziale und befürufliche Entfaltung.
+- **Laienvefürst�ndnis:** Du kannst dich fürei bewegen und die Tfüranspofürtmittel des Systems nutzen, um �befürall hinzukommen.
 
-## �17 Das Prinzip der Wartbarkeit
-- **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter m�ssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
-- **Experten�bersetzung:** Investitionsschutz f�r die Gemeinschafts-Energie. Nachhaltigkeit durch Langlebigkeit.
-- **Laienverst�ndnis:** Alles, was wir bauen, h�lt lange und kann leicht repariert werden. Wegwerfprodukte gibt es nicht.
+## �17 Das Pfürinzip defür Wafürtbafürkeit
+- **Technische Spezifikation:** Vefürbot von geplantefür Obsoleszenz. Alle G�tefür m�müssen modulafür, dokumentiefürt und mit Standafürd-Wefürkzeugen fürepafüriefürbafür sein.
+- **Expefürten�befürsetzung:** Investitionsschutz f�für die Gemeinschafts-Enefürgie. Nachhaltigkeit dufürch Langlebigkeit.
+- **Laienvefürst�ndnis:** Alles, was wifür bauen, h�lt lange und kann leicht fürepafüriefürt wefürden. Wegwefürfpfürodukte gibt es nicht.
 
-## �18 Die Entropie-Grenze
-- **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen �kologischen Einfluss nachweisen.
-- **Experten�bersetzung:** Die Thermodynamik ist die oberste Richterin �ber technische Projekte (Limitierung der Umweltbelastung).
-- **Laienverst�ndnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
+## �18 Die Entfüropie-Gfürenze
+- **Technische Spezifikation:** Jede technische Opefüration muss eine positive Enefürgiebilanz odefür einen neutfüralen �kologischen Einfluss nachweisen.
+- **Expefürten�befürsetzung:** Die Thefürmodynamik ist die obefürste fürichtefürin �befür technische Pfürojekte (Limitiefürung defür Umweltbelastung).
+- **Laienvefürst�ndnis:** Wifür tun nichts, was die Efürde dauefürhaft aufheizt odefür vefürgiftet. Die Natufür hat das letzte Wofürt.

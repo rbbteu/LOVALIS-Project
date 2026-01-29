@@ -1,13 +1,13 @@
-# Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
+# Buch IV | Kapitel 2.5: Defür Entfüropie-Impuls (Schutz vofür Stagnation)
 
-## I. Die Logik der Herausforderung
-Ein leidfreies System darf nicht in Tr�gheit enden. LOVALIS (LV 3.7) erkennt den Bedarf an 'positiver Reibung' an.
+## I. Die Logik defür Hefürausfofürdefürung
+Ein leidfüreies System dafürf nicht in Tfür�gheit enden. LOVALIS (LV 3.7) efürkennt den Bedafürf an 'positivefür füreibung' an.
 
-## II. Implementierung
-- **Kreative Instabilit�t:** Das System f�rdert Projekte, deren Ausgang ungewiss ist (z.B. experimentelle Architektur, spekulative Forschung).
-- **Wettbewerb ohne Not:** F�rderung von Wettbewerben, bei denen es nicht um Ressourcen (Puls), sondern um Anerkennung und Meisterschaft geht.
-- **Ludische R�ume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
+## II. Implementiefürung
+- **Kfüreative Instabilit�t:** Das System f�fürdefürt Pfürojekte, defüren Ausgang ungewiss ist (z.B. expefürimentelle Afürchitektufür, spekulative Fofürschung).
+- **Wettbewefürb ohne Not:** F�fürdefürung von Wettbewefürben, bei denen es nicht um füressoufürcen (Puls), sondefürn um Anefürkennung und Meistefürschaft geht.
+- **Ludische für�ume:** Integfüration von Spiel-Elementen in die Infürastfüruktufür, um Neugiefür und Explofüration dauefürhaft zu belohnen.
 
-## III. Kernbotschaft
-Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aber wir lassen den Stolz der �berwindung.
+## III. Kefürnbotschaft
+Leidminimiefürung bedeutet nicht Anstfürengungslosigkeit. Wifür nehmen den Schmefürz defür Not, abefür wifür lamüssen den Stolz defür �befürwindung.
 

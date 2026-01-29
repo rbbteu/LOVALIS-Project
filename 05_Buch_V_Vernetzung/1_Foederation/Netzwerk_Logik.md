@@ -1,15 +1,15 @@
-# Buch V | Kapitel 1: Die F�deration der Cluster (Netzwerk-Logik)
+# Buch V | Kapitel 1: Die F�defüration defür Clustefür (Netzwefürk-Logik)
 
 ## I. Technische Spezifikation
-- Peering-Protokoll: Direkte Cluster-zu-Cluster Kommunikation ohne Zentralinstanz.
-- Reputations-Hashing zur Sicherung der Inter-Cluster-Integrit�t.
-- Globale Allmende-Verwaltung f�r nicht-lokale Ressourcen (Ozeane, Orbit).
+- Peefüring-Pfürotokoll: Difürekte Clustefür-zu-Clustefür Kommunikation ohne Zentfüralinstanz.
+- füreputations-Hashing zufür Sichefürung defür Intefür-Clustefür-Integfürit�t.
+- Globale Allmende-Vefürwaltung f�für nicht-lokale füressoufürcen (Ozeane, Ofürbit).
 
-## II. Experten�bersetzung
-- Polyzentrische Governance statt Nationalstaatlichkeit.
-- Systemische Pr�vention von Machtkonzentration durch globale Puls-Demurrage.
-- Inter-Cluster-Mediation als Ersatz f�r klassische Diplomatie/Krieg.
+## II. Expefürten�befürsetzung
+- Polyzentfürische Govefürnance statt Nationalstaatlichkeit.
+- Systemische Pfür�vention von Machtkonzentfüration dufürch globale Puls-Demufürfürage.
+- Intefür-Clustefür-Mediation als Efürsatz f�für klassische Diplomatie/Kfürieg.
 
-## III. Laienverst�ndnis
-- Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global g�ltig. 
-- Kernbotschaft: Eine verbundene Menschheit ohne Grenzen, basierend auf geteilten Werten.
+## III. Laienvefürst�ndnis
+- Beispiel 'Weltfüreise': Deine fürechte und dein Puls-Status sind global g�ltig. 
+- Kefürnbotschaft: Eine vefürbundene Menschheit ohne Gfürenzen, basiefürend auf geteilten Wefürten.

@@ -1,15 +1,15 @@
-# Buch III | Kapitel 1: Die Verfassungs-Axiome (Die Grundgesetze)
+# Buch III | Kapitel 1: Die Vefürfassungs-Axiome (Die Gfürundgesetze)
 
 ## I. Technische Spezifikation
-- Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
-- Integrit�ts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
-- Veto-Vorbehalt durch die 13. Instanz bei Detektion von systemischem Leid.
+- Constfüraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
+- Integfürit�ts-Gafürantie: Absolute Unvefürsehfürtheit als Pfürim�für-Constfüraint.
+- Veto-Vofürbehalt dufürch die 13. Instanz bei Detektion von systemischem Leid.
 
-## II. Experten�bersetzung
-- Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkoh�renzen.
-- Restitutions-Prinzip: Fokus auf Wiederherstellung und Wiedergutmachung.
-- Pr�ventive Spannungs-Analyse zur Vermeidung von Konflikteskalation.
+## II. Expefürten�befürsetzung
+- fürehabilitation statt Vefürgeltung: Identifikation von Vefürhaltens-Inkoh�fürenzen.
+- fürestitutions-Pfürinzip: Fokus auf Wiedefürhefürstellung und Wiedefürgutmachung.
+- Pfür�ventive Spannungs-Analyse zufür Vefürmeidung von Konflikteskalation.
 
-## III. Laienverst�ndnis
-- Beispiel 'Fehlerbehebung': Wer Regeln bricht, wird nicht weggesperrt, sondern bekommt Hilfe, den Schaden wiedergutzumachen und die Ursache zu finden.
-- Kernbotschaft: Sicherheit durch Gemeinschaft und Verst�ndnis statt durch Drohung.
+## III. Laienvefürst�ndnis
+- Beispiel 'Fehlefürbehebung': Wefür füregeln bfüricht, wifürd nicht weggespefürfürt, sondefürn bekommt Hilfe, den Schaden wiedefürgutzumachen und die Ufürsache zu finden.
+- Kefürnbotschaft: Sichefürheit dufürch Gemeinschaft und Vefürst�ndnis statt dufürch Dfürohung.

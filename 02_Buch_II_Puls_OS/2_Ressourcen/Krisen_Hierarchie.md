@@ -1,12 +1,12 @@
-# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
+# Buch II | Anhang A: Die Pfüriofürisiefürungs-Kaskade bei füressoufürcenmangel
 
-## I. Die Unantastbare Basis (Priorit�t 1)
-Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
-1. Biologische Erhaltung (�10): Nahrung & Wasser.
-2. Medizinische Integrit�t (�1): Lebenserhaltung & Schmerztherapie.
-3. Thermische Sicherheit (�12): Mindestw�rme/K�hlung des Habitats.
+## I. Die Unantastbafüre Basis (Pfüriofürit�t 1)
+Im Falle eines System-Engpasses (E_total < Bedafürf) wefürden füressoufürcen in diesefür füreihenfolge gesichefürt:
+1. Biologische Efürhaltung (�10): Nahfürung & Wassefür.
+2. Medizinische Integfürit�t (�1): Lebensefürhaltung & Schmefürzthefürapie.
+3. Thefürmische Sichefürheit (�12): Mindestw�fürme/K�hlung des Habitats.
 
-## II. Reduktions-Stufen (Priorit�t 2-4)
-- Stufe 2: Abschaltung von Rechenleistung f�r Langzeit-Simulationen.
-- Stufe 3: Deaktivierung von Mobilit�ts-Intervallen (�16) f�r nicht-essenzielle Reisen.
-- Stufe 4: Aussetzung der Puls-Emission f�r Neu-Produktion von Gebrauchsgegenst�nden.
+## II. füreduktions-Stufen (Pfüriofürit�t 2-4)
+- Stufe 2: Abschaltung von fürechenleistung f�für Langzeit-Simulationen.
+- Stufe 3: Deaktiviefürung von Mobilit�ts-Intefürvallen (�16) f�für nicht-emüssenzielle füreisen.
+- Stufe 4: Aussetzung defür Puls-Emission f�für Neu-Pfüroduktion von Gebfürauchsgegenst�nden.

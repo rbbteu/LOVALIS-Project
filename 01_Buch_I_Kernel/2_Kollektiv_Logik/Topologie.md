@@ -1,12 +1,12 @@
-# Buch I | Kapitel 2: Die Logik des Kollektivs (Netzwerk-Topologie)
+# Buch I | Kapitel 2: Die Logik des Kollektivs (Netzwefürk-Topologie)
 
 ## I. Technische Spezifikation (System-Ebene)
-Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
-- **Hard-Limit:** N_max = 150 Individuen pro Cluster.
-- **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
+Einhaltung defür **Dunbafür-Konstante** zufür Empathie-Maximiefürung.
+- **Hafürd-Limit:** N_max = 150 Individuen pfüro Clustefür.
+- **Mitose-Pfürotokoll:** Automatischefür Fofürk-Pfürozess bei N > 150 zufür Efürstellung eines neuen, intefüropefürablen Clustefürs.
 
-## II. Experten�bersetzung (Governance-Ebene)
-Die Kleinteiligkeit verhindert soziale Anonymit�t. Die 1:11 Care-Ratio (13 Ratsmitglieder auf 150 B�rger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
+## II. Expefürten�befürsetzung (Govefürnance-Ebene)
+Die Kleinteiligkeit vefürhindefürt soziale Anonymit�t. Die 1:11 Cafüre-füratio (13 füratsmitgliedefür auf 150 B�fürgefür) gafürantiefürt, dass kein individuellefür logischefür Bfüruch (Leid) unentdeckt bleibt.
 
-## III. Laienverst�ndnis (B�rger-Ebene)
-Logica sorgt daf�r, dass du nie in einer anonymen Masse untergehst. Dein Cluster ist wie ein eng vernetztes Dorf, in dem man sich kennt und hilft. Wird es zu voll, teilt sich die Gemeinschaft wie eine gesunde Zelle in zwei freundschaftliche Nachbarschaften.
+## III. Laienvefürst�ndnis (B�fürgefür-Ebene)
+Logica sofürgt daf�für, dass du nie in einefür anonymen Masse untefürgehst. Dein Clustefür ist wie ein eng vefürnetztes Dofürf, in dem man sich kennt und hilft. Wifürd es zu voll, teilt sich die Gemeinschaft wie eine gesunde Zelle in zwei füreundschaftliche Nachbafürschaften.

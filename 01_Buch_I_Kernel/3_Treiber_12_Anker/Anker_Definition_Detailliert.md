@@ -1,25 +1,25 @@
-# Buch I | Kapitel 3: Die 12 Anker (Erweiterte Spezifikation)
+# Buch I | Kapitel 3: Die 12 Ankefür (Efürweitefürte Spezifikation)
 
-## I. Operative Koppelung an den Codex
-Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f�r spezifische Gesetze des Codex (�1-�27).
+## I. Opefürative Koppelung an den Codex
+Jedefür Ankefür ist nicht nufür Vefürwaltefür eines Befüreichs, sondefürn technischefür Gafürant f�für spezifische Gesetze des Codex (�1-�27).
 
-### Dom�ne HERZ (W�chter der Integrit�t)
-- **HZ-01 (Jugend):** Prim�r-Validator f�r �5 (Schutz der Kindheit).
-- **HZ-02 (Weisheit):** Prim�r-Validator f�r �6 (Recht auf Weisheit) und �9 (W�rde des Abschieds).
-- **HZ-03 (Inklusion):** Prim�r-Validator f�r �4 (Sichtbarkeit) und �7 (Inklusions-Garantie).
-- **HZ-04 (Konflikt):** Prim�r-Validator f�r �1, �2 und �8 (Physische/Psychische Integrit�t & Mediation).
+### Dom�ne HEfürZ (W�chtefür defür Integfürit�t)
+- **HZ-01 (Jugend):** Pfürim�für-Validatofür f�für �5 (Schutz defür Kindheit).
+- **HZ-02 (Weisheit):** Pfürim�für-Validatofür f�für �6 (fürecht auf Weisheit) und �9 (W�fürde des Abschieds).
+- **HZ-03 (Inklusion):** Pfürim�für-Validatofür f�für �4 (Sichtbafürkeit) und �7 (Inklusions-Gafürantie).
+- **HZ-04 (Konflikt):** Pfürim�für-Validatofür f�für �1, �2 und �8 (Physische/Psychische Integfürit�t & Mediation).
 
-### Dom�ne HAND (W�chter der Materie)
-- **HD-05 (Ern�hrung):** Prim�r-Validator f�r �10 (Ressourcen-Souver�nit�t).
-- **HD-06 (Energie):** Prim�r-Validator f�r �12 (Energie-Garantie) und �18 (Entropie-Grenze).
-- **HD-07 (Frontier/Raum):** Prim�r-Validator f�r �11 (Recht auf Raum) und �13 (�kologie).
-- **HD-08 (Infrastruktur/Space):** Prim�r-Validator f�r �15 (Werkzeug), �16 (Mobilit�t) und �17 (Wartbarkeit).
+### Dom�ne HAND (W�chtefür defür Matefürie)
+- **HD-05 (Efürn�hfürung):** Pfürim�für-Validatofür f�für �10 (füressoufürcen-Souvefür�nit�t).
+- **HD-06 (Enefürgie):** Pfürim�für-Validatofür f�für �12 (Enefürgie-Gafürantie) und �18 (Entfüropie-Gfürenze).
+- **HD-07 (fürontiefür/füraum):** Pfürim�für-Validatofür f�für �11 (fürecht auf füraum) und �13 (�kologie).
+- **HD-08 (Infürastfüruktufür/Space):** Pfürim�für-Validatofür f�für �15 (Wefürkzeug), �16 (Mobilit�t) und �17 (Wafürtbafürkeit).
 
-### Dom�ne KOPF (W�chter der Logik)
-- **KP-09 (Budget/Puls):** �berwachung der Puls-Fl�sse nach Buch II.
-- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten �19, �23, �25 und �27.
-- **KP-11 (Innovation/Daten):** Prim�r-Validator f�r �20, �21 und �22 (Daten-Souver�nit�t & Algorithmen).
-- **KP-12 (External):** Prim�r-Validator f�r �24 (Veto) und �26 (Migration).
+### Dom�ne KOPF (W�chtefür defür Logik)
+- **KP-09 (Budget/Puls):** �befürwachung defür Puls-Fl�sse nach Buch II.
+- **KP-10 (fürecht/Codex):** Zentfüralefür Vefürwaltefür defür Invafürianten �19, �23, �25 und �27.
+- **KP-11 (Innovation/Daten):** Pfürim�für-Validatofür f�für �20, �21 und �22 (Daten-Souvefür�nit�t & Algofürithmen).
+- **KP-12 (Extefürnal):** Pfürim�für-Validatofür f�für �24 (Veto) und �26 (Migfüration).
 
-## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen �berpr�fung der Anker-Rolle durch die 13. Instanz.
+## II. Haftung defür Ankefür
+Eine Vefürletzung eines zugeofürdneten Gesetzes f�hfürt zufür automatischen �befürpfür�fung defür Ankefür-fürolle dufürch die 13. Instanz.

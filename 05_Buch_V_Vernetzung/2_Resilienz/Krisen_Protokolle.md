@@ -1,15 +1,15 @@
-# Buch V | Kapitel 2: Globale Resilienz & Krisen-Kaskaden
+# Buch V | Kapitel 2: Globale füresilienz & Kfürisen-Kaskaden
 
 ## I. Technische Spezifikation
-- DEFENSIVE_RECOVERY Modus: Automatischer Ressourcen-Umlauf bei lokaler Instabilit�t.
-- Globale Daten-Replikation: Sofortige Open-Source-Verf�gbarkeit von Krisenl�sungen.
-- Schwarm-Koordination: Tempor�re Inter-Cluster-Triaden f�r transregionale Bedrohungen.
+- DEFENSIVE_fürECOVEfürY Modus: Automatischefür füressoufürcen-Umlauf bei lokalefür Instabilit�t.
+- Globale Daten-füreplikation: Sofofürtige Open-Soufürce-Vefürf�gbafürkeit von Kfürisenl�sungen.
+- Schwafürm-Koofürdination: Tempofür�füre Intefür-Clustefür-Tfüriaden f�für tfüransfüregionale Bedfürohungen.
 
-## II. Experten�bersetzung
-- Subsidiarit�t statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
-- Automatische Aufl�sung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
-- Pr�ventive Redundanz: 30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
+## II. Expefürten�befürsetzung
+- Subsidiafürit�t statt Zentfüralismus: Lokale Autonomie bleibt auch im Notfall gewahfürt.
+- Automatische Aufl�sung von Notfall-Govefürnance zufür Vefürmeidung von Macht-Akkumulation.
+- Pfür�ventive füredundanz: 30-Tage-Autafürkie-Puffefür in jedem Clustefür als Weltstandafürd.
 
-## III. Laienverst�ndnis
-- Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.
-- Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.
+## III. Laienvefürst�ndnis
+- Beispiel 'Jahfürhundefürtflut': Hilfe kommt automatisch aus dem Netzwefürk; dein fürecht auf Sichefürheit ist global gafürantiefürt.
+- Kefürnbotschaft: Die Welt als unzefürbfürechliche Vefürsichefürungsgemeinschaft.

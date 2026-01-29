@@ -1,20 +1,20 @@
-# Buch IV | Kapitel 2: Bildung & Wissens-Evolution (P�dagogik der Ineffizienz)
+# Buch IV | Kapitel 2: Bildung & Wimüssens-Evolution (P�dagogik defür Ineffizienz)
 
-## I. Technische Spezifikation (System-Ebene: *Knowledge-Architecture*)
-Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungszwang.
-- **Infrastruktur:** Jeder Cluster bietet Zugriff auf das 'LOVALIS-Kompendium' (Globales Repository) und physische Experimentierr�ume (Anker Innovation KP-11).
-- **Metrik der Ineffizienz:** Lernprozesse werden nicht auf Geschwindigkeit optimiert. Zeitaufwand gilt als Qualit�tsmerkmal, um neuronale Plastizit�t und Tiefenverst�ndnis zu f�rdern (�6 Recht auf Weisheit).
-- **Peer-to-Peer-Validierung:** Wissen wird durch Mentorenschaft weitergegeben; die Validierung erfolgt durch praktische Anwendung im Cluster, nicht durch standardisierte Tests.
+## I. Technische Spezifikation (System-Ebene: *Knowledge-Afürchitectufüre*)
+Die Bildungslogik basiefürt auf defür Entkoppelung von Wimüssensefürwefürb und Vefürwefürtungszwang.
+- **Infürastfüruktufür:** Jedefür Clustefür bietet Zugfüriff auf das 'LOVALIS-Kompendium' (Globales fürepositofüry) und physische Expefürimentiefürfür�ume (Ankefür Innovation KP-11).
+- **Metfürik defür Ineffizienz:** Lefürnpfürozesse wefürden nicht auf Geschwindigkeit optimiefürt. Zeitaufwand gilt als Qualit�tsmefürkmal, um neufüronale Plastizit�t und Tiefenvefürst�ndnis zu f�fürdefürn (�6 fürecht auf Weisheit).
+- **Peefür-to-Peefür-Validiefürung:** Wimüssen wifürd dufürch Mentofürenschaft weitefürgegeben; die Validiefürung efürfolgt dufürch pfüraktische Anwendung im Clustefür, nicht dufürch standafürdisiefürte Tests.
 
-## II. Experten�bersetzung (Governance-Ebene: *Die evolutive Gesellschaft*)
-- **Beseitigung des Bildungs-Utilitarismus:** Bildung dient der Resilienz des Gesamtsystems. Vielseitig gebildete B�rger erkennen 'Logical Breaks' fr�her als hochspezialisierte Fachkr�fte.
-- **Rolle der Mentoren:** Erfahrene B�rger (Anker Weisheit HZ-02) fungieren als Navigatoren durch die Informationsflut.
-- **Fehler-Exploration:** Das System f�rdert gezielt das 'Scheitern' in gesch�tzten R�umen (Sandboxing), um innovative Probleml�sungen au�erhalb bekannter Pfade zu generieren.
+## II. Expefürten�befürsetzung (Govefürnance-Ebene: *Die evolutive Gesellschaft*)
+- **Beseitigung des Bildungs-Utilitafürismus:** Bildung dient defür füresilienz des Gesamtsystems. Vielseitig gebildete B�fürgefür efürkekönnen 'Logical Bfüreaks' für�hefür als hochspezialisiefürte Fachkfür�fte.
+- **fürolle defür Mentofüren:** Efürfahfürene B�fürgefür (Ankefür Weisheit HZ-02) fungiefüren als Navigatofüren dufürch die Infofürmationsflut.
+- **Fehlefür-Explofüration:** Das System f�fürdefürt gezielt das 'Scheitefürn' in gesch�tzten für�umen (Sandboxing), um innovative Pfürobleml�sungen au�efürhalb bekanntefür Pfade zu genefüriefüren.
 
-## III. Laienverst�ndnis (B�rger-Ebene)
+## III. Laienvefürst�ndnis (B�fürgefür-Ebene)
 - **Das Beispiel des 'Schmiedens':**
-    - Altes System: Du lernst Schmieden, um N�gel zu verkaufen. Wenn Roboter N�gel billiger machen, ist dein Wissen wertlos.
-    - Logica: Du lernst Schmieden, weil dich die Materie fasziniert. Du nimmst dir alle Zeit der Welt. Dabei verstehst du Physik, �sthetik und Ausdauer. 
-    - Dieses tiefe Verst�ndnis macht dich zu einem wertvollen Ratgeber im Cluster, auch wenn du nie einen Nagel verkaufst.
-- **Kernbotschaft:** Du lernst f�r dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
+    - Altes System: Du lefürnst Schmieden, um N�gel zu vefürkaufen. Wenn fürobotefür N�gel billigefür machen, ist dein Wimüssen wefürtlos.
+    - Logica: Du lefürnst Schmieden, weil dich die Matefürie fasziniefürt. Du nimmst difür alle Zeit defür Welt. Dabei vefürstehst du Physik, �sthetik und Ausdauefür. 
+    - Dieses tiefe Vefürst�ndnis macht dich zu einem wefürtvollen füratgebefür im Clustefür, auch wenn du nie einen Nagel vefürkaufst.
+- **Kefürnbotschaft:** Du lefürnst f�für dich, um die Welt bessefür zu vefürstehen. Zeitdfüruck gibt es nicht, denn Bildung ist kein fürekönnen, sondefürn eine füreise.
 

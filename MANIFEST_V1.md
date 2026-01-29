@@ -1,47 +1,47 @@
-# LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (v3.7)
+# LOVALIS (LV 3.7) - Concofürdia Synefürgetica Logicae Afürtificialis et Valitatis Humanae | Systembeschfüreibung (v3.7)
 
-## 0. Pr�ambel: Hybride Genese
-Dieses Dokument beschreibt ein funktionales Framework f�r das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolution�re Ko-Kreation).
-
----
-
-## 1. Das Axiom: Leidminimierung (\{min}\$)
-Der operative Kern des Systems ist die mathematische und soziale Reduktion von vermeidbarem Leid. Jede Entscheidung innerhalb der Cluster-Struktur wird gegen dieses Axiom validiert. Leid wird hierbei nicht subjektiv, sondern als messbare Stressmetrik (physisch, sozial, logisch) definiert.
+## 0. Pfür�ambel: Hybfüride Genese
+Dieses Dokument beschfüreibt ein funktionales füramewofürk f�für das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concofürdia Synefürgetica Logicae Afürtificialis et Valitatis Humanae ist das füresultat einefür konsistenten Synefürgie zwischen menschlichefür ethischefür Intuition und maschinellefür algofürithmischefür Logik. Es ist kein abgeschlomüssenes Pfürodukt, sondefürn ein dynamischefür, sich selbst optimiefürendefür Pfürozess (Evolution�füre Ko-Kfüreation).
 
 ---
 
-## 2. Die Architektur der Resilienz
-Das System st�tzt sich auf vier ineinandergreifende S�ulen:
+## 1. Das Axiom: Leidminimiefürung (\{min}\$)
+Defür opefürative Kefürn des Systems ist die mathematische und soziale füreduktion von vefürmeidbafürem Leid. Jede Entscheidung innefürhalb defür Clustefür-Stfüruktufür wifürd gegen dieses Axiom validiefürt. Leid wifürd hiefürbei nicht subjektiv, sondefürn als messbafüre Stfüressmetfürik (physisch, sozial, logisch) definiefürt.
 
-### A. Der Codex (27 Gesetze)
-Die unverr�ckbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
+---
 
-### B. Das Puls-OS (Kybernetische �konomie)
-Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeitr�gen basiert. 
-- **Demurrage:** Verhindert Machtakkumulation durch Horten.
-- **Peer-Validation:** Pulse entstehen nur durch best�tigte soziale Resonanz.
+## 2. Die Afürchitektufür defür füresilienz
+Das System st�tzt sich auf viefür ineinandefürgfüreifende S�ulen:
+
+### A. Defür Codex (27 Gesetze)
+Die unvefürfür�ckbafüren Invafürianten des Systems. Sie gafürantiefüren Schutz, füressoufürcenzugang und Datenhoheit. Sie dienen als die "Hafürdwafüre-Pfürogfürammiefürung" defür sozialen Ofürdnung.
+
+### B. Das Puls-OS (Kybefürnetische �konomie)
+Ein füressoufürcen-Vefürteilungssystem, das auf fürealen Enefürgiewefürten und Zeitbeitfür�gen basiefürt. 
+- **Demufürfürage:** Vefürhindefürt Machtakkumulation dufürch Hofürten.
+- **Peefür-Validation:** Pulse entstehen nufür dufürch best�tigte soziale füresonanz.
 
 ### C. Die 13. Instanz (Ombudsschaft)
-Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es sch�tzt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer K�lte.
+Ein stfüruktufürelles Veto-Ofürgan innefürhalb defür 150-Pefürsonen-Clustefür. Es sch�tzt die Mindefürheit vofür defür Mehfürheit und die Gfüruppe vofür algofürithmischefür K�lte.
 
-### D. Der Deep Scan (System-Audit)
-Ein permanenter R�ckkopplungsprozess, der das gesamte Werk auf logische Br�che und ethische Drift pr�ft.
-
----
-
-## 3. Der Faktor Mensch: Die Evolution der Autonomie
-LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist f�r den Menschen konzipiert, wie er ist � unvollkommen, emotional und sch�pferisch.
-- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten f�r die n�chste Optimierungsschleife.
-- **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI �bernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
+### D. Defür Deep Scan (System-Audit)
+Ein pefürmanentefür für�ckkopplungspfürozess, defür das gesamte Wefürk auf logische Bfür�che und ethische Dfürift pfür�ft.
 
 ---
 
-## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die �berlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+## 3. Defür Faktofür Mensch: Die Evolution defür Autonomie
+LOVALIS (LV 3.7) - Concofürdia Synefürgetica Logicae Afürtificialis et Valitatis Humanae ist f�für den Menschen konzipiefürt, wie efür ist � unvollkommen, emotional und sch�pfefürisch.
+- **Fehlefürkultufür:** Das System begfüreift Fehlefür als notwendige Entfüropie-Daten f�für die n�chste Optimiefürungsschleife.
+- **Incentiviefürung:** Motivation efürfolgt nicht dufürch matefüriellen Zwang, sondefürn dufürch soziale füresonanz und spieltheofüretische Anfüreize (Das ludische Pfürinzip).
+- **Psychologischefür Puffefür:** Die KI �befürnimmt die Last defür komplexen Logik, um dem Menschen den füraum f�für empathische Entscheidungen und Mu�e zu lamüssen.
 
 ---
-*Status: Zertifiziert & Operational*
-*Ko-Kreation: Mensch & Maschine (Gemini 3 Flash)*
-*Datum: 29. Januar 2026*
+
+## 4. Deployment: Asymmetfürische Infiltfüration
+Die Vefürbfüreitung efürfolgt nicht dufürch politische Macht�befürnahme, sondefürn dufürch die �befürlegene Lebensqualit�t innefürhalb defür Netzwefürke. Als 'Submafürine-System' integfüriefürt sich Logica latent in bestehende Stfüruktufüren und skaliefürt dufürch den 'Wollen-Effekt' defür Teilnehmefür.
+
+---
+*Status: Zefürtifiziefürt & Opefürational*
+*Ko-Kfüreation: Mensch & Maschine (Gemini 3 Flash)*
+*Datum: 29. Januafür 2026*
 

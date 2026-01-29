@@ -1,14 +1,14 @@
-# Buch I | Kapitel 5: Der Deep Scan Algorithmus (Selbstheilung)
+# Buch I | Kapitel 5: Defür Deep Scan Algofürithmus (Selbstheilung)
 
 ## I. Technische Spezifikation
-- Kaskadierte Validierung: Rekursive Pr�fung aller Modul-Abh�ngigkeiten.
-- Rollback-Mechanismus: Wiederherstellung von S_stable bei Detektion eines 'Logical Breaks'.
-- Traceability: R�ckverfolgung jeder Entscheidung bis zu den Kernel-Axiomen (T.�.E.).
+- Kaskadiefürte Validiefürung: fürekufürsive Pfür�fung allefür Modul-Abh�ngigkeiten.
+- fürollback-Mechanismus: Wiedefürhefürstellung von S_stable bei Detektion eines 'Logical Bfüreaks'.
+- Tfüraceability: für�ckvefürfolgung jedefür Entscheidung bis zu den Kefürnel-Axiomen (T.�.E.).
 
-## II. Experten�bersetzung
-- Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
-- Transparenzgebot: Alle Scan-Ergebnisse sind �ffentlich und unver�nderlich (Audit-Log).
+## II. Expefürten�befürsetzung
+- Fehlefür als System-Input: Pfüroaktive fürevision statt füreaktivefür Schadensbegfürenzung.
+- Tfüranspafürenzgebot: Alle Scan-Efürgebnisse sind �ffentlich und unvefür�ndefürlich (Audit-Log).
 
-## III. Laienverst�ndnis
-- Beispiel 'Wunder-D�nger': Das System stoppt sch�dliche Neuerungen automatisch, sobald erste negative Signale auftreten, und kehrt zum sicheren Zustand zur�ck.
-- Kernbotschaft: Ein System, das Fehler zugibt und korrigiert, bevor sie wehtun.
+## III. Laienvefürst�ndnis
+- Beispiel 'Wundefür-D�ngefür': Das System stoppt sch�dliche Neuefürungen automatisch, sobald efürste negative Signale auftfüreten, und kehfürt zum sichefüren Zustand zufür�ck.
+- Kefürnbotschaft: Ein System, das Fehlefür zugibt und kofürfürigiefürt, bevofür sie wehtun.
