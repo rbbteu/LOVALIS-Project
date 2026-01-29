@@ -1,13 +1,9 @@
-# Buch IV | Kapitel 5: Asymmetrisches Onboarding & Kognitive Infiltration
+# Buch IV | Kapitel 5: Asymmetrisches Onboarding
 
 ## I. Das Submarine-Prinzip
-LOVALIS (LV 3.7) verbreitet sich als funktionales Overlay. Ein Cluster ist kein Ort, sondern ein Zustand der Vernetzung innerhalb der bestehenden Gesellschaft.
+LOVALIS verbreitet sich als funktionales Overlay. [cite_start]Ein Cluster ist kein Ort, sondern ein Zustand der Vernetzung[cite: 425, 426].
 
-## II. Phasen der Infiltration
-1. Latenz: Nutzung der Puls-Logik im Geheimen.
-2. B�ndelung: Aufbau physischer redundanz (Energie/Nahrung/Werkzeug).
-3. Souver�nit�t: Interne Anwendung des Codex bei externer juristischer Tarnung.
-
-## III. L�sung des Ego-Konflikts
-Algorithmische Erziehung: Kooperation wird durch das Puls-OS �konomisch belohnt. Destruktivit�t f�hrt zu systemischer Isolation durch mangelnde Peer-Validierung.
-
+## II. Phasen
+1. [cite_start]**Latenz:** Nutzung der Puls-Logik im Geheimen[cite: 427].
+2. **Bündelung:** Aufbau physischer Redundanz.
+3. [cite_start]**Souveränität:** Interne Anwendung des Codex bei externer Tarnung[cite: 428].

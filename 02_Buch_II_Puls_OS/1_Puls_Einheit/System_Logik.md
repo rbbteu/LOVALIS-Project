@@ -1,15 +1,10 @@
-# Buch II | Kapitel 1: Die Puls-Einheit & Der Energie-Standard
+# Buch II | Kapitel 1: Die Puls-Einheit
 
 ## I. Technische Spezifikation
-- Definition puls: Energetisches ressourcen-�quivalent.
-- Demurrage-Mechanismus: Automatischer r�ckfluss nicht genutzter Einheiten (Halbwertszeit).
-- Kopplung der Geldmenge M an reale regenerationsraten (E_gen).
+- [cite_start]**Definition puls:** Energetisches Ressourcen-Äquivalent[cite: 341].
+- [cite_start]**Demurrage-Mechanismus:** Automatischer Rückfluss nicht genutzter Einheiten (Halbwertszeit)[cite: 342].
+- [cite_start]**Kopplung:** Geldmenge M ist an reale Regenerationsraten (E_gen) gekoppelt[cite: 342].
 
-## II. Experten�bersetzung
-- Kybernetische ressourcensteuerung statt klassischer Marktmechanismen.
-- Pr�vention von Akkumulation und Machtkonzentration durch W�hrungsdesign.
-- Entropie-basierte Bepreisung zur �kologischen Lenkung.
-
-## III. Laienverst�ndnis
-- Beispiel 'Fahrrad-Kauf': Wirtschaft als atmendes System. Was nicht verbraucht wird, n�tzt der Gemeinschaft.
-- Kernbotschaft: Sicherheit durch garantierten Zugang zu ressourcen ohne Zukunftsangst.
+## II. Laienverständnis
+Wirtschaft als atmendes System. [cite_start]Was nicht verbraucht wird, nützt der Gemeinschaft[cite: 344].
+[cite_start]Sicherheit durch garantierten Zugang zu Ressourcen ohne Zukunftsangst[cite: 345].

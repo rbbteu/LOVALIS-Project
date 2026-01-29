@@ -1,9 +1,9 @@
-# Das Cluster-Design
+# Buch IV | Kapitel 1: Cluster-Dynamik
 
-## Die Dunbar-Zahl (150)
-Ein Cluster besteht aus maximal 150 Erwachsenen.
-Wächst der Cluster darüber hinaus, erfolgt eine **Mitose** (Zellteilung): Der Cluster teilt sich in zwei neue, lebensfähige Einheiten.
+## I. Technische Spezifikation
+- [cite_start]**Knoten-Limit:** MAX_NODES = 150 (Dunbar-Konstante)[cite: 449].
+- [cite_start]**Mitose-Protokoll:** Automatischer 'Fork' bei Überschreitung der Kapazität[cite: 450].
+- [cite_start]**Anti-Anonymitäts-Garantie:** Schutz vor Massen-Entfremdung durch Kleinteiligkeit[cite: 450].
 
-## Pädagogik der Ineffizienz
-Lernen darf nicht effizient sein. Wir lernen durch Fehler, Umwege und Muße.
-Das System nimmt dem Menschen die "Maschinen-Arbeit" ab, damit er Zeit für "menschliches Wachstum" hat.
+## II. Laienverständnis
+[cite_start]Statt anonymer Großstädte bilden sich 'Schwester-Dörfer', damit jeder gesehen wird[cite: 452].
