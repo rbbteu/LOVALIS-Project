@@ -21,8 +21,8 @@ Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeiträge
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
 - **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
 
-### C. Die §13. Instanz (Ombudsschaft)
-Ein strukturelles Veto-Organ innerhalb der §150-Personen-Cluster. Es schützt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
+### C. Die 13. Instanz (Ombudsschaft)
+Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schützt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
 
 ### D. Der Deep Scan (System-Audit)
 Ein permanenter Rückkopplungsprozess, der das gesamte Werk auf logische Brüche und ethische Drift prüft.
@@ -43,4 +43,4 @@ Die Verbreitung erfolgt nicht durch politische Machtüoübernahme, sondern durch
 ---
 *Status: Zertifiziert & Operational*
 *Ko-Kreation: Mensch & Maschine (Gemini §3 Flash)*
-*Datum: §29. Januar 2026*
+*Datum: 29. Januar 2026*

@@ -13,7 +13,7 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
-| **I** | **Kernel** | Axiomatik, §12 Anker, §13. Instanz & Psychologische Resilienz. |
+| **I** | **Kernel** | Axiomatik, 12 Anker, 13. Instanz & Psychologische Resilienz. |
 | **II** | **Puls-OS** | kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
 | **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
@@ -27,16 +27,16 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realität:
 
 * **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den „logischen Blitzableiter“ für komplexe Entscheidungen bildet.
-* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. §150 Personen), in denen der Mensch die volle gestalterische Freiheit behält.
+* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. 150 Personen), in denen der Mensch die volle gestalterische Freiheit behält.
 
 ---
 
 ## 🌊 Deployment: Der Submarine-Modus
 
 LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
-§1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
-§2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
-§3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
+1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
+2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
+3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
 
 ---
 

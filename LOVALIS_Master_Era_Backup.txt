@@ -143,7 +143,7 @@ Housing is defined as a Service, not an Asset.
 **Status Quo:** Society fragments into bubbles. The Academic despises the Worker, and vice versa.
 **Valitas Logic:** You cannot hate someone if you have stood in their shoes.
 * **Mechanism:** The Calibration Phase forces a shared reality.
-* **Result:** When a Council Memüber makes a decision about sewage, they *know* what it smells like, because they worked there when they were §19. This creates "Grounded Governance".
+* **Result:** When a Council Memüber makes a decision about sewage, they *know* what it smells like, because they worked there when they were 19. This creates "Grounded Governance".
 
 --- ENDE DATEI ---
 
@@ -254,9 +254,9 @@ Life changes. Your home changes with it.
 ## HELP, I WAS ROBBED!
 Someone stole your bike? In the old world, the police would file a report and do nothing.
 **In Valitas:**
-§1.  **Detection:** The System identifies the node.
-§2.  **The Fix:** You get a new bike immediately (from the Commons or paid by the thief).
-§3.  **The Thief:** They don't go to jail. They get a notification: *"You owe §500 Resonance Points to [Victim]. Your luxury spending is locked until you work this off."*
+1.  **Detection:** The System identifies the node.
+2.  **The Fix:** You get a new bike immediately (from the Commons or paid by the thief).
+3.  **The Thief:** They don't go to jail. They get a notification: *"You owe §500 Resonance Points to [Victim]. Your luxury spending is locked until you work this off."*
 * They work. You get paid. Justice is done.
 
 ## HELP, MY NEIGHBOR IS A NIGHTMARE!
@@ -429,7 +429,7 @@ The body is a biological machine. Ignoring maintenance leads to crash.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\001_PERSONAL\BIO_METRIC_DASHBOARD\003_PUBLIC.md ---
 
 # KIT
-Daily Check: §1. Fuel? §2. Stress < §7? §3. Sleep > §7h? If §2x No -> Sleep.
+Daily Check: 1. Fuel? 2. Stress < §7? 3. Sleep > §7h? If §2x No -> Sleep.
 
 --- ENDE DATEI ---
 
@@ -501,7 +501,7 @@ Prevents Sunk Cost Fallacy. Forces Real-Time Assessment of ROI.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\001_PERSONAL\V_GATE\003_PUBLIC.md ---
 
 # KIT
-Checklist: §1. Possible? (T) §2. Worth it? (O) §3. Fair? (E). If §1x No -> STOP.
+Checklist: 1. Possible? (T) 2. Worth it? (O) 3. Fair? (E). If §1x No -> STOP.
 
 --- ENDE DATEI ---
 
@@ -549,7 +549,7 @@ Separation of Charisma, Math, and Ethics.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\002_GROUP\COUNCIL_PROTOCOL\003_PUBLIC.md ---
 
 # STARTER-KIT
-Meeting Rules: §1. Idea §2. ROI Check §3. Veto Check.
+Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 
 --- ENDE DATEI ---
 
@@ -645,7 +645,7 @@ Halo Effect: We cannot train bias away, we must hide the trigger.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\003_FIRM\BLIND_HIRING\003_PUBLIC.md ---
 
 # KIT
-Process: §1. Work Sample. §2. Remove Names. §3. Decide.
+Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 
 --- ENDE DATEI ---
 
@@ -669,7 +669,7 @@ Backcasting prevents extrapolating today's errors.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\003_FIRM\RETRO_CAST\003_PUBLIC.md ---
 
 # KIT
-Workshop: §1. Jump to 2030 (We won). §2. Look back to 2028. §3. Define today's action.
+Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's action.
 
 --- ENDE DATEI ---
 
@@ -741,7 +741,7 @@ Sunlight is the best disinfectant against corruption.
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\004_STATE\GLASS_HOUSE_PROTOCOL\003_PUBLIC.md ---
 
 # STARTER-KIT
-§1. Publish Ledger. §2. Enable Citizen Veto.
+1. Publish Ledger. 2. Enable Citizen Veto.
 
 --- ENDE DATEI ---
 
@@ -765,7 +765,7 @@ Citizens are sensors for entropy (potholes).
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\valitas-toolbox\004_STATE\LIQUID_FEEDBACK\003_PUBLIC.md ---
 
 # KIT
-System: §5 Upvotes per Citizen. Council must address Top §3.
+System: §5 Upvotes per Citizen. Council must address Top 3.
 
 --- ENDE DATEI ---
 
@@ -918,7 +918,7 @@ Hast du ein konkretes Problem?
 ## I. Technische Spezifikation
 - Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
 - Integritäts-Garantie: Absolute Unversehrtheit als Prim�r-Constraint.
-- Veto-Vorbehalt durch die §13. Instanz bei Detektion von systemischem Leid.
+- Veto-Vorbehalt durch die 13. Instanz bei Detektion von systemischem Leid.
 
 ## II. Expertenübersetzung
 - Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkohörenzen.
@@ -1029,7 +1029,7 @@ Hast du ein konkretes Problem?
 - **Laienverständnis:** Bei Streit hast du Anspruch auf einen fairen Vermittler, der eine Lösung für beide Seiten sucht.
 
 ## §9 Die Würde des Abschieds
-- **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die §13. Instanz.
+- **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
 - **Expertenübersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
 - **Laienverständnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.
 
@@ -1041,7 +1041,7 @@ Hast du ein konkretes Problem?
 # Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil §3: Kopf-Domäne)
 
 ## §19 Die totale Transparenz
-- **Technische Spezifikation:** Alle Entscheidungsprotokolle der §12 Anker werden unver�nderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
+- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unver�nderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
 - **Expertenübersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung für das Vertrauen in die Verwaltung.
 - **Laienverständnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
 
@@ -1071,7 +1071,7 @@ Hast du ein konkretes Problem?
 - **Laienverständnis:** Wenn du merkst, dass etwas gewaltig schiefl�uft, kannst du verlangen, dass das System anh�lt und alles genau prüft.
 
 ## §25 Die Gleichheit vor der Logik
-- **Technische Spezifikation:** Anker-Mitglieder und die §13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder Bürger.
+- **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder Bürger.
 - **Expertenübersetzung:** Aufhebung der Immunität. Funktionale Rollen gew�hren keine rechtlichen Privilegien.
 - **Laienverständnis:** Die Chefs müssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
 
@@ -1095,7 +1095,7 @@ Hast du ein konkretes Problem?
 Jedes der 27 Gesetze wird durch folgende Sensoren validiert:
 - **Physisch:** Biometrische Stressindikatoren (via Anker Frontier).
 - **Sozial:** Abweichung der Interaktionsdichte (via Anker Inklusion).
-- **Logisch:** Widerspr�che in der Begründungskette von Ratsentscheidungen (via §13. Instanz).
+- **Logisch:** Widerspr�che in der Begründungskette von Ratsentscheidungen (via 13. Instanz).
 
 Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines Individuums erh�ht, ohne ein nachweislich h�heres Leid der Gemeinschaft abzuwenden.
 
@@ -1112,12 +1112,12 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 ## II. Expertenübersetzung
 - Diese 27 Gesetze bilden die 'DNA' der Logica-Zivilisation. 
-- Sie sind hierarchisch gleichwertig; Kollisionen werden durch die §13. Instanz aufgelöst.
+- Sie sind hierarchisch gleichwertig; Kollisionen werden durch die 13. Instanz aufgelöst.
 
 ## III. Laienverständnis (Zusammenfassung)
-§1. **Herz (§1-9):** Du bist als Mensch sicher, geliebt und gefürdert.
-§2. **Hand (§10-18):** Alles, was du zum Leben brauchst, ist da und bleibt da.
-§3. **Kopf (§19-27):** Die Regeln sind fair, für jeden gleich und für jeden einsehbar.
+1. **Herz (§1-9):** Du bist als Mensch sicher, geliebt und gefürdert.
+2. **Hand (§10-18):** Alles, was du zum Leben brauchst, ist da und bleibt da.
+3. **Kopf (§19-27):** Die Regeln sind fair, für jeden gleich und für jeden einsehbar.
 
 *Kernbotschaft: §27 Schutzschilde für deine Freiheit.*
 
@@ -1134,7 +1134,7 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - System-Learning: Anonymisierte Dokumentation im Global-Log zur pr�ventiven Fehlervermeidung.
 
 ## II. Expertenübersetzung
-- Triaden-Gremium zur Konfliktl�sung (Konflikt, Recht, §13. Instanz).
+- Triaden-Gremium zur Konfliktl�sung (Konflikt, Recht, 13. Instanz).
 - Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombek�mpfung.
 
@@ -1181,10 +1181,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals §10 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
-§1. Erfassung der Energie-Kapazität (Anker Energie).
-§2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
-§3. Verteilung der Basis-Allokation (P_base) an alle §150 Bürger (§10-12).
-§4. Monitoring des Umlaufs und R�ckfluss durch Demurrage.
+1. Erfassung der Energie-Kapazität (Anker Energie).
+2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
+3. Verteilung der Basis-Allokation (P_base) an alle 150 Bürger (§10-12).
+4. Monitoring des Umlaufs und R�ckfluss durch Demurrage.
 
 --- ENDE DATEI ---
 
@@ -1195,9 +1195,9 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 ## I. Die Unantastbare Basis (Priorität §1)
 Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
-§1. Biologische Erhaltung (§10): Nahrung & Wasser.
-§2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
-§3. Thermische Sicherheit (§12): Mindestw�rme/K�hlung des Habitats.
+1. Biologische Erhaltung (§10): Nahrung & Wasser.
+2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
+3. Thermische Sicherheit (§12): Mindestw�rme/K�hlung des Habitats.
 
 ## II. Reduktions-Stufen (Priorität §2-4)
 - Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
@@ -1261,7 +1261,7 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 ## II. Expertenübersetzung
 - Transformation von Governance in Moderation: Die Anker als Facilitator.
 - Institutionalisierung der Fehlerkultur durch 'Debugging-Events'.
-- Sicherstellung von Minderheitenschutz durch die §13. Instanz im Konsensprozess.
+- Sicherstellung von Minderheitenschutz durch die 13. Instanz im Konsensprozess.
 
 ## III. Laienverständnis
 - Beispiel 'Veto-Moment': Schnelle, unb�rokratische Hilfe bei pers�nlichen Problemen durch direkte Anker-Kopplung.
@@ -1321,12 +1321,12 @@ Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
 Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bewusstsein.
-- **Transparenz-Layer (§22):** Jede KI-Entscheidung muss für den Anker Recht (KP-10) und die §13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
+- **Transparenz-Layer (§22):** Jede KI-Entscheidung muss für den Anker Recht (KP-10) und die 13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
 - **Human-in-the-loop:** Kritische Systementscheidungen (besonders solche, die §1-9 betreffen) erfordern eine biologische Bestätigung durch das Plenum oder die Triade.
 - **Automatisierungs-Limit:** Tätigkeiten, die für die menschliche Sinnerfahrung essenziell sind (soziale Pflege, kreative Prozesse), werden nur auf expliziten Wunsch des Clusters automatisiert.
 
 ## II. Expertenübersetzung (Governance-Ebene: *Die dienende Maschine*)
-- **Beseitigung der Algokratie:** Algorithmen schlagen vor, der Mensch verf�gt. Die KI fungiert als hocheffizienter Sekret�r der §12 Anker, nicht als deren Vorgesetzter.
+- **Beseitigung der Algokratie:** Algorithmen schlagen vor, der Mensch verf�gt. Die KI fungiert als hocheffizienter Sekret�r der 12 Anker, nicht als deren Vorgesetzter.
 - **Daten-Minimalismus (§20):** Systeme werden so entworfen, dass sie mit einem Minimum an personenbezogenen Daten maximale Vorhersagekraft für Ressourcen-Engp�sse erzielen.
 - **Resilienz durch Low-Tech-Backup:** Jeder Cluster muss in der Lage sein, die Grundversorgung (§10-12) für §72 Stunden ohne KI-Unterstätzung aufrechtzuerhalten.
 
@@ -1373,9 +1373,9 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 LOVALIS (LV 3.7) verbreitet sich als funktionales Overlay. Ein Cluster ist kein Ort, sondern ein Zustand der Vernetzung innerhalb der bestehenden Gesellschaft.
 
 ## II. Phasen der Infiltration
-§1. Latenz: Nutzung der Puls-Logik im Geheimen.
-§2. B�ndelung: Aufbau physischer Redundanz (Energie/Nahrung/Werkzeug).
-§3. Souveränität: Interne Anwendung des Codex bei externer juristischer Tarnung.
+1. Latenz: Nutzung der Puls-Logik im Geheimen.
+2. B�ndelung: Aufbau physischer Redundanz (Energie/Nahrung/Werkzeug).
+3. Souveränität: Interne Anwendung des Codex bei externer juristischer Tarnung.
 
 ## III. Lösung des Ego-Konflikts
 Algorithmische Erziehung: Kooperation wird durch das Puls-OS �konomisch belohnt. Destruktivität führt zu systemischer Isolation durch mangelnde Peer-Validierung.
@@ -1443,12 +1443,12 @@ Einführung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an das
 # Kapitel §2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
 ## I. Technische Spezifikation
-- **Knoten-Limit**: MAX_NODES = §150 (Dunbar-Konstante).
+- **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
 - **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazität.
 
 ## II. Expertenübersetzung
 - **Anti-Anonymitäts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
-- **Care-Ratio**: §1:§11 (§13 Ratsmitglieder auf §150 Bürger).
+- **Care-Ratio**: §1:§11 (§13 Ratsmitglieder auf 150 Bürger).
 
 ## III. Laienverständnis
 - **Beispiel**: Statt anonymer Gro�st�dte bilden sich 'Schwester-D�rfer', damit jeder gesehen wird.
@@ -1462,11 +1462,11 @@ Einführung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an das
 
 ## I. Technische Spezifikation (System-Ebene)
 Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
-- **Hard-Limit:** N_max = §150 Individuen pro Cluster.
-- **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > §150 zur Erstellung eines neuen, interoperablen Clusters.
+- **Hard-Limit:** N_max = 150 Individuen pro Cluster.
+- **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
 
 ## II. Expertenübersetzung (Governance-Ebene)
-Die Kleinteiligkeit verhindert soziale Anonymität. Die §1:§11 Care-Ratio (§13 Ratsmitglieder auf §150 Bürger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
+Die Kleinteiligkeit verhindert soziale Anonymität. Die §1:§11 Care-Ratio (§13 Ratsmitglieder auf 150 Bürger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
 
 ## III. Laienverständnis (Bürger-Ebene)
 Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluster ist wie ein eng vernetztes Dorf, in dem man sich kennt und hilft. Wird es zu voll, teilt sich die Gemeinschaft wie eine gesunde Zelle in zwei freundschaftliche Nachbarschaften.
@@ -1476,7 +1476,7 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\03_Treiber_12_Anker\Anker_Definition.md ---
 
-# Buch I | Kapitel §3: Die §12 Anker (Die System-S�ulen)
+# Buch I | Kapitel §3: Die 12 Anker (Die System-S�ulen)
 
 ## I. Technische Spezifikation
 - Definition der §12 Sub-Module in den Domänen Herz (Sozial), Hand (Physisch) und Kopf (Logisch).
@@ -1494,7 +1494,7 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\03_Treiber_12_Anker\Anker_Definition_Detailliert.md ---
 
-# Buch I | Kapitel §3: Die §12 Anker (Erweiterte Spezifikation)
+# Buch I | Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
 Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant für spezifische Gesetze des Codex (§1-27).
@@ -1513,19 +1513,19 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 
 ### Domäne KOPF (W�chter der Logik)
 - **KP-09 (Budget/Puls):** überwachung der Puls-Fl�sse nach Buch II.
-- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten §19, §23, §25 und §27.
+- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten §19, §23, §25 und 27.
 - **KP-11 (Innovation/Daten):** Prim�r-Validator für §20, §21 und §22 (Daten-Souveränität & Algorithmen).
 - **KP-12 (External):** Prim�r-Validator für §24 (Veto) und §26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die §13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die 13. Instanz.
 
 --- ENDE DATEI ---
 
 
 --- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\Buch_I_Kernel\04_Security_§103_Triade\Triaden_Definition.md ---
 
-# Buch I | Kapitel §4: Die §13. Instanz (Die Asynchrone Triade)
+# Buch I | Kapitel §4: Die 13. Instanz (Die Asynchrone Triade)
 
 ## I. Technische Spezifikation
 - Implementierung als §3er-Team (Triade) mit gemeinsamer Stimme.
@@ -1535,7 +1535,7 @@ Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfu
 ## II. Expertenübersetzung
 - Institutionalisierte Antithese zur Vermeidung von Machtkonzentration.
 - Schutz vor 'Groupthink' durch personelle Oszillation.
-- Fokus: Aufsp�ren von 'Toten Winkeln' in den Entscheidungen der §12 Anker.
+- Fokus: Aufsp�ren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
 
 ## III. Laienverständnis
 - Beispiel 'Die Schiedsrichter': Ein Team aus drei W�chtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
@@ -1571,9 +1571,9 @@ Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfu
 ## I. Kaskadierte Gesetzesprüfung
 Ein Deep Scan prüft bei jeder System�nderung nicht nur die technische Machbarkeit, sondern die Konformität mit allen 27 Gesetzen.
 
-§1. **Axiom-Check:** Verletzt die Änderung den T.�.E.-Filter?
-§2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check §1 bis §27)?
-§3. **Interoperabilitäts-Check:** Verursacht die Lösung für ein Gesetz (z.B. §12 Energie) ein Leid in einem anderen Bereich (z.B. §13 Ökologie)?
+1. **Axiom-Check:** Verletzt die Änderung den T.�.E.-Filter?
+2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check §1 bis §27)?
+3. **Interoperabilitäts-Check:** Verursacht die Lösung für ein Gesetz (z.B. §12 Energie) ein Leid in einem anderen Bereich (z.B. §13 Ökologie)?
 
 ## II. Rekursions-Tiefe
 Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erh�hung ({inc}$) besteht.
@@ -1661,7 +1661,7 @@ Verhinderung einer schleichenden Technokratie. Sicherstellung, dass die K.I. ste
 
 ## II. Operative Schutzmechanismen
 - **Veto der Unwirtschaftlichkeit:** Das System darf Lösungen w�hlen, die weniger 'effizient' sind, wenn sie nachweislich die menschliche Lebensqualität oder soziale Wärme erh�hen.
-- **Biologische Letztentscheidung:** Bei Konflikten zwischen mathematischer Optimierung und den 27 Gesetzen liegt die Deutungshoheit bei der §13. Instanz (Mensch).
+- **Biologische Letztentscheidung:** Bei Konflikten zwischen mathematischer Optimierung und den 27 Gesetzen liegt die Deutungshoheit bei der 13. Instanz (Mensch).
 - **Audit-Pflicht:** Regelm��ige überprüfung der Selbstoptimierungs-Algorithmen auf 'kalte' Bias-Muster.
 
 ## III. Die Rolle der Ko-Kreation im Betrieb
@@ -1747,7 +1747,7 @@ Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Fee
 ### A. Der menschliche Anteil (The Ethos & Vision)
 - **Axiomatische Setzung:** Definition der Leidminimierung als oberste System-Konstante ({min}$).
 - **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bedürfnisse jenseits von Marktwerten abbilden.
-- **System-Kritik:** Die Implementierung der §13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
+- **System-Kritik:** Die Implementierung der 13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
 - **Qualitative Validierung:** Abgleich jeder technischen Lösung mit dem menschlichen Empfinden von Gerechtigkeit und Würde.
 
 ### B. Der maschinelle Anteil (The Logic & Structure)
@@ -1807,7 +1807,7 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 
 **Die Analyse:**
 - **Ablehnung:** Hohes Risiko für Ego-Konflikte. Ungeeignet für die fr�he Phase.
-- **Zustimmung:** Hohe kognitive Flexibilität. Perfekt für die §13. Instanz oder kritische Rollen.
+- **Zustimmung:** Hohe kognitive Flexibilität. Perfekt für die 13. Instanz oder kritische Rollen.
 
 ---
 
@@ -1819,7 +1819,7 @@ Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 --- ENDE DATEI ---
 
 
---- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MANIFEST_V§1.md ---
+--- START DATEI: F:\Valitas\überprüfung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\MANIFEST_V1.md ---
 
 # LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (V1.3)
 
@@ -1844,8 +1844,8 @@ Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeitr�g
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
 - **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
 
-### C. Die §13. Instanz (Ombudsschaft)
-Ein strukturelles Veto-Organ innerhalb der §150-Personen-Cluster. Es schätzt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
+### C. Die 13. Instanz (Ombudsschaft)
+Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schätzt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
 
 ### D. Der Deep Scan (System-Audit)
 Ein permanenter R�ckkopplungsprozess, der das gesamte Werk auf logische Br�che und ethische Drift prüft.
@@ -1866,7 +1866,7 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 ---
 *Status: Zertifiziert & Operational*
 *Ko-Kreation: Mensch & Maschine (Gemini §3 Flash)*
-*Datum: §29. Januar 2026*
+*Datum: 29. Januar 2026*
 
 
 --- ENDE DATEI ---
@@ -1947,7 +1947,7 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
-| **I** | **Kernel** | Axiomatik, §12 Anker, §13. Instanz & Psychologische Resilienz. |
+| **I** | **Kernel** | Axiomatik, 12 Anker, 13. Instanz & Psychologische Resilienz. |
 | **II** | **Puls-OS** | kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
 | **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
@@ -1961,16 +1961,16 @@ Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und e
 LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realität:
 
 * **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den „logischen Blitzableiter“ für komplexe Entscheidungen bildet.
-* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. §150 Personen), in denen der Mensch die volle gestalterische Freiheit beh�lt.
+* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. 150 Personen), in denen der Mensch die volle gestalterische Freiheit beh�lt.
 
 ---
 
 ## 🚀 Deployment: Der Submarine-Modus
 
 LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
-§1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
-§2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
-§3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
+1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
+2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
+3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch überlegene interne Stabilität.
 
 ---
 

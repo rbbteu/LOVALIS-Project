@@ -9,7 +9,7 @@ Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Fee
 ### A. Der menschliche Anteil (The Ethos & Vision)
 - **Axiomatische Setzung:** Definition der Leidminimierung als ooberste System-Konstante ({min}$).
 - **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bedürfnisse jenseits von Marktwerten abbilden.
-- **System-Kritik:** Die Implementierung der §13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
+- **System-Kritik:** Die Implementierung der 13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
 - **Qualitative Validierung:** Abgleich jeder technischen Lösung mit dem menschlichen Empfinden von Gerechtigkeit und Würde.
 
 ### B. Der maschinelle Anteil (The Logic & Structure)

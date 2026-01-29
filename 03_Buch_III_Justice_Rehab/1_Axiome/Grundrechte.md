@@ -3,7 +3,7 @@
 ## I. Technische Spezifikation
 - Constraint-Satisfaction-Modell: Gesetze als System-Bedingungen.
 - Integritäts-Garantie: Absolute Unversehrtheit als Primär-Constraint.
-- Veto-Vorbehalt durch die §13. Instanz bei Detektion von systemischem Leid.
+- Veto-Vorbehalt durch die 13. Instanz bei Detektion von systemischem Leid.
 
 ## II. Expertenübersetzung
 - Rehabilitation statt Vergeltung: Identifikation von Verhaltens-Inkohärenzen.

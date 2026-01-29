@@ -6,7 +6,7 @@
 - System-Learning: Anonymisierte Dokumentation im Global-Log zur präventiven Fehlervermeidung.
 
 ## II. Expertenübersetzung
-- Triaden-Gremium zur Konfliktlösung (Konflikt, Recht, §13. Instanz).
+- Triaden-Gremium zur Konfliktlösung (Konflikt, Recht, 13. Instanz).
 - Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombekämpfung.
 

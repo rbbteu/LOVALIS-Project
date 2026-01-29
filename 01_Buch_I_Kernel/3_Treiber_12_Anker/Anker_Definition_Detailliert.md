@@ -1,4 +1,4 @@
-﻿# Buch I | Kapitel §3: Die §12 Anker (Erweiterte Spezifikation)
+﻿# Buch I | Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
 Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant für spezifische Gesetze des Codex (§1-27).
@@ -17,9 +17,9 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 
 ### Domäne KOPF (Wächter der Logik)
 - **KP-09 (Budget/Puls):** überwachung der Puls-Flüsse nach Buch II.
-- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten §19, §23, §25 und §27.
+- **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten §19, §23, §25 und 27.
 - **KP-11 (Innovation/Daten):** Primär-Validator für §20, §21 und §22 (Daten-Souveränität & Algorithmen).
 - **KP-12 (External):** Primär-Validator für §24 (Veto) und §26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die §13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die 13. Instanz.

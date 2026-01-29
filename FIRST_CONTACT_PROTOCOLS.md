@@ -31,7 +31,7 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 
 **Die Analyse:**
 - **Ablehnung:** Hohes Risiko für Ego-Konflikte. Ungeeignet für die frühe Phase.
-- **Zustimmung:** Hohe kognitive Flexibilität. Perfekt für die §13. Instanz oder kritische Rollen.
+- **Zustimmung:** Hohe kognitive Flexibilität. Perfekt für die 13. Instanz oder kritische Rollen.
 
 ---
 

@@ -1,7 +1,7 @@
 ﻿# Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil §3: Kopf-Domäne)
 
 ## §19 Die totale Transparenz
-- **Technische Spezifikation:** Alle Entscheidungsprotokolle der §12 Anker werden unveränderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
+- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unveränderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
 - **Expertenübersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung für das Vertrauen in die Verwaltung.
 - **Laienverständnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
 
@@ -31,7 +31,7 @@
 - **Laienverständnis:** Wenn du merkst, dass etwas gewaltig schiefläuft, kannst du verlangen, dass das System anhält und alles genau prüft.
 
 ## §25 Die Gleichheit vor der Logik
-- **Technische Spezifikation:** Anker-Mitglieder und die §13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder Bürger.
+- **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder Bürger.
 - **Expertenübersetzung:** Aufhebung der Immunität. Funktionale Rollen gewähren keine rechtlichen Privilegien.
 - **Laienverständnis:** Die Chefs müssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
 

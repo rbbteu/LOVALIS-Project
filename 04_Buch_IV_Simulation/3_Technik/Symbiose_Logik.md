@@ -2,12 +2,12 @@
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
 Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bewusstsein.
-- **Transparenz-Layer (§22):** Jede KI-Entscheidung muss für den Anker Recht (KP-10) und die §13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
+- **Transparenz-Layer (§22):** Jede KI-Entscheidung muss für den Anker Recht (KP-10) und die 13. Instanz in einem 'Audit-Friendly'-Format vorliegen.
 - **Human-in-the-loop:** Kritische Systementscheidungen (besonders solche, die §1-9 betreffen) erfordern eine biologische Bestätigung durch das Plenum oder die Triade.
 - **Automatisierungs-Limit:** Tätigkeiten, die für die menschliche Sinnerfahrung essenziell sind (soziale Pflege, kreative Prozesse), werden nur auf expliziten Wunsch des Clusters automatisiert.
 
 ## II. Expertenübersetzung (Governance-Ebene: *Die dienende Maschine*)
-- **Beseitigung der Algokratie:** Algorithmen schlagen vor, der Mensch verfügt. Die KI fungiert als hocheffizienter Sekretär der §12 Anker, nicht als deren Vorgesetzter.
+- **Beseitigung der Algokratie:** Algorithmen schlagen vor, der Mensch verfügt. Die KI fungiert als hocheffizienter Sekretär der 12 Anker, nicht als deren Vorgesetzter.
 - **Daten-Minimalismus (§20):** Systeme werden so entworfen, dass sie mit einem Minimum an personenbezogenen Daten maximale Vorhersagekraft für Ressourcen-Engpässe erzielen.
 - **Resilienz durch Low-Tech-Backup:** Jeder Cluster muss in der Lage sein, die Grundversorgung (§10-12) für §72 Stunden ohne KI-Unterstützung aufrechtzuerhalten.
 

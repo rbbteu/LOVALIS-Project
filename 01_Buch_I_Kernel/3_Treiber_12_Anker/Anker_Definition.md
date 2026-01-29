@@ -1,4 +1,4 @@
-﻿# Buch I | Kapitel §3: Die §12 Anker (Die System-Säulen)
+﻿# Buch I | Kapitel §3: Die 12 Anker (Die System-Säulen)
 
 ## I. Technische Spezifikation
 - Definition der §12 Sub-Module in den Domänen Herz (Sozial), Hand (Physisch) und Kopf (Logisch).

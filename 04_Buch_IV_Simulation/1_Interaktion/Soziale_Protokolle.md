@@ -8,7 +8,7 @@
 ## II. Expertenübersetzung
 - Transformation von Governance in Moderation: Die Anker als Facilitator.
 - Institutionalisierung der Fehlerkultur durch 'Debugging-Events'.
-- Sicherstellung von Minderheitenschutz durch die §13. Instanz im Konsensprozess.
+- Sicherstellung von Minderheitenschutz durch die 13. Instanz im Konsensprozess.
 
 ## III. Laienverständnis
 - Beispiel 'Veto-Moment': Schnelle, unbürokratische Hilfe bei persönlichen Problemen durch direkte Anker-Kopplung.

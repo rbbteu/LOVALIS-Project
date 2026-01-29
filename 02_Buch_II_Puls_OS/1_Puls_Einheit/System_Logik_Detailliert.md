@@ -11,7 +11,7 @@
 - **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals §10 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
-§1. Erfassung der Energie-Kapazität (Anker Energie).
-§2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
-§3. Verteilung der Basis-Allokation (P_base) an alle §150 Bürger (§10-12).
-§4. Monitoring des Umlaufs und Rückfluss durch Demurrage.
+1. Erfassung der Energie-Kapazität (Anker Energie).
+2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
+3. Verteilung der Basis-Allokation (P_base) an alle 150 Bürger (§10-12).
+4. Monitoring des Umlaufs und Rückfluss durch Demurrage.
