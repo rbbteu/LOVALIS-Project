@@ -52,3 +52,4 @@ Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Masch
 
 ## ⚖️ Lizenz & Nutzung
 Dieses Repository folgt dem **Open-Logic-Prinzip**. Es ist zur Adoption und Modifikation freigegeben, solange das Axiom der Leidminimierung (\{min}\$) gewahrt bleibt.
+| **VII** | **Toolbox** | Praktische Werkzeuge: V-Gate, Grand Tour & Ledger. |

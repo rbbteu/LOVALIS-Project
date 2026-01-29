@@ -50,3 +50,6 @@ Dieses Dokument dient als zentrale Navigationsinstanz für das gesamte hybride G
 **Zertifizierung:** *Vollständig. Logisch geschlossen. Evolutionär offen.*
 *LOVALIS-System-Audit abgeschlossen: 2026-01-29*
 
+
+## 🛠 Buch VII: The Toolbox (Anker-Werkzeuge)
+- 1_Werkzeuge\Toolbox_Logic.md – V-Gate, Grand Tour & Resonance Ledger.
