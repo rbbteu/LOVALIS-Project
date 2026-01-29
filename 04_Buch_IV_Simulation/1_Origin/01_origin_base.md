@@ -1,14 +1,14 @@
-# 01_ORIGIN: BASE LAYER
-**Context:** The Developmental Phase (0-18 Years)
+﻿# §0§1_ORIGIN: BASE LAYER
+**Context:** The Developmental Phase (§§0-§1§8 Years)
 **System Function:** The Automated Safety Net & Cognitive Amplifier
 
 ---
 
 ## I. THE WARD PROTOCOL (Status Definition)
-A biological node between age 0 and 18 is classified as a **"Ward of the System"**.
+A biological node between age §0 and §1§8 is classified as a **"Ward of the System"**.
 * **Sovereignty:** The Ward is a sovereign entity, not the property of the parents (Progenitors).
 * **Resource Guarantee:** The System automatically allocates a "Growth Budget" (Nutrition, Healthcare, Data, Transport) directly to the Ward's ID. This allocation is independent of the parents' wealth.
-* **Bio-Integrity Monitoring:** Passive sensors monitor stress levels and physical health ($T-Check) to prevent neglect or abuse (ï¿½1 Violation).
+* **Bio-Integrity Monitoring:** Passive sensors monitor stress levels and physical health ($T-Check) to prevent neglect or abuse (ï¿½§1 Violation).
 
 ## II. THE NEXUS INTERFACE (Educational Logistics)
 Education is not a place (School), but a **Service**.

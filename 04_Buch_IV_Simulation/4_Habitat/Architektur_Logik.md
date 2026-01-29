@@ -1,19 +1,19 @@
-# Buch IV | Kapitel 4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
+﻿# Buch IV | Kapitel §4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
 
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
 Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
-- **Modul-Standard (ï¿½11):** Wohneinheiten sind modular und erweiterbar. Jeder Bï¿½rger hat Anspruch auf eine Basis-Flï¿½che, die sich an Lebensphasen anpasst (Mitose-Prinzip auf Raumebene).
-- **Energetische Autarkie (ï¿½12/ï¿½18):** Gebï¿½ude sind Kraftwerke. Jede Ã¼berflï¿½che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
-- **Material-Zirkularitï¿½t (ï¿½17):** Verbot von Verbundstoffen, die nicht zerstï¿½rungsfrei getrennt werden kÃ¶nnen. Bauen ist ein temporï¿½res Arrangement von Ressourcen.
+- **Modul-Standard (§§1§1):** Wohneinheiten sind modular und erweiterbar. Jeder Bürger hat Anspruch auf eine Basis-Fläche, die sich an Lebensphasen anpasst (Mitose-Prinzip auf Raumebene).
+- **Energetische Autarkie (§§1§2/§§1§8):** Gebäude sind Kraftwerke. Jede OÜberfläche muss zur Energiegewinnung oder CO§2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
+- **Material-Zirkularität (§§1§7):** Verbot von Verbundstoffen, die nicht zerstörungsfrei getrennt werden können. Bauen ist ein temporäres Arrangement von Ressourcen.
 
-## II. ExpertenÃœbersetzung (Governance-Ebene: *Raum-Psychologie*)
-- **Erhalt der Dunbar-Grenze:** Die Anordnung der Gebï¿½ude erzwingt zufï¿½llige Begegnungen (serendipity), um die soziale Kohï¿½renz zu stï¿½rken, ohne die Privatsphï¿½re zu verletzen.
-- **Zonierung:** Aufteilung in 'Intim' (Wohnraum), 'Sozial' (Marktplatz/Plenum) und 'Produktiv' (Werkstï¿½tten/Gï¿½rten). Keine monofunktionalen Zonen.
-- **Landschafts-Integration (ï¿½13):** Architektur dient der Heilung des Bodens. Gebï¿½ude werden auf Stelzen oder in bestehende Strukturen integriert, um die Bodenversiegelung gegen Null zu fï¿½hren.
+## II. ExpertenüÜbersetzung (Governance-Ebene: *Raum-Psychologie*)
+- **Erhalt der Dunbar-Grenze:** Die Anordnung der Gebäude erzwingt zufällige Begegnungen (serendipity), um die soziale Kohärenz zu stärken, ohne die Privatsphäre zu verletzen.
+- **Zonierung:** Aufteilung in 'Intim' (Wohnraum), 'Sozial' (Marktplatz/Plenum) und 'Produktiv' (Werkstätten/Gärten). Keine monofunktionalen Zonen.
+- **Landschafts-Integration (§§1§3):** Architektur dient der Heilung des Bodens. Gebäude werden auf Stelzen oder in bestehende Strukturen integriert, um die Bodenversiegelung gegen Null zu führen.
 
-## III. Laienverstï¿½ndnis (Bï¿½rger-Ebene)
+## III. Laienverständnis (Bürger-Ebene)
 - **Das Beispiel des 'Wachsenden Hauses':**
-    - Wenn du eine Familie grï¿½ndest oder ein neues Hobby beginnst, wird dein Wohnraum nicht durch Umzug, sondern durch das Hinzufï¿½gen eines Raum-Moduls erweitert.
+    - Wenn du eine Familie gründest oder ein neues Hobby beginnst, wird dein Wohnraum nicht durch Umzug, sondern durch das Hinzufügen eines Raum-Moduls erweitert.
     - Dein Haus 'atmet' mit dir. Es ist hell, gesund (Schadstofffreiheit) und produziert mehr Energie, als es verbraucht.
-    - Der Garten vor deiner Tï¿½r ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen 149 Nachbarn teilst und gestaltest.
-- **Kernbotschaft:** Wir bauen Nester, keine Kï¿½fige. Dein Zuhause schï¿½tzt dich und die Natur gleichzeitig.
+    - Der Garten vor deiner Tür ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen §1§4§9 Nachbarn teilst und gestaltest.
+- **Kernbotschaft:** Wir bauen Nester, keine Käfige. Dein Zuhause schützt dich und die Natur gleichzeitig.

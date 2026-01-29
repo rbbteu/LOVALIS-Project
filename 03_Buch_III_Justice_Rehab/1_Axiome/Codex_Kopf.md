@@ -1,10 +1,10 @@
-# Buch III | Kopf-Domäne (§19-§27)
+﻿# Buch III | Kopf-Domäne (§§1§9-§§2§7)
 
-## §19 Die totale Transparenz
+## §§1§9 Die totale Transparenz
 Alle Entscheidungsprotokolle müssen öffentlich sein.
 
-## §20 Die Daten-Souveränität
+## §§2§0 Die Daten-Souveränität
 Daten gehören dem Erzeuger. Recht auf 'Digitales Vergessen'.
 
-## §21 Verbot der Verhaltens-Profilierung
+## §§2§1 Verbot der Verhaltens-Profilierung
 Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.

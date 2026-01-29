@@ -1,14 +1,14 @@
-# 04_LEGACY: BASE LAYER
-**Context:** The Elder Phase (65+), Death, and Inheritance
+﻿# §0§4_LEGACY: BASE LAYER
+**Context:** The Elder Phase (§§6§5+), Death, and Inheritance
 **System Function:** Wisdom Retention & Entropy Reset
 
 ---
 
-## I. THE ELDER STATUS (65+ Years)
+## I. THE ELDER STATUS (§§6§5+ Years)
 **Definition:** A Node that has ceased compulsory competitive labor.
 **Privileges:**
 * **The Veto:** Elders serve in the "Senate" (Local or Global). They cannot propose laws, but they can VETO new updates if they violate the Core Axioms.
-* **Mentorship:** Elders are paid in Resonance Points to guide the Youth (Phase 01 & 02).
+* **Mentorship:** Elders are paid in Resonance Points to guide the Youth (Phase §0§1 & §0§2).
 * **Bio-Support:** Unlimited access to life-extension and palliative care (Commons).
 
 ## II. THE OMEGA PROTOCOL (Death & Reset)
@@ -21,4 +21,4 @@
 
 ## III. TERMINAL AUTONOMY
 **Right:** Any Node of sound mind has the right to initiate "Self-Termination" (Euthanasia).
-**Process:** Psychological validation -> 7-day cooling period -> Painless, assisted exit.
+**Process:** Psychological validation -> §7-day cooling period -> Painless, assisted exit.

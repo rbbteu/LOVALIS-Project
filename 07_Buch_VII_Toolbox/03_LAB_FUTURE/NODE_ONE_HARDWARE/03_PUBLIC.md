@@ -1,2 +1,2 @@
-# KIT
-Bill of Materials: Raspberry Pi 4, NVMe SSD, FLIRC Case. Install UmbrelOS.
+﻿# KIT
+Bill of Materials: RaspÜberry Pi §4, NVMe SSD, FLIRC Case. Install UmbrelOS.

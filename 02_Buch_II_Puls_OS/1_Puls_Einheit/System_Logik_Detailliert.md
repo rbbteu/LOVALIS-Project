@@ -1,17 +1,17 @@
-# Buch II | Kapitel 1: Die puls-Kybernetik (Erweiterte Spezifikation)
+﻿# Buch II | Kapitel §1: Die puls-KyÜbernetik (Erweiterte Spezifikation)
 
 ## I. Mathematische Absicherung
-- Kopplung der Geldmenge an regenerative Energie-IntegritÃ¤t (T.ï¿½.E.-Vektor).
-- Implementierung der progressiven Demurrage (ï¿½14 Verbot der Verschwendung/Hortung).
+- Kopplung der Geldmenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
+- Implementierung der progressiven Demurrage (§§1§4 Verbot der Verschwendung/Hortung).
 - Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
 
 ## II. Governance-Koppelung (Die Hand-Anker)
-- **HD-05 & HD-06:** Definieren die physische Basis fÃ¼r die Puls-Emission.
-- **KP-09 (Budget):** Steuert die Multiplikatoren fÃ¼r den Beitrag (Proof of Contribution).
-- **KP-10 (Recht):** Ã¼berwacht, dass die Puls-Allokation niemals ï¿½10 (SouverÃ¤nitÃ¤t) verletzt.
+- **HD-§0§5 & HD-§0§6:** Definieren die physische Basis für die Puls-Emission.
+- **KP-§0§9 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
+- **KP-§1§0 (Recht):** ÜÜberwacht, dass die Puls-Allokation niemals §§1§0 (Souveränität) verletzt.
 
 ## III. Systemischer Workflow
-1. Erfassung der Energie-KapazitÃ¤t (Anker Energie).
-2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
-3. Verteilung der Basis-Allokation (P_base) an alle 150 Bï¿½rger (ï¿½10-12).
-4. Monitoring des Umlaufs und Rï¿½ckfluss durch Demurrage.
+§1. Erfassung der Energie-Kapazität (Anker Energie).
+§2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
+§3. Verteilung der Basis-Allokation (P_base) an alle §1§5§0 Bürger (§§1§0-§1§2).
+§4. Monitoring des Umlaufs und Rückfluss durch Demurrage.

@@ -1,4 +1,4 @@
-# Buch II | Kapitel 1: Die Puls-Einheit
+﻿# Buch II | Kapitel §1: Die Puls-Einheit
 
 ## I. Technische Spezifikation
 - Definition puls: Energetisches Ressourcen-Äquivalent.

@@ -1,10 +1,10 @@
-# Buch IV | Kapitel 6: Das Ludische Prinzip & Soziale Resonanz
+﻿# Buch IV | Kapitel §6: Das Ludische Prinzip & Soziale Resonanz
 
 ## I. Resonanz statt Zwang
-Aktivitï¿½t wird durch soziale Sichtbarkeit belohnt. Das System nutzt das menschliche Bedï¿½rfnis nach Anerkennung und Wirksamkeit als primï¿½ren Antrieb.
+Aktivität wird durch soziale Sichtbarkeit belohnt. Das System nutzt das menschliche Bedürfnis nach Anerkennung und Wirksamkeit als primären Antrieb.
 
 ## II. System-Challenges
 Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige 'Quests'. Dies transformiert notwendige Arbeit in ein kollektives Spiel.
 
-## III. ï¿½konomischer Hebel
-Dynamische Demurrage: Kollektive Passivitï¿½t beschleunigt den Rï¿½ckfluss von Ã¼berschuss-Pulsen in die Allmende, wï¿½hrend Aktivitï¿½t die StabilitÃ¤t privater Ressourcen begï¿½nstigt.
+## III. Ökonomischer Hebel
+Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von ÜÜberschuss-Pulsen in die Allmende, während Aktivität die Stabilität privater Ressourcen begünstigt.

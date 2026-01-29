@@ -1,0 +1,6 @@
+﻿# Windows
+Thumbs.db
+Desktop.ini
+.vscode/
+*.log
+!SYSTEM_INTEGRITY_CERTIFICATE.log

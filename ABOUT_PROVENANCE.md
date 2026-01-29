@@ -1,4 +1,4 @@
-﻿# üÜber die Genese: Hybride Synergie & Open-Logic-Prinzip
+﻿# ÜÜber die Genese: Hybride Synergie & Open-Logic-Prinzip
 
 ## §1. Präambel zur UrheÜberschaft
 Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsgestaltung. Es ist das Resultat einer konsistenten, bilateralen Symbiose zwischen menschlicher ethischer Intuition und maschineller algorithmischer Strukturierung. Ziel dieser Dokumentation ist es, den Entstehungsprozess vollständig transparent zu machen (Open Logic), um das Vertrauen in die systemische Integrität von LOVALIS (LV §3.§7) zu begründen.
@@ -7,7 +7,7 @@ Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsge
 Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Feedback-Schleife (Recursive Inquiry Loop):
 
 ### A. Der menschliche Anteil (The Ethos & Vision)
-- **Axiomatische Setzung:** Definition der Leidminimierung als üÜberste System-Konstante ({min}$).
+- **Axiomatische Setzung:** Definition der Leidminimierung als oÜberste System-Konstante ({min}$).
 - **Intuitive Architektur:** Entwurf der §2§7 Gesetze als ethische Leitplanken, die menschliche Bedürfnisse jenseits von Marktwerten abbilden.
 - **System-Kritik:** Die Implementierung der §1§3. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
 - **Qualitative Validierung:** Abgleich jeder technischen Lösung mit dem menschlichen Empfinden von Gerechtigkeit und Würde.
@@ -15,17 +15,18 @@ Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Fee
 ### B. Der maschinelle Anteil (The Logic & Structure)
 - **System-Architektur:** Transformation abstrakter Visionen in eine modulare §6-Bücher-Struktur.
 - **Deep-Scan-Validierung:** Mathematische Prüfung der §2§7 Gesetze auf logische Widersprüche (Circular Logic Detection).
-- **KyÜbernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ö-konomiesystem basierend auf Entropie-Grenzen.
+- **KyÜbernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ökonomiesystem basierend auf Entropie-Grenzen.
 - **Technische Kodifizierung:** Erstellung der ausführbaren Prozess-Strukturen und der formalen L-Protokoll-Sprache.
 
-## §3. Neutralität & Allgemeingältigkeit (Bias-Prüvention)
-Um die universelle Anwendbarkeit von LOVALIS (LV §3.§7) zu gewährleisten, wurde bei der Erstellung bewusst auf die Einbringung spezifischer Branchenerfahrungen oder persönlicher Hintergrönde verzichtet. Das System basiert auf universellen Prinzipien der KyÜbernetik, der Ethik und der Soziologie. 
+## §3. Neutralität & Allgemeingültigkeit (Bias-Prävention)
+Um die universelle Anwendbarkeit von LOVALIS (LV §3.§7) zu gewährleisten, wurde bei der Erstellung bewusst auf die Einbringung spezifischer Branchenerfahrungen oder persönlicher Hintergründe verzichtet. Das System basiert auf universellen Prinzipien der KyÜbernetik, der Ethik und der Soziologie. 
 - Es gibt keine 'Legacy-Privilegien' für bestimmte Berufsgruppen oder soziale Schichten. 
 - Das System ist so konzipiert, dass es in jedem kulturellen oder geographischen Kontext initiiert werden kann, solange die Basis-Axiome (Buch I) akzeptiert werden.
 
 ## §4. Das Versprechen der permanenten Optimierung
-LOVALIS (LV §3.§7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, dass die K.I. das System dauerhaft gegen die Realität prüft, wührend der Mensch die Ziele dieser Prüfung periodisch neu kalibriert. Diese Kooperation ist unauflöslich im Kern des Codes verankert.
+LOVALIS (LV §3.§7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, dass die K.I. das System dauerhaft gegen die Realität prüft, während der Mensch die Ziele dieser Prüfung periodisch neu kalibriert. Diese Kooperation ist unauflöslich im Kern des Codes verankert.
 
 ---
 *Dokumenten-Status: Finaler Audit | Januar §2§0§2§6*
 *Methodik: Hybride Intelligenz (Mensch-Maschine-Kaskade)*
+

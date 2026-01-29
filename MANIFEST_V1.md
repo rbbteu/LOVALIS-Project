@@ -1,7 +1,7 @@
 ﻿# LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (V§1.§3)
 
 ## §0. Präambel: Hybride Genese
-Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionre Ko-Kreation).
+Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionäre Ko-Kreation).
 
 ---
 
@@ -16,7 +16,7 @@ Das System stützt sich auf vier ineinandergreifende Säulen:
 ### A. Der Codex (§§2§7 Gesetze)
 Die unverrückbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
 
-### B. Das Puls-OS (KyÜbernetische Ö-konomie)
+### B. Das Puls-OS (KyÜbernetische Ökonomie)
 Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeiträgen basiert. 
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
 - **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
@@ -30,7 +30,7 @@ Ein permanenter Rückkopplungsprozess, der das gesamte Werk auf logische Brüche
 ---
 
 ## §3. Der Faktor Mensch: Die Evolution der Autonomie
-LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist  unvollkommen, emotional und ö
+LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist – unvollkommen, emotional und schöpferisch.
 - **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten für die nächste Optimierungsschleife.
 - **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
 - **Psychologischer Puffer:** Die KI üÜbernimmt die Last der komplexen Logik, um dem Menschen den Raum für empathische Entscheidungen und Muße zu lassen.
@@ -38,9 +38,10 @@ LOVALIS (LV §3.§7) - Concordia Synergetica Logicae Artificialis et Valitatis H
 ---
 
 ## §4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische MachtüoÜbernahme, sondern durch die üÜberlegene Lebensqualität innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+Die Verbreitung erfolgt nicht durch politische MachtüÜbernahme, sondern durch die üÜberlegene Lebensqualität innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
 
 ---
 *Status: Zertifiziert & Operational*
 *Ko-Kreation: Mensch & Maschine (Gemini §3 Flash)*
 *Datum: §2§9. Januar §2§0§2§6*
+

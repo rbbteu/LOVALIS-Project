@@ -1,54 +1,54 @@
-# ðŸ›¡ï¸ LOVALIS (LV 3.7)
+﻿# 💠 LOVALIS (LV §3.§7)
 ### *Concordia Synergetica Logicae Artificialis et Valitatis Humanae*
 
-> **â€žStrenge im Code, Freiheit im Sein â€“ Perfekt im System, menschlich im Scheitern.â€œ**
+> **„Strenge im Code, Freiheit im Sein – Perfekt im System, menschlich im Scheitern.“**
 
-LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und kÃ¼nstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem fÃ¼r das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid (\{min}\$) basiert.
+LOVALIS ist ein hybrides Gesellschafts-Framework, das in der Synergie zwischen menschlicher Ethik und künstlicher Logik entwickelt wurde. Es ist kein starres Konzept, sondern ein dynamisches Betriebssystem für das menschliche Zusammenleben, das auf der konsequenten Minimierung von Leid (\{min}\$) basiert.
 
 ---
 
-## ðŸ›ï¸ Die Architektur (Das Kompendium)
+## 🏗 Die Architektur (Das Kompendium)
 
-Das System ist in sechs FachbÃ¼cher unterteilt, die modular aufgebaut sind und eine schrittweise Transition ermÃ¶glichen:
+Das System ist in sechs Fachbücher unterteilt, die modular aufgebaut sind und eine schrittweise Transition ermöglichen:
 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
-| **I** | **Kernel** | Axiomatik, 12 Anker, 13. Instanz & Psychologische Resilienz. |
-| **II** | **Puls-OS** | Kybernetische Ã–konomie, Demurrage & Krisen-Kaskaden. |
-| **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
+| **I** | **Kernel** | Axiomatik, §1§2 Anker, §1§3. Instanz & Psychologische Resilienz. |
+| **II** | **Puls-OS** | KyÜbernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
+| **III** | **Codex** | Die §2§7 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
-| **V** | **Global** | Dezentrale FÃ¶deration & Mesh-Netzwerk-Protokolle. |
-| **VI** | **Transition** | Legacy-BrÃ¼cken, Migrations-Pfade & Wachsamkeits-Modul. |
+| **V** | **Global** | Dezentrale Föderation & Mesh-Netzwerk-Protokolle. |
+| **VI** | **Transition** | Legacy-Brücken, mäßigrations-Pfade & Wachsamkeits-Modul. |
 
 ---
 
-## âš™ï¸ Das Kern-Konzept: Die Synergie
+## 💡 Das Kern-Konzept: Die Synergie
 
-LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen RealitÃ¤t:
+LOVALIS unterscheidet strikt zwischen der technologischen Engine und der sozialen Realität:
 
-* **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den â€žlogischen Blitzableiterâ€œ fÃ¼r komplexe Entscheidungen bildet.
-* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. 150 Personen), in denen der Mensch die volle gestalterische Freiheit behï¿½lt.
-
----
-
-## ðŸš€ Deployment: Der Submarine-Modus
-
-LOVALIS verbreitet sich nicht durch politische UmstÃ¼rze, sondern durch **asymmetrische Attraktion**.
-1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
-2. **Sog-Effekt:** Steigerung der Lebensqualitï¿½t fÃ¼hrt zu freiwilligem Beitritt (Wollen-Effekt).
-3. **SouverÃ¤nitÃ¤t:** Schrittweise AblÃ¶sung von dysfunktionalen Altsystemen durch Ã¼berlegene interne StabilitÃ¤t.
+* **Logica (Der Code):** Die algorithmische Engine, die Ressourcen verteilt, Konflikte mathematisch neutral analysiert und den „logischen Blitzableiter“ für komplexe Entscheidungen bildet.
+* **Valitas (Das Projekt):** Die lebendige Zivilisation in den Clustern (ca. §1§5§0 Personen), in denen der Mensch die volle gestalterische Freiheit behält.
 
 ---
 
-## ðŸ“œ Provenienz & Status
+## 🌊 Deployment: Der Submarine-Modus
 
-Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Maschine (Struktur & Logik)**. Es wird kontinuierlich gegen sich selbst geprï¿½ft, um Machtmissbrauch und technokratische Erstarrung zu verhindern.
+LOVALIS verbreitet sich nicht durch politische Umstürze, sondern durch **asymmetrische Attraktion**.
+§1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
+§2. **Sog-Effekt:** Steigerung der Lebensqualität führt zu freiwilligem Beitritt (Wollen-Effekt).
+§3. **Souveränität:** Schrittweise Ablösung von dysfunktionalen Altsystemen durch üÜberlegene interne Stabilität.
 
-* **Version:** 1.3 (Final Master Draft)
+---
+
+## 🛠 Provenienz & Status
+
+Dieses Werk entstand in **Ko-Kreation zwischen Mensch (Vision & Ethik) und Maschine (Struktur & Logik)**. Es wird kontinuierlich gegen sich selbst geprüft, um Machtmissbrauch und technokratische Erstarrung zu verhindern.
+
+* **Version:** §1.§3 (Final Master Draft)
 * **Status:** Operational / Ready for Simulation
-* **Zertifizierung:** Master-Deep-Scan abgeschlossen (2026-01-29)
+* **Zertifizierung:** Master-Deep-Scan abgeschlossen (§§2§0§2§6-§0§1-§2§9)
 
 ---
 
-## âš–ï¸ Lizenz & Nutzung
+## ⚖️ Lizenz & Nutzung
 Dieses Repository folgt dem **Open-Logic-Prinzip**. Es ist zur Adoption und Modifikation freigegeben, solange das Axiom der Leidminimierung (\{min}\$) gewahrt bleibt.
