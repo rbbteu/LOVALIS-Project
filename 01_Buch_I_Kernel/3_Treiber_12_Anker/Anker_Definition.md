@@ -6,7 +6,7 @@
 
 ## II. Experten�bersetzung
 - Spezialisierung statt Hierarchie. Die Anker verwalten Wissen, keine Menschen.
-- Zwang zur Kooperation: Jede �nderung triggert den T.�.E.-Check der Nachbar-Anker.
+- Zwang zur Kooperation: Jede Änderung triggert den T.�.E.-Check der Nachbar-Anker.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Schiffscrew': 12 Experten sorgen daf�r, dass Technik, Vorr�te und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.

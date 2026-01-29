@@ -7,7 +7,7 @@
 
 ## II. Experten�bersetzung
 - Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
-- Transparenzgebot: Alle Scan-Ergebnisse sind �ffentlich und unver�nderlich (Audit-Log).
+- Transparenzgebot: Alle Scan-Ergebnisse sind öffentlich und unver�nderlich (Audit-Log).
 
 ## III. Laienverst�ndnis
 - Beispiel 'Wunder-D�nger': Das System stoppt sch�dliche Neuerungen automatisch, sobald erste negative Signale auftreten, und kehrt zum sicheren Zustand zur�ck.

@@ -2,7 +2,7 @@
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei �berschreitung der Kapazit�t.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazit�t.
 
 ## II. Experten�bersetzung
 - **Anti-Anonymit�ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.

@@ -6,7 +6,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 ---
 
 ## ❓ Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
-**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du aber keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, aber f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
+**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du über keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, über f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
 
 **Die Analyse:**
 - **Sucht nach Sicherheit:** Erfordert engere Begleitung durch den 'Psychologischen Puffer'.
@@ -27,7 +27,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ## ❓ Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
 **Die Frage:**
-> "K�nntest du mit einer Wahrheit leben, die deinen eigenen �berzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
+> "K�nntest du mit einer Wahrheit leben, die deinen eigenen überzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
 
 **Die Analyse:**
 - **Ablehnung:** Hohes Risiko f�r Ego-Konflikte. Ungeeignet f�r die fr�he Phase.

@@ -16,10 +16,10 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 - **HD-08 (Infrastruktur/Space):** Prim�r-Validator f�r �15 (Werkzeug), �16 (Mobilit�t) und �17 (Wartbarkeit).
 
 ### Dom�ne KOPF (W�chter der Logik)
-- **KP-09 (Budget/Puls):** �berwachung der Puls-Fl�sse nach Buch II.
+- **KP-09 (Budget/Puls):** überwachung der Puls-Fl�sse nach Buch II.
 - **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten �19, �23, �25 und �27.
 - **KP-11 (Innovation/Daten):** Prim�r-Validator f�r �20, �21 und �22 (Daten-Souver�nit�t & Algorithmen).
 - **KP-12 (External):** Prim�r-Validator f�r �24 (Veto) und �26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen �berpr�fung der Anker-Rolle durch die 13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�fung der Anker-Rolle durch die 13. Instanz.

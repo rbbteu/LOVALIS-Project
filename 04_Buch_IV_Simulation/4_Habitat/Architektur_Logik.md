@@ -3,7 +3,7 @@
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
 Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 - **Modul-Standard (�11):** Wohneinheiten sind modular und erweiterbar. Jeder B�rger hat Anspruch auf eine Basis-Fl�che, die sich an Lebensphasen anpasst (Mitose-Prinzip auf Raumebene).
-- **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede Oberfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
+- **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede überfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
 - **Material-Zirkularit�t (�17):** Verbot von Verbundstoffen, die nicht zerst�rungsfrei getrennt werden k�nnen. Bauen ist ein tempor�res Arrangement von Ressourcen.
 
 ## II. Experten�bersetzung (Governance-Ebene: *Raum-Psychologie*)

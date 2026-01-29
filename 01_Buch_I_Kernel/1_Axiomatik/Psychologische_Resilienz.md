@@ -1,7 +1,7 @@
 # Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
-Die KI �bernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
+Die KI übernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
 
 ## II. Fehler-Agnostik
 Ein Fehler ist eine Information. Das System sch�tzt das Individuum vor Schuldzuweisungen, solange die Handlung im Sinne der Leidminimierung (\{min}\$) intendiert war.

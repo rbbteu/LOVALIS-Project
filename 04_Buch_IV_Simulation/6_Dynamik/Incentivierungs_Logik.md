@@ -7,4 +7,4 @@ Aktivit�t wird durch soziale Sichtbarkeit belohnt. Das System nutzt das mensch
 Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige 'Quests'. Dies transformiert notwendige Arbeit in ein kollektives Spiel.
 
 ## III. �konomischer Hebel
-Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von �berschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilit�t privater Ressourcen beg�nstigt.
+Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von überschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilit�t privater Ressourcen beg�nstigt.

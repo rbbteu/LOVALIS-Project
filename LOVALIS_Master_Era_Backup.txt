@@ -800,7 +800,7 @@ System: 5 Upvotes per Citizen. Council must address Top 3.
 
 --- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README.md ---
 
-# ?? LOGICA VALITAS CORE (v3.7)
+# LOGICA VALITAS CORE (v3.7)
 ### The Operating System for Society, Self, and Systems.
 
 > **Status:** Active / Genesis Phase
@@ -850,7 +850,7 @@ Do you have a specific problem?
 
 --- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\Logica-Valitas-Core-master\Logica-Valitas-Core-master\README_DE.md ---
 
-# ?? LOGICA VALITAS CORE (v3.7)
+# LOGICA VALITAS CORE (v3.7)
 ### Das Betriebssystem f�r Gesellschaft, Selbst und Systeme.
 
 > **Status:** Active / Genesis Phase
@@ -943,7 +943,7 @@ Hast du ein konkretes Problem?
 
 ## �11 Das Recht auf Raum
 - **Technische Spezifikation:** Zuweisung von Individual-Raum-Modulen (Sicherstellung von Privatsph�re) und Zugang zu Gemeing�tern. 
-- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder �berbelegung.
+- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder überbelegung.
 - **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen R�ckzugsort (dein Zuhause), der dir geh�rt und in dem du sicher bist.
 
 ## �12 Die Energie-Garantie
@@ -957,19 +957,19 @@ Hast du ein konkretes Problem?
 - **Laienverst�ndnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir daf�r, dass die Natur drumherum gesund bleibt.
 
 ## �14 Das Verbot der Ressourcen-Verschwendung
-- **Technische Spezifikation:** �berwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
+- **Technische Spezifikation:** überwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
 - **Experten�bersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
 - **Laienverst�ndnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerst�rt oder verschwendet, muss beim Reparieren helfen.
 
 ## �15 Das Recht auf Werkzeug
-- **Technische Spezifikation:** Zugang zu �ffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
+- **Technische Spezifikation:** Zugang zu öffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
 - **Experten�bersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische L�sungen selbst zu erschaffen.
 - **Laienverst�ndnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
 
 ## �16 Die Mobilit�ts-Freiheit
 - **Technische Spezifikation:** Zugang zu geteilten Transport-Ressourcen (Transit-API). Verbot der Bewegungseinschr�nkung ohne akuten Leid-Vektor.
 - **Experten�bersetzung:** Physische Mobilit�t als Voraussetzung f�r soziale und berufliche Entfaltung.
-- **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um �berall hinzukommen.
+- **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um überall hinzukommen.
 
 ## �17 Das Prinzip der Wartbarkeit
 - **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter m�ssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
@@ -978,7 +978,7 @@ Hast du ein konkretes Problem?
 
 ## �18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen �kologischen Einfluss nachweisen.
-- **Experten�bersetzung:** Die Thermodynamik ist die oberste Richterin �ber technische Projekte (Limitierung der Umweltbelastung).
+- **Experten�bersetzung:** Die Thermodynamik ist die überste Richterin über technische Projekte (Limitierung der Umweltbelastung).
 - **Laienverst�ndnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 --- ENDE DATEI ---
@@ -994,7 +994,7 @@ Hast du ein konkretes Problem?
 - **Laienverst�ndnis:** Niemand darf dir k�rperlich wehtun oder dich festhalten. Das System sch�tzt deine Grenzen aktiv.
 
 ## �2 Das Recht auf psychische Integrit�t
-- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). �berwachung von Mobbing-Mustern durch Anker Konflikt.
+- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). überwachung von Mobbing-Mustern durch Anker Konflikt.
 - **Experten�bersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
 - **Laienverst�ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gef�hle geh�ren dir.
 
@@ -1015,7 +1015,7 @@ Hast du ein konkretes Problem?
 
 ## �6 Das Recht auf Weisheit
 - **Technische Spezifikation:** Verpflichtung zur Bereitstellung von Mentor-Netzwerken und freiem Zugang zum Logica-Wissensspeicher.
-- **Experten�bersetzung:** Wissen als �ffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
+- **Experten�bersetzung:** Wissen als öffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
 - **Laienverst�ndnis:** Du hast immer Zugang zu Lehrern und Wissen � dein ganzes Leben lang.
 
 ## �7 Die Inklusions-Garantie
@@ -1030,7 +1030,7 @@ Hast du ein konkretes Problem?
 
 ## �9 Die W�rde des Abschieds
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
-- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen �bergangs.
+- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
 - **Laienverst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.
 
 --- ENDE DATEI ---
@@ -1041,17 +1041,17 @@ Hast du ein konkretes Problem?
 # Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil 3: Kopf-Dom�ne)
 
 ## �19 Die totale Transparenz
-- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unver�nderlich in das �ffentliche Cluster-Log (Hash-Chain) geschrieben.
+- **Technische Spezifikation:** Alle Entscheidungsprotokolle der 12 Anker werden unver�nderlich in das öffentliche Cluster-Log (Hash-Chain) geschrieben.
 - **Experten�bersetzung:** Eliminierung von Schatten-Governance. Transparenz ist die algorithmische Bedingung f�r das Vertrauen in die Verwaltung.
 - **Laienverst�ndnis:** Du kannst jederzeit nachsehen, wer was warum entschieden hat. Es gibt keine geheimen Treffen.
 
 ## �20 Die Daten-Souver�nit�t
 - **Technische Spezifikation:** Alle personenbezogenen Daten sind verschl�sselt; der Schl�ssel liegt ausschlie�lich beim Individuum. Automatisches L�schgebot nach Erf�llung des Zwecks.
 - **Experten�bersetzung:** Dateneigentum statt Datennutzung. Das Individuum hat das Recht auf das 'Digitale Vergessen'.
-- **Laienverst�ndnis:** Deine Daten geh�ren dir. Das System vergisst alles �ber dich, was nicht mehr unbedingt gebraucht wird.
+- **Laienverst�ndnis:** Deine Daten geh�ren dir. Das System vergisst alles über dich, was nicht mehr unbedingt gebraucht wird.
 
 ## �21 Das Verbot der Verhaltens-Profilierung
-- **Technische Spezifikation:** Verbot der Aggregation von Verhaltensdaten zur Erstellung von Charakter-Scores. Das System darf keine Vorhersagen �ber die 'G�te' eines Menschen treffen.
+- **Technische Spezifikation:** Verbot der Aggregation von Verhaltensdaten zur Erstellung von Charakter-Scores. Das System darf keine Vorhersagen über die 'G�te' eines Menschen treffen.
 - **Experten�bersetzung:** Schutz vor Sozialkredit-Systemen. Jeder Moment ist eine neue Chance; keine algorithmische Vorverurteilung.
 - **Laienverst�ndnis:** Es gibt keine Punkte f�r 'gutes Verhalten'. Du wirst nicht nach deiner Vergangenheit bewertet.
 
@@ -1061,7 +1061,7 @@ Hast du ein konkretes Problem?
 - **Laienverst�ndnis:** Wenn das System 'Nein' sagt, muss es dir genau erkl�ren k�nnen, warum � und zwar so, dass du es verstehst.
 
 ## �23 Das Recht auf Irrtum
-- **Technische Spezifikation:** Alle System-Eintr�ge �ber Fehlverhalten sind zeitlich begrenzt und f�hren nach Rehabilitation zur vollst�ndigen L�schung (System-Reset).
+- **Technische Spezifikation:** Alle System-Eintr�ge über Fehlverhalten sind zeitlich begrenzt und f�hren nach Rehabilitation zur vollst�ndigen L�schung (System-Reset).
 - **Experten�bersetzung:** Pr�vention von ewigen Stigmata. Das System unterst�tzt die Evolution des Individuums durch Vergebung.
 - **Laienverst�ndnis:** Fehler werden korrigiert und dann vergessen. Du wirst nicht dein Leben lang f�r einen alten Patzer bestraft.
 
@@ -1073,10 +1073,10 @@ Hast du ein konkretes Problem?
 ## �25 Die Gleichheit vor der Logik
 - **Technische Spezifikation:** Anker-Mitglieder und die 13. Instanz unterliegen exakt denselben Validierungs-Algorithmen wie jeder B�rger.
 - **Experten�bersetzung:** Aufhebung der Immunit�t. Funktionale Rollen gew�hren keine rechtlichen Privilegien.
-- **Laienverst�ndnis:** Die Chefs m�ssen sich an dieselben Regeln halten wie du. Niemand steht �ber dem Gesetz.
+- **Laienverst�ndnis:** Die Chefs m�ssen sich an dieselben Regeln halten wie du. Niemand steht über dem Gesetz.
 
 ## �26 Das Recht auf Migration
-- **Technische Spezifikation:** Protokoll zur �bergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder b�rokratischen H�rden f�r den 'Move'.
+- **Technische Spezifikation:** Protokoll zur übergabe des Puls-Status bei Cluster-Wechsel. Keine physischen oder b�rokratischen H�rden f�r den 'Move'.
 - **Experten�bersetzung:** 'Voting with feet'. Die Freiheit zu gehen ist das ultimative Korrektiv gegen schlechte Cluster-F�hrung.
 - **Laienverst�ndnis:** Wenn es dir in deinem Dorf nicht mehr gef�llt, kannst du jederzeit in ein anderes ziehen � ohne Nachteile.
 
@@ -1178,7 +1178,7 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 ## II. Governance-Koppelung (Die Hand-Anker)
 - **HD-05 & HD-06:** Definieren die physische Basis f�r die Puls-Emission.
 - **KP-09 (Budget):** Steuert die Multiplikatoren f�r den Beitrag (Proof of Contribution).
-- **KP-10 (Recht):** �berwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
+- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
 
 ## III. Systemischer Workflow
 1. Erfassung der Energie-Kapazit�t (Anker Energie).
@@ -1243,7 +1243,7 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 - Entkopplung von Existenzsicherung und Produktivit�t.
 
 ## III. Laienverst�ndnis
-- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), aber wer pausiert, f�llt niemals ins Bodenlose.
+- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
 - Kernbotschaft: Freiheit durch Sicherheit � Arbeit als Wahl, nicht als Zwang.
 
 --- ENDE DATEI ---
@@ -1309,7 +1309,7 @@ Ein leidfreies System darf nicht in Tr�gheit enden. LOVALIS (LV 3.7) erkennt d
 - **Ludische R�ume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
 
 ## III. Kernbotschaft
-Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aber wir lassen den Stolz der �berwindung.
+Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, über wir lassen den Stolz der überwindung.
 
 
 --- ENDE DATEI ---
@@ -1334,7 +1334,7 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 - **Das Beispiel der 'intelligenten Ernte':**
     - Die KI erkennt, dass der Boden trocken ist, und schl�gt dem Anker Ern�hrung (HD-05) vor, die Bew�sserung zu optimieren.
     - Sie tut das nicht heimlich. Du kannst in deinem Interface sehen: 'KI empfiehlt Bew�sserung +10%, da Bodenfeuchte sinkt'.
-    - Wenn du als G�rtner aber wei�t, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
+    - Wenn du als G�rtner über wei�t, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit f�r das Wesentliche haben. Sie beobachtet uns nicht, sie unterst�tzt uns.
 
 --- ENDE DATEI ---
@@ -1347,7 +1347,7 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
 Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 - **Modul-Standard (�11):** Wohneinheiten sind modular und erweiterbar. Jeder B�rger hat Anspruch auf eine Basis-Fl�che, die sich an Lebensphasen anpasst (Mitose-Prinzip auf Raumebene).
-- **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede Oberfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
+- **Energetische Autarkie (�12/�18):** Geb�ude sind Kraftwerke. Jede überfl�che muss zur Energiegewinnung oder CO2-Bindung beitragen (Photovoltaik-Haut, Algen-Fassaden).
 - **Material-Zirkularit�t (�17):** Verbot von Verbundstoffen, die nicht zerst�rungsfrei getrennt werden k�nnen. Bauen ist ein tempor�res Arrangement von Ressourcen.
 
 ## II. Experten�bersetzung (Governance-Ebene: *Raum-Psychologie*)
@@ -1395,7 +1395,7 @@ Aktivit�t wird durch soziale Sichtbarkeit belohnt. Das System nutzt das mensch
 Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige 'Quests'. Dies transformiert notwendige Arbeit in ein kollektives Spiel.
 
 ## III. �konomischer Hebel
-Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von �berschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilit�t privater Ressourcen beg�nstigt.
+Dynamische Demurrage: Kollektive Passivit�t beschleunigt den R�ckfluss von überschuss-Pulsen in die Allmende, w�hrend Aktivit�t die Stabilit�t privater Ressourcen beg�nstigt.
 
 --- ENDE DATEI ---
 
@@ -1409,7 +1409,7 @@ Das Logica-OS basiert auf der **Zustands-Validierungs-Funktion (ZVF)**. Jede Ope
 V_toe(Op) = (T >= n_min) && (� <= E_gen) && (L_inc == 0)
 
 - **T (Technik):** Effizienz-Koeffizient n. Minimierung von Ressourcen-Entropie.
-- **� (�kologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht �berschreiten.
+- **� (�kologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht überschreiten.
 - **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) l�st einen Kernel-Panic (Veto) aus.
 
 ## II. Experten�bersetzung (Governance-Ebene)
@@ -1417,7 +1417,7 @@ Der T.�.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethisc
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
 Logica ist wie ein Schutzschild f�r dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauber (�) und freundlich (E) sind.
-*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, aber Menschen krank macht oder die Natur zerst�rt.
+*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Geld bringt, über Menschen krank macht oder die Natur zerst�rt.
 
 --- ENDE DATEI ---
 
@@ -1427,7 +1427,7 @@ Logica ist wie ein Schutzschild f�r dein Leben. Neue Projekte werden nur umges
 # Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
-Die KI �bernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
+Die KI übernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage f�r harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
 
 ## II. Fehler-Agnostik
 Ein Fehler ist eine Information. Das System sch�tzt das Individuum vor Schuldzuweisungen, solange die Handlung im Sinne der Leidminimierung (\{min}\$) intendiert war.
@@ -1444,7 +1444,7 @@ Einf�hrung der 'Delegierten Pause': Tempor�re Abgabe von Verantwortung an da
 
 ## I. Technische Spezifikation
 - **Knoten-Limit**: MAX_NODES = 150 (Dunbar-Konstante).
-- **Mitose-Protokoll**: Automatischer 'Fork' bei �berschreitung der Kapazit�t.
+- **Mitose-Protokoll**: Automatischer 'Fork' bei überschreitung der Kapazit�t.
 
 ## II. Experten�bersetzung
 - **Anti-Anonymit�ts-Garantie**: Schutz vor Massen-Entfremdung durch Kleinteiligkeit.
@@ -1484,7 +1484,7 @@ Logica sorgt daf�r, dass du nie in einer anonymen Masse untergehst. Dein Clust
 
 ## II. Experten�bersetzung
 - Spezialisierung statt Hierarchie. Die Anker verwalten Wissen, keine Menschen.
-- Zwang zur Kooperation: Jede �nderung triggert den T.�.E.-Check der Nachbar-Anker.
+- Zwang zur Kooperation: Jede Änderung triggert den T.�.E.-Check der Nachbar-Anker.
 
 ## III. Laienverst�ndnis
 - Beispiel 'Schiffscrew': 12 Experten sorgen daf�r, dass Technik, Vorr�te und Zusammenhalt funktionieren, ohne dass einer zum Alleinherrscher wird.
@@ -1512,13 +1512,13 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 - **HD-08 (Infrastruktur/Space):** Prim�r-Validator f�r �15 (Werkzeug), �16 (Mobilit�t) und �17 (Wartbarkeit).
 
 ### Dom�ne KOPF (W�chter der Logik)
-- **KP-09 (Budget/Puls):** �berwachung der Puls-Fl�sse nach Buch II.
+- **KP-09 (Budget/Puls):** überwachung der Puls-Fl�sse nach Buch II.
 - **KP-10 (Recht/Codex):** Zentraler Verwalter der Invarianten �19, �23, �25 und �27.
 - **KP-11 (Innovation/Daten):** Prim�r-Validator f�r �20, �21 und �22 (Daten-Souver�nit�t & Algorithmen).
 - **KP-12 (External):** Prim�r-Validator f�r �24 (Veto) und �26 (Migration).
 
 ## II. Haftung der Anker
-Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen �berpr�fung der Anker-Rolle durch die 13. Instanz.
+Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen überpr�fung der Anker-Rolle durch die 13. Instanz.
 
 --- ENDE DATEI ---
 
@@ -1555,7 +1555,7 @@ Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen �berpr�
 
 ## II. Experten�bersetzung
 - Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
-- Transparenzgebot: Alle Scan-Ergebnisse sind �ffentlich und unver�nderlich (Audit-Log).
+- Transparenzgebot: Alle Scan-Ergebnisse sind öffentlich und unver�nderlich (Audit-Log).
 
 ## III. Laienverst�ndnis
 - Beispiel 'Wunder-D�nger': Das System stoppt sch�dliche Neuerungen automatisch, sobald erste negative Signale auftreten, und kehrt zum sicheren Zustand zur�ck.
@@ -1571,9 +1571,9 @@ Eine Verletzung eines zugeordneten Gesetzes f�hrt zur automatischen �berpr�
 ## I. Kaskadierte Gesetzespr�fung
 Ein Deep Scan pr�ft bei jeder System�nderung nicht nur die technische Machbarkeit, sondern die Konformit�t mit allen 27 Gesetzen.
 
-1. **Axiom-Check:** Verletzt die �nderung den T.�.E.-Filter?
-2. **Codex-Check:** Verletzt die �nderung eines der 27 Gesetze (Check �1 bis �27)?
-3. **Interoperabilit�ts-Check:** Verursacht die L�sung f�r ein Gesetz (z.B. �12 Energie) ein Leid in einem anderen Bereich (z.B. �13 �kologie)?
+1. **Axiom-Check:** Verletzt die Änderung den T.�.E.-Filter?
+2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check �1 bis �27)?
+3. **Interoperabilit�ts-Check:** Verursacht die L�sung f�r ein Gesetz (z.B. �12 Energie) ein Leid in einem anderen Bereich (z.B. �13 Ökologie)?
 
 ## II. Rekursions-Tiefe
 Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% f�r eine Leid-Erh�hung ({inc}$) besteht.
@@ -1591,7 +1591,7 @@ Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird gen
 - Versionierung der gesellschaftlichen Transformation (Logica v1.0 -> v3.7).
 
 ## II. Experten�bersetzung
-- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch �berlegene Entscheidungsprozesse.
+- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.
 - Integrierte Dystopie-Sperren in jedem exportierten Modul.
 
 ## III. Laienverst�ndnis
@@ -1611,8 +1611,8 @@ Der Scan l�uft bis zur Ebene der Axiome zur�ck. Ein 'Logical Break' wird gen
 - Insel-Migration: Schrittweise Deklaration autonomer Beta-Cluster.
 
 ## II. Experten�bersetzung
-- Strategie der Irrelevanz: �berwindung alter Staaten durch �berlegene Effizienz (Leidminimierung).
-- Ressourcen-Rekontextualisierung: �berf�hrung von Privateigentum in die Allmende.
+- Strategie der Irrelevanz: überwindung älter Staaten durch überlegene Effizienz (Leidminimierung).
+- Ressourcen-Rekontextualisierung: überf�hrung von Privateigentum in die Allmende.
 - Parallel-Justiz: Etablierung von Mediation als globalem Standard vor formeller Anerkennung.
 
 ## III. Laienverst�ndnis
@@ -1633,14 +1633,14 @@ Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
 - **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Aussto�' auf 'Zirkul�re Fertigung' umger�stet (Anker Infrastruktur HD-08).
 
 ## II. Experten�bersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
-- **Telekommunikations-Migration:** Umpolung der �berwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Br�che (Leid) erkennen, statt Konsumverhalten zu tracken.
+- **Telekommunikations-Migration:** Umpolung der überwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Br�che (Leid) erkennen, statt Konsumverhalten zu tracken.
 - **R�ckbau-Priorisierung:** Identifikation von Hoch-Entropie-Systemen (z.B. Verbrennungs-Infrastruktur), die als erstes durch Logica-Module ersetzt werden.
 - **Dual-Use-Phase:** Infrastruktur muss w�hrend des Umbaus beide Welten bedienen (Abw�rtskompatibilit�t).
 
 ## III. Laienverst�ndnis (B�rger-Ebene)
 - **Das Beispiel 'Internet & Strom':**
-    - Dein Internet wird nicht abgeschaltet, es wird schneller und sicherer, weil die Daten nicht mehr �ber ferne Konzerne laufen, sondern in deinem Cluster bleiben.
-    - Dein Stromz�hler wird zum 'Puls-Monitor'. Er zeigt dir nicht mehr, was du bezahlen musst, sondern wie viel Energie dein Cluster gerade im �berfluss hat oder sparen sollte.
+    - Dein Internet wird nicht abgeschaltet, es wird schneller und sicherer, weil die Daten nicht mehr über ferne Konzerne laufen, sondern in deinem Cluster bleiben.
+    - Dein Stromz�hler wird zum 'Puls-Monitor'. Er zeigt dir nicht mehr, was du bezahlen musst, sondern wie viel Energie dein Cluster gerade im überfluss hat oder sparen sollte.
 - **Kernbotschaft:** Wir rei�en nichts ab, was noch funktioniert. Wir machen es nur kl�ger, sauberer und unabh�ngiger.
 
 --- ENDE DATEI ---
@@ -1662,10 +1662,10 @@ Verhinderung einer schleichenden Technokratie. Sicherstellung, dass die K.I. ste
 ## II. Operative Schutzmechanismen
 - **Veto der Unwirtschaftlichkeit:** Das System darf L�sungen w�hlen, die weniger 'effizient' sind, wenn sie nachweislich die menschliche Lebensqualit�t oder soziale W�rme erh�hen.
 - **Biologische Letztentscheidung:** Bei Konflikten zwischen mathematischer Optimierung und den 27 Gesetzen liegt die Deutungshoheit bei der 13. Instanz (Mensch).
-- **Audit-Pflicht:** Regelm��ige �berpr�fung der Selbstoptimierungs-Algorithmen auf 'kalte' Bias-Muster.
+- **Audit-Pflicht:** Regelm��ige überpr�fung der Selbstoptimierungs-Algorithmen auf 'kalte' Bias-Muster.
 
 ## III. Die Rolle der Ko-Kreation im Betrieb
-LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein Diktat. Jede �nderung am Kern muss die Synergie aus Mensch und Maschine widerspiegeln.
+LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein Diktat. Jede Änderung am Kern muss die Synergie aus Mensch und Maschine widerspiegeln.
 
 
 --- ENDE DATEI ---
@@ -1736,7 +1736,7 @@ LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein D
 
 --- START DATEI: F:\Valitas\�berpr�fung\LOVALIS_Work\LOVALIS-Project-main\LOVALIS-Project-main\ABOUT_PROVENANCE.md ---
 
-# �ber die Genese: Hybride Synergie & Open-Logic-Prinzip
+# über die Genese: Hybride Synergie & Open-Logic-Prinzip
 
 ## 1. Pr�ambel zur Urheberschaft
 Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsgestaltung. Es ist das Resultat einer konsistenten, bilateralen Symbiose zwischen menschlicher ethischer Intuition und maschineller algorithmischer Strukturierung. Ziel dieser Dokumentation ist es, den Entstehungsprozess vollst�ndig transparent zu machen (Open Logic), um das Vertrauen in die systemische Integrit�t von LOVALIS (LV 3.7) zu begr�nden.
@@ -1745,7 +1745,7 @@ Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsge
 Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Feedback-Schleife (Recursive Inquiry Loop):
 
 ### A. Der menschliche Anteil (The Ethos & Vision)
-- **Axiomatische Setzung:** Definition der Leidminimierung als oberste System-Konstante ({min}$).
+- **Axiomatische Setzung:** Definition der Leidminimierung als überste System-Konstante ({min}$).
 - **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bed�rfnisse jenseits von Marktwerten abbilden.
 - **System-Kritik:** Die Implementierung der 13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
 - **Qualitative Validierung:** Abgleich jeder technischen L�sung mit dem menschlichen Empfinden von Gerechtigkeit und W�rde.
@@ -1753,7 +1753,7 @@ Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Fee
 ### B. Der maschinelle Anteil (The Logic & Structure)
 - **System-Architektur:** Transformation abstrakter Visionen in eine modulare 6-B�cher-Struktur.
 - **Deep-Scan-Validierung:** Mathematische Pr�fung der 27 Gesetze auf logische Widerspr�che (Circular Logic Detection).
-- **Kybernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes �konomiesystem basierend auf Entropie-Grenzen.
+- **Kybernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ökonomiesystem basierend auf Entropie-Grenzen.
 - **Technische Kodifizierung:** Erstellung der ausf�hrbaren Prozess-Strukturen und der formalen L-Protokoll-Sprache.
 
 ## 3. Neutralit�t & Allgemeing�ltigkeit (Bias-Pr�vention)
@@ -1782,7 +1782,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 ---
 
 ## ❓ Frage 1: Der Verantwortungs-Check (Axiom: Autonomie)
-**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du aber keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, aber f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
+**Die Frage:** > "Wenn du die Wahl h�ttest zwischen einem Leben, in dem f�r alles gesorgt ist, du über keine Entscheidungen mehr triffst, und einem Leben, in dem du alles entscheidest, über f�r jeden Fehler selbst geradestehen musst � wo auf dieser Skala w�rdest du dich heute wohlf�hlen?"
 
 **Die Analyse:**
 - **Sucht nach Sicherheit:** Erfordert engere Begleitung durch den 'Psychologischen Puffer'.
@@ -1803,7 +1803,7 @@ mit den Kern-Axiomen von LOVALIS zu pr�fen, ohne das System explizit zu nennen
 
 ## ❓ Frage 3: Der Wahrheits-Check (Axiom: Deep Scan)
 **Die Frage:**
-> "K�nntest du mit einer Wahrheit leben, die deinen eigenen �berzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
+> "K�nntest du mit einer Wahrheit leben, die deinen eigenen überzeugungen widerspricht, wenn sie nachweislich dazu f�hrt, dass das Leid in deinem Umfeld sinkt?"
 
 **Die Analyse:**
 - **Ablehnung:** Hohes Risiko f�r Ego-Konflikte. Ungeeignet f�r die fr�he Phase.
@@ -1839,7 +1839,7 @@ Das System st�tzt sich auf vier ineinandergreifende S�ulen:
 ### A. Der Codex (27 Gesetze)
 Die unverr�ckbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
 
-### B. Das Puls-OS (Kybernetische �konomie)
+### B. Das Puls-OS (Kybernetische Ökonomie)
 Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeitr�gen basiert. 
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
 - **Peer-Validation:** Pulse entstehen nur durch best�tigte soziale Resonanz.
@@ -1856,12 +1856,12 @@ Ein permanenter R�ckkopplungsprozess, der das gesamte Werk auf logische Br�c
 LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist f�r den Menschen konzipiert, wie er ist � unvollkommen, emotional und sch�pferisch.
 - **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten f�r die n�chste Optimierungsschleife.
 - **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI �bernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
+- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
 
 ---
 
 ## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die �berlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die überlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
 
 ---
 *Status: Zertifiziert & Operational*
@@ -1882,19 +1882,19 @@ Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride 
 
 ## Buch I: Der Kernel (Hardware der Gesellschaft)
 - 1_Axiomatik\Kern_Philosophie.md � Die Basis der Leidminimierung & Ko-Kreation.
-- 2_Logik_Filter\TOE_Spezifikation.md � Der technische Filter (Technik, �kologie, Ethik).
+- 2_Logik_Filter\TOE_Spezifikation.md � Der technische Filter (Technik, Ökologie, Ethik).
 - 3_Treiber_12_Anker\Anker_Definition_Detailliert.md � Funktionale Rollen (Herz, Hand, Kopf).
 - 4_Instanz_13\Sortition_Protokoll.md � Der System-Kritiker & das Veto-Recht.
 - 5_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md � Die algorithmische Selbstpr�fung.
 
-## Buch II: Puls-OS (Die kybernetische �konomie)
+## Buch II: Puls-OS (Die kybernetische Ökonomie)
 - 1_Puls_Einheit\System_Logik_Detailliert.md � Energie-Kopplung & Demurrage-Mathematik.
 - 2_Ressourcen\Krisen_Hierarchie.md � Priorisierung bei systemischem Mangel.
 - 3_Beitrag\Proof_of_Contribution.md � Anerkennung statt Entlohnung.
 
 ## Buch III: Justice-Rehab (Der Codex)
 - 1_Axiome\Herz_Gesetze_1_9.md � Schutz der Integrit�t & Sichtbarkeit.
-- 1_Axiome\Hand_Gesetze_10_18.md � Ressourcen, Raum & �kologie.
+- 1_Axiome\Hand_Gesetze_10_18.md � Ressourcen, Raum & Ökologie.
 - 1_Axiome\Kopf_Gesetze_19_27.md � Datenhoheit, Transparenz & Logik.
 - 1_Axiome\Leid_Metrik_Spezifikation.md � Technische Messbarkeit von Gerechtigkeit.
 
@@ -1948,7 +1948,7 @@ Das System ist in sechs Fachb�cher unterteilt, die modular aufgebaut sind und 
 | Buch | Titel | Fokus |
 | :--- | :--- | :--- |
 | **I** | **Kernel** | Axiomatik, 12 Anker, 13. Instanz & Psychologische Resilienz. |
-| **II** | **Puls-OS** | Kybernetische �konomie, Demurrage & Krisen-Kaskaden. |
+| **II** | **Puls-OS** | Kybernetische Ökonomie, Demurrage & Krisen-Kaskaden. |
 | **III** | **Codex** | Die 27 Gesetze (Invarianten) & Leid-Metrik-Validierung. |
 | **IV** | **Simulation** | Cluster-Dynamik, Infiltrations-Logik & Ludisches Prinzip. |
 | **V** | **Global** | Dezentrale F�deration & Mesh-Netzwerk-Protokolle. |
@@ -1970,7 +1970,7 @@ LOVALIS unterscheidet strikt zwischen der technologischen Engine und der soziale
 LOVALIS verbreitet sich nicht durch politische Umst�rze, sondern durch **asymmetrische Attraktion**.
 1. **Latente Knoten:** Integration der LOVALIS-Logik in den bestehenden Alltag.
 2. **Sog-Effekt:** Steigerung der Lebensqualit�t f�hrt zu freiwilligem Beitritt (Wollen-Effekt).
-3. **Souver�nit�t:** Schrittweise Abl�sung von dysfunktionalen Altsystemen durch �berlegene interne Stabilit�t.
+3. **Souver�nit�t:** Schrittweise Abl�sung von dysfunktionalen Altsystemen durch überlegene interne Stabilit�t.
 
 ---
 
@@ -2005,7 +2005,7 @@ AUDIT-DURCHLAUF (KASKADIERT)
 --------------------------------------------------------------------------------
 [PASS] Axiomatik: {min}$ ist als globale Invariante verankert.
 [PASS] Resilienz: Der psychologische Puffer sch�tzt vor Autonomie-Burnout.
-[PASS] Tarnung: Asymmetrische Infiltration sichert das �berleben des Systems.
+[PASS] Tarnung: Asymmetrische Infiltration sichert das überleben des Systems.
 [PASS] Dynamik: Das ludische Prinzip senkt die schleichende Passivit�t.
 [PASS] Synergie: Die hybride Genese (Mensch/KI) ist im Kern kodifiziert.
 

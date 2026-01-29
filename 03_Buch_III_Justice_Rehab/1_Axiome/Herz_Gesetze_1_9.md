@@ -6,7 +6,7 @@
 - **Laienverst�ndnis:** Niemand darf dir k�rperlich wehtun oder dich festhalten. Das System sch�tzt deine Grenzen aktiv.
 
 ## �2 Das Recht auf psychische Integrit�t
-- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). �berwachung von Mobbing-Mustern durch Anker Konflikt.
+- **Technische Spezifikation:** Verbot neuronaler/emotionaler Manipulation (Gaslighting, algorithmischer Stress). überwachung von Mobbing-Mustern durch Anker Konflikt.
 - **Experten�bersetzung:** Psychische Gewalt wird rechtlich der physischen gleichgestellt. Fokus auf pr�ventive Mediations-Protokolle.
 - **Laienverst�ndnis:** Du hast das Recht auf Seelenfrieden. Mobbing wird im Keim erstickt; deine Gef�hle geh�ren dir.
 
@@ -27,7 +27,7 @@
 
 ## �6 Das Recht auf Weisheit
 - **Technische Spezifikation:** Verpflichtung zur Bereitstellung von Mentor-Netzwerken und freiem Zugang zum Logica-Wissensspeicher.
-- **Experten�bersetzung:** Wissen als �ffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
+- **Experten�bersetzung:** Wissen als öffentliche Infrastruktur. F�rderung des generations�bergreifenden Erfahrungstransfers.
 - **Laienverst�ndnis:** Du hast immer Zugang zu Lehrern und Wissen � dein ganzes Leben lang.
 
 ## �7 Die Inklusions-Garantie
@@ -42,5 +42,5 @@
 
 ## �9 Die W�rde des Abschieds
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
-- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen �bergangs.
+- **Experten�bersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, w�rdevollen übergangs.
 - **Laienverst�ndnis:** Auch am Ende deines Weges l�sst dich das System nicht allein und respektiert deine Entscheidung.

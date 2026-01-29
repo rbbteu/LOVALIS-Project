@@ -6,19 +6,19 @@ Dieses Dokument dient als zentrale Navigationsinstanz f�r das gesamte hybride 
 
 ## Buch I: Der Kernel (Hardware der Gesellschaft)
 - 1_Axiomatik\Kern_Philosophie.md � Die Basis der Leidminimierung & Ko-Kreation.
-- 2_Logik_Filter\TOE_Spezifikation.md � Der technische Filter (Technik, �kologie, Ethik).
+- 2_Logik_Filter\TOE_Spezifikation.md � Der technische Filter (Technik, Ökologie, Ethik).
 - 3_Treiber_12_Anker\Anker_Definition_Detailliert.md � Funktionale Rollen (Herz, Hand, Kopf).
 - 4_Instanz_13\Sortition_Protokoll.md � Der System-Kritiker & das Veto-Recht.
 - 5_Deep_Scan_Algorithmus\Scan_Protokoll_Erweitert.md � Die algorithmische Selbstpr�fung.
 
-## Buch II: Puls-OS (Die kybernetische �konomie)
+## Buch II: Puls-OS (Die kybernetische Ökonomie)
 - 1_Puls_Einheit\System_Logik_Detailliert.md � Energie-Kopplung & Demurrage-Mathematik.
 - 2_Ressourcen\Krisen_Hierarchie.md � Priorisierung bei systemischem Mangel.
 - 3_Beitrag\Proof_of_Contribution.md � Anerkennung statt Entlohnung.
 
 ## Buch III: Justice-Rehab (Der Codex)
 - 1_Axiome\Herz_Gesetze_1_9.md � Schutz der Integrit�t & Sichtbarkeit.
-- 1_Axiome\Hand_Gesetze_10_18.md � Ressourcen, Raum & �kologie.
+- 1_Axiome\Hand_Gesetze_10_18.md � Ressourcen, Raum & Ökologie.
 - 1_Axiome\Kopf_Gesetze_19_27.md � Datenhoheit, Transparenz & Logik.
 - 1_Axiome\Leid_Metrik_Spezifikation.md � Technische Messbarkeit von Gerechtigkeit.
 

@@ -9,4 +9,4 @@ Ein leidfreies System darf nicht in Tr�gheit enden. LOVALIS (LV 3.7) erkennt d
 - **Ludische R�ume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
 
 ## III. Kernbotschaft
-Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aber wir lassen den Stolz der �berwindung.
+Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, über wir lassen den Stolz der überwindung.

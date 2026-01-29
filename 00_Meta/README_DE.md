@@ -1,4 +1,4 @@
-# ?? LOGICA VALITAS CORE (v3.7)
+# LOGICA VALITAS CORE (v3.7)
 ### Das Betriebssystem f�r Gesellschaft, Selbst und Systeme.
 
 > **Status:** Active / Genesis Phase

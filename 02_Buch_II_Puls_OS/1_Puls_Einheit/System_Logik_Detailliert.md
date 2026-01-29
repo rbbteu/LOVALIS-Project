@@ -8,7 +8,7 @@
 ## II. Governance-Koppelung (Die Hand-Anker)
 - **HD-05 & HD-06:** Definieren die physische Basis f�r die Puls-Emission.
 - **KP-09 (Budget):** Steuert die Multiplikatoren f�r den Beitrag (Proof of Contribution).
-- **KP-10 (Recht):** �berwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
+- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals �10 (Souver�nit�t) verletzt.
 
 ## III. Systemischer Workflow
 1. Erfassung der Energie-Kapazit�t (Anker Energie).

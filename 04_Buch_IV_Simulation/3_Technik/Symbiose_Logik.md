@@ -15,5 +15,5 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 - **Das Beispiel der 'intelligenten Ernte':**
     - Die KI erkennt, dass der Boden trocken ist, und schl�gt dem Anker Ern�hrung (HD-05) vor, die Bew�sserung zu optimieren.
     - Sie tut das nicht heimlich. Du kannst in deinem Interface sehen: 'KI empfiehlt Bew�sserung +10%, da Bodenfeuchte sinkt'.
-    - Wenn du als G�rtner aber wei�t, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
+    - Wenn du als G�rtner über wei�t, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit f�r das Wesentliche haben. Sie beobachtet uns nicht, sie unterst�tzt uns.

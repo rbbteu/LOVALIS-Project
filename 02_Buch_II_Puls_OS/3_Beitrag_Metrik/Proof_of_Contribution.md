@@ -11,5 +11,5 @@
 - Entkopplung von Existenzsicherung und Produktivit�t.
 
 ## III. Laienverst�ndnis
-- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), aber wer pausiert, f�llt niemals ins Bodenlose.
+- Beispiel 'Der G�rtner': Wer beitr�gt, bekommt mehr M�glichkeiten (Pulse), über wer pausiert, f�llt niemals ins Bodenlose.
 - Kernbotschaft: Freiheit durch Sicherheit � Arbeit als Wahl, nicht als Zwang.

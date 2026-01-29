@@ -6,7 +6,7 @@
 - Versionierung der gesellschaftlichen Transformation (Logica v1.0 -> v3.7).
 
 ## II. Experten�bersetzung
-- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch �berlegene Entscheidungsprozesse.
+- Strategie der 'logischen Infiltration': Transformation bestehender Systeme durch überlegene Entscheidungsprozesse.
 - Integrierte Dystopie-Sperren in jedem exportierten Modul.
 
 ## III. Laienverst�ndnis

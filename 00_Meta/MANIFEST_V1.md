@@ -16,7 +16,7 @@ Das System st�tzt sich auf vier ineinandergreifende S�ulen:
 ### A. Der Codex (27 Gesetze)
 Die unverr�ckbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
 
-### B. Das Puls-OS (Kybernetische �konomie)
+### B. Das Puls-OS (Kybernetische Ökonomie)
 Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeitr�gen basiert. 
 - **Demurrage:** Verhindert Machtakkumulation durch Horten.
 - **Peer-Validation:** Pulse entstehen nur durch best�tigte soziale Resonanz.
@@ -33,12 +33,12 @@ Ein permanenter R�ckkopplungsprozess, der das gesamte Werk auf logische Br�c
 LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist f�r den Menschen konzipiert, wie er ist � unvollkommen, emotional und sch�pferisch.
 - **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten f�r die n�chste Optimierungsschleife.
 - **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI �bernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
+- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum f�r empathische Entscheidungen und Mu�e zu lassen.
 
 ---
 
 ## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die �berlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+Die Verbreitung erfolgt nicht durch politische Macht�bernahme, sondern durch die überlegene Lebensqualit�t innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
 
 ---
 *Status: Zertifiziert & Operational*

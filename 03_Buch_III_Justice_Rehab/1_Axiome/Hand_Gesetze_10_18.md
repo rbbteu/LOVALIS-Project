@@ -7,7 +7,7 @@
 
 ## �11 Das Recht auf Raum
 - **Technische Spezifikation:** Zuweisung von Individual-Raum-Modulen (Sicherstellung von Privatsph�re) und Zugang zu Gemeing�tern. 
-- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder �berbelegung.
+- **Experten�bersetzung:** Territoriale Sicherheit als psychologischer Stabilit�tsfaktor. Verbot von Obdachlosigkeit oder überbelegung.
 - **Laienverst�ndnis:** Du hast ein Anrecht auf einen eigenen R�ckzugsort (dein Zuhause), der dir geh�rt und in dem du sicher bist.
 
 ## �12 Die Energie-Garantie
@@ -21,19 +21,19 @@
 - **Laienverst�ndnis:** Wir nutzen die Erde nur geliehen. Wenn wir etwas bauen, sorgen wir daf�r, dass die Natur drumherum gesund bleibt.
 
 ## �14 Das Verbot der Ressourcen-Verschwendung
-- **Technische Spezifikation:** �berwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
+- **Technische Spezifikation:** überwachung von Stoffkreisl�ufen. Vors�tzliche Entropie-Erh�hung (M�ll ohne Recycling) triggert einen System-Audit.
 - **Experten�bersetzung:** Effizienzgebot zur Sicherung der langfristigen System-Resilienz. Verschwendung sch�digt die Gemeinschafts-Pulse.
 - **Laienverst�ndnis:** Wir werfen nichts weg, was noch wertvoll ist. Wer absichtlich Dinge zerst�rt oder verschwendet, muss beim Reparieren helfen.
 
 ## �15 Das Recht auf Werkzeug
-- **Technische Spezifikation:** Zugang zu �ffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
+- **Technische Spezifikation:** Zugang zu öffentlichen Fertigungsst�tten (FabLabs/Werkst�tten). Open-Source-Hardware-Garantie.
 - **Experten�bersetzung:** Demokratisierung der Produktionsmittel. Jedes Individuum muss in der Lage sein, physische L�sungen selbst zu erschaffen.
 - **Laienverst�ndnis:** Du hast Zugriff auf alle Maschinen und Werkzeuge, die du brauchst, um Dinge zu bauen oder zu reparieren.
 
 ## �16 Die Mobilit�ts-Freiheit
 - **Technische Spezifikation:** Zugang zu geteilten Transport-Ressourcen (Transit-API). Verbot der Bewegungseinschr�nkung ohne akuten Leid-Vektor.
 - **Experten�bersetzung:** Physische Mobilit�t als Voraussetzung f�r soziale und berufliche Entfaltung.
-- **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um �berall hinzukommen.
+- **Laienverst�ndnis:** Du kannst dich frei bewegen und die Transportmittel des Systems nutzen, um überall hinzukommen.
 
 ## �17 Das Prinzip der Wartbarkeit
 - **Technische Spezifikation:** Verbot von geplanter Obsoleszenz. Alle G�ter m�ssen modular, dokumentiert und mit Standard-Werkzeugen reparierbar sein.
@@ -42,5 +42,5 @@
 
 ## �18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen �kologischen Einfluss nachweisen.
-- **Experten�bersetzung:** Die Thermodynamik ist die oberste Richterin �ber technische Projekte (Limitierung der Umweltbelastung).
+- **Experten�bersetzung:** Die Thermodynamik ist die überste Richterin über technische Projekte (Limitierung der Umweltbelastung).
 - **Laienverst�ndnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
