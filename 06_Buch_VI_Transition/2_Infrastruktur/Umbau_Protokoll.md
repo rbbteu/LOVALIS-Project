@@ -1,18 +1,15 @@
-﻿# Buch VI | Kapitel §2: Die Infrastruktur-Transformation (Physikalischer Umbau)
+﻿# 🏗️ STRATEGIE: INFRASTRUKTUR-UMBAU
+## Der Weg zur Autarkie
 
-## I. Technische Spezifikation (System-Ebene: *Infrastructure-Refactoring*)
-Altsysteme werden nach dem Prinzip der 'Kapselung' behandelt.
-- **Mesh-Backbone:** Bestehende Glasfaser- und Mobilfunknetze werden auf das dezentrale Logica-Protokoll umgestellt. Abschaltung zentraler Serverfarmen zugunsten von Cluster-Edge-Computing (§20 Daten-Souveränität).
-- **Energie-Retrofit:** Transformation von Großkraftwerken in dezentrale Speicher-Hubs. Jedes Haus im Cluster wird zum Netzknoten (§12 Energie-Garantie).
-- **Stoffstrom-Umkehr:** Fabriken werden von 'Linearem Ausstoß' auf 'Zirkuläre Fertigung' umgerüstet (Anker Infrastruktur HD-08).
+Ein Cluster ist nur so souverän wie seine Energieversorgung. Solange wir am Tropf externer Versorger hängen, sind wir erpressbar.
 
-## II. Expertenübersetzung (Governance-Ebene: *Das Hardware-Upgrade*)
-- **Telekommunikations-Migration:** Umpolung der überwachungssysteme. Algorithmen werden so modifiziert, dass sie nur noch logische Brüche (Leid) erkennen, statt Konsumverhalten zu tracken.
-- **Rückbau-Priorisierung:** Identifikation von Hoch-Entropie-Systemen (z.B. Verbrennungs-Infrastruktur), die als erstes durch Logica-Module ersetzt werden.
-- **Dual-Use-Phase:** Infrastruktur muss während des Umbaus beide Welten bedienen (Abwärtskompatibilität).
+### Schritt 1: Node One Deployment
+Jeder Bürger erhält/baut einen Node One. Damit entsteht das **Mesh-Netzwerk**. Kommunikation ist nun zensurresistent und lokal.
 
-## III. Laienverständnis (Bürger-Ebene)
-- **Das Beispiel 'Internet & Strom':**
-    - Dein Internet wird nicht abgeschaltet, es wird schneller und sicherer, weil die Daten nicht mehr über ferne Konzerne laufen, sondern in deinem Cluster bleiben.
-    - Dein Stromzähler wird zum 'Puls-Monitor'. Er zeigt dir nicht mehr, was du bezahlen musst, sondern wie viel Energie dein Cluster gerade im überfluss hat oder sparen sollte.
-- **Kernbotschaft:** Wir reißen nichts ab, was noch funktioniert. Wir machen es nur klüger, sauüberer und unabhängiger.
+### Schritt 2: Der Energie-Ring
+Aufbau lokaler Micro-Grids (Solar, Wind, Biomasse).
+- **Ziel:** 120% Deckung des Grundbedarfs.
+- **Überschuss:** Wird genutzt, um "Puls" zu schürfen (Energy-Cap Deckung) oder an das Legacy-Netz verkauft, um Fiat-Währung für Steuern zu generieren.
+
+### Schritt 3: Food Sovereignty (Hand-Domäne)
+Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstversorgung (ineffizient), sondern Krisenfestigkeit (Notversorgung für 3 Monate).

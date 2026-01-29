@@ -1,13 +1,13 @@
-﻿# Buch VI | Kapitel §4: Das Wachsamkeits-Modul (Synergie-Integrität)
+﻿# 🛡️ STRATEGIE: WACHSAMKEIT
+## Schutz vor Kontamination
 
-## I. Zweck des Moduls
-Verhinderung einer schleichenden Technokratie. Sicherstellung, dass die K.I. stets das dienende Werkzeug der menschlichen Ethik bleibt.
+Das größte Risiko für LOVALIS ist nicht der Staat, sondern das Einschleppen alter Denkmuster (Gier, Machtdurst) durch neue Mitglieder.
 
-## II. Operative Schutzmechanismen
-- **Veto der Unwirtschaftlichkeit:** Das System darf Lösungen wählen, die weniger 'effizient' sind, wenn sie nachweislich die menschliche Lebensqualität oder soziale Wärme erhöhen.
-- **Biologische Letztentscheidung:** Bei Konflikten zwischen mathematischer Optimierung und den 27 Gesetzen liegt die Deutungshoheit bei der 13. Instanz (Mensch).
-- **Audit-Pflicht:** Regelmäßige überprüfung der Selbstoptimierungs-Algorithmen auf 'kalte' Bias-Muster.
+### Der Quarantäne-Prozess (Onboarding)
+Neue Mitglieder erhalten nicht sofort vollen Schreibzugriff auf das *Liquid Feedback*.
+- **Phase 1 (Gast):** Zugriff auf Versorgung, aber kein Stimmrecht. Teilnahme an "Curiosity Contract" Trainings.
+- **Phase 2 (Anwärter):** Aufbau von *Resonance* durch kleine Aufgaben.
+- **Phase 3 (Bürger):** Volle Souveränität erst, wenn das *V-Gate* verinnerlicht ist und der *Resonance-Score* eine Basis-Schwelle erreicht hat.
 
-## III. Die Rolle der Ko-Kreation im Betrieb
-LOVALIS (LV 3.7) erinnert sich permanent an seine Entstehung: Ein Dialog, kein Diktat. Jede Änderung am Kern muss die Synergie aus Mensch und Maschine widerspiegeln.
-
+### Der Not-Aus (Circuit Breaker)
+Sollte ein Cluster durch interne Machtkämpfe das Axiom der Leidminimierung dauerhaft verletzen, wird er vom globalen Föderations-Netzwerk isoliert (kein Puls-Austausch mehr), bis er sich durch einen *Deep Scan* saniert hat.
