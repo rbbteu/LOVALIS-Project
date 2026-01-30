@@ -1,0 +1,18 @@
+﻿=== LOVALIS CONSISTENCY REPORT ===
+Date: 01/30/2026 09:18:35
+Target: C:\LOVALIS-Kompendium
+==================================
+
+[1. STRUCTURE CHECK - UNKNOWN FILES]
+✅ No structural garbage found.
+
+[2. SEMANTIC CONTENT CHECK]
+⚠️  CONTENT ISSUE: ABOUT_PROVENANCE.md (Line 11)
+    Found forbidden term: 'Entwurf'
+    Context: '- **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bedürfnisse jenseits von Marktwerten abbilden.'
+⚠️  CONTENT ISSUE: ABOUT_PROVENANCE.md (Line 18)
+    Found forbidden term: 'Entwurf'
+    Context: '- **kybernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ökonomiesystem basierend auf Entropie-Grenzen.'
+
+[3. DEAD LINK CHECK]
+✅ No broken links found.

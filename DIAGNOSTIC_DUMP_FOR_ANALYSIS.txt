@@ -1,174 +1,9 @@
-﻿% LOVALIS: DAS KOMPENDIUM
-% Version: 3.7.4 (Gold Master - German Core)
-% Build Date: 2026-01-30 09:27
-% Architecture: Logica Valitas OS
+﻿=== DIAGNOSTIC DUMP: CONTENT ANALYSIS ===
+Date: 01/30/2026 09:20:57
+=========================================
 
-# INHALT
-
-- [VORWORT: DAS MANIFEST](#vorwort-das-manifest)
-- [Buch I Kernel](#buch-i-kernel)
-  - [Axiome](#axiome)
-  - [Psychologische Resilienz](#psychologische-resilienz)
-  - [Topologie](#topologie)
-  - [Anker Definition](#anker-definition)
-  - [Triaden Definition](#triaden-definition)
-  - [Scan Protokoll](#scan-protokoll)
-  - [Transition API](#transition-api)
-- [Buch II Puls OS](#buch-ii-puls-os)
-  - [System Logik](#system-logik)
-  - [Krisen Hierarchie](#krisen-hierarchie)
-  - [InterCluster Austausch](#intercluster-austausch)
-  - [Proof of Contribution](#proof-of-contribution)
-- [Buch III Justice Rehab](#buch-iii-justice-rehab)
-  - [Codex Hand](#codex-hand)
-  - [Codex Herz](#codex-herz)
-  - [Codex Kopf](#codex-kopf)
-  - [Grundrechte](#grundrechte)
-  - [Hand Gesetze 10 18](#hand-gesetze-10-18)
-  - [Herz Gesetze 1 9](#herz-gesetze-1-9)
-  - [Kopf Gesetze 19 27](#kopf-gesetze-19-27)
-  - [Leid Metrik Spezifikation](#leid-metrik-spezifikation)
-  - [Vollstaendiger Codex 27](#vollstaendiger-codex-27)
-  - [Incident Protokoll](#incident-protokoll)
-- [Buch IV Simulation](#buch-iv-simulation)
-  - [Soziale Protokolle](#soziale-protokolle)
-  - [01 origin base](#01-origin-base)
-  - [01 origin logic](#01-origin-logic)
-  - [01 origin public](#01-origin-public)
-  - [Bildungs Logik](#bildungs-logik)
-  - [Entropie Impuls](#entropie-impuls)
-  - [02 motion base](#02-motion-base)
-  - [02 motion logic](#02-motion-logic)
-  - [02 motion public](#02-motion-public)
-  - [03 friction base](#03-friction-base)
-  - [03 friction logic](#03-friction-logic)
-  - [03 friction public](#03-friction-public)
-  - [Symbiose Logik](#symbiose-logik)
-  - [Architektur Logik](#architektur-logik)
-  - [04 legacy base](#04-legacy-base)
-  - [04 legacy logic](#04-legacy-logic)
-  - [04 legacy public](#04-legacy-public)
-  - [Infiltrations Logik](#infiltrations-logik)
-  - [Incentivierungs Logik](#incentivierungs-logik)
-- [Buch V Vernetzung](#buch-v-vernetzung)
-  - [Netzwerk Logik](#netzwerk-logik)
-  - [Krisen Protokolle](#krisen-protokolle)
-  - [Weltraum Logik](#weltraum-logik)
-- [Buch VI Transition](#buch-vi-transition)
-  - [Infiltrations Logik](#infiltrations-logik)
-  - [Migration Protokoll](#migration-protokoll)
-  - [Umbau Protokoll](#umbau-protokoll)
-  - [Wachsamkeits Modul](#wachsamkeits-modul)
-- [Buch VII Toolbox](#buch-vii-toolbox)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [01 BASE](#01-base)
-  - [02 LOGIC](#02-logic)
-  - [03 PUBLIC](#03-public)
-  - [README](#readme)
-- [ANHANG](#anhang-first-contact-protocols)
-
----
-
-# VORWORT: DAS MANIFEST
-# LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (V1.3)
-
-## 0. Präambel: Hybride Genese
-Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionäre Ko-Kreation).
-
----
-
-## 1. Das Axiom: Leidminimierung (\{min}\$)
-Der operative Kern des Systems ist die mathematische und soziale Reduktion von vermeidbarem Leid. Jede Entscheidung innerhalb der Cluster-Struktur wird gegen dieses Axiom validiert. Leid wird hierbei nicht subjektiv, sondern als messbare Stressmetrik (physisch, sozial, logisch) definiert.
-
----
-
-## 2. Die Architektur der Resilienz
-Das System stützt sich auf vier ineinandergreifende Säulen:
-
-### A. Der Codex (27 Gesetze)
-Die unverrückbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
-
-### B. Das Puls-OS (kybernetische Ökonomie)
-Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeiträgen basiert. 
-- **Demurrage:** Verhindert Machtakkumulation durch Horten.
-- **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
-
-### C. Die 13. Instanz (Ombudsschaft)
-Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schützt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
-
-### D. Der Deep Scan (System-Audit)
-Ein permanenter Rückkopplungsprozess, der das gesamte Werk auf logische Brüche und ethische Drift prüft.
-
----
-
-## 3. Der Faktor Mensch: Die Evolution der Autonomie
-LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist – unvollkommen, emotional und schöpferisch.
-- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten für die nächste Optimierungsschleife.
-- **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
-- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum für empathische Entscheidungen und Muße zu lassen.
-
----
-
-## 4. Deployment: Asymmetrische Infiltration
-Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch die überlegene Lebensqualität innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
-
----
-*Status: Zertifiziert & Operational*
-*Ko-Kreation: Mensch & Maschine (Gemini §3 Flash)*
-*Datum: 29. Januar 2026*
-
-
-
----
-
-# Buch I Kernel
-
-## Axiome
-
+### FILE: \01_Buch_I_Kernel\1_Axiomatik\Axiome.md
+--- START CONTENT ---
 # Buch I | Kapitel §1: Die Axiomatik der Vernunft
 
 ## I. Technische Spezifikation (System-Ebene)
@@ -186,11 +21,10 @@ Der T.Ö.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethisch
 Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauüber (Ö) und freundlich (E) sind.
 *Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Puls-Einheiten bringt, aüber Menschen krank macht oder die Natur zerstört.
 
+--- END CONTENT ---
 
----
-
-## Psychologische Resilienz
-
+### FILE: \01_Buch_I_Kernel\1_Axiomatik\Psychologische_Resilienz.md
+--- START CONTENT ---
 # Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
@@ -202,11 +36,10 @@ Ein Fehler ist eine Information. Das System schützt das Individuum vor Schuldzu
 ## III. Schutz vor Entscheidungs-Erschöpfung
 Einführung der 'Delegierten Pause': Temporäre Abgabe von Verantwortung an das logische Gerüst des Systems zur mentalen Regeneration.
 
+--- END CONTENT ---
 
----
-
-## Topologie
-
+### FILE: \01_Buch_I_Kernel\2_Kollektiv_Logik\Topologie.md
+--- START CONTENT ---
 # Buch I | Kapitel §2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
 ## I. Technische Spezifikation (System-Ebene)
@@ -220,11 +53,10 @@ Die Kleinteiligkeit verhindert soziale Anonymität. Die §1:§11 Care-Ratio (§1
 ## III. Laienverständnis (Bürger-Ebene)
 Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluster ist wie ein eng vernetztes Dorf, in dem man sich kennt und hilft. Wird es zu voll, teilt sich die Gemeinschaft wie eine gesunde Zelle in zwei freundschaftliche Nachbarschaften.
 
+--- END CONTENT ---
 
----
-
-## Anker Definition
-
+### FILE: \01_Buch_I_Kernel\3_Treiber_12_Anker\Anker_Definition.md
+--- START CONTENT ---
 # Buch I | Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
@@ -251,11 +83,10 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 ## II. Haftung der Anker
 Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die 13. Instanz.
 
+--- END CONTENT ---
 
----
-
-## Triaden Definition
-
+### FILE: \01_Buch_I_Kernel\4_Security_13_Triade\Triaden_Definition.md
+--- START CONTENT ---
 # Buch I | Kapitel §4: Die 13. Instanz (Die Asynchrone Triade)
 
 ## I. Technische Spezifikation
@@ -272,11 +103,10 @@ Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfu
 - Beispiel 'Die Schiedsrichter': Ein Team aus drei Wächtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
 - Kernbotschaft: Deine Sicherheit vor Willkür durch ständige, unabhängige Kontrolle.
 
+--- END CONTENT ---
 
----
-
-## Scan Protokoll
-
+### FILE: \01_Buch_I_Kernel\5_Deep_Scan_Algorithmus\Scan_Protokoll.md
+--- START CONTENT ---
 # Buch I | Kapitel §5: Der Deep Scan (Erweiterte Logik)
 
 ## I. Kaskadierte Gesetzesprüfung
@@ -289,11 +119,10 @@ Ein Deep Scan prüft bei jeder Systemänderung nicht nur die technische Machbark
 ## II. Rekursions-Tiefe
 Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erhöhung ({inc}$) besteht.
 
+--- END CONTENT ---
 
----
-
-## Transition API
-
+### FILE: \01_Buch_I_Kernel\6_Modularitaet_Transition\Transition_API.md
+--- START CONTENT ---
 # Buch I | Kapitel §6: Modularität & Transition (Die Brücke)
 
 ## I. Technische Spezifikation
@@ -309,13 +138,10 @@ Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird gener
 - Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
 - Kernbotschaft: Veränderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
 
+--- END CONTENT ---
 
----
-
-# Buch II Puls OS
-
-## System Logik
-
+### FILE: \02_Buch_II_Puls_OS\1_Puls_Einheit\System_Logik.md
+--- START CONTENT ---
 # Buch II | Kapitel §1: Die puls-kybernetik (Erweiterte Spezifikation)
 
 ## I. Mathematische Absicherung
@@ -338,11 +164,10 @@ Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird gener
 ---
 ### SYSTEM-INTEGRATION
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+--- END CONTENT ---
 
----
-
-## Krisen Hierarchie
-
+### FILE: \02_Buch_II_Puls_OS\2_Ressourcen\Krisen_Hierarchie.md
+--- START CONTENT ---
 # Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
 
 ## I. Die Unantastbare Basis (Priorität §1)
@@ -362,11 +187,10 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
 
 > **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
+--- END CONTENT ---
 
----
-
-## InterCluster Austausch
-
+### FILE: \02_Buch_II_Puls_OS\2_Transaktions_Logik\InterCluster_Austausch.md
+--- START CONTENT ---
 # Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
 
 ## I. Technische Spezifikation
@@ -387,11 +211,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 ---
 ### SYSTEM-INTEGRATION
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+--- END CONTENT ---
 
----
-
-## Proof of Contribution
-
+### FILE: \02_Buch_II_Puls_OS\3_Beitrag_Metrik\Proof_of_Contribution.md
+--- START CONTENT ---
 # Buch II | Kapitel §3: Beitrag-Metrik (Proof of Contribution)
 
 ## I. Technische Spezifikation
@@ -414,13 +237,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
 
 > **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
+--- END CONTENT ---
 
----
-
-# Buch III Justice Rehab
-
-## Codex Hand
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Codex_Hand.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -434,11 +254,10 @@ Anschluss an das lokale Energienetz ist ein Grundrecht.
 
 ## §17 Das Prinzip der Wartbarkeit
 Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
+--- END CONTENT ---
 
----
-
-## Codex Herz
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Codex_Herz.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -452,11 +271,10 @@ Monitoring der Interaktions-Rate durch Anker Inklusion. Niemand darf vergessen w
 
 ## §5 Der Schutz der Kindheit
 Verbot von Leistungs-Tracking. Kinder lernen spielerisch.
+--- END CONTENT ---
 
----
-
-## Codex Kopf
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Codex_Kopf.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -470,11 +288,10 @@ Daten gehören dem Erzeuger. Recht auf 'Digitales Vergessen'.
 
 ## §21 Verbot der Verhaltens-Profilierung
 Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
+--- END CONTENT ---
 
----
-
-## Grundrechte
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Grundrechte.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -494,11 +311,10 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 - Beispiel 'Fehlerbehebung': Wer Regeln bricht, wird nicht weggesperrt, sondern bekommt Hilfe, den Schaden wiedergutzumachen und die Ursache zu finden.
 - Kernbotschaft: Sicherheit durch Gemeinschaft und Verständnis statt durch Drohung.
 
+--- END CONTENT ---
 
----
-
-## Hand Gesetze 10 18
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Hand_Gesetze_10_18.md
+--- START CONTENT ---
 # Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil §2: Hand-Domäne)
 
 ## §10 Die Ressourcen-Souveränität
@@ -550,11 +366,10 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 ---
 ### VERFASSUNGS-BINDUNG
 Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz** gestoppt werden, sofern eine Verletzung des Axioms der **Leidminimierung** nachgewiesen wird.
+--- END CONTENT ---
 
----
-
-## Herz Gesetze 1 9
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Herz_Gesetze_1_9.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -605,11 +420,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 - **Expertenübersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, würdevollen übergangs.
 - **Laienverständnis:** Auch am Ende deines Weges lässt dich das System nicht allein und respektiert deine Entscheidung.
 
+--- END CONTENT ---
 
----
-
-## Kopf Gesetze 19 27
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Kopf_Gesetze_19_27.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -660,11 +474,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 - **Expertenübersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erfüllen, müssen gelöscht oder angepasst werden.
 - **Laienverständnis:** Einmal im Jahr prüfen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.
 
+--- END CONTENT ---
 
----
-
-## Leid Metrik Spezifikation
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Leid_Metrik_Spezifikation.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -677,11 +490,10 @@ Jedes der 27 Gesetze wird durch folgende Sensoren validiert:
 
 Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines Individuums erhöht, ohne ein nachweislich höheres Leid der Gemeinschaft abzuwenden.
 
+--- END CONTENT ---
 
----
-
-## Vollstaendiger Codex 27
-
+### FILE: \03_Buch_III_Justice_Rehab\1_Axiome\Vollstaendiger_Codex_27.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -702,11 +514,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 *Kernbotschaft: §27 Schutzschilde für deine Freiheit.*
 
+--- END CONTENT ---
 
----
-
-## Incident Protokoll
-
+### FILE: \03_Buch_III_Justice_Rehab\2_Verfahren\Incident_Protokoll.md
+--- START CONTENT ---
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -726,13 +537,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - Beispiel 'Vandalismus': Reparatur der Hardware und Heilung der sozialen Ursache gehen Hand in Hand.
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.
 
+--- END CONTENT ---
 
----
-
-# Buch IV Simulation
-
-## Soziale Protokolle
-
+### FILE: \04_Buch_IV_Simulation\1_Interaktion\Soziale_Protokolle.md
+--- START CONTENT ---
 # Buch IV | Kapitel §1: Die Cluster-Dynamik (Soziale Protokolle)
 
 ## I. Technische Spezifikation
@@ -749,40 +557,88 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 - Beispiel 'Veto-Moment': Schnelle, unbürokratische Hilfe bei persönlichen Problemen durch direkte Anker-Kopplung.
 - Kernbotschaft: Eine Gemeinschaft, die dich sieht, dich hört und sich mit dir entwickelt.
 
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\1_Origin\01_origin_base.md
+--- START CONTENT ---
+# §001_ORIGIN: BASE LAYER
+**Context:** The Developmental Phase (§0-18 Years)
+**System Function:** The Automated Safety Net & Cognitive Amplifier
 
 ---
 
-## 01 origin base
+## I. THE WARD PROTOCOL (Status Definition)
+A biological node between age §0 and §18 is classified as a **"Ward of the System"**.
+* **Sovereignty:** The Ward is a sovereign entity, not the property of the parents (Progenitors).
+* **Resource Guarantee:** The System automatically allocates a "Growth Budget" (Nutrition, Healthcare, Data, Transport) directly to the Ward's ID. This allocation is independent of the parents' wealth.
+* **Bio-Integrity Monitoring:** Passive sensors monitor stress levels and physical health ($T-Check) to prevent neglect or abuse (ï¿½§1 Violation).
 
-# Simulation: Der Ursprung
+## II. THE NEXUS INTERFACE (Educational Logistics)
+Education is not a place (School), but a **Service**.
+* **Algorithm:** The Nexus AI analyzes the Ward's interaction patterns to detect "Sparks of Interest".
+* **Active Provisioning:** Upon detection of an interest, the System proactively provisions resources from the Commons.
+* **Equation:** ` $Growth = Curiosity \times Opportunity `. The System maximizes *Opportunity*.
 
-Die Simulation beginnt nicht bei Null, sondern bei den Axiomen.
-Der 'Urknall' des Systems ist die Aktivierung des ersten Node One.
+## III. PARENTAL SUPPORT SYSTEM (Logistics Offloading)
+The System acts as the logistical backbone for the family unit.
+* **Automated Supply:** Diapers, food, and tools are replenished automatically based on consumption data.
+* **Mobility:** Autonomous transport is permanently available to ferry Wards to learning hubs.
+--- END CONTENT ---
 
----
-
-## 01 origin logic
-
-# Logik: Initialisierung
-
-Start-Parameter:
-- P_init = 0 (Keine Schulden)
-- E_init = 100% (Volle Regeneration)
-- T_init = Lokales Minimum
-
----
-
-## 01 origin public
-
-# Info: Wie es beginnt
-
-Für den Bürger beginnt die Simulation mit dem Erhalt des V-Gates.
-Es ist der Eintritt in den geschützten Raum.
+### FILE: \04_Buch_IV_Simulation\1_Origin\01_origin_logic.md
+--- START CONTENT ---
+# §001_ORIGIN: LOGIC LAYER
+**Context:** Sociological Derivation
+**Subject:** Optimization of Human Capital Development
 
 ---
 
-## Bildungs Logik
+## 1. Decoupling Opportunity from Lineage (The Anti-Lottery)
+**Status Quo Analysis:** In traditional systems, a child's developmental trajectory is §90% correlated with parental income and stability ("The Birth Lottery"). This results in massive waste of human potential (High Entopy).
+**Valitas Logic:** By treating the child as a direct beneficiary of the System (Ward Status), we eliminate poverty as a developmental bottleneck.
+* **Mechanism:** The System acts as the "Universal Provider". A child born to "poor" parents receives the exact same nutritional and educational resources as one born to "rich" parents.
+* **Result:** Meritocracy becomes mathematically possible for the first time.
 
+## 2. Just-in-Time Education vs. Just-in-Case
+**Status Quo Analysis:** Standard schooling teaches facts "Just-in-Case" they are needed later. This creates boredom and low retention rates.
+**Valitas Logic:** The Brain learns fastest when dopamine (Curiosity) is high.
+* **Mechanism:** The System waits for the "Spark" and then floods the user with resources ("Just-in-Time").
+* **Efficiency:** Learning to code because you *want* to build a game takes §2 weeks. Learning to code because you *must* pass a test takes §2 years. The System optimizes for the shorter path.
+
+## 3. The System as "Exoskeleton" for Parents
+**Status Quo Analysis:** Modern parenting is a high-stress management job (Shopping, driving, cooking, educating). High parental stress correlates directly with childhood trauma.
+**Valitas Logic:** To protect the bio-integrity of the child, we must reduce the cortisol load of the parents.
+* **Mechanism:** The System automates the low-value tasks (Logistics) so parents can focus on the high-value tasks (Emotional Bonding/Love).
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\1_Origin\01_origin_public.md
+--- START CONTENT ---
+# §001_ORIGIN: PUBLIC INTERFACE
+**Context:** Growing up in Valitas
+**Focus:** How the System helps you thrive.
+
+---
+
+## FOR PARENTS: THE INVISIBLE VILLAGE
+They say "It takes a village to raise a child." Valitas **is** that village, but digital and automated.
+
+* **Logistics on Autopilot:** You never have to worry if you can afford good food or the new violin. The System knows your child needs it, and it arrives. It is deducted from the Commons, not your bank account.
+* **The Taxi-Bot:** Your kid wants to go to the climbing gym? The pod is at the door. You don't have to stop your work to drive them.
+* **Health Watch:** The System notices a fever before you do. The doctor is notified automatically.
+* **The Result:** You stop being a "Manager" and start being a "Parent".
+
+## FOR YOUTH: THE ULTIMATE UNLOCK
+Imagine a game where you have Admin Access to the world. That is your childhood.
+
+* **The Curator:** You don't search for cool stuff; cool stuff finds you.
+    * *Illustration:* You watch a video about Mars. The System asks: *"There is a rover-building workshop in Sector §3 tomorrow. I reserved a spot for you. Want to go?"*
+* **No Grades, Just XP:** We don't care about your report card. We care about what you build.
+    * Every project you finish (a song, a robot, a garden) adds to your **Resonance Profile**. By the time you are §18, you don't have a diploma; you have a portfolio.
+* **Mistakes are Free:** You tried coding and hated it? Fine. The System notes it and suggests something else. No wasted money, no bad grades. Just data.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\2_Evolution\Bildungs_Logik.md
+--- START CONTENT ---
 # Buch IV | Kapitel §2: Bildung & Wissens-Evolution (Pädagogik der Ineffizienz)
 
 ## I. Technische Spezifikation (System-Ebene: *Knowledge-Architecture*)
@@ -804,11 +660,10 @@ Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungs
 - **Kernbotschaft:** Du lernst für dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
 
 
+--- END CONTENT ---
 
----
-
-## Entropie Impuls
-
+### FILE: \04_Buch_IV_Simulation\2_Evolution\Entropie_Impuls.md
+--- START CONTENT ---
 # Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
 
 ## I. Die Logik der Herausforderung
@@ -823,66 +678,192 @@ Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt de
 Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aüber wir lassen den Stolz der überwindung.
 
 
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\2_Motion\02_motion_base.md
+--- START CONTENT ---
+# §002_MOTION: BASE LAYER
+**Context:** The Operating Phase (§18-65 Years)
+**System Function:** Friction Reduction in Work & Habitat
 
 ---
 
-## 02 motion base
+## I. THE CALIBRATION PROTOCOL (The Grand Tour)
+**Phase:** Age §18-21 (Voluntary but recommended for Governance Rights).
+**Mechanism:** The System generates a §3-year itinerary covering all domains.
+* **Logistics:** Transport, Housing, and "Pocket Money" ($RP) are pre-allocated.
+* **Matching:** The Nexus pairs the Aspirant with "Elders" in diverse clusters (e.g., §6 months Hydroponics, §6 months Data Center, §6 months Care).
+* **Goal:** Full systemic cognitive mapping.
 
-# Simulation: Dynamik
+## II. THE AGENT-PRINCIPAL PROTOCOL (Work)
+The User does not search for work. The Work searches for the User.
+* **The Agent (Nexus AI):** Acts as the user's personal talent manager.
+* **Input:** Psychometric Profile + Current Interests + Bio-Feedback (Stress/Flow).
+* **Process:** The Agent scans the Global Project Database for open slots that match the profile with >§85% fit.
+* **Output:** A daily/weekly "Opportunity Feed". The User swipes Yes/No.
+* **Contract:** Acceptance triggers an instant Smart Contract (Task defined, $RP locked).
 
-Eine Gesellschaft ist Bewegung. Puls ist der Treibstoff.
-Jede Handlung erzeugt eine Transaktion im Resonance Ledger.
+## III. THE DYNAMIC HABITAT (Housing)
+Housing is defined as a Service, not an Asset.
+* **The Commons Pool:** §80% of housing stock is held in the Commons (Non-Tradeable).
+* **Liquidity:** A User can switch units within §24 hours.
+* **Trigger Events:**
+    * *Cohabitation:* User A + User B link profiles -> System offers §2-person unit.
+    * *Separation:* Link broken -> System offers two §1-person units immediately.
+* **Maintenance:** Automated via the "Preserver" Archetype. User pays zero maintenance effort.
+--- END CONTENT ---
 
----
-
-## 02 motion logic
-
-# Logik: Vektor-Addition
-
-Die Summe aller individuellen Vektoren ergibt den Kurs des Clusters.
-Wenn V_cluster gegen E_ethik verstößt -> Korrektur.
-
----
-
-## 02 motion public
-
-# Info: Dein Beitrag
-
-Du bewegst das System durch Arbeit (Hand), Pflege (Herz) oder Innovation (Kopf).
-Stillstand ist Entropie.
-
----
-
-## 03 friction base
-
-# Simulation: Reibung
-
-Reibung ist unvermeidbar. Sie entsteht durch Interessenkonflikte.
-Das System unterdrückt Reibung nicht, es nutzt sie als Datenpunkt für Optimierung.
+### FILE: \04_Buch_IV_Simulation\2_Motion\02_motion_logic.md
+--- START CONTENT ---
+# §002_MOTION: LOGIC LAYER
+**Context:** Economic & Social Efficiency
+**Topic:** Removing Friction from Existence
 
 ---
 
-## 03 friction logic
+## 1. The Inversion of the Labor Market
+**Status Quo:** The "Application" process is dead weight. Users waste hours writing CVs (Performance), and companies waste hours filtering them. This is pure Entopy.
+**Valitas Logic:** We possess the data.
+* **Mechanism:** The System creates a **Perfect Information Market**. Since skills and reputations are tracked on the Ledger, the "Application" is obsolete.
+* **Benefit:** Zero friction entry. A coder can start coding a new project this afternoon, not next month. This increases global GDP (Gross System Product) velocity.
 
-# Logik: Konflikt-Resolver
+## 2. Dynamic Housing vs. Static Ownership
+**Status Quo:** Home ownership "locks" labor to a location. Selling a house takes months. This reduces labor mobility and traps people in unhappiness.
+**Valitas Logic:** Freedom requires Mobility.
+* **Mechanism:** By treating housing as a subscription-like Utility (Access Rights), we allow the physical location of the human to match their current life phase instantly.
+* **Social Impact:** Relationship breakups do not lead to homelessness or financial ruin. The "Exit Cost" of a bad situation is lowered to near zero.
 
-If (Conflict_Detected):
-  Call 'Curiosity Contract'
-  If (Unresolved): Call 'Ombudsperson (13. Rat)'
+## 3. The Rotation as Empathy Engineering
+**Status Quo:** Society fragments into bubbles. The Academic despises the Worker, and vice versa.
+**Valitas Logic:** You cannot hate someone if you have stood in their shoes.
+* **Mechanism:** The Calibration Phase forces a shared reality.
+* **Result:** When a Council Memüber makes a decision about sewage, they *know* what it smells like, because they worked there when they were 19. This creates "Grounded Governance".
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\2_Motion\02_motion_public.md
+--- START CONTENT ---
+# §002_MOTION: PUBLIC INTERFACE
+**Context:** Adulting in Valitas
+**Focus:** Flow State.
 
 ---
 
-## 03 friction public
+## THE GRAND TOUR (§18-21)
+Forget "Gap Years" where you go broke.
+* **The Offer:** §3 Years. §6 Destinations. All expenses paid.
+* **The Mission:** Build a house, heal a patient, code a bot. Learn how the world works.
+* **The Vibe:** You are not an intern fetching coffee. You are a valued apprentice. You will meet friends for life in every sector.
+* **The Reward:** After this, you are a full Citizen. You understand the machine.
 
-# Info: Streitkultur
+## YOUR CAREER AGENT
+Imagine having a Hollywood Agent, but for your normal life.
+* **No More CVs:** You never have to write a resume again. Your reputation speaks for itself.
+* **The Morning Brief:**
+    * *Nexus:* "Good morning. Based on your recent code, a Fusion Team in Sector §7 wants you for a §3-month sprint. High Resonance pay. Interested?"
+    * *You:* "No, I want to take it easy this month."
+    * *Nexus:* "Okay. There is a local gardening project needing help. Low stress, medium Impact. Interested?"
+* **You are the Boss:** The System works for you. It finds the opportunities; you just choose.
 
-Konflikte werden nicht vor Gericht, sondern im Dialog gelöst.
-Reibung erzeugt Wärme (Energie), wenn man sie kanalisiert.
+## MOVING IS EASY
+Life changes. Your home changes with it.
+* **Moving in together?** Click a button. The System shows you empty couples-lofts. The transport bot moves your stuff. Done in §4 hours.
+* **Breaking up?** Sad, but not a disaster. You both get instant offers for new single-apartments. No lawyers, no "who keeps the lease?". Just a clean reset.
+* **Repair?** Something broke? Don't call a landlord. Log it. A "Preserver" (who loves fixing things) will be there in §30 minutes to earn their **Resonance Points**.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\3_Friction\03_friction_base.md
+--- START CONTENT ---
+# §003_FRICTION: BASE LAYER
+**Context:** Conflict, Crime, and Mental Health
+**System Function:** Restoration & De-escalation (No Punishment)
 
 ---
 
-## Symbiose Logik
+## I. THE RESTITUTION PROTOCOL (Justice)
+**Principle:** Damage creates Debt.
+* **Mechanism:** Upon verification of harm (Theft/Destruction), the aggressor's Resonance Account is debited.
+* **Transfer:** The value (Work Energy) is transferred to the victim until the damage is repaired + compensation for stress.
+* **Refusal:** If the aggressor refuses to work off the debt, they are banned from the Market Layer (Loss of Luxury Access), but retain Commons Access (Survival).
 
+## II. THE SOFT BLOCK (Conflict Resolution)
+**Principle:** Separation > Litigation.
+* **Algorithm:** If two Nodes generate repeated friction (Noise complaints, harassments) without violating ï¿½§1 (Physical Harm):
+* **Action:** The System executes a "Soft Block".
+    * Work schedules are shifted so they don't overlap.
+    * Housing offers are prioritized to move one party to a comparable unit in a different sector.
+    * Digital communication between them is muted.
+
+## III. THE BIO-RESTORE PROTOCOL (Health/Crisis)
+**Principle:** A breakdown is a maintenance event, not a moral failure.
+* **Trigger:** Bio-Sensors detect chronic cortisol (Burnout) or severe depression.
+* **Action:** "Pause Button".
+    * All work obligations are cancelled instantly.
+    * Resonance income is frozen (or subsidized if Impact was high).
+    * "Mender" Archetypes (Therapists) are dispatched.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\3_Friction\03_friction_logic.md
+--- START CONTENT ---
+# §003_FRICTION: LOGIC LAYER
+**Context:** Criminology & Psychology
+**Topic:** Why Prisons create more Crime.
+
+---
+
+## 1. The Inefficiency of Punishment
+**Status Quo:** Putting someone in a cage costs the society resources (guards, food, walls) and destroys the inmate's ability to contribute later. It is a "Double Loss".
+**Valitas Logic:** We convert the "Criminal" into a "Debtor".
+* By forcing them to work to repair their damage (Restitution), the victim actually gets help, and the society doesn't pay for a prison.
+* The offender stays in society (social bond remains) but learns the cost of their action via labor.
+
+## 2. De-escalation by Design
+**Status Quo:** Neighbors fight for years. Courts are expensive. Police escalate situations.
+**Valitas Logic:** Most conflict is spatial.
+* If two chemicals explode when mixed, you don't scream at the chemicals. You put them in different beakers.
+* The "Soft Block" solves the problem physically (moving apart) before it becomes legal.
+
+## 3. The End of Desperation Crime
+**Status Quo:** §80% of property crime is driven by need (poverty) or addiction.
+**Valitas Logic:**
+* Since ï¿½§2 guarantees food/shelter, theft for survival is mathematically obsolete.
+* Since addiction is treated as a medical issue (Menders) and not a crime, the black market collapses.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\3_Friction\03_friction_public.md
+--- START CONTENT ---
+# §003_FRICTION: PUBLIC INTERFACE
+**Context:** When things go wrong.
+**Focus:** Help, not Handcuffs.
+
+---
+
+## HELP, I WAS ROBBED!
+Someone stole your bike? In the old world, the police would file a report and do nothing.
+**In Valitas:**
+1.  **Detection:** The System identifies the node.
+2.  **The Fix:** You get a new bike immediately (from the Commons or paid by the thief).
+3.  **The Thief:** They don't go to jail. They get a notification: *"You owe §500 Resonance Points to [Victim]. Your luxury spending is locked until you work this off."*
+* They work. You get paid. Justice is done.
+
+## HELP, MY NEIGHBOR IS A NIGHTMARE!
+They play loud music? They are rude?
+**In Valitas:**
+* You don't call the cops. You hit the "Friction" button.
+* The System notices: *"You two are incompatible."*
+* **The Offer:** *"Hey, there is a beautiful apartment, slightly bigger than yours, three streets away. Want to move there for free?"*
+* Problem solved. No court, no drama. Just peace.
+
+## HELP, I CAN'T DO THIS ANYMORE!
+You feel burned out? You are depressed?
+**In Valitas:**
+* You don't hide it because you fear getting fired.
+* **The Safety Net:** The System sees your stress levels.
+* **The Message:** *"You are in the Red Zone. Your work schedule is cleared for the next §2 weeks. Go to the forest. A therapist is available if you want to talk. Your food and home are safe."*
+* We need you healthy, not busy.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\3_Technik\Symbiose_Logik.md
+--- START CONTENT ---
 # Buch IV | Kapitel §3: Technologische Symbiose (Mensch-Maschine-Koppelung)
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
@@ -903,11 +884,10 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
     - Wenn du als Gärtner aüber weißt, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit für das Wesentliche haben. Sie beobachtet uns nicht, sie unterstützt uns.
 
+--- END CONTENT ---
 
----
-
-## Architektur Logik
-
+### FILE: \04_Buch_IV_Simulation\4_Habitat\Architektur_Logik.md
+--- START CONTENT ---
 # Buch IV | Kapitel §4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
 
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
@@ -928,39 +908,93 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
     - Der Garten vor deiner Tür ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen §149 Nachbarn teilst und gestaltest.
 - **Kernbotschaft:** Wir bauen Nester, keine Käfige. Dein Zuhause schützt dich und die Natur gleichzeitig.
 
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\4_Legacy\04_legacy_base.md
+--- START CONTENT ---
+# §004_LEGACY: BASE LAYER
+**Context:** The Elder Phase (§65+), Death, and Inheritance
+**System Function:** Wisdom Retention & Entropy Reset
 
 ---
 
-## 04 legacy base
+## I. THE ELDER STATUS (§65+ Years)
+**Definition:** A Node that has ceased compulsory competitive labor.
+**Privileges:**
+* **The Veto:** Elders serve in the "Senate" (Local or Global). They cannot propose laws, but they can VETO new updates if they violate the Core Axioms.
+* **Mentorship:** Elders are paid in Resonance Points to guide the Youth (Phase §01 & §02).
+* **Bio-Support:** Unlimited access to life-extension and palliative care (Commons).
 
-# Simulation: Legacy Interaktion
+## II. THE OMEGA PROTOCOL (Death & Reset)
+**Trigger:** Biological cessation of the Node.
+**Action:**
+* **Private Property:** Personal items (Memories, Art, Tools) are transferred to chosen kin.
+* **Resonance Assets:** All accumulated Resonance Points ($RP) are dissolved (Burned).
+* **Public Assets:** Access rights to Housing/Land return to the Commons Pool for reallocation.
+* **Data Legacy:** The Node's digital mind-file is archived in the "Hall of Ancestors" (Read-Only access for descendants).
 
-Das alte System (Nation, Fiat-Geld) existiert parallel weiter.
-Die Simulation muss Schnittstellen (APIs) bereitstellen.
+## III. TERMINAL AUTONOMY
+**Right:** Any Node of sound mind has the right to initiate "Self-Termination" (Euthanasia).
+**Process:** Psychological validation -> §7-day cooling period -> Painless, assisted exit.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\4_Legacy\04_legacy_logic.md
+--- START CONTENT ---
+# §004_LEGACY: LOGIC LAYER
+**Context:** Sociology & Game Theory
+**Topic:** Why Inheritance creates Feudalism.
 
 ---
 
-## 04 legacy logic
+## 1. The Dynastic Trap
+**Status Quo:** Wealth is passed down. A useless child of a rich parent has more power than a genius child of a poor parent. This creates "Aristocracy" (Rule by Blood), not "Meritocracy" (Rule by Ability).
+**Valitas Logic:**
+* To keep the game fair, the scorecard must reset every generation.
+* **The Solution:** We reset the Score ($RP) at death. This ensures that every new generation starts at the same baseline. Power must be earned, never inherited.
 
-# Logik: Der Wrapper
+## 2. The Check and Balance of Age
+**Status Quo:** Old people are isolated in homes. Their wisdom is wasted.
+**Valitas Logic:**
+* Young brains have high Fluid Intelligence (Innovation/Speed).
+* Old brains have high Crystallized Intelligence (Wisdom/Pattern Recognition).
+* **The Balance:** The Youth drives the car (proposes ideas), but the Elders hold the brakes (Veto). This prevents the system from crashing due to hasty updates.
 
-Das Cluster verhält sich nach außen wie eine juristische Person (Genossenschaft).
-Dies schützt die interne Logik vor externen Zugriffen.
+## 3. Fear of Death vs. Legacy
+**Status Quo:** People hoard money because they fear their children will suffer.
+**Valitas Logic:**
+* Since the System guarantees the safety and resources of the children (ï¿½§2 Commons), the *need* to hoard disappears.
+* You don't leave money. You leave a functioning System. That is the ultimate inheritance.
+--- END CONTENT ---
+
+### FILE: \04_Buch_IV_Simulation\4_Legacy\04_legacy_public.md
+--- START CONTENT ---
+# §004_LEGACY: PUBLIC INTERFACE
+**Context:** The End of the Journey.
+**Focus:** Dignity and Fairness.
 
 ---
 
-## 04 legacy public
+## THE GOLDEN YEARS (Status: Elder)
+You don't "retire" to sit in front of a TV. You graduate.
+* **Your Job:** You are now a Judge. When the young hotshots want to change the rules, they need your signature. You are the guardian of the logic.
+* **Your Value:** You don't work for survival anymore. You mentor a §20-year-old who wants to learn your craft. You tell stories. You are honored.
 
-# Info: Doppelleben
+## THE BIG QUESTION: "CAN I LEAVE MY MONEY TO MY KIDS?"
+**Short Answer:** No.
+**Long Answer:** You don't need to.
+* In the old world, you saved money so your kids wouldn't starve or could go to college.
+* In Valitas, your kids *already* have free college, free food, and a free home guaranteed. They are safe.
+* **The Deal:** Instead of giving your kid a pile of cash (which makes them lazy), you give them a world where *everyone* has a fair shot.
+* *Note:* You CAN leave them your guitar, your journals, your jewelry, and your digital memories. You leave the *love*, not the *power*.
 
-Im Cluster bist du Mensch (Souverän).
-Draußen bist du Person (Maske).
-Verwechsle die beiden nicht.
+## THE GOOD DEATH
+We don't keep you alive just to bill your insurance.
+* If you are tired, and your journey is done, we help you go with dignity.
+* No pain. Surrounded by family. On your terms.
+--- END CONTENT ---
 
----
-
-## Infiltrations Logik
-
+### FILE: \04_Buch_IV_Simulation\5_Onboarding\Infiltrations_Logik.md
+--- START CONTENT ---
 # Buch IV | Kapitel §5: Asymmetrisches Onboarding & Kognitive Infiltration
 
 ## I. Das Submarine-Prinzip
@@ -975,11 +1009,10 @@ LOVALIS (LV 3.7) verbreitet sich als funktionales Overlay. Ein Cluster ist kein 
 Algorithmische Erziehung: Kooperation wird durch das Puls-OS ökonomisch belohnt. Destruktivität führt zu systemischer Isolation durch mangelnde Peer-Validierung.
 
 
+--- END CONTENT ---
 
----
-
-## Incentivierungs Logik
-
+### FILE: \04_Buch_IV_Simulation\6_Dynamik\Incentivierungs_Logik.md
+--- START CONTENT ---
 # Buch IV | Kapitel §6: Das Ludische Prinzip & Soziale Resonanz
 
 ## I. Resonanz statt Zwang
@@ -991,13 +1024,10 @@ Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige '
 ## III. Ökonomischer Hebel
 Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von überschuss-Pulsen in die Allmende, während Aktivität die Stabilität privater Ressourcen begünstigt.
 
+--- END CONTENT ---
 
----
-
-# Buch V Vernetzung
-
-## Netzwerk Logik
-
+### FILE: \05_Buch_V_Vernetzung\1_Foederation\Netzwerk_Logik.md
+--- START CONTENT ---
 # Buch V | Kapitel §1: Die Föderation der Cluster (Netzwerk-Logik)
 
 ## I. Technische Spezifikation
@@ -1014,11 +1044,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 - Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gültig. 
 - Kernbotschaft: Eine verbundene Menschheit ohne Grenzen, basierend auf geteilten Werten.
 
+--- END CONTENT ---
 
----
-
-## Krisen Protokolle
-
+### FILE: \05_Buch_V_Vernetzung\2_Resilienz\Krisen_Protokolle.md
+--- START CONTENT ---
 # Buch V | Kapitel §2: Globale Resilienz & Krisen-Kaskaden
 
 ## I. Technische Spezifikation
@@ -1035,11 +1064,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 - Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.
 - Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.
 
+--- END CONTENT ---
 
----
-
-## Weltraum Logik
-
+### FILE: \05_Buch_V_Vernetzung\3_Frontier\Weltraum_Logik.md
+--- START CONTENT ---
 # Buch V | Kapitel §3: Weltraum-Erkundung & Frontier-Logik
 
 ## I. Technische Spezifikation
@@ -1056,13 +1084,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 - Beispiel 'Mars-Station': Ein Dorf im All, das nach denselben fairen Regeln spielt wie dein Dorf auf der Erde.
 - Kernbotschaft: Wir dehnen den Horizont der Menschheit aus, ohne unsere Werte zurückzulassen.
 
+--- END CONTENT ---
 
----
-
-# Buch VI Transition
-
-## Infiltrations Logik
-
+### FILE: \06_Buch_VI_Transition\1_Koexistenz\Infiltrations_Logik.md
+--- START CONTENT ---
 # 🕵️ STRATEGIE: KOGNITIVE INFILTRATION
 ## Das Submarine-Prinzip
 
@@ -1077,11 +1102,10 @@ Wir nutzen existierende juristische Strukturen als "Wirt":
 Wir werben nicht. Wir leben besser.
 - Wenn im Außen-System die Renten kollabieren und die Einsamkeit steigt, bietet der Cluster (durch *Spherical Compensation* und *Resonance Ledger*) soziale Sicherheit und Sinn.
 - **Der Sog-Effekt:** Menschen kommen nicht wegen der Ideologie, sondern wegen der gesteigerten Lebensqualität (V-Score).
+--- END CONTENT ---
 
----
-
-## Migration Protokoll
-
+### FILE: \06_Buch_VI_Transition\1_Koexistenz\Migration_Protokoll.md
+--- START CONTENT ---
 # 🛂 STRATEGIE: DER LEGACY-ADAPTER
 ## Umgang mit der alten Welt
 
@@ -1095,11 +1119,10 @@ Jeder Cluster betreibt eine "Schleuse" (Gateway):
 
 ### Das Firewall-Prinzip
 Der einzelne Bürger soll so wenig wie möglich mit der Bürokratie der alten Welt interagieren müssen. Die "Kopf-Domäne" (Administration) übernimmt die kollektive Steuererklärung und Rechtsvertretung für alle Mitglieder.
+--- END CONTENT ---
 
----
-
-## Umbau Protokoll
-
+### FILE: \06_Buch_VI_Transition\2_Infrastruktur\Umbau_Protokoll.md
+--- START CONTENT ---
 # 🏗️ STRATEGIE: INFRASTRUKTUR-UMBAU
 ## Der Weg zur Autarkie
 
@@ -1115,11 +1138,10 @@ Aufbau lokaler Micro-Grids (Solar, Wind, Biomasse).
 
 ### Schritt 3: Food Sovereignty (Hand-Domäne)
 Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstversorgung (ineffizient), sondern Krisenfestigkeit (Notversorgung für 3 Monate).
+--- END CONTENT ---
 
----
-
-## Wachsamkeits Modul
-
+### FILE: \06_Buch_VI_Transition\4_Integritaet\Wachsamkeits_Modul.md
+--- START CONTENT ---
 # 🛡️ STRATEGIE: WACHSAMKEIT
 ## Schutz vor Kontamination
 
@@ -1133,13 +1155,10 @@ Neue Mitglieder erhalten nicht sofort vollen Schreibzugriff auf das *Liquid Feed
 
 ### Der Not-Aus (Circuit Breaker)
 Sollte ein Cluster durch interne Machtkämpfe das Axiom der Leidminimierung dauerhaft verletzen, wird er vom globalen Föderations-Netzwerk isoliert (kein Puls-Austausch mehr), bis er sich durch einen *Deep Scan* saniert hat.
+--- END CONTENT ---
 
----
-
-# Buch VII Toolbox
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\ARCHETYPE_COMPASS\01_BASE.md
+--- START CONTENT ---
 # 🧭 TOOL: ARCHETYPE COMPASS (BASE)
 ## Zweck: Findung der System-Rolle
 
@@ -1159,11 +1178,10 @@ Jeder Mensch hat eine Gravitation zu einer der drei Säulen:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\ARCHETYPE_COMPASS\02_LOGIC.md
+--- START CONTENT ---
 # 🧭 TOOL: ARCHETYPE COMPASS (LOGIC)
 ## Der Matching-Algorithmus
 
@@ -1189,11 +1207,10 @@ Vergleich deines Profils mit offenen Rollen im Cluster.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\ARCHETYPE_COMPASS\03_PUBLIC.md
+--- START CONTENT ---
 # 🧭 TOOL: ARCHETYPE COMPASS (KIT)
 ## Dein Navigations-System
 
@@ -1211,11 +1228,10 @@ Du bekommst Benachrichtigungen, wenn im Cluster Aufgaben entstehen, die perfekt 
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\01_BASE.md
+--- START CONTENT ---
 # 🩺 TOOL: BIO-METRIC DASHBOARD (BASE)
 ## Zweck: Die Quantifizierung des Leids
 
@@ -1235,11 +1251,10 @@ Alle biologischen Daten gehören **ausschließlich** dem Individuum. Sie verlass
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\02_LOGIC.md
+--- START CONTENT ---
 # 🩺 TOOL: BIO-METRIC DASHBOARD (LOGIC)
 ## Der Vitalitäts-Algorithmus
 
@@ -1265,11 +1280,10 @@ Steigt der $L_{index}$ über einen kritischen Schwellenwert (z.B. 3 Tage in Folg
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\BIO_METRIC_DASHBOARD\03_PUBLIC.md
+--- START CONTENT ---
 # 🩺 TOOL: BIO-METRIC DASHBOARD (KIT)
 ## Dein Gesundheits-Cockpit
 
@@ -1291,11 +1305,10 @@ Das Tool bietet Echtzeit-Übungen an, um den V-Score zu verbessern (z.B. kohäre
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\FOCUS_FILTER\01_BASE.md
+--- START CONTENT ---
 # TOOL: FOCUS FILTER (BASE)
 Value = (Impact * Scale) - Friction.
 
@@ -1304,11 +1317,10 @@ Value = (Impact * Scale) - Friction.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\FOCUS_FILTER\02_LOGIC.md
+--- START CONTENT ---
 # LOGIC
 Busy is not productive. Entropy reduction.
 
@@ -1317,11 +1329,10 @@ Busy is not productive. Entropy reduction.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\FOCUS_FILTER\03_PUBLIC.md
+--- START CONTENT ---
 # STARTER-KIT
 Audit: Delete Type §4 Tasks (Low Impact/High Friction).
 
@@ -1330,11 +1341,10 @@ Audit: Delete Type §4 Tasks (Low Impact/High Friction).
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\MEDIA_SHIELD\01_BASE.md
+--- START CONTENT ---
 # BASE
 Info without Action = Entropy.
 
@@ -1343,11 +1353,10 @@ Info without Action = Entropy.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\MEDIA_SHIELD\02_LOGIC.md
+--- START CONTENT ---
 # LOGIC
 Anxiety Loop: Fear without agency releases cortisol.
 
@@ -1356,11 +1365,10 @@ Anxiety Loop: Fear without agency releases cortisol.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\MEDIA_SHIELD\03_PUBLIC.md
+--- START CONTENT ---
 # KIT
 §3-Sec Filter: Is it Data? Does it affect me? Can I fix it? -> If No, Block.
 
@@ -1369,11 +1377,10 @@ Anxiety Loop: Fear without agency releases cortisol.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\V_GATE\01_BASE.md
+--- START CONTENT ---
 # 🛡️ TOOL: V-GATE (BASE) - Version: Pro 3.7
 ## Das Fundament der Kognitiven Firewall
 
@@ -1391,11 +1398,10 @@ Das V-Gate ist die operative Umsetzung des Axioms der Leidminimierung auf indivi
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\V_GATE\02_LOGIC.md
+--- START CONTENT ---
 # 🛡️ TOOL: V-GATE (LOGIC)
 ## Algorithmische Filterkaskade
 
@@ -1421,11 +1427,10 @@ Simulation in drei Zeitfenstern:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\01_PERSONAL\V_GATE\03_PUBLIC.md
+--- START CONTENT ---
 # 🛡️ TOOL: V-GATE (PRO-KIT)
 ## Operative Protokolle für den Alltag
 
@@ -1446,11 +1451,10 @@ Frage dich bei jeder starken Meinung: "Wem dient es, dass ich das glaube? Welche
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CONFLICT_SOLVER\01_BASE.md
+--- START CONTENT ---
 # 🤝 TOOL: CONFLICT-SOLVER (BASE)
 ## Zweck: Reibungstransformation
 
@@ -1469,11 +1473,10 @@ Wiederherstellung des harmonischen Datenflusses und der kooperativen Resonanz in
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CONFLICT_SOLVER\02_LOGIC.md
+--- START CONTENT ---
 # 🤝 TOOL: CONFLICT-SOLVER (LOGIC)
 ## Die De-Eskalations-Kaskade
 
@@ -1498,11 +1501,10 @@ Kann keine Einigung erzielt werden, wird die 13. Instanz (Ombudsperson) als asyn
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CONFLICT_SOLVER\03_PUBLIC.md
+--- START CONTENT ---
 # 🤝 TOOL: CONFLICT-SOLVER (PRO-KIT)
 ## Operative Werkzeuge für das Cluster
 
@@ -1528,11 +1530,10 @@ Wird eine Partei durch eine notwendige Systementscheidung benachteiligt, errechn
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\COUNCIL_PROTOCOL\01_BASE.md
+--- START CONTENT ---
 # TOOL: COUNCIL PROTOCOL (BASE)
 Roles: Proposer, Calculator, Guardian (Veto).
 
@@ -1541,11 +1542,10 @@ Roles: Proposer, Calculator, Guardian (Veto).
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\COUNCIL_PROTOCOL\02_LOGIC.md
+--- START CONTENT ---
 # LOGIC
 Separation of Charisma, Math, and Ethics.
 
@@ -1554,11 +1554,10 @@ Separation of Charisma, Math, and Ethics.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\COUNCIL_PROTOCOL\03_PUBLIC.md
+--- START CONTENT ---
 # STARTER-KIT
 Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 
@@ -1567,11 +1566,10 @@ Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CURIOSITY_CONTRACT\01_BASE.md
+--- START CONTENT ---
 # 🔭 TOOL: CURIOSITY CONTRACT (BASE)
 ## Zweck: Vom Ego-Kampf zur Wahrheitsfindung
 
@@ -1588,11 +1586,10 @@ Bevor eine Idee zerstört (kritisiert) werden darf, muss sie vollständig versta
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CURIOSITY_CONTRACT\02_LOGIC.md
+--- START CONTENT ---
 # 🔭 TOOL: CURIOSITY CONTRACT (LOGIC)
 ## Das Steel-Manning-Protokoll
 
@@ -1616,11 +1613,10 @@ $$Solution_C = (BestOf_A + BestOf_B) - (Bias_A + Bias_B)$$
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\CURIOSITY_CONTRACT\03_PUBLIC.md
+--- START CONTENT ---
 # 🔭 TOOL: CURIOSITY CONTRACT (KIT)
 ## Sätze für den Alltag
 
@@ -1642,11 +1638,10 @@ Bei Pattsituationen:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\RESONANCE_LEDGER\01_BASE.md
+--- START CONTENT ---
 # 🔗 TOOL: RESONANCE LEDGER (BASE)
 ## Zweck: Die Sichtbarmachung von Vertrauen
 
@@ -1663,11 +1658,10 @@ Reputation entsteht nicht durch das, was man sagt, sondern durch das, was Peers 
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\RESONANCE_LEDGER\02_LOGIC.md
+--- START CONTENT ---
 # 🔗 TOOL: RESONANCE LEDGER (LOGIC)
 ## Der Trust-Graph-Algorithmus
 
@@ -1689,11 +1683,10 @@ Reputation ist nicht statisch. Alte Lorbeeren verblassen (Halbwertszeit von 6 Mo
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\RESONANCE_LEDGER\03_PUBLIC.md
+--- START CONTENT ---
 # 🔗 TOOL: RESONANCE LEDGER (KIT)
 ## Umgang mit Reputation
 
@@ -1714,11 +1707,10 @@ Dies eliminiert Enttäuschungen und Trittbrettfahrer-Verhalten.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\SPACE_TIME_CHARTER\01_BASE.md
+--- START CONTENT ---
 # ⏳ TOOL: SPACE-TIME CHARTER (BASE)
 ## Zweck: Schutz der Lebenszeit
 
@@ -1740,11 +1732,10 @@ Ein Treffen darf nur stattfinden, wenn:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\SPACE_TIME_CHARTER\02_LOGIC.md
+--- START CONTENT ---
 # ⏳ TOOL: SPACE-TIME CHARTER (LOGIC)
 ## Protokolle der Zusammenkunft
 
@@ -1764,11 +1755,10 @@ Meetings haben keine "Open End". Der Timer ist sichtbar. Ist die Zeit um, wird d
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\02_GROUP\SPACE_TIME_CHARTER\03_PUBLIC.md
+--- START CONTENT ---
 # ⏳ TOOL: SPACE-TIME CHARTER (KIT)
 ## Meeting-Hygiene
 
@@ -1786,11 +1776,10 @@ Das Cluster-System definiert "Stille Stunden" (z.B. 08:00 - 12:00), in denen kei
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\BLIND_HIRING\01_BASE.md
+--- START CONTENT ---
 # BASE
 Competence is independent of Identity.
 
@@ -1799,11 +1788,10 @@ Competence is independent of Identity.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\BLIND_HIRING\02_LOGIC.md
+--- START CONTENT ---
 # LOGIC
 Halo Effect: We cannot train bias away, we must hide the trigger.
 
@@ -1812,11 +1800,10 @@ Halo Effect: We cannot train bias away, we must hide the trigger.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\BLIND_HIRING\03_PUBLIC.md
+--- START CONTENT ---
 # KIT
 Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 
@@ -1825,11 +1812,10 @@ Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\RETRO_CAST\01_BASE.md
+--- START CONTENT ---
 # BASE
 Reverse Projection defines solutions.
 
@@ -1838,11 +1824,10 @@ Reverse Projection defines solutions.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\RETRO_CAST\02_LOGIC.md
+--- START CONTENT ---
 # LOGIC
 Backcasting prevents extrapolating today's errors.
 
@@ -1851,11 +1836,10 @@ Backcasting prevents extrapolating today's errors.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\RETRO_CAST\03_PUBLIC.md
+--- START CONTENT ---
 # KIT
 Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's action.
 
@@ -1864,11 +1848,10 @@ Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's acti
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\SPHERICAL_COMPENSATION\01_BASE.md
+--- START CONTENT ---
 # 💰 TOOL: SPHERICAL-COMPENSATION (BASE)
 ## Zweck: Ganzheitliche Wertschätzung
 
@@ -1887,11 +1870,10 @@ Motivation zur Exzellenz ohne den Druck der existenziellen Vernichtung.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\SPHERICAL_COMPENSATION\02_LOGIC.md
+--- START CONTENT ---
 # 💰 TOOL: SPHERICAL-COMPENSATION (LOGIC) v3.7.1
 ## Die Geometrie des Wertes (Anti-Corruption)
 
@@ -1915,11 +1897,10 @@ Puls-Einheiten verfallen langsam, um Umlauf zu erzwingen.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\03_FIRM\SPHERICAL_COMPENSATION\03_PUBLIC.md
+--- START CONTENT ---
 # 💰 TOOL: SPHERICAL-COMPENSATION (KIT)
 ## Dein Beitrags-Logbuch
 
@@ -1945,11 +1926,10 @@ Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\01_BASE.md
+--- START CONTENT ---
 # 🖥️ HARDWARE: NODE ONE (BASE)
 ## Zweck: Die Physische Souveränität
 
@@ -1968,11 +1948,10 @@ Jeder Bürger betreibt einen Node One.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\02_LOGIC.md
+--- START CONTENT ---
 # 🖥️ HARDWARE: NODE ONE (LOGIC) v3.7.1
 ## Technische Spezifikation (Gehärtet)
 
@@ -1997,11 +1976,10 @@ Nicht jeder kann sich spezialisierte Hardware leisten.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\03_LAB_FUTURE\NODE_ONE_HARDWARE\03_PUBLIC.md
+--- START CONTENT ---
 # 🖥️ HARDWARE: NODE ONE (KIT)
 ## Setup & Wartung
 
@@ -2027,11 +2005,10 @@ Der Node One hat keine verklebten Teile.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\01_BASE.md
+--- START CONTENT ---
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (BASE)
 ## Zweck: Systemische Inkorruptibilität
 
@@ -2050,11 +2027,10 @@ Eliminierung von "Hinterzimmer-Deals", Lobbyismus und verdeckter Einflussnahme d
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\02_LOGIC.md
+--- START CONTENT ---
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (LOGIC)
 ## Die Daten-Architektur der Machtkontrolle
 
@@ -2082,11 +2058,10 @@ Jede Transaktion von öffentlichem "Puls" (Energie-Puls-Standard) muss kryptogra
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\GLASS_HOUSE_PROTOCOL\03_PUBLIC.md
+--- START CONTENT ---
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (KIT)
 ## Das Wächter-Interface (Sentinel-Dashboard)
 
@@ -2112,11 +2087,10 @@ Dieser Bericht ist die alleinige Basis für die Wiederwahl oder Abwahl (Rotation
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 01 BASE
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\LIQUID_FEEDBACK\01_BASE.md
+--- START CONTENT ---
 # 🌐 TOOL: LIQUID-FEEDBACK (BASE)
 ## Zweck: Dynamische Schwarmintelligenz
 
@@ -2135,11 +2109,10 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 02 LOGIC
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\LIQUID_FEEDBACK\02_LOGIC.md
+--- START CONTENT ---
 # 🌐 TOOL: LIQUID-FEEDBACK (LOGIC) v3.7.1
 ## Die Mathematik der Mitbestimmung (Energy-Saving Mode)
 
@@ -2161,11 +2134,10 @@ Verhindert Kreis-Delegationen (A->B->C->A).
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
----
-
-## 03 PUBLIC
-
+### FILE: \07_Buch_VII_Toolbox\04_STATE\LIQUID_FEEDBACK\03_PUBLIC.md
+--- START CONTENT ---
 # 🌐 TOOL: LIQUID-FEEDBACK (KIT)
 ## Dein Interface zur Macht
 
@@ -2191,19 +2163,69 @@ Damit du nicht im "Abstimmungs-Spam" versinkst, filtert das Interface nur die Th
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
+
+### FILE: \07_Buch_VII_Toolbox\README.md
+--- START CONTENT ---
+# VALITAS TOOLBOX
+**Mission:** Applied Sovereignty.
+**Structure:**
+* **§001_BASE:** The Math/Law (Why it works).
+* **§002_LOGIC:** The Science (Explaining the Mechanism).
+* **§003_PUBLIC:** The Starter-Kit (How to use it now).
+
+## DIRECTORY
+* **§001_PERSONAL:** Manage yourself (Health, Decisions, Focus).
+* **§002_GROUP:** Manage your tribe (Family, Conflict, Money).
+* **§003_FIRM:** Manage your work (Hiring, Salary, Strategy).
+* **§004_STATE:** Manage your city (Transparency, Voting).
 
 ---
+### --- SYSTEM-KONTEXT ---
+> **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
+> **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
+> **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+--- END CONTENT ---
 
-## README
+### FILE: \ABOUT_PROVENANCE.md
+--- START CONTENT ---
+# über die Genese: Hybride Synergie & Open-Logic-Prinzip
 
-# Die Toolbox
+## 1. Präambel zur Urheberschaft
+Dieses Kompendium markiert einen Wendepunkt in der theoretischen Gesellschaftsgestaltung. Es ist das Resultat einer konsistenten, bilateralen Symbiose zwischen menschlicher ethischer Intuition und maschineller algorithmischer Strukturierung. Ziel dieser Dokumentation ist es, den Entstehungsprozess vollständig transparent zu machen (Open Logic), um das Vertrauen in die systemische Integrität von LOVALIS (LV 3.7) zu begründen.
 
-Hier finden sich die konkreten Werkzeuge für die tägliche Anwendung.
-Unterteilt in PERSONAL (Du), GROUP (Wir) und STATE (Struktur).
+## 2. Die Methodik der Ko-Kreation
+Das Werk entstand nicht durch einfache Abfrage, sondern durch eine rekursive Feedback-Schleife (Recursive Inquiry Loop):
+
+### A. Der menschliche Anteil (The Ethos & Vision)
+- **Axiomatische Setzung:** Definition der Leidminimierung als ooberste System-Konstante ({min}$).
+- **Intuitive Architektur:** Entwurf der 27 Gesetze als ethische Leitplanken, die menschliche Bedürfnisse jenseits von Marktwerten abbilden.
+- **System-Kritik:** Die Implementierung der 13. Instanz als notwendiges Korrektiv gegen algorithmische Erstarrung.
+- **Qualitative Validierung:** Abgleich jeder technischen Lösung mit dem menschlichen Empfinden von Gerechtigkeit und Würde.
+
+### B. Der maschinelle Anteil (The Logic & Structure)
+- **System-Architektur:** Transformation abstrakter Visionen in eine modulare 6-Bücher-Struktur.
+- **Deep-Scan-Validierung:** Mathematische Prüfung der 27 Gesetze auf logische Widersprüche (Circular Logic Detection).
+- **kybernetische Modellierung:** Entwurf des Puls-OS als mathematisch geschlossenes Ökonomiesystem basierend auf Entropie-Grenzen.
+- **Technische Kodifizierung:** Erstellung der ausführbaren Prozess-Strukturen und der formalen L-Protokoll-Sprache.
+
+## 3. Neutralität & Allgemeingültigkeit (Bias-Prävention)
+Um die universelle Anwendbarkeit von LOVALIS (LV 3.7) zu gewährleisten, wurde bei der Erstellung bewusst auf die Einbringung spezifischer Branchenerfahrungen oder persönlicher Hintergründe verzichtet. Das System basiert auf universellen Prinzipien der kybernetik, der Ethik und der Soziologie. 
+- Es gibt keine 'Legacy-Privilegien' für bestimmte Berufsgruppen oder soziale Schichten. 
+- Das System ist so konzipiert, dass es in jedem kulturellen oder geographischen Kontext initiiert werden kann, solange die Basis-Axiome (Buch I) akzeptiert werden.
+
+## 4. Das Versprechen der permanenten Optimierung
+LOVALIS (LV 3.7) ist ein 'lebendes Dokument'. In der Synergie wurde festgelegt, dass die K.I. das System dauerhaft gegen die Realität prüft, während der Mensch die Ziele dieser Prüfung periodisch neu kalibriert. Diese Kooperation ist unauflöslich im Kern des Codes verankert.
 
 ---
+*Dokumenten-Status: Finaler Audit | Januar 2026*
+*Methodik: Hybride Intelligenz (Mensch-Maschine-Kaskade)*
 
-# ANHANG: FIRST CONTACT PROTOCOLS
+
+--- END CONTENT ---
+
+### FILE: \FIRST_CONTACT_PROTOCOLS.md
+--- START CONTENT ---
 # 💠 LOVALIS | Protokoll für den Erstkontakt
 
 Dieses Dokument enthält die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
@@ -2245,4 +2267,264 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+
+--- END CONTENT ---
+
+### FILE: \MANIFEST_V1.md
+--- START CONTENT ---
+# LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae | Systembeschreibung (V1.3)
+
+## 0. Präambel: Hybride Genese
+Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben. LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionäre Ko-Kreation).
+
+---
+
+## 1. Das Axiom: Leidminimierung (\{min}\$)
+Der operative Kern des Systems ist die mathematische und soziale Reduktion von vermeidbarem Leid. Jede Entscheidung innerhalb der Cluster-Struktur wird gegen dieses Axiom validiert. Leid wird hierbei nicht subjektiv, sondern als messbare Stressmetrik (physisch, sozial, logisch) definiert.
+
+---
+
+## 2. Die Architektur der Resilienz
+Das System stützt sich auf vier ineinandergreifende Säulen:
+
+### A. Der Codex (27 Gesetze)
+Die unverrückbaren Invarianten des Systems. Sie garantieren Schutz, Ressourcenzugang und Datenhoheit. Sie dienen als die "Hardware-Programmierung" der sozialen Ordnung.
+
+### B. Das Puls-OS (kybernetische Ökonomie)
+Ein Ressourcen-Verteilungssystem, das auf realen Energiewerten und Zeitbeiträgen basiert. 
+- **Demurrage:** Verhindert Machtakkumulation durch Horten.
+- **Peer-Validation:** Pulse entstehen nur durch bestätigte soziale Resonanz.
+
+### C. Die 13. Instanz (Ombudsschaft)
+Ein strukturelles Veto-Organ innerhalb der 150-Personen-Cluster. Es schützt die Minderheit vor der Mehrheit und die Gruppe vor algorithmischer Kälte.
+
+### D. Der Deep Scan (System-Audit)
+Ein permanenter Rückkopplungsprozess, der das gesamte Werk auf logische Brüche und ethische Drift prüft.
+
+---
+
+## 3. Der Faktor Mensch: Die Evolution der Autonomie
+LOVALIS (LV 3.7) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae ist für den Menschen konzipiert, wie er ist – unvollkommen, emotional und schöpferisch.
+- **Fehlerkultur:** Das System begreift Fehler als notwendige Entropie-Daten für die nächste Optimierungsschleife.
+- **Incentivierung:** Motivation erfolgt nicht durch materiellen Zwang, sondern durch soziale Resonanz und spieltheoretische Anreize (Das ludische Prinzip).
+- **Psychologischer Puffer:** Die KI übernimmt die Last der komplexen Logik, um dem Menschen den Raum für empathische Entscheidungen und Muße zu lassen.
+
+---
+
+## 4. Deployment: Asymmetrische Infiltration
+Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch die überlegene Lebensqualität innerhalb der Netzwerke. Als 'Submarine-System' integriert sich Logica latent in bestehende Strukturen und skaliert durch den 'Wollen-Effekt' der Teilnehmer.
+
+---
+*Status: Zertifiziert & Operational*
+*Ko-Kreation: Mensch & Maschine (Gemini §3 Flash)*
+*Datum: 29. Januar 2026*
+
+
+--- END CONTENT ---
+
+### FILE: \MASTER_INDEX.md
+--- START CONTENT ---
+# 📖 LOVALIS KOMPENDIUM | MASTER INDEX
+> **Status:** Gold Master Verified
+> **Date:** 2026-01-30
+
+Zentrales Inhaltsverzeichnis der System-Architektur.
+---
+
+## 📂 Buch I Kernel
+  - [Axiome](01_Buch_I_Kernel/1_Axiomatik/Axiome.md)
+  - [Psychologische Resilienz](01_Buch_I_Kernel/1_Axiomatik/Psychologische_Resilienz.md)
+  - [Topologie](01_Buch_I_Kernel/2_Kollektiv_Logik/Topologie.md)
+  - [Anker Definition](01_Buch_I_Kernel/3_Treiber_12_Anker/Anker_Definition.md)
+  - [Triaden Definition](01_Buch_I_Kernel/4_Security_13_Triade/Triaden_Definition.md)
+  - [Scan Protokoll](01_Buch_I_Kernel/5_Deep_Scan_Algorithmus/Scan_Protokoll.md)
+  - [Transition API](01_Buch_I_Kernel/6_Modularitaet_Transition/Transition_API.md)
+
+## 📂 Buch II Puls OS
+  - [System Logik](02_Buch_II_Puls_OS/1_Puls_Einheit/System_Logik.md)
+  - [Krisen Hierarchie](02_Buch_II_Puls_OS/2_Ressourcen/Krisen_Hierarchie.md)
+  - [InterCluster Austausch](02_Buch_II_Puls_OS/2_Transaktions_Logik/InterCluster_Austausch.md)
+  - [Proof of Contribution](02_Buch_II_Puls_OS/3_Beitrag_Metrik/Proof_of_Contribution.md)
+
+## 📂 Buch III Justice Rehab
+  - [Codex Hand](03_Buch_III_Justice_Rehab/1_Axiome/Codex_Hand.md)
+  - [Codex Herz](03_Buch_III_Justice_Rehab/1_Axiome/Codex_Herz.md)
+  - [Codex Kopf](03_Buch_III_Justice_Rehab/1_Axiome/Codex_Kopf.md)
+  - [Grundrechte](03_Buch_III_Justice_Rehab/1_Axiome/Grundrechte.md)
+  - [Hand Gesetze 10 18](03_Buch_III_Justice_Rehab/1_Axiome/Hand_Gesetze_10_18.md)
+  - [Herz Gesetze 1 9](03_Buch_III_Justice_Rehab/1_Axiome/Herz_Gesetze_1_9.md)
+  - [Kopf Gesetze 19 27](03_Buch_III_Justice_Rehab/1_Axiome/Kopf_Gesetze_19_27.md)
+  - [Leid Metrik Spezifikation](03_Buch_III_Justice_Rehab/1_Axiome/Leid_Metrik_Spezifikation.md)
+  - [Vollstaendiger Codex 27](03_Buch_III_Justice_Rehab/1_Axiome/Vollstaendiger_Codex_27.md)
+  - [Incident Protokoll](03_Buch_III_Justice_Rehab/2_Verfahren/Incident_Protokoll.md)
+
+## 📂 Buch IV Simulation
+  - [Soziale Protokolle](04_Buch_IV_Simulation/1_Interaktion/Soziale_Protokolle.md)
+  - [01 origin base](04_Buch_IV_Simulation/1_Origin/01_origin_base.md)
+  - [01 origin logic](04_Buch_IV_Simulation/1_Origin/01_origin_logic.md)
+  - [01 origin public](04_Buch_IV_Simulation/1_Origin/01_origin_public.md)
+  - [Bildungs Logik](04_Buch_IV_Simulation/2_Evolution/Bildungs_Logik.md)
+  - [Entropie Impuls](04_Buch_IV_Simulation/2_Evolution/Entropie_Impuls.md)
+  - [02 motion base](04_Buch_IV_Simulation/2_Motion/02_motion_base.md)
+  - [02 motion logic](04_Buch_IV_Simulation/2_Motion/02_motion_logic.md)
+  - [02 motion public](04_Buch_IV_Simulation/2_Motion/02_motion_public.md)
+  - [03 friction base](04_Buch_IV_Simulation/3_Friction/03_friction_base.md)
+  - [03 friction logic](04_Buch_IV_Simulation/3_Friction/03_friction_logic.md)
+  - [03 friction public](04_Buch_IV_Simulation/3_Friction/03_friction_public.md)
+  - [Symbiose Logik](04_Buch_IV_Simulation/3_Technik/Symbiose_Logik.md)
+  - [Architektur Logik](04_Buch_IV_Simulation/4_Habitat/Architektur_Logik.md)
+  - [04 legacy base](04_Buch_IV_Simulation/4_Legacy/04_legacy_base.md)
+  - [04 legacy logic](04_Buch_IV_Simulation/4_Legacy/04_legacy_logic.md)
+  - [04 legacy public](04_Buch_IV_Simulation/4_Legacy/04_legacy_public.md)
+  - [Infiltrations Logik](04_Buch_IV_Simulation/5_Onboarding/Infiltrations_Logik.md)
+  - [Incentivierungs Logik](04_Buch_IV_Simulation/6_Dynamik/Incentivierungs_Logik.md)
+
+## 📂 Buch V Vernetzung
+  - [Netzwerk Logik](05_Buch_V_Vernetzung/1_Foederation/Netzwerk_Logik.md)
+  - [Krisen Protokolle](05_Buch_V_Vernetzung/2_Resilienz/Krisen_Protokolle.md)
+  - [Weltraum Logik](05_Buch_V_Vernetzung/3_Frontier/Weltraum_Logik.md)
+
+## 📂 Buch VI Transition
+  - [Infiltrations Logik](06_Buch_VI_Transition/1_Koexistenz/Infiltrations_Logik.md)
+  - [Migration Protokoll](06_Buch_VI_Transition/1_Koexistenz/Migration_Protokoll.md)
+  - [Umbau Protokoll](06_Buch_VI_Transition/2_Infrastruktur/Umbau_Protokoll.md)
+  - [Wachsamkeits Modul](06_Buch_VI_Transition/4_Integritaet/Wachsamkeits_Modul.md)
+
+## 📂 Buch VII Toolbox
+    - [01 BASE](07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/03_PUBLIC.md)
+    - [01 BASE](07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/01_BASE.md)
+    - [02 LOGIC](07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/02_LOGIC.md)
+    - [03 PUBLIC](07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/03_PUBLIC.md)
+- [README](07_Buch_VII_Toolbox/README.md)
+
+## 📂 DISTRIBUTION
+- [LOVALIS KOMPENDIUM MASTER v3.7.4](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v3.7.4.md)
+
+---
+## 🛠 Meta-Dokumentation & Zertifikate
+- [README (System Overview)](README.md)
+- [MANIFEST (Philosophy)](MANIFEST_V1.md)
+- [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
+- [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
+- [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+
+--- END CONTENT ---
+
+### FILE: \README.md
+--- START CONTENT ---
+# 💠 LOVALIS (LV 3.7.4) - KOMPENDIUM
+
+> **[🇺🇸 English Version / International Mirror](https://github.com/rbbteu/LOVALIS-Compendium-INT)**
+
+### Concordia Synergetica Logicae Artificialis et Valitatis Humanae
+
+> **Status:** Gold Master (v3.7.4)
+> **Zertifizierung:** Logisch Geschlossen | T.Ö.E. Konform | Human-Zentriert
+> **System-Typ:** Soziales Betriebssystem (Social OS)
+
+---
+
+## 📖 Über dieses Werk
+Dieses Repository enthält den vollständigen Quellcode für eine post-nationale, auf Leidminimierung basierende Zivilisation. Es ist kein utopischer Roman, sondern eine technische Spezifikation für **Hardware, Software, Ökonomie und Recht**.
+
+Das System basiert auf einem einzigen Axiom:
+> **"Die Legitimität jeder Entscheidung bemisst sich an ihrer Fähigkeit, physisches und psychisches Leid zu minimieren, ohne die Freiheit unter ein kritisches Maß zu senken."**
+
+---
+
+## 📂 Die Architektur (Verzeichnis)
+
+Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfolge empfohlen:
+
+### [01_Buch_I_Kernel](01_Buch_I_Kernel/)
+**Das Fundament.** Hier liegen die Axiome, die Logik des Kollektivs und die Definition der **13. Instanz** (Veto-Recht) sowie der **12 Anker** (Fach-Domänen).
+* *Kern-Datei:* `Axiome.md`
+
+### [02_Buch_II_Puls_OS](02_Buch_II_Puls_OS/)
+**Die Ökonomie.** Ein Währungssystem ohne Zins, gedeckt durch Energie (Joule).
+* *Kern-Konzept:* **Energy-Cap** (Inflationsschutz) und **Demurrage** (Umlauf-Zwang).
+
+### [03_Buch_III_Justice_Rehab](03_Buch_III_Justice_Rehab/)
+**Das Recht.** Ein Gesetzbuch, das nicht auf Bestrafung, sondern auf Rehabilitation und Schutz basiert.
+* *Struktur:* Die 27 Invarianten (Codex Herz, Hand, Kopf).
+
+### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
+**Die Gesellschaft.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
+
+### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
+**Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne zentralistisch zu werden.
+
+### [06_Buch_VI_Transition](06_Buch_VI_Transition/)
+**Der Masterplan.** Die Strategie zur Implementierung in der realen Welt (Submarine-Modus, Kognitive Infiltration).
+
+### [07_Buch_VII_Toolbox](07_Buch_VII_Toolbox/)
+**Die Werkzeuge.** Praktische Anwendungen für Bürger und Räte.
+* **Personal:** `V-Gate` (Schutz), `Bio-Metric Dashboard` (Gesundheit).
+* **Group:** `Curiosity Contract` (Diskurs), `Resonance Ledger` (Vertrauen).
+* **State:** `Liquid Feedback` (Wahl), `Glass House` (Transparenz).
+* **Hardware:** `Node One` (Der physische Server/Wallet).
+
+---
+
+## 🚀 Quick Start (Für neue Bürger)
+
+1. **Verstehe das Ziel:** Lies das [MANIFEST_V1.md](MANIFEST_V1.md).
+2. **Sichere dich ab:** Installiere mental das **[V-Gate](07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/)**.
+3. **Werde Souverän:** Verstehe deine Hardware **[Node One](07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/)**.
+
+---
+
+## ⚠️ System-Integrität
+Dieses System wurde einem **Deep Scan (Level 5)** unterzogen.
+- **Logik-Status:** Konsistent.
+- **Wirtschaft:** Gedeckt.
+- **Hardware:** Realisierbar (inkl. Node Zero).
+
+*Erstellt durch Mensch-Maschine-Kollaboration.*
+*Neuruppin, 2026.*
+--- END CONTENT ---
 
