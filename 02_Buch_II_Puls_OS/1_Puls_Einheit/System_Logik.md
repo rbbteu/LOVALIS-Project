@@ -1,19 +1,22 @@
-﻿# ⚡ SYSTEM: PULS-OS LOGIK (v3.7.2)
-## Die Kybernetische Wertschöpfung
+﻿# Buch II | Kapitel §1: Die puls-kybernetik (Erweiterte Spezifikation)
 
-Das Puls-OS ist kein Finanzsystem, sondern ein Energie-Allokations-System.
+## I. Mathematische Absicherung
+- Kopplung der Geldmenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
+- Implementierung der progressiven Demurrage (§14 Verbot der Verschwendung/Hortung).
+- Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
 
-### 1. Das Energy-Cap (Inflations-Schutz)
-Im Gegensatz zu Fiat-Puls kann Puls nicht "gedruckt" werden.
-- **Total Supply:** Die Gesamtmenge an zirkulierendem Puls entspricht exakt der Summe der gespeicherten und erzeugten Energie im Cluster (gemessen in kWh).
-- **Hard Link:** 1 Puls ~ 1 kWh (Referenzwert, dynamisch angepasst an Effizienz).
+## II. Governance-Koppelung (Die Hand-Anker)
+- **HD-05 & HD-06:** Definieren die physische Basis für die Puls-Emission.
+- **KP-09 (Budget):** Steuert die Multiplikatoren für den Beitrag (Proof of Contribution).
+- **KP-10 (Recht):** überwacht, dass die Puls-Allokation niemals §10 (Souveränität) verletzt.
 
-### 2. Die Verteilung (Spherical Link)
-Wie kommt Puls zum Menschen?
-- **Quelle:** Der Bürger leistet Arbeit.
-- **Bewertung:** Das Tool **[Spherical Compensation]** berechnet den Wert basierend auf T.Ö.E.
-- **Auszahlung:** Der Cluster überweist den Anteil aus dem Energie-Pool auf den **[Node One]** des Bürgers.
+## III. Systemischer Workflow
+1. Erfassung der Energie-Kapazität (Anker Energie).
+2. Berechnung der emittierbaren Pulse (Kernel-Algorithmus).
+3. Verteilung der Basis-Allokation (P_base) an alle 150 Bürger (§10-12).
+4. Monitoring des Umlaufs und Rückfluss durch Demurrage.
 
-### 3. Der Kreislauf
-- Bürger zahlt Puls für Ressourcen (Nahrung, Wohnraum).
-- Dieser Puls fließt zurück in den Cluster-Pool zur Wartung der Infrastruktur (Hand-Domäne).
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.

@@ -1,14 +1,11 @@
-﻿# Buch I | Kapitel §5: Der Deep Scan Algorithmus (Selbstheilung)
+﻿# Buch I | Kapitel §5: Der Deep Scan (Erweiterte Logik)
 
-## I. Technische Spezifikation
-- Kaskadierte Validierung: Rekursive Prüfung aller Modul-Abhängigkeiten.
-- Rollback-Mechanismus: Wiederherstellung von S_stable bei Detektion eines 'Logical Breaks'.
-- Traceability: Rückverfolgung jeder Entscheidung bis zu den Kernel-Axiomen (T.Ö.E.).
+## I. Kaskadierte Gesetzesprüfung
+Ein Deep Scan prüft bei jeder Systemänderung nicht nur die technische Machbarkeit, sondern die Konformität mit allen 27 Gesetzen.
 
-## II. Expertenübersetzung
-- Fehler als System-Input: Proaktive Revision statt reaktiver Schadensbegrenzung.
-- Transparenzgebot: Alle Scan-Ergebnisse sind öffentlich und unveränderlich (Audit-Log).
+1. **Axiom-Check:** Verletzt die Änderung den T.Ö.E.-Filter?
+2. **Codex-Check:** Verletzt die Änderung eines der 27 Gesetze (Check §1 bis §27)?
+3. **Interoperabilitäts-Check:** Verursacht die Lösung für ein Gesetz (z.B. §12 Energie) ein Leid in einem anderen Bereich (z.B. §13 Ökologie)?
 
-## III. Laienverständnis
-- Beispiel 'Wunder-Dünger': Das System stoppt schädliche Neuerungen automatisch, sobald erste negative Signale auftreten, und kehrt zum sicheren Zustand zurück.
-- Kernbotschaft: Ein System, das Fehler zugibt und korrigiert, bevor sie wehtun.
+## II. Rekursions-Tiefe
+Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erhöhung ({inc}$) besteht.

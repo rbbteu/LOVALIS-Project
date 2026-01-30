@@ -1,4 +1,7 @@
 ﻿# 💠 LOVALIS (LV 3.7.4) - KOMPENDIUM
+
+> **[🇺🇸 English Version / International Mirror](https://github.com/rbbteu/LOVALIS-Compendium-INT)**
+
 ### Concordia Synergetica Logicae Artificialis et Valitatis Humanae
 
 > **Status:** Gold Master (v3.7.4)
