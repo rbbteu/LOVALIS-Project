@@ -353,7 +353,7 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
@@ -1975,6 +1975,7 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 *Datum: 29. Januar 2026*
 
 --- END ROOT-FILE: MANIFEST_V1.md ---
+
 
 
 

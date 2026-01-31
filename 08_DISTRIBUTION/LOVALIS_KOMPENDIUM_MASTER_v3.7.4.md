@@ -543,7 +543,7 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
@@ -2245,6 +2245,7 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+
 
 
 

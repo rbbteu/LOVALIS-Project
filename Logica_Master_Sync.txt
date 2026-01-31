@@ -1,39 +1,11 @@
-﻿### LOGICA MASTER SYNC - IST-ZUSTAND v4.0.0 ###
-Zeitpunkt: 01/31/2026 08:19:42
+﻿### LOGICA MASTER SYNC - v4.0.0 ###
 --- START DATEI: Axiome.md ---
 Pfad: C:\LOVALIS-Kompendium\01_Buch_I_Kernel\1_Axiomatik\Axiome.md
 
-# Buch I | Kapitel §1: Die Axiomatik der Vernunft
-
-## I. Technische Spezifikation (System-Ebene)
-Das Logica-OS basiert auf der **Zustands-Validierungs-Funktion (ZVF)**. Jede Operation (Op) ist nur zulässig, wenn der T.Ö.E.-Vektor den Wert §1 (True) zurückgibt:
-V_toe(Op, t) = (T >= n_min) && (Ö(t...t+175) <= E_gen(t...t+175)) && (L_inc == §0)
-
-- **T (Technik):** Effizienz-Koeffizient n. Minimierung von Ressourcen-Entropie.
-- **Ö (Ökologie):** Regenerationsrate E_gen. Verbrauch darf Nachwuchs nicht überschreiten.
-- **E (Ethik):** Leid-Metrik L. Jede Steigerung (L_inc) löst einen Kernel-Panic (Veto) aus.
-
-## II. Expertenübersetzung (Governance-Ebene)
-Der T.Ö.E.-Filter fungiert als deterministische Verfassung. Er entzieht ethische Grundfragen der menschlichen Willkür. Ein wirtschaftlicher Vorteil darf niemals gegen ökologische Instabilität oder individuelles Leid aufgewogen werden.
-
-## III. Laienverständnis (Bürger-Ebene)
-Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgesetzt, wenn sie sicher (T), sauüber (Ö) und freundlich (E) sind.
-*Beispiel:* Eine Fabrik wird blockiert, wenn sie zwar Puls-Einheiten bringt, aüber Menschen krank macht oder die Natur zerstört.
-
-## III. Der Temporale Faktor (t+175)
-Jede Operation wird einer 175-jährigen Simulation unterzogen (7 Generationen). 
-Ein positiver T.Ö.E.-Vektor ist nur valide, wenn die ökologische Regenerationsrate (Ö) über diesen Zeitraum stabil bleibt oder steigt. Kurzfristige Gewinne auf Kosten der Entropie sind systemisch blockiert.
-
-
-## III. Die Temporale ZVF (t+175)
-Die Erhaltung der System-Integrität erfordert die Eliminierung der menschlichen Zeitpräferenz.
-- **Mathematik:** V_toe(Op, t) = (T >= n_min) && (Integration[t, t+175](Ö_rate - V_rate) >= 0).
-- **Implementierung:** Jede Operation ist eine Wette auf die Zukunft. Die ZVF validiert diese Wette gegen das Gaia-Modell.
-- **Philosophie:** Wir sind nicht Erben unserer Ahnen, sondern Leihnehmer unserer Nachkommen.
-## IV. Die Bio-Integral-Klausel
-Flora und Fauna sind aktive Stakeholder des Systems. 
-- **L-Metrik Erweiterung:** Nicht-menschliches Leid wird mit dem Koeffizienten c_i in die ZVF eingerechnet.
-- **Stakeholder-Status:** Die Integrität der Biosphäre ist gleichrangig zur kognitiven Integrität des Menschen (§1).
+## IV. Die Bio-Integral-Klausel (v4.0.0)
+Nicht-menschliche Organismen sind aktive Stakeholder.
+- **Formel:** $L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$.
+- **Veto:** Jede Op mit $L_{inc} > 0$ triggert einen Kernel-Panic.
 
 --- ENDE DATEI: Axiome.md ---
 
@@ -249,21 +221,9 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 --- START DATEI: 02_LOGIC.md ---
 Pfad: C:\LOVALIS-Kompendium\02_Buch_II_Puls\02_LOGIC.md
 
-# Buch II | §2: Das Puls-OS (Zentrale Logik)
-# Version: v3.8.2 (Sanitized & LaTeX Fixed)
-
 ## I. Die Energetische Kernformel
-Die Generierung von Pulsen ($P_{gen}$) unterliegt der strengen Zustands-Validierung:
-$$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L$$
-
-## II. Experten-Parameter
-1. **Delta T (Technik):** Steigerung der thermodynamischen Effizienz.
-2. **Delta Ö (Ökologie):** Ressourcen-Regeneration auf Basis des 175-Jahre-Vektors (7 Generationen).
-3. **Delta L (Ethik):** Jegliche Leid-Induktion ($L_{inc} > 0$) führt zum sofortigen Abbruch der Generierung.
-
-## III. Entropie-Bremse (Demurrage)
-Um Machtkonzentration zu verhindern, verlieren Pulse über Zeit an energetischem Potenzial:
-$$P(t) = P(0) \cdot e^{-k \cdot t}$$
+$$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L_{total}$$
+Puls-Energie ist die Quantifizierung von System-Harmonie. Wer Muße pflegt ($B_{cog} > 0.3$), generiert Resilienz-Pulse.
 
 --- ENDE DATEI: 02_LOGIC.md ---
 
@@ -446,13 +406,14 @@ Pfad: C:\LOVALIS-Kompendium\03_Buch_III_Gerechtigkeit\1_Axiome\Hand_Gesetze_10_1
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
 ---
 ### VERFASSUNGS-BINDUNG
 Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz** gestoppt werden, sofern eine Verletzung des Axioms der **Leidminimierung** nachgewiesen wird.
+
 
 
 --- ENDE DATEI: Hand_Gesetze_10_18.md ---
@@ -804,13 +765,14 @@ Pfad: C:\LOVALIS-Kompendium\03_Buch_III_Gerechtigkeit\Hand_Gesetze_10_18.md
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
 ---
 ### VERFASSUNGS-BINDUNG
 Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz** gestoppt werden, sofern eine Verletzung des Axioms der **Leidminimierung** nachgewiesen wird.
+
 
 
 --- ENDE DATEI: Hand_Gesetze_10_18.md ---
@@ -1353,15 +1315,8 @@ In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine techni
 --- START DATEI: 02_LOGIC.md ---
 Pfad: C:\LOVALIS-Kompendium\05_Buch_V_Vernetzung\02_LOGIC.md
 
-# Buch V | §2: Habitat-Integrität & Autarkie
-
-## I. Bio-Integral-Souveränität
-In geschlossenen Systemen ist die Biosphäre kein Gut, sondern ein Stakeholder.
-- **Koppelung:** Delta L (non-human) ist direkt an die Sauerstoff- und Nährstoffzyklen gebunden.
-- **Formel:** P_gen = Delta T + Delta Ö(local) - (Delta L_human + Delta L_bio).
-
-## II. Interne Aufgaben-Rotation
-Da physische Inter-Cluster-Rotation in Isolation unmöglich ist, wird die kognitive Diversität durch den 'Triaden-Shift' gewahrt. Alle 16 Monate wechselt die Zuständigkeit innerhalb der Triade (Herz, Hand, Kopf), um monopolistische Wissensstrukturen zu verhindern.
+## §1.1 Das Isolation-Axiom
+Jeder Cluster ist ein autarker Sub-Kernel. Bei Signal-Verlust (Deep Space / Krisenfall) übernimmt die lokale Node One die volle Souveränität ohne Logik-Bruch.
 
 --- ENDE DATEI: 02_LOGIC.md ---
 
@@ -3133,7 +3088,7 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
@@ -4840,6 +4795,7 @@ Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 
 
 
+
 --- ENDE DATEI: LOVALIS_KOMPENDIUM_MASTER_v3.7.4.md ---
 
 --- START DATEI: ABOUT_PROVENANCE.md ---
@@ -5266,7 +5222,7 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Biosphäre (Stakeholder)belastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
@@ -6888,6 +6844,7 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 *Datum: 29. Januar 2026*
 
 --- END ROOT-FILE: MANIFEST_V1.md ---
+
 
 
 
