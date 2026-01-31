@@ -1,7 +1,7 @@
 ﻿# LOVALIS KOMPENDIUM - GOLD MASTER
 **System:** Logica | **Kernel:** v4.0.1 (Stable)
 **Date:** 2026-01-31
-**Status:** COMPLETE COMPENDIUM BUILD (Fachbuch-Level)
+**Status:** FINAL DISTRIBUTION BUILD
 
 ---
 <p align="center">
@@ -1360,10 +1360,6 @@ Um die "Axiomatische Singularität" (Reichtums-Konzentration) zu verhindern, unt
 
 > **Formel-Referenz:** Siehe Kapitel §2 (Logic) für die exakte Berechnung der Demurrage-Kurve ($).
 
-
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
-
 ## IV. Bio-Integrale Kopplung
 Die Gesamtmenge der verfügbaren Pulse im System ist dynamisch an den ökologischen Zustand des Clusters gekoppelt (siehe ZVF). Wenn die Biosphäre leidet, sinkt die Kaufkraft, was den Konsum automatisch drosselt.
 
@@ -1397,20 +1393,12 @@ Um den Fluss zu garantieren, unterliegt jeder nicht-investierte Puls einer negat
 - **Die Rate ($):** ca. -5% bis -7% pro Jahr (dynamisch gekoppelt an die Cluster-Aktivität).
 - **Effekt:** Wer 1000 P unter das Kopfkissen legt, hat nach einem Jahr nur noch 930 P. Dies erzeugt einen massiven Anreiz, den Puls *sofort* wieder in den Kreislauf zu geben (Investition in andere Menschen, Infrastruktur oder Kunst).
 
-
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
-
 ## IV. Bio-Integrale Kopplung (The Green Veto)
 Die Gesamtmenge der im Umlauf befindlichen Pulse ({puls}$) ist an den ökologischen Zustandsvektor ({bio}$) gekoppelt.
 > **Regel:** Wenn {bio}$ sinkt (Umweltzerstörung), steigt die Demurrage oder sinkt die P-Generierung.
 Das System "bremst" den menschlichen Konsum physikalisch ab, bevor er die Biosphäre kollabieren lässt.
 
 ---
-
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
-
 
 
 ---
@@ -1514,6 +1502,42 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 
 
+
+---
+
+# Buch III | Das Puls-Betriebssystem
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+Â§1: Die Physik der WertschÃ¶pfung
+
+## I. Das Ende der Fiat-Illusion
+Historische WÃ¤hrungssysteme (Fiat) basierten auf dem Prinzip der **Akkumulation**. Geld erfÃ¼llte zwei widersprÃ¼chliche Funktionen: Tauschmittel (muss flieÃŸen) und Wertspeicher (muss stehen). Dies fÃ¼hrte zwangslÃ¤ufig zur **Axiomatischen SingularitÃ¤t** (Reichtum zieht mehr Reichtum an, bis das System kollabiert).
+
+Das Puls-OS lÃ¶st diesen Widerspruch durch die Entkopplung:
+1.  **Puls (P):** Ein reines Fluss-Medium (Energie). Es kann nicht dauerhaft gespeichert werden.
+2.  **Resonanz (R):** Ein Speicher-Medium (Reputation). Es wÃ¤chst durch Investition, nicht durch Horten.
+
+## II. Die Einheit: Der Puls (P)
+Der Puls ist definiert als energetisches Ã„quivalent einer **system-dienlichen Arbeitsleistung**.
+> **Formel:** 1 P â‰ˆ $\Delta E_{human} + \Delta I_{cognitive}$ (Normiert auf 1 Stunde Durchschnittsleistung).
+
+Anders als Geld entsteht Puls nicht durch Kredit (Schuld), sondern durch **Nachweis (Proof of Contribution)**. Ein Puls existiert erst, wenn eine Leistung (z.B. Pflege, Bau, Code) erbracht und vom Cluster validiert wurde.
+
+## III. Demurrage: Die Mathematik des Verfalls
+Um den Fluss zu garantieren, unterliegt jeder nicht-investierte Puls einer negativen Zinsrate (Demurrage).
+- **Logik:** Energie in einer Batterie entlÃ¤dt sich mit der Zeit. Brot schimmelt. Warum sollte WÃ¤hrung unsterblich sein?
+- **Die Rate ($D_t$):** ca. -5% bis -7% pro Jahr (dynamisch gekoppelt an die Cluster-AktivitÃ¤t).
+- **Effekt:** Wer 1000 P unter das Kopfkissen legt, hat nach einem Jahr nur noch 930 P. Dies erzeugt einen massiven Anreiz, den Puls *sofort* wieder in den Kreislauf zu geben (Investition in andere Menschen, Infrastruktur oder Kunst).
+
+<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
+
+## IV. Bio-Integrale Kopplung (The Green Veto)
+Die Gesamtmenge der im Umlauf befindlichen Pulse ($M_{puls}$) ist an den Ã¶kologischen Zustandsvektor ($Z_{bio}$) gekoppelt.
+> **Regel:** Wenn $Z_{bio}$ sinkt (UmweltzerstÃ¶rung), steigt die Demurrage oder sinkt die P-Generierung.
+Das System "bremst" den menschlichen Konsum physikalisch ab, bevor er die BiosphÃ¤re kollabieren lÃ¤sst. Die Natur hat ein Veto-Recht im Geldbeutel.
+
+---
 
 ---
 
@@ -2133,10 +2157,6 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
-
-
 
 ---
 
@@ -2237,10 +2257,6 @@ Kapitel §1: Die Föderation der Cluster (Netzwerk-Logik)
 - Polyzentrische Governance statt Nationalstaatlichkeit.
 - Systemische Prävention von Machtkonzentration durch globale Puls-Demurrage.
 - Inter-Cluster-Mediation als Ersatz für klassische Diplomatie/Krieg.
-
-
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
 
 ## III. Laienverständnis
 - Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gültig. 
@@ -4334,10 +4350,6 @@ Um Willkür auszuschließen, wird jede Ressourcen-Allokation durch drei Filterka
 Wir leugnen nicht die menschlichen Triebe (Gier, Macht, Ego). Wir bauen ein System, das diese Triebe energetisch unrentabel macht.
 - **Gegen Machtkonzentration:** Die **Axiomatische Singularität** (Diktatur) wird durch die geografische Rotation der Triade (alle 4 Jahre) und die fraktale Isolation der Cluster verhindert. Niemand herrscht dauerhaft.
 - **Gegen Gier:** Das Puls-OS nutzt **Demurrage** (negativer Zins). Wer hortet, verliert. Wer beiträgt (Proof of Contribution), gewinnt Resonanz. Reichtum definiert sich durch Fluss, nicht durch Speicherstand.
-
-
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
-
 
 ### 4. Die Bio-Integral-Klausel (The Silent Stakeholders)
 Wir beenden die Ära des Anthropozentrismus. Die Biosphäre ist kein "Gut" zum Schützen, sondern ein aktiver Partner im System. Wenn der Wald "leidet" (Entropie-Anstieg), reagiert das Puls-OS mit einer automatischen Drosselung der menschlichen Energieflüsse. Der Wald hat ein Veto.
