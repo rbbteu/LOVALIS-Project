@@ -1,4 +1,6 @@
-﻿
+﻿<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
 # Buch III | Kapitel §1: Die Verfassungs-Axiome (Die Grundgesetze)
@@ -16,6 +18,7 @@
 ## III. Laienverständnis
 - Beispiel 'Fehlerbehebung': Wer Regeln bricht, wird nicht weggesperrt, sondern bekommt Hilfe, den Schaden wiedergutzumachen und die Ursache zu finden.
 - Kernbotschaft: Sicherheit durch Gemeinschaft und Verständnis statt durch Drohung.
+
 
 
 

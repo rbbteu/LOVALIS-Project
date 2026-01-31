@@ -1,4 +1,6 @@
-﻿# Buch IV | Kapitel §1: Die Cluster-Dynamik (Soziale Protokolle)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Buch IV | Kapitel §1: Die Cluster-Dynamik (Soziale Protokolle)
 
 ## I. Technische Spezifikation
 - Plenum-Protokoll: Zyklische Synchronisation (§28 Tage) von Mensch und Systemdaten.
@@ -13,6 +15,7 @@
 ## III. Laienverständnis
 - Beispiel 'Veto-Moment': Schnelle, unbürokratische Hilfe bei persönlichen Problemen durch direkte Anker-Kopplung.
 - Kernbotschaft: Eine Gemeinschaft, die dich sieht, dich hört und sich mit dir entwickelt.
+
 
 
 

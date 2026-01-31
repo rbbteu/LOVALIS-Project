@@ -1,4 +1,6 @@
-﻿# 🤝 TOOL: CONFLICT-SOLVER (LOGIC)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🤝 TOOL: CONFLICT-SOLVER (LOGIC)
 ## Die De-Eskalations-Kaskade
 
 Der algorithmische Prozess des Conflict-Solvers folgt einer festen Logik, um emotionale Eskalationsschleifen zu durchbrechen.
@@ -22,6 +24,7 @@ Kann keine Einigung erzielt werden, wird die 13. Instanz (Ombudsperson) als asyn
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
 
 
 

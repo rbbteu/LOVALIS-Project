@@ -1,4 +1,6 @@
-﻿# 🛡️ STRATEGIE: WACHSAMKEIT
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# 🛡️ STRATEGIE: WACHSAMKEIT
 ## Schutz vor Kontamination
 
 Das größte Risiko für LOVALIS ist nicht der Staat, sondern das Einschleppen alter Denkmuster (Gier, Machtdurst) durch neue Mitglieder.
@@ -11,6 +13,7 @@ Neue Mitglieder erhalten nicht sofort vollen Schreibzugriff auf das *Liquid Feed
 
 ### Der Not-Aus (Circuit Breaker)
 Sollte ein Cluster durch interne Machtkämpfe das Axiom der Leidminimierung dauerhaft verletzen, wird er vom globalen Föderations-Netzwerk isoliert (kein Puls-Austausch mehr), bis er sich durch einen *Deep Scan* saniert hat.
+
 
 
 

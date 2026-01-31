@@ -1,4 +1,6 @@
-﻿# Buch IV | Kapitel §4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Buch IV | Kapitel §4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
 
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
 Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
@@ -17,6 +19,7 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
     - Dein Haus 'atmet' mit dir. Es ist hell, gesund (Schadstofffreiheit) und produziert mehr Energie, als es verbraucht.
     - Der Garten vor deiner Tür ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen §149 Nachbarn teilst und gestaltest.
 - **Kernbotschaft:** Wir bauen Nester, keine Käfige. Dein Zuhause schützt dich und die Natur gleichzeitig.
+
 
 
 

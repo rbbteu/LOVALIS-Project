@@ -1,4 +1,6 @@
-﻿
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
 # Buch III | Kapitel 1.3: Detaillierte Kodifizierung (Teil §1: Herz-Domäne)
@@ -47,6 +49,7 @@
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
 - **Expertenübersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, würdevollen übergangs.
 - **Laienverständnis:** Auch am Ende deines Weges lässt dich das System nicht allein und respektiert deine Entscheidung.
+
 
 
 

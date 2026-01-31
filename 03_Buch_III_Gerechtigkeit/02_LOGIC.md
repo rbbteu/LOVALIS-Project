@@ -1,4 +1,6 @@
-﻿# Buch III | §2: Algorithmische Gerechtigkeit (v3.8.0)
+﻿<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# Buch III | §2: Algorithmische Gerechtigkeit (v3.8.0)
 
 ## I. Das Prinzip der Resonanz-Heilung
 Ein logischer Bruch (LB) wird als systemische Dissonanz behandelt. Die Sanktion dient ausschließlich der Fehlerkorrektur.
@@ -10,6 +12,7 @@ Ein logischer Bruch (LB) wird als systemische Dissonanz behandelt. Die Sanktion 
 ## III. Restorative Proof (RP) Mathematik
 Die Last der Wiedergutmachung folgt der Formel: RP = Delta L * Faktor_Entropie.
 Der Ausgleich erfolgt durch Proof of Contribution (PoC), der direkt dem geschädigten Knoten zugutekommt.
+
 
 
 

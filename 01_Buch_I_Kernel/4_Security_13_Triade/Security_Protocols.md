@@ -1,4 +1,6 @@
-﻿# Security Protocol: White Silence (Hibernation)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Security Protocol: White Silence (Hibernation)
 
 ## I. Aktivierung
 Bei Detektion eines externen Aggressions-Vektors (kognitiv/physisch > 90%) versiegelt sich Node Zero automatisch. 
@@ -26,6 +28,7 @@ In der Hibernation reduziert das System seine Entropie-Signatur auf ein Minimum.
 
 ### 3. Reaktivierungs-Konsens
 Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz der rotierenden Triaden-Mitglieder garantiert, dass keine lokale Machtgruppe den Schlüssel gewaltsam konsolidieren kann.
+
 
 
 

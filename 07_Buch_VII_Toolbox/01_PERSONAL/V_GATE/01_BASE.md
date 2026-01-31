@@ -1,4 +1,6 @@
-﻿# 🛡️ TOOL: V-GATE (BASE) - Version: Pro 3.7
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🛡️ TOOL: V-GATE (BASE) - Version: Pro 3.7
 ## Das Fundament der Kognitiven Firewall
 
 Das V-Gate ist die operative Umsetzung des Axioms der Leidminimierung auf individueller Ebene. Es fungiert als bidirektionaler Filter:
@@ -15,6 +17,7 @@ Das V-Gate ist die operative Umsetzung des Axioms der Leidminimierung auf indivi
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
 
 
 

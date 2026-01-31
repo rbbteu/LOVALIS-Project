@@ -1,4 +1,6 @@
-﻿# Buch V | Grundlagen der Expansion
+﻿<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch V | Grundlagen der Expansion
 # Version: v3.8.3-EXPANSION
 # Status: Deep-Scan Validated (Axiom of Autarky)
 
@@ -7,6 +9,7 @@ Jeder Cluster muss technisch in der Lage sein, ohne externe Energiezufuhr oder D
 
 ## §1.2 Die physische Unausweichlichkeit
 In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine technische Notwendigkeit (Lebenserhaltung). Konflikte sind als kritische Systemfehler zu behandeln.
+
 
 
 

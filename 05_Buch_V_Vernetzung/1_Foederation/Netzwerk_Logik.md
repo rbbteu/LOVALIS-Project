@@ -1,4 +1,6 @@
-﻿# Buch V | Kapitel §1: Die Föderation der Cluster (Netzwerk-Logik)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch V | Kapitel §1: Die Föderation der Cluster (Netzwerk-Logik)
 
 ## I. Technische Spezifikation
 - Peering-Protokoll: Direkte Cluster-zu-Cluster Kommunikation ohne Zentralinstanz.
@@ -13,6 +15,7 @@
 ## III. Laienverständnis
 - Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gültig. 
 - Kernbotschaft: Eine verbundene Menschheit ohne Grenzen, basierend auf geteilten Werten.
+
 
 
 

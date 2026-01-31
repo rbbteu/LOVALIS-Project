@@ -1,4 +1,6 @@
-﻿# 🏛️ TOOL: GLASS-HOUSE PROTOCOL (LOGIC)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🏛️ TOOL: GLASS-HOUSE PROTOCOL (LOGIC)
 ## Die Daten-Architektur der Machtkontrolle
 
 Das Protokoll überwacht nicht den Menschen, sondern die **Funktion**. Es unterscheidet streng zwischen der Person (Privat) und der Rolle (Öffentlich).
@@ -36,6 +38,7 @@ Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
 - **Transparenz-Dividende (TD):** Zugriffstiefe x Zeit x Entropie-Faktor = Puls-Transfer.
 - **V-Gate Kopplung:** Das V-Gate des Bürgers fungiert als Firewall-Interface. Es signalisiert jeden Auditversuch durch haptisches Feedback (Smart-Device).
 - **Missbrauchsschutz:** Ein Übermaß an Audits führt zur automatischen Suspendierung des Ratsmandats (Hand/Herz/Kopf).
+
 
 
 

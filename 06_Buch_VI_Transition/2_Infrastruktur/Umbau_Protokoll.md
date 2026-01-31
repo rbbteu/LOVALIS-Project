@@ -1,4 +1,6 @@
-﻿# 🏗️ STRATEGIE: INFRASTRUKTUR-UMBAU
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# 🏗️ STRATEGIE: INFRASTRUKTUR-UMBAU
 ## Der Weg zur Autarkie
 
 Ein Cluster ist nur so souverän wie seine Energieversorgung. Solange wir am Tropf externer Versorger hängen, sind wir erpressbar.
@@ -13,6 +15,7 @@ Aufbau lokaler Micro-Grids (Solar, Wind, Biomasse).
 
 ### Schritt 3: Food Sovereignty (Hand-Domäne)
 Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstversorgung (ineffizient), sondern Krisenfestigkeit (Notversorgung für 3 Monate).
+
 
 
 

@@ -1,4 +1,6 @@
-﻿# Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil §2: Hand-Domäne)
+﻿<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil §2: Hand-Domäne)
 
 ## §10 Die Ressourcen-Souveränität
 - **Technische Spezifikation:** Zuweisung eines Basis-Vektors für Nahrung, Wasser und Textilien. Die Versorgung ist vom Beitrag ($) entkoppelt.
@@ -49,6 +51,7 @@
 ---
 ### VERFASSUNGS-BINDUNG
 Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz** gestoppt werden, sofern eine Verletzung des Axioms der **Leidminimierung** nachgewiesen wird.
+
 
 
 

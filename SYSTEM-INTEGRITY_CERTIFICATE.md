@@ -1,4 +1,6 @@
-﻿# SYSTEM-INTEGRITY CERTIFICATE
+﻿<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# SYSTEM-INTEGRITY CERTIFICATE
 **Status:** GOLD MASTER VALIDATED
 **Version:** v4.0.1
 **Checksum-Logic:** Cascading Deep Scan (Passed)
@@ -10,6 +12,7 @@
 4. **Bio-Integral Compliance:** L_total metric active.
 
 Certified by: LOGICA-KERNEL-V4
+
 
 
 

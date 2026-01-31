@@ -1,4 +1,6 @@
-﻿# 📖 LOVALIS KOMPENDIUM | MASTER INDEX
+﻿<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# 📖 LOVALIS KOMPENDIUM | MASTER INDEX
 > **Status:** Gold Master Verified
 > **Date:** 2026-01-30
 
@@ -125,6 +127,7 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+
 
 
 

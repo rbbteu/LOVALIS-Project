@@ -1,4 +1,6 @@
-﻿# 🩺 TOOL: BIO-METRIC DASHBOARD (LOGIC)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🩺 TOOL: BIO-METRIC DASHBOARD (LOGIC)
 ## Der Vitalitäts-Algorithmus
 
 Der Algorithmus berechnet den täglichen **V-Score** (Vitalitäts-Index) aus drei Vektoren:
@@ -26,6 +28,7 @@ Steigt der $L_{index}$ über einen kritischen Schwellenwert (z.B. 3 Tage in Folg
 In v4.0.0 ist das Dashboard nicht mehr nur anthropozentrisch.
 - **Sensor-Input:** Integration von Biosphäre (Stakeholder)daten via Node One (Boden, Luft, Biota).
 - **Leid-Korrelation:** Wenn die lokale Biosphäre Stress-Signale (Entropie-Anstieg) zeigt, wird dies als Delta L_bio in die Puls-Formel des Nutzers eingerechnet.
+
 
 
 

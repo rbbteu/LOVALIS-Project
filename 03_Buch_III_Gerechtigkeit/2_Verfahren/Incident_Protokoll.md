@@ -1,4 +1,6 @@
-﻿
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
 # Buch III | Kapitel §2: Das Protokoll bei logischen Brüchen
@@ -16,6 +18,7 @@
 ## III. Laienverständnis
 - Beispiel 'Vandalismus': Reparatur der Hardware und Heilung der sozialen Ursache gehen Hand in Hand.
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.
+
 
 
 

@@ -1,4 +1,6 @@
-﻿
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
 # Buch III | Kapitel 1.5: Detaillierte Kodifizierung (Teil §3: Kopf-Domäne)
@@ -47,6 +49,7 @@
 - **Technische Spezifikation:** Automatischer Deep Scan des gesamten Codex alle §12 Monate auf Basis der realen Leid-Statistiken ({sum}$).
 - **Expertenübersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erfüllen, müssen gelöscht oder angepasst werden.
 - **Laienverständnis:** Einmal im Jahr prüfen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.
+
 
 
 

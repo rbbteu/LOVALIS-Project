@@ -1,4 +1,6 @@
-﻿# 💰 TOOL: SPHERICAL-COMPENSATION (KIT)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 💰 TOOL: SPHERICAL-COMPENSATION (KIT)
 ## Dein Beitrags-Logbuch
 
 So navigierst du in der kybernetischen Ökonomie:
@@ -23,6 +25,7 @@ Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
 
 
 

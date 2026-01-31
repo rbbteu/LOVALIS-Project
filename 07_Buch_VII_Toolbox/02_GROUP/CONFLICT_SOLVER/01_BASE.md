@@ -1,4 +1,6 @@
-﻿# 🤝 TOOL: CONFLICT-SOLVER (BASE)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🤝 TOOL: CONFLICT-SOLVER (BASE)
 ## Zweck: Reibungstransformation
 
 Im LOVALIS-System ist ein Konflikt ein Indikator für eine Fehlallokation von Ressourcen oder Aufmerksamkeit. Der Conflict-Solver dient dazu, diese Energie zu bündeln, anstatt sie in Leid ($L$) zu dissipieren.
@@ -16,6 +18,7 @@ Wiederherstellung des harmonischen Datenflusses und der kooperativen Resonanz in
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
 
 
 

@@ -1,4 +1,6 @@
-﻿# 💠 LOVALIS | Protokoll für den Erstkontakt
+﻿<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+# 💠 LOVALIS | Protokoll für den Erstkontakt
 
 Dieses Dokument enthält die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
 mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
@@ -39,6 +41,7 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+
 
 
 

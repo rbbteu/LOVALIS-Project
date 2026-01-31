@@ -1,4 +1,6 @@
-﻿# Buch IV | Kapitel §3: Technologische Symbiose (Mensch-Maschine-Koppelung)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Buch IV | Kapitel §3: Technologische Symbiose (Mensch-Maschine-Koppelung)
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
 Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bewusstsein.
@@ -17,6 +19,7 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
     - Sie tut das nicht heimlich. Du kannst in deinem Interface sehen: 'KI empfiehlt Bewässerung +§10%, da Bodenfeuchte sinkt'.
     - Wenn du als Gärtner aüber weißt, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit für das Wesentliche haben. Sie beobachtet uns nicht, sie unterstützt uns.
+
 
 
 

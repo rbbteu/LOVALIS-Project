@@ -1,4 +1,6 @@
-﻿# Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
 Die KI übernimmt die Last der 'unbeliebten Wahrheit'. Sie liefert die mathematische Grundlage für harte Entscheidungen, damit soziale Spannungen im Cluster minimiert werden.
@@ -8,6 +10,7 @@ Ein Fehler ist eine Information. Das System schützt das Individuum vor Schuldzu
 
 ## III. Schutz vor Entscheidungs-Erschöpfung
 Einführung der 'Delegierten Pause': Temporäre Abgabe von Verantwortung an das logische Gerüst des Systems zur mentalen Regeneration.
+
 
 
 

@@ -1,4 +1,6 @@
-﻿# Buch V | Kapitel §3: Weltraum-Erkundung & Frontier-Logik
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch V | Kapitel §3: Weltraum-Erkundung & Frontier-Logik
 
 ## I. Technische Spezifikation
 - Closed-Loop-Life-Support: §99% stoffliche Kreislaufführung in orbitalen Habitaten.
@@ -13,6 +15,7 @@
 ## III. Laienverständnis
 - Beispiel 'Mars-Station': Ein Dorf im All, das nach denselben fairen Regeln spielt wie dein Dorf auf der Erde.
 - Kernbotschaft: Wir dehnen den Horizont der Menschheit aus, ohne unsere Werte zurückzulassen.
+
 
 
 

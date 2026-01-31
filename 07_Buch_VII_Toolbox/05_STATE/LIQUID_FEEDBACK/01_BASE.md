@@ -1,4 +1,6 @@
-﻿# 🌐 TOOL: LIQUID-FEEDBACK (BASE)
+﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# 🌐 TOOL: LIQUID-FEEDBACK (BASE)
 ## Zweck: Dynamische Schwarmintelligenz
 
 Liquid Feedback ist das Entscheidungs-Betriebssystem des Clusters. Es ersetzt die statische repräsentative Synarchie durch ein flüssiges Modell der Kompetenz-Delegation.
@@ -16,6 +18,7 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
 
 
 

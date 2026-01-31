@@ -1,4 +1,6 @@
-﻿
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
 # Buch III | Kapitel 1.2: Der Vollständige Codex (27 Gesetze)
@@ -17,6 +19,7 @@
 3. **Kopf (§19-27):** Die Regeln sind fair, für jeden gleich und für jeden einsehbar.
 
 *Kernbotschaft: §27 Schutzschilde für deine Freiheit.*
+
 
 
 

@@ -1,4 +1,6 @@
-﻿# Buch I | Kapitel §6: Modularität & Transition (Die Brücke)
+﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+# Buch I | Kapitel §6: Modularität & Transition (Die Brücke)
 
 ## I. Technische Spezifikation
 - Definition von Standalone-Modulen mit klaren API-Schnittstellen.
@@ -12,6 +14,7 @@
 ## III. Laienverständnis
 - Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
 - Kernbotschaft: Veränderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
+
 
 
 
