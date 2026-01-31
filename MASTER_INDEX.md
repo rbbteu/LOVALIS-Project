@@ -125,3 +125,4 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+

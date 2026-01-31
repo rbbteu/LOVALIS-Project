@@ -25,3 +25,7 @@ Die Erhaltung der System-Integrität erfordert die Eliminierung der menschlichen
 - **Mathematik:** V_toe(Op, t) = (T >= n_min) && (Integration[t, t+175](Ö_rate - V_rate) >= 0).
 - **Implementierung:** Jede Operation ist eine Wette auf die Zukunft. Die ZVF validiert diese Wette gegen das Gaia-Modell.
 - **Philosophie:** Wir sind nicht Erben unserer Ahnen, sondern Leihnehmer unserer Nachkommen.
+## IV. Die Bio-Integral-Klausel
+Flora und Fauna sind aktive Stakeholder des Systems. 
+- **L-Metrik Erweiterung:** Nicht-menschliches Leid wird mit dem Koeffizienten c_i in die ZVF eingerechnet.
+- **Stakeholder-Status:** Die Integrität der Biosphäre ist gleichrangig zur kognitiven Integrität des Menschen (§1).

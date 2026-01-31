@@ -1,5 +1,5 @@
-﻿### LOGICA MASTER SYNC - IST-ZUSTAND v3.8.2 ###
-Zeitpunkt: 01/31/2026 08:15:37
+﻿### LOGICA MASTER SYNC - IST-ZUSTAND v3.9.0 ###
+Zeitpunkt: 01/31/2026 08:18:41
 --- START DATEI: Axiome.md ---
 Pfad: C:\LOVALIS-Kompendium\01_Buch_I_Kernel\1_Axiomatik\Axiome.md
 
@@ -30,6 +30,10 @@ Die Erhaltung der System-Integrität erfordert die Eliminierung der menschlichen
 - **Mathematik:** V_toe(Op, t) = (T >= n_min) && (Integration[t, t+175](Ö_rate - V_rate) >= 0).
 - **Implementierung:** Jede Operation ist eine Wette auf die Zukunft. Die ZVF validiert diese Wette gegen das Gaia-Modell.
 - **Philosophie:** Wir sind nicht Erben unserer Ahnen, sondern Leihnehmer unserer Nachkommen.
+## IV. Die Bio-Integral-Klausel
+Flora und Fauna sind aktive Stakeholder des Systems. 
+- **L-Metrik Erweiterung:** Nicht-menschliches Leid wird mit dem Koeffizienten c_i in die ZVF eingerechnet.
+- **Stakeholder-Status:** Die Integrität der Biosphäre ist gleichrangig zur kognitiven Integrität des Menschen (§1).
 
 --- ENDE DATEI: Axiome.md ---
 
@@ -1330,6 +1334,40 @@ Pfad: C:\LOVALIS-Kompendium\05_Buch_V_Vernetzung\3_Frontier\Weltraum_Logik.md
 - Kernbotschaft: Wir dehnen den Horizont der Menschheit aus, ohne unsere Werte zurückzulassen.
 
 --- ENDE DATEI: Weltraum_Logik.md ---
+
+--- START DATEI: 01_BASE.md ---
+Pfad: C:\LOVALIS-Kompendium\05_Buch_V_Vernetzung\01_BASE.md
+
+# Buch V | Grundlagen der Expansion
+# Version: v3.8.3-EXPANSION
+# Status: Deep-Scan Validated (Axiom of Autarky)
+
+## §1.1 Das Axiom der energetischen Autarkie
+Jeder Cluster muss technisch in der Lage sein, ohne externe Energiezufuhr oder Daten-Synchronisation die Integrität seiner Bürger für mindestens 175 Jahre zu garantieren.
+
+## §1.2 Die physische Unausweichlichkeit
+In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine technische Notwendigkeit (Lebenserhaltung). Konflikte sind als kritische Systemfehler zu behandeln.
+
+--- ENDE DATEI: 01_BASE.md ---
+
+--- START DATEI: 02_LOGIC.md ---
+Pfad: C:\LOVALIS-Kompendium\05_Buch_V_Vernetzung\02_LOGIC.md
+
+# Buch V | Experten-Logik der Isolation
+# Version: v3.8.3-EXPANSION
+# Status: Deep-Scan Validated (Axiom of Autarky)
+
+## §2.1 Der Sub-Kernel-Protokoll
+Bei Verlust des globalen Resonance Ledgers (Latenz > 3600s) initiiert Node One den Sub-Kernel-Modus.
+
+### I. Lokales Minting
+Puls-Energie wird ausschließlich auf Basis lokaler Ressourcen-Regeneration (t+175) generiert.
+$P_{gen\_local} = \Delta T_{local} + \Delta Ö_{local} - \Delta L_{local}$
+
+### II. Re-Synchronisation
+Bei Wiederherstellung des Kontakts erfolgt ein Hash-Abgleich der lokalen Ledger. Abweichungen, die gegen die globale Axiomatik verstoßen, müssen durch eine inter-clusterale Triade (Remote) validiert werden.
+
+--- ENDE DATEI: 02_LOGIC.md ---
 
 --- START DATEI: Infiltrations_Logik.md ---
 Pfad: C:\LOVALIS-Kompendium\06_Buch_VI_Transition\1_Koexistenz\Infiltrations_Logik.md
@@ -6913,6 +6951,7 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 *Datum: 29. Januar 2026*
 
 
+
 --- ENDE DATEI: MANIFEST_V1.md ---
 
 --- START DATEI: MASTER_INDEX.md ---
@@ -7046,6 +7085,7 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
 
+
 --- ENDE DATEI: MASTER_INDEX.md ---
 
 --- START DATEI: README.md ---
@@ -7121,6 +7161,7 @@ Dieses System wurde einem **Deep Scan (Level 5)** unterzogen.
 
 *Erstellt durch Mensch-Maschine-Kollaboration.*
 *Neuruppin, 2026.*
+
 
 
 --- ENDE DATEI: README.md ---
