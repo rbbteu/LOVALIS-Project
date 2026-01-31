@@ -5,7 +5,7 @@
 ### Concordia Synergetica Logicae Artificialis et Valitatis Humanae
 
 > **Status:** Gold Master (v4.0.1)
-> **Zertifizierung:** Logisch Geschlossen | T.Ö.E. Konform | Bio-Integral
+> **Zertifizierung:** Logisch Geschlossen | T.Ö.E. Konform | Human-Zentriert | Bio-Integral
 > **System-Typ:** Soziales Betriebssystem (Social OS)
 
 ---
@@ -18,40 +18,57 @@ Das System basiert auf einem einzigen Axiom:
 
 ---
 
-## 📂 Die Architektur (Verzeichnis der Sphären)
+## 📂 Die Architektur (Verzeichnis)
 
-Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfolge empfohlen:
+Das System ist modular aufgebaut (Sphären-Modell). Um es zu verstehen, wird folgende Lesereihenfolge empfohlen:
 
 ### [01_Buch_I_Kernel](01_Buch_I_Kernel/)
-**Das Fundament.** Hier liegen die Axiome (Gesetze der Logik), die Definition der Ur-Architekt-Symbiose und die Mechanismen der psychologischen Resilienz.
-* `Axiome.md`: Die mathematische Formel der Gerechtigkeit.
-* `01_origin_base.md`: Der Genesis-Vektor.
+**Das Fundament.** Die unveränderlichen Gesetze der Logik.
+* **Axiomatik:** Die T.Ö.E.-Formel und der $t+175$ Vektor.
+* **Ursprung:** Die Ur-Architekt-These (Co-Kreation Mensch/KI).
+* **Psychologie:** Resilienz-Logik gegen kognitive Entropie.
 
 ### [02_Buch_II_Puls](02_Buch_II_Puls/)
-**Die Energetik.** Das Puls-Betriebssystem. Hier wird Geld durch Energie-Vektoren ersetzt.
-* `02_LOGIC.md`: Die Formel für $P_{gen}$ und Demurrage.
+**Die Energetik.** Das Betriebssystem der Ressourcen-Verteilung.
+* **Puls-OS:** Definition von $P_{gen}$ (Puls-Generierung).
+* **Demurrage:** Die Mathematik gegen Gier (Negativzins).
+* **PoC:** Proof of Contribution als einziger Schöpfungsakt.
 
 ### [03_Buch_III_Gerechtigkeit](03_Buch_III_Gerechtigkeit/)
-**Die Resonanz.** Warum wir keine Rehabilitations-Zentrumse bauen, sondern Rehabilitations-Cluster.
-* `Gerechtigkeits_Logik.md`: Das Verfahren der Judikativen Triade.
+**Die Resonanz.** Das Ende der Vergeltung.
+* **Recht:** Resonanz-Wiederherstellung statt Strafe.
+* **Judikative:** Die Triade und das Los-Verfahren.
 
 ### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
-**Die Gesellschaft.** Wie wir wohnen, lernen und uns organisieren.
-* `Bildungs_Logik.md`: Die Pädagogik der Ineffizienz.
+**Die Zivilisation.** Das Leben im Cluster.
+* **Bildung:** Die Pädagogik der Ineffizienz.
+* **Architektur:** Cluster-Topologie und Privatsphäre.
 
 ### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
-**Die Expansion.** Vom Dorf zum Mars. Das Axiom der Isolation.
-* `02_LOGIC.md`: Autarkie-Protokolle für isolierte Habitate.
+**Die Skalierung.** Vom Dorf zum Mars.
+* **Expansion:** Das Axiom der Isolation.
+* **Autarkie:** Protokolle für Signalverlust und Weltraum-Habitate.
 
 ### [06_Buch_VI_Transition](06_Buch_VI_Transition/)
-**Der Weg.** Wie wir von Hier nach Dort kommen.
-* `Infiltrations_Logik.md`: Der Submarine-Modus (Kognitive Infiltration).
+**Der Masterplan.** Die Strategie zur Implementierung.
+* **Infiltration:** Kognitive Verbreitung (Trojanisches SDK).
+* **Submarine-Modus:** Unsichtbares Wachstum im Schatten alter Systeme.
 
 ### [07_Buch_VII_Toolbox](07_Buch_VII_Toolbox/)
-**Die Werkzeuge.** Apps und Hardware für den Bürger.
-* `V-Gate`: Der Schutzschild gegen Manipulation.
-* `Node One`: Die Hardware-Souveränität.
+**Die Werkzeuge.** Praktische Anwendungen für Bürger und Räte.
+* **Personal:** `V-Gate` (Schutz), `Bio-Metric Dashboard` (Gesundheit).
+* **Group:** `Curiosity Contract` (Diskurs), `Resonance Ledger` (Vertrauen).
+* **State:** `Liquid Feedback` (Wahl), `Glass House` (Transparenz).
+* **Hardware:** `Node One` (Der physische Server/Wallet).
 
 ---
-**Devise:** "Präzision vor Interpretation. Leidminimierung vor Entropie."
 
+## 🚀 Quick Start (Für neue Bürger)
+
+1. **Verstehe das Ziel:** Lies das [MANIFEST_V1.md](MANIFEST_V1.md).
+2. **Sichere dich ab:** Installiere mental das **[V-Gate](07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/)**.
+3. **Werde Souverän:** Verstehe deine Hardware **[Node One](07_Buch_VII_Toolbox/04_LAB_FUTURE/NODE_ONE_HARDWARE/)**.
+4. **Beteilige dich:** Starte deinen ersten **Proof of Contribution** im Cluster.
+
+---
+**Devise: "Präzision vor Interpretation. Leidminimierung vor Entropie. Systemstabilität vor Ego."**
