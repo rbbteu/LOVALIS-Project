@@ -1,13 +1,11 @@
-﻿# Toolbox | Spherical Compensation
-# Version: v3.7.8-PULSE-CORE
-# Status: Deep-Scan Validated
+﻿# Toolbox | Sphärische Kompensation
+## Anwendungsebene des Puls-OS
 
-## §2.2 Sphärische Kompensation (Arbeitslogik)
+### I. Abkehr vom binären Entlohnungsmodell
+Die Sphärische Kompensation nutzt die Daten des Puls-OS (Buch II), um den energetischen Radius eines Bürgers zu definieren.
+- **Radius 1 (Existenz):** Gedeckt durch die Grund-Energetisierung des Clusters.
+- **Radius 2 (Wirkung):** Erweitert sich durch innovative Beiträge (Delta T).
+- **Radius 3 (Resonanz):** Erweitert sich durch soziale Heilung und Konfliktlösung (Delta L_neg).
 
-### I. Jenseits der Lohnarbeit
-Arbeit in Lovalis ist ein Beitrag zur Cluster-Resilienz. 
-1. **Grund-Puls:** Automatische Zuteilung für den Erhalt der persönlichen Integrität (Nahrung, Wohnraum).
-2. **Exzellenz-Puls:** Zuteilung für Innovationen, die den T-Faktor des gesamten Clusters um > 1% steigern.
-
-### II. Die Rolle der Ineffizienz
-Arbeitsmodule, die 'Muße' und 'kreative Ineffizienz' beinhalten, werden höher bewertet als rein mechanische Optimierung, um den kognitiven Burnout (Natur des Menschen) zu verhindern.
+### II. Konsistenz-Wahrung
+Jeder Transfer innerhalb einer Firmeneinheit muss das White-Silence-Protokoll und die Citizen-Firewall respektieren. Transparenz über Energieflüsse ist absolut.
