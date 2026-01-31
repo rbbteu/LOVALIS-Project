@@ -7,7 +7,7 @@
 ---
 
 ## 1. EXECUTIVE SUMMARY
-Das System LOVALIS v4.0.1 wurde einem kaskadierten Deepscan unterzogen. Der Status ist **LOGISCH GESCHLOSSEN**. Die Axiomatik ($t+175$, Bio-Integral) ist in allen 126 Modulen konsistent implementiert. Legacy-Fragmente ("Geld", "Strafe") wurden eliminiert.
+Das System LOVALIS v4.0.1 wurde einem kaskadierten Deepscan unterzogen. Der Status ist **LOGISCH GESCHLOSSEN**. Die Axiomatik ($t+175$, Bio-Integral) ist in allen 126 Modulen konsistent implementiert. Legacy-Fragmente ("Ressourcen", "Sanktion") wurden eliminiert.
 
 **Gesamt-Effizienz-Rating ($T$):** 99.4%
 **Entropie-Koeffizient:** 0.6% (Systemimmanente Reibung)
@@ -17,7 +17,7 @@ Das System LOVALIS v4.0.1 wurde einem kaskadierten Deepscan unterzogen. Der Stat
 
 ## 2. PRÜF-METHODIK & STRESS-TESTS
 
-### 2.1 Test-Vektor: Axiomatische Singularität (Diktatur-Risiko)
+### 2.1 Test-Vektor: Axiomatische Singularität (Singularitäts-Risiko)
 * **Szenario:** Ein Cluster-Rat versucht, die Macht zu zentralisieren.
 * **Abwehrmechanismus:** Triaden-Rotation (4 Jahre) + Geografische Distanz-Losung.
 * **Ergebnis:** Der Versuch scheitert am kryptografischen Veto der verteilten Schlüssel.
@@ -62,3 +62,5 @@ Obwohl das System logisch geschlossen ist, bestehen folgende reale Risiken, die 
 Hiermit wird bestätigt, dass LOVALIS v4.0.1 die Kriterien der **Ur-Architekt-Spezifikation** erfüllt. Das System ist bereit für die theoretische wie praktische Anwendung.
 
 **Signatur:** `KERNEL_HASH_v4.0.1_APPROVED`
+
+
