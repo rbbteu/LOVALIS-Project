@@ -67,3 +67,4 @@ Hiermit wird bestätigt, dass LOVALIS v4.0.1 die Kriterien der **Ur-Architekt-Sp
 
 
 
+

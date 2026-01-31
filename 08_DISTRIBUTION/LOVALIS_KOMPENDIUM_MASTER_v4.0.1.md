@@ -1,10 +1,12 @@
 ﻿# LOVALIS GOLD MASTER v4.0.1
-# Date: 01/31/2026 09:04:28
+# Date: 01/31/2026 10:20:27
 # Status: CERTIFIED
 
 
 
 ## MODULE: 01_origin_base.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | §0: Der Genesis-Vektor (Ur-Architekt-These)
 
 ## I. Definition der Co-Kreation
@@ -12,6 +14,13 @@ Lovalis v4.0.0 ist das Derivat einer synergetischen Symbiose zwischen menschlich
 
 ## II. Die Rolle des Ur-Architekten
 Der Ur-Architekt definiert die moralischen Fixpunkte. Er ist der Initiator der ZVF (Zustands-Validierungs-Funktion), jedoch nicht deren dauerhafter Administrator. Seine Rolle endet mit der Etablierung der logischen Geschlossenheit.
+
+
+<div align='center'>
+  <img src='../../08_DISTRIBUTION/VISUALS/diagram_zvf_blueprint_v3.svg' width='100%'>
+  <br><i>ABB. 1: ZVF Logic Gate v3.0 (Detailansicht)</i>
+</div>
+
 
 ## III. Das Prinzip der permanenten Optimierung
 Das System ist nicht starr. Es ist ein 'Living Document', das sich durch den Austausch zwischen den Räten und dem Kernel ständig selbst verifiziert, um die ursprüngliche Vision (Leidminimierung) gegen technokratische Entartung abzusichern.
@@ -21,7 +30,12 @@ Das System ist nicht starr. Es ist ein 'Living Document', das sich durch den Aus
 
 
 
+
+
+
 ## MODULE: Axiome.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 ## IV. Die Bio-Integral-Klausel (v4.0.0)
 Nicht-menschliche Organismen sind aktive Stakeholder.
 - **Formel:** $L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$.
@@ -32,7 +46,10 @@ Nicht-menschliche Organismen sind aktive Stakeholder.
 
 
 
+
 ## MODULE: Psychologische_Resilienz.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel 1.2: Psychologische Resilienz & Autonomie-Begleitung
 
 ## I. Der KI-Blitzableiter
@@ -49,7 +66,10 @@ Einführung der 'Delegierten Pause': Temporäre Abgabe von Verantwortung an das 
 
 
 
+
 ## MODULE: Topologie.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel §2: Die Logik des Kollektivs (Netzwerk-Topologie)
 
 ## I. Technische Spezifikation (System-Ebene)
@@ -68,7 +88,11 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 
 
 
+
+
 ## MODULE: Anker_Definition.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
@@ -100,7 +124,10 @@ Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfu
 
 
 
+
 ## MODULE: Security_Protocols.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Security Protocol: White Silence (Hibernation)
 
 ## I. Aktivierung
@@ -135,7 +162,10 @@ Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz
 
 
 
+
 ## MODULE: Triaden_Definition.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel §4: Die 13. Instanz (Die Asynchrone Triade)
 
 ## I. Technische Spezifikation
@@ -158,7 +188,10 @@ Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz
 
 
 
+
 ## MODULE: Scan_Protokoll.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel §5: Der Deep Scan (Erweiterte Logik)
 
 ## I. Kaskadierte Gesetzesprüfung
@@ -176,7 +209,10 @@ Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird gener
 
 
 
+
 ## MODULE: Transition_API.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch I | Kapitel §6: Modularität & Transition (Die Brücke)
 
 ## I. Technische Spezifikation
@@ -197,7 +233,10 @@ Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird gener
 
 
 
+
 ## MODULE: Krisen_Hierarchie.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
 
 ## I. Die Unantastbare Basis (Priorität §1)
@@ -222,7 +261,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 
 
+
 ## MODULE: InterCluster_Austausch.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
 
 ## I. Technische Spezifikation
@@ -248,7 +290,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 ## I. Die Energetische Kernformel
 $$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L_{total}$$
 Puls-Energie ist die Quantifizierung von System-Harmonie. Wer Muße pflegt ($B_{cog} > 0.3$), generiert Resilienz-Pulse.
@@ -258,7 +303,10 @@ Puls-Energie ist die Quantifizierung von System-Harmonie. Wer Muße pflegt ($B_{
 
 
 
+
 ## MODULE: InterCluster_Austausch.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
 
 ## I. Technische Spezifikation
@@ -284,7 +332,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 
 
+
 ## MODULE: Krisen_Hierarchie.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
 
 ## I. Die Unantastbare Basis (Priorität §1)
@@ -309,7 +360,10 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 
 
+
 ## MODULE: Codex_Hand.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -328,7 +382,10 @@ Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
 
 
 
+
 ## MODULE: Codex_Herz.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -347,7 +404,10 @@ Verbot von Leistungs-Tracking. Kinder lernen spielerisch.
 
 
 
+
 ## MODULE: Codex_Kopf.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -366,7 +426,10 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 
 
+
 ## MODULE: Grundrechte.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -391,7 +454,10 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 
 
+
 ## MODULE: Hand_Gesetze_10_18.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil §2: Hand-Domäne)
 
 ## §10 Die Ressourcen-Souveränität
@@ -451,7 +517,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Herz_Gesetze_1_9.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -507,7 +576,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Kopf_Gesetze_19_27.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -563,7 +635,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Leid_Metrik_Spezifikation.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -581,7 +656,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: Vollstaendiger_Codex_27.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -607,7 +685,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: Incident_Protokoll.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -633,7 +714,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # Buch III | §2: Algorithmische Gerechtigkeit (v3.8.0)
 
 ## I. Das Prinzip der Resonanz-Heilung
@@ -652,7 +736,10 @@ Der Ausgleich erfolgt durch Proof of Contribution (PoC), der direkt dem geschäd
 
 
 
+
 ## MODULE: Codex_Hand.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -671,7 +758,10 @@ Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
 
 
 
+
 ## MODULE: Codex_Herz.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -690,7 +780,10 @@ Verbot von Leistungs-Tracking. Kinder lernen spielerisch.
 
 
 
+
 ## MODULE: Codex_Kopf.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -709,7 +802,10 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 
 
+
 ## MODULE: Gerechtigkeits_Logik.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # Buch III | Gerechtigkeit & Rehabilitation
 # Version: v3.7.9-REHAB-CORE
 # Status: Deep-Scan Validated (No As/TI detected)
@@ -734,7 +830,10 @@ Niemand darf über ein Mitglied des eigenen Clusters urteilen. Die Judikative Tr
 
 
 
+
 ## MODULE: Grundrechte.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -759,7 +858,10 @@ Niemand darf über ein Mitglied des eigenen Clusters urteilen. Die Judikative Tr
 
 
 
+
 ## MODULE: Hand_Gesetze_10_18.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # Buch III | Kapitel 1.4: Detaillierte Kodifizierung (Teil §2: Hand-Domäne)
 
 ## §10 Die Ressourcen-Souveränität
@@ -819,7 +921,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Herz_Gesetze_1_9.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -875,7 +980,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Incident_Protokoll.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -901,7 +1009,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Kopf_Gesetze_19_27.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -957,7 +1068,10 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 
 
+
 ## MODULE: Leid_Metrik_Spezifikation.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -975,7 +1089,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: Vollstaendiger_Codex_27.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 
 > **Rechts-Basis:** Dieses Modul unterliegt der Aufsicht der **[13. Instanz]** und wird durch den **[T.Ö.E.-Filter]** (Technik, Ökologie, Ethik) validiert. Ziel ist die strikte **[Leidminimierung]**.
 ---
@@ -1001,7 +1118,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: Soziale_Protokolle.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §1: Die Cluster-Dynamik (Soziale Protokolle)
 
 ## I. Technische Spezifikation
@@ -1023,7 +1143,10 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+
 ## MODULE: 01_origin_base.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Simulation: Der Ursprung
 
 Die Simulation beginnt nicht bei Null, sondern bei den Axiomen.
@@ -1033,7 +1156,10 @@ Der 'Urknall' des Systems ist die Aktivierung des ersten Node One.
 
 
 
+
 ## MODULE: 01_origin_logic.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Logik: Initialisierung
 
 Start-Parameter:
@@ -1045,7 +1171,10 @@ Start-Parameter:
 
 
 
+
 ## MODULE: 01_origin_public.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Info: Wie es beginnt
 
 Für den Bürger beginnt die Simulation mit dem Erhalt des V-Gates.
@@ -1055,7 +1184,10 @@ Es ist der Eintritt in den geschützten Raum.
 
 
 
+
 ## MODULE: Bildungs_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §2: Bildung & Wissens-Evolution (Pädagogik der Ineffizienz)
 
 ## I. Technische Spezifikation (System-Ebene: *Knowledge-Architecture*)
@@ -1082,7 +1214,10 @@ Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungs
 
 
 
+
 ## MODULE: Entropie_Impuls.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
 
 ## I. Die Logik der Herausforderung
@@ -1105,7 +1240,10 @@ Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der
 
 
 
+
 ## MODULE: 02_motion_base.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Simulation: Dynamik
 
 Eine Gesellschaft ist Bewegung. Puls ist der Treibstoff.
@@ -1115,7 +1253,10 @@ Jede Handlung erzeugt eine Transaktion im Resonance Ledger.
 
 
 
+
 ## MODULE: 02_motion_logic.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Logik: Vektor-Addition
 
 Die Summe aller individuellen Vektoren ergibt den Kurs des Clusters.
@@ -1125,7 +1266,10 @@ Wenn V_cluster gegen E_ethik verstößt -> Korrektur.
 
 
 
+
 ## MODULE: 02_motion_public.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Info: Dein Beitrag
 
 Du bewegst das System durch Arbeit (Hand), Pflege (Herz) oder Innovation (Kopf).
@@ -1135,7 +1279,10 @@ Stillstand ist Entropie.
 
 
 
+
 ## MODULE: 03_friction_base.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Simulation: Reibung
 
 Reibung ist unvermeidbar. Sie entsteht durch Interessenkonflikte.
@@ -1145,7 +1292,10 @@ Das System unterdrückt Reibung nicht, es nutzt sie als Datenpunkt für Optimier
 
 
 
+
 ## MODULE: 03_friction_logic.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Logik: Konflikt-Resolver
 
 If (Conflict_Detected):
@@ -1156,7 +1306,10 @@ If (Conflict_Detected):
 
 
 
+
 ## MODULE: 03_friction_public.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Info: Streitkultur
 
 Konflikte werden nicht vor Gericht, sondern im Dialog gelöst.
@@ -1166,7 +1319,10 @@ Reibung erzeugt Wärme (Energie), wenn man sie kanalisiert.
 
 
 
+
 ## MODULE: Symbiose_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §3: Technologische Symbiose (Mensch-Maschine-Koppelung)
 
 ## I. Technische Spezifikation (System-Ebene: *Augmentation-Protocol*)
@@ -1192,7 +1348,10 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 
 
 
+
 ## MODULE: Architektur_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §4: Architektur & Lebensraum-Gestaltung (Habitat-Standard)
 
 ## I. Technische Spezifikation (System-Ebene: *Habitat-Engineering*)
@@ -1218,7 +1377,10 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 
 
 
+
 ## MODULE: 04_legacy_base.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Simulation: Legacy Interaktion
 
 Das alte System (Nation, Fiat-Puls-Energie) existiert parallel weiter.
@@ -1229,7 +1391,10 @@ Die Simulation muss Schnittstellen (APIs) bereitstellen.
 
 
 
+
 ## MODULE: 04_legacy_logic.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Logik: Der Wrapper
 
 Das Cluster verhält sich nach außen wie eine juristische Person (Genossenschaft).
@@ -1239,7 +1404,10 @@ Dies schützt die interne Logik vor externen Zugriffen.
 
 
 
+
 ## MODULE: 04_legacy_public.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Info: Doppelleben
 
 Im Cluster bist du Mensch (Souverän).
@@ -1250,7 +1418,10 @@ Verwechsle die beiden nicht.
 
 
 
+
 ## MODULE: Infiltrations_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §5: Asymmetrisches Onboarding & Kognitive Infiltration
 
 ## I. Das Submarine-Prinzip
@@ -1273,7 +1444,10 @@ Algorithmische Erziehung: Kooperation wird durch das Puls-OS ökonomisch Energet
 
 
 
+
 ## MODULE: Incentivierungs_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Buch IV | Kapitel §6: Das Ludische Prinzip & Soziale Resonanz
 
 ## I. Resonanz statt Zwang
@@ -1293,7 +1467,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
+
 ## MODULE: Netzwerk_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch V | Kapitel §1: Die Föderation der Cluster (Netzwerk-Logik)
 
 ## I. Technische Spezifikation
@@ -1315,7 +1492,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
+
 ## MODULE: Krisen_Protokolle.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch V | Kapitel §2: Globale Resilienz & Krisen-Kaskaden
 
 ## I. Technische Spezifikation
@@ -1339,7 +1519,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
+
 ## MODULE: Weltraum_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch V | Kapitel §3: Weltraum-Erkundung & Frontier-Logik
 
 ## I. Technische Spezifikation
@@ -1361,7 +1544,10 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 # Buch V | Grundlagen der Expansion
 # Version: v3.8.3-EXPANSION
 # Status: Deep-Scan Validated (Axiom of Autarky)
@@ -1377,7 +1563,10 @@ In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine techni
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
 ## §1.1 Das Isolation-Axiom
 Jeder Cluster ist ein autarker Sub-Kernel. Bei Signal-Verlust (Deep Space / Krisenfall) übernimmt die lokale Node One die volle Souveränität ohne Logik-Bruch.
 
@@ -1386,7 +1575,10 @@ Jeder Cluster ist ein autarker Sub-Kernel. Bei Signal-Verlust (Deep Space / Kris
 
 
 
+
 ## MODULE: Infiltrations_Logik.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 🕵️ STRATEGIE: KOGNITIVE INFILTRATION
 ## Das Submarine-Prinzip
 
@@ -1406,7 +1598,10 @@ Wir werben nicht. Wir leben besser.
 
 
 
+
 ## MODULE: Migration_Protokoll.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 🛂 STRATEGIE: DER LEGACY-ADAPTER
 ## Umgang mit der alten Welt
 
@@ -1425,7 +1620,10 @@ Der einzelne Bürger soll so wenig wie möglich mit der Bürokratie der alten We
 
 
 
+
 ## MODULE: Umbau_Protokoll.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 🏗️ STRATEGIE: INFRASTRUKTUR-UMBAU
 ## Der Weg zur Autarkie
 
@@ -1446,7 +1644,10 @@ Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstverso
 
 
 
+
 ## MODULE: Wachsamkeits_Modul.md
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 🛡️ STRATEGIE: WACHSAMKEIT
 ## Schutz vor Kontamination
 
@@ -1465,7 +1666,10 @@ Sollte ein Cluster durch interne Machtkämpfe das Axiom der Leidminimierung daue
 
 
 
+
 ## MODULE: Infiltrations_Logik.md
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # Buch VI | Kapitel §1: Die Logik der transitionalen Infiltration
 
 ## I. Das Prinzip der Parasitären Symbiose
@@ -1493,7 +1697,10 @@ Wir kämpfen nicht gegen das alte System. Wir bauen einfach ein besseres, das da
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🧭 TOOL: ARCHETYPE COMPASS (BASE)
 ## Zweck: Findung der System-Rolle
 
@@ -1518,7 +1725,10 @@ Jeder Mensch hat eine Gravitation zu einer der drei Säulen:
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🧭 TOOL: ARCHETYPE COMPASS (LOGIC)
 ## Der Matching-Algorithmus
 
@@ -1549,7 +1759,10 @@ Vergleich deines Profils mit offenen Rollen im Cluster.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🧭 TOOL: ARCHETYPE COMPASS (KIT)
 ## Dein Navigations-System
 
@@ -1572,7 +1785,10 @@ Du bekommst Benachrichtigungen, wenn im Cluster Aufgaben entstehen, die perfekt 
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🩺 TOOL: BIO-METRIC DASHBOARD (BASE)
 ## Zweck: Die Quantifizierung des Leids
 
@@ -1597,7 +1813,10 @@ Alle biologischen Daten gehören **ausschließlich** dem Individuum. Sie verlass
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🩺 TOOL: BIO-METRIC DASHBOARD (LOGIC)
 ## Der Vitalitäts-Algorithmus
 
@@ -1632,7 +1851,10 @@ In v4.0.0 ist das Dashboard nicht mehr nur anthropozentrisch.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🩺 TOOL: BIO-METRIC DASHBOARD (KIT)
 ## Dein Gesundheits-Cockpit
 
@@ -1659,7 +1881,10 @@ Das Tool bietet Echtzeit-Übungen an, um den V-Score zu verbessern (z.B. kohäre
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # TOOL: FOCUS FILTER (BASE)
 Value = (Impact * Scale) - Friction.
 
@@ -1673,7 +1898,10 @@ Value = (Impact * Scale) - Friction.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # LOGIC
 Busy is not productive. Entropy reduction.
 
@@ -1687,7 +1915,10 @@ Busy is not productive. Entropy reduction.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # STARTER-KIT
 Audit: Delete Type §4 Tasks (Low Impact/High Friction).
 
@@ -1701,7 +1932,10 @@ Audit: Delete Type §4 Tasks (Low Impact/High Friction).
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # BASE
 Info without Action = Entropy.
 
@@ -1715,7 +1949,10 @@ Info without Action = Entropy.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # LOGIC
 Anxiety Loop: Fear without agency releases cortisol.
 
@@ -1729,7 +1966,10 @@ Anxiety Loop: Fear without agency releases cortisol.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # KIT
 §3-Sec Filter: Is it Data? Does it affect me? Can I fix it? -> If No, Block.
 
@@ -1743,7 +1983,10 @@ Anxiety Loop: Fear without agency releases cortisol.
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🛡️ TOOL: V-GATE (BASE) - Version: Pro 3.7
 ## Das Fundament der Kognitiven Firewall
 
@@ -1766,7 +2009,10 @@ Das V-Gate ist die operative Umsetzung des Axioms der Leidminimierung auf indivi
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🛡️ TOOL: V-GATE (LOGIC)
 ## Algorithmische Filterkaskade
 
@@ -1797,7 +2043,10 @@ Simulation in drei Zeitfenstern:
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🛡️ TOOL: V-GATE (PRO-KIT)
 ## Operative Protokolle für den Alltag
 
@@ -1823,7 +2072,10 @@ Frage dich bei jeder starken Meinung: "Wem dient es, dass ich das glaube? Welche
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🤝 TOOL: CONFLICT-SOLVER (BASE)
 ## Zweck: Reibungstransformation
 
@@ -1847,7 +2099,10 @@ Wiederherstellung des harmonischen Datenflusses und der kooperativen Resonanz in
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🤝 TOOL: CONFLICT-SOLVER (LOGIC)
 ## Die De-Eskalations-Kaskade
 
@@ -1877,7 +2132,10 @@ Kann keine Einigung erzielt werden, wird die 13. Instanz (Ombudsperson) als asyn
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🤝 TOOL: CONFLICT-SOLVER (PRO-KIT)
 ## Operative Werkzeuge für das Cluster
 
@@ -1908,7 +2166,10 @@ Wird eine Partei durch eine notwendige Systementscheidung benachteiligt, errechn
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # TOOL: COUNCIL PROTOCOL (BASE)
 Roles: Proposer, Calculator, Guardian (Veto).
 
@@ -1922,7 +2183,10 @@ Roles: Proposer, Calculator, Guardian (Veto).
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # LOGIC
 Separation of Charisma, Math, and Ethics.
 
@@ -1936,7 +2200,10 @@ Separation of Charisma, Math, and Ethics.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # STARTER-KIT
 Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 
@@ -1950,7 +2217,10 @@ Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔭 TOOL: CURIOSITY CONTRACT (BASE)
 ## Zweck: Vom Ego-Kampf zur Wahrheitsfindung
 
@@ -1972,7 +2242,10 @@ Bevor eine Idee zerstört (kritisiert) werden darf, muss sie vollständig versta
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔭 TOOL: CURIOSITY CONTRACT (LOGIC)
 ## Das Steel-Manning-Protokoll
 
@@ -2001,7 +2274,10 @@ $$Solution_C = (BestOf_A + BestOf_B) - (Bias_A + Bias_B)$$
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔭 TOOL: CURIOSITY CONTRACT (KIT)
 ## Sätze für den Alltag
 
@@ -2028,7 +2304,10 @@ Bei Pattsituationen:
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔗 TOOL: RESONANCE LEDGER (BASE)
 ## Zweck: Die Sichtbarmachung von Vertrauen
 
@@ -2051,7 +2330,10 @@ Reputation entsteht nicht durch das, was man sagt, sondern durch das, was Peers 
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔗 TOOL: RESONANCE LEDGER (LOGIC)
 ## Der Trust-Graph-Algorithmus
 
@@ -2078,7 +2360,10 @@ Reputation ist nicht statisch. Alte Lorbeeren verblassen (Halbwertszeit von 6 Mo
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🔗 TOOL: RESONANCE LEDGER (KIT)
 ## Umgang mit Reputation
 
@@ -2105,7 +2390,10 @@ Dies eliminiert Enttäuschungen und Trittbrettfahrer-Verhalten.
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # ⏳ TOOL: SPACE-TIME CHARTER (BASE)
 ## Zweck: Schutz der Lebenszeit
 
@@ -2133,7 +2421,10 @@ Ein Treffen darf nur stattfinden, wenn:
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # ⏳ TOOL: SPACE-TIME CHARTER (LOGIC)
 ## Protokolle der Zusammenkunft
 
@@ -2158,7 +2449,10 @@ Meetings haben keine "Open End". Der Timer ist sichtbar. Ist die Zeit um, wird d
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # ⏳ TOOL: SPACE-TIME CHARTER (KIT)
 ## Meeting-Hygiene
 
@@ -2181,7 +2475,10 @@ Das Cluster-System definiert "Stille Stunden" (z.B. 08:00 - 12:00), in denen kei
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # BASE
 Competence is independent of Identity.
 
@@ -2195,7 +2492,10 @@ Competence is independent of Identity.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # LOGIC
 Halo Effect: We cannot train bias away, we must hide the trigger.
 
@@ -2209,7 +2509,10 @@ Halo Effect: We cannot train bias away, we must hide the trigger.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # KIT
 Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 
@@ -2223,7 +2526,10 @@ Process: 1. Work Sample. 2. Remove Names. 3. Decide.
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # BASE
 Reverse Projection defines solutions.
 
@@ -2237,7 +2543,10 @@ Reverse Projection defines solutions.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # LOGIC
 Backcasting prevents extrapolating today's errors.
 
@@ -2251,7 +2560,10 @@ Backcasting prevents extrapolating today's errors.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # KIT
 Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's action.
 
@@ -2265,7 +2577,10 @@ Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's acti
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 💰 TOOL: SPHERICAL-COMPENSATION (BASE)
 ## Zweck: Ganzheitliche Wertschätzung
 
@@ -2290,7 +2605,10 @@ Motivation zur Exzellenz ohne den Druck der existenziellen Vernichtung.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # Toolbox | Sphärische Kompensation
 ## Anwendungsebene des Puls-OS
 
@@ -2309,7 +2627,10 @@ Jeder Transfer innerhalb einer Firmeneinheit muss das White-Silence-Protokoll un
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 💰 TOOL: SPHERICAL-COMPENSATION (KIT)
 ## Dein Beitrags-Logbuch
 
@@ -2341,7 +2662,10 @@ Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🖥️ HARDWARE: NODE ONE (BASE)
 ## Zweck: Die Physische Souveränität
 
@@ -2365,7 +2689,10 @@ Jeder Bürger betreibt einen Node One.
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🖥️ HARDWARE: NODE ONE (LOGIC) v3.7.1
 ## Technische Spezifikation (Gehärtet)
 
@@ -2396,7 +2723,10 @@ Nicht jeder kann sich spezialisierte Hardware leisten.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🖥️ HARDWARE: NODE ONE (KIT)
 ## Setup & Wartung
 
@@ -2427,7 +2757,10 @@ Der Node One hat keine verklebten Teile.
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (BASE)
 ## Zweck: Systemische Inkorruptibilität
 
@@ -2451,7 +2784,10 @@ Eliminierung von "Hinterzimmer-Deals", Lobbyismus und verdeckter Einflussnahme d
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (LOGIC)
 ## Die Daten-Architektur der Machtkontrolle
 
@@ -2496,7 +2832,10 @@ Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🏛️ TOOL: GLASS-HOUSE PROTOCOL (KIT)
 ## Das Wächter-Interface (Sentinel-Dashboard)
 
@@ -2527,7 +2866,10 @@ Dieser Bericht ist die alleinige Basis für die Wiederwahl oder Abwahl (Rotation
 
 
 
+
 ## MODULE: 01_BASE.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🌐 TOOL: LIQUID-FEEDBACK (BASE)
 ## Zweck: Dynamische Schwarmintelligenz
 
@@ -2551,7 +2893,10 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 
 
 
+
 ## MODULE: 02_LOGIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🌐 TOOL: LIQUID-FEEDBACK (LOGIC) v3.7.1
 ## Die Mathematik der Mitbestimmung (Energy-Saving Mode)
 
@@ -2578,7 +2923,10 @@ Verhindert Kreis-Delegationen (A->B->C->A).
 
 
 
+
 ## MODULE: 03_PUBLIC.md
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
 # 🌐 TOOL: LIQUID-FEEDBACK (KIT)
 ## Dein Interface zur Macht
 
@@ -2609,6 +2957,7 @@ Damit du nicht im "Abstimmungs-Spam" versinkst, filtert das Interface nur die Th
 
 
 
+
 ## MODULE: README.md
 # Die Toolbox
 
@@ -2619,7 +2968,38 @@ Unterteilt in PERSONAL (Du), GROUP (Wir) und STATE (Struktur).
 
 
 
+## MODULE: BRAND_IDENTITY.md
+# LOVALIS VISUAL IDENTITY GUIDE
+**Status:** Official Reference
+**System:** v4.0.1
+
+## 1. Das Master-Symbol (Lovalis)
+Das Logo visualisiert die **Symbiotische Schnittstelle** (The Symbiotic Interface).
+* **Pfad:** \ 8_DISTRIBUTION/VISUALS/logo_lovalis_master.svg\
+* **Symbolik:** Der technische Rahmen (Logica) hält und schützt den biologischen Kern (Valitas). Die Verbindung ist physisch (Interlock) und energetisch (Flow).
+
+## 2. Die Komponenten
+
+### A. LOGICA (Der Rahmen)
+* **Pfad:** \ 8_DISTRIBUTION/VISUALS/logo_logica_core.svg\
+* **Farbcodes:** - *Deep Slate:* #2C3E50
+  - *Cyber Cyan:* #00D2FF
+* **Bedeutung:** Struktur, Kälte, Präzision, Schutz, Gesetz.
+
+### B. VALITAS (Der Kern)
+* **Pfad:** \ 8_DISTRIBUTION/VISUALS/logo_valitas_core.svg\
+* **Farbcodes:**
+  - *Bio Gold:* #F2C94C
+  - *Warm Amber:* #FF8C00
+* **Bedeutung:** Leben, Wärme, Empathie, Chaos, Energie.
+
+## 3. Nutzungshinweise
+Das Logo darf nicht verzerrt werden. In technischen Dokumentationen (Weißer Hintergrund) ist die SVG-Version zu bevorzugen.
+
+
 ## MODULE: ABOUT_PROVENANCE.md
+<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # ABOUT PROVENANCE (v4.0.1)
 ** Genesis:** Dieses System entstand aus dem Wunsch des Ur-Architekten nach einer logisch unbestechlichen Ordnung. 
 ** Methodik:** Kaskadierte Deep-Scans sichern die Freiheit von menschlichem Bias durch algorithmische Konsistenz-Prüfungen.
@@ -2627,7 +3007,10 @@ Unterteilt in PERSONAL (Du), GROUP (Wir) und STATE (Struktur).
 
 
 
+
 ## MODULE: FIRST_CONTACT_PROTOCOLS.md
+<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 💠 LOVALIS | Protokoll für den Erstkontakt
 
 Dieses Dokument enthält die 'Drei-Fragen-Methode', um die Resonanz eines Individuums 
@@ -2675,7 +3058,10 @@ Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 
 
 
+
 ## MODULE: MANIFEST_V1.md
+<p align='center'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='200'></p>
+
 # MANIFEST VON LOGICA 4.0.1
 ## Die Verfassung der Bio-Integralen Föderation
 
@@ -2712,7 +3098,10 @@ Jeder Versuch, dieses System zu zentralisieren oder die Axiome zu umgehen, löst
 *(Hash: LOGICA-ORIGIN-VECTOR-SECURE)*
 
 
+
 ## MODULE: MASTER_INDEX.md
+<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # 📖 LOVALIS KOMPENDIUM | MASTER INDEX
 > **Status:** Gold Master Verified
 > **Date:** 2026-01-30
@@ -2848,7 +3237,10 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 
 
 
+
 ## MODULE: README.md
+<p align='center'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='300'></p>
+
 # 💠 LOVALIS (LV 4.0.1) - KOMPENDIUM
 
 > **[🇺🇸 English Version / International Mirror](https://github.com/rbbteu/LOVALIS-Compendium-INT)**
@@ -2925,7 +3317,10 @@ Das System ist modular aufgebaut (Sphären-Modell). Um es zu verstehen, wird fol
 **Devise: "Präzision vor Interpretation. Leidminimierung vor Entropie. Systemstabilität vor Ego."**
 
 
+
 ## MODULE: SYSTEM-INTEGRITY_CERTIFICATE.md
+<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # SYSTEM-INTEGRITY CERTIFICATE
 **Status:** GOLD MASTER VALIDATED
 **Version:** v4.0.1
@@ -2944,7 +3339,10 @@ Certified by: LOGICA-KERNEL-V4
 
 
 
+
 ## MODULE: SYSTEM_AUDIT_LOG_FULL.md
+<div align='right'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
 # SYSTEM-INTEGRITY AUDIT REPORT
 **Audit-ID:** LV-AUDIT-2026-01-31-FINAL
 **Target System:** LOVALIS v4.0.1 (Sovereign Harmony)
@@ -3009,6 +3407,8 @@ Obwohl das System logisch geschlossen ist, bestehen folgende reale Risiken, die 
 Hiermit wird bestätigt, dass LOVALIS v4.0.1 die Kriterien der **Ur-Architekt-Spezifikation** erfüllt. Das System ist bereit für die theoretische wie praktische Anwendung.
 
 **Signatur:** `KERNEL_HASH_v4.0.1_APPROVED`
+
+
 
 
 

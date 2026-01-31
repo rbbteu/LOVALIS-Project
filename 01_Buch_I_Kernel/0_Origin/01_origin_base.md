@@ -10,13 +10,14 @@ Der Ur-Architekt definiert die moralischen Fixpunkte. Er ist der Initiator der Z
 
 
 <div align='center'>
-  <img src='../../08_DISTRIBUTION/VISUALS/diagram_zvf_blueprint_v2.svg' width='100%'>
-  <br><i>ABB. 1: Blueprint der Zustands-Validierungs-Funktion (ZVF)</i>
+  <img src='../../08_DISTRIBUTION/VISUALS/diagram_zvf_blueprint_v3.svg' width='100%'>
+  <br><i>ABB. 1: ZVF Logic Gate v3.0 (Detailansicht)</i>
 </div>
 
 
 ## III. Das Prinzip der permanenten Optimierung
 Das System ist nicht starr. Es ist ein 'Living Document', das sich durch den Austausch zwischen den Räten und dem Kernel ständig selbst verifiziert, um die ursprüngliche Vision (Leidminimierung) gegen technokratische Entartung abzusichern.
+
 
 
 
