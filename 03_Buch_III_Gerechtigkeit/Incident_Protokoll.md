@@ -17,3 +17,4 @@
 - Beispiel 'Vandalismus': Reparatur der Hardware und Heilung der sozialen Ursache gehen Hand in Hand.
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.
 
+

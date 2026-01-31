@@ -13,3 +13,4 @@
 ## III. Laienverständnis
 - Beispiel 'Mars-Station': Ein Dorf im All, das nach denselben fairen Regeln spielt wie dein Dorf auf der Erde.
 - Kernbotschaft: Wir dehnen den Horizont der Menschheit aus, ohne unsere Werte zurückzulassen.
+

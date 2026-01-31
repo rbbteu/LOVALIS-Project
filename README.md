@@ -1,14 +1,19 @@
-﻿# 💠 LOVALIS - KOMPENDIUM v4.0.1
-> **Status:** Sovereign Harmony | Bio-Integral OS
+﻿# 💠 LOVALIS - KOMPENDIUM v4.0.1 (Sovereign Harmony)
 
-## Die Sphären der Logik
-1. **KERNEL (Buch I):** Axiomatik & Ur-Architekt-Genesis.
-2. **ENERGETIK (Buch II):** Das Puls-OS und die Entropie-Bremse.
-3. **RESONANZ (Buch III):** Gerechtigkeit & Rehabilitation.
-4. **SIMULATION (Buch IV):** Gesellschaft & Pädagogik der Ineffizienz.
-5. **EXPANSION (Buch V):** Habitat-Autarkie & Weltraum-Logik.
-6. **TRANSITION (Buch VI):** Kognitive Infiltration & Submarine-Modus.
-7. **TOOLBOX (Buch VII):** V-Gate, Node One & Liquid Feedback.
+> **Status:** Gold Master | Logisch Geschlossen | Bio-Integral Konform
 
----
-**Gerechnet auf t+175 Jahre. Valdiert gegen das Leid fühlender Wesen.**
+## 📖 System-Übersicht
+LOVALIS ist ein post-nationales, dezentrales Betriebssystem für die menschliche Zivilisation. Es basiert auf Thermodynamik, Ethik und fraktaler Netzwerk-Topologie.
+
+### Die Sphären (Bücher)
+1. **01_KERNEL:** Die Axiome, die Ur-Architekt-Genesis und die psychologische Resilienz.
+2. **02_ENERGETIK:** Das Puls-OS. Minting durch Proof of Contribution (PoC).
+3. **03_RESONANZ:** Gerechtigkeit ohne Strafe. Die Judikative Triade.
+4. **04_SIMULATION:** Gesellschaft, Architektur und Pädagogik der Ineffizienz.
+5. **05_VERNETZUNG:** Skalierung, Expansion und das Isolation-Axiom (Weltraum).
+6. **06_TRANSITION:** Der Masterplan. Kognitive Infiltration (Submarine-Modus).
+7. **07_TOOLBOX:** Hardware (Node One) und Software (V-Gate, Liquid Feedback).
+
+### Die Devise
+**"Präzision vor Interpretation. Leidminimierung vor Profit. Systemstabilität vor Ego."**
+

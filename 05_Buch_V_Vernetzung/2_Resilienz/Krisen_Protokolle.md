@@ -15,3 +15,4 @@
 - Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.
 
 
+

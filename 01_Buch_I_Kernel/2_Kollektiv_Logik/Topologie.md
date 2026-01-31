@@ -10,3 +10,4 @@ Die Kleinteiligkeit verhindert soziale Anonymität. Die §1:§11 Care-Ratio (§1
 
 ## III. Laienverständnis (Bürger-Ebene)
 Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluster ist wie ein eng vernetztes Dorf, in dem man sich kennt und hilft. Wird es zu voll, teilt sich die Gemeinschaft wie eine gesunde Zelle in zwei freundschaftliche Nachbarschaften.
+

@@ -14,3 +14,4 @@
 - Beispiel 'Die SchiedsJudikative Triade': Ein Team aus drei Wächtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
 - Kernbotschaft: Deine Sicherheit vor Willkür durch ständige, unabhängige Kontrolle.
 
+

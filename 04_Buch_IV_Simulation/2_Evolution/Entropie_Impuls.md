@@ -12,3 +12,4 @@ Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt de
 Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aüber wir lassen den Stolz der überwindung.
 
 
+

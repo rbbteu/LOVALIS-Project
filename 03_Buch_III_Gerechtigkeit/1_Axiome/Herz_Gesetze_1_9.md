@@ -47,3 +47,4 @@
 - **Technische Spezifikation:** Palliativ-Protokolle und Recht auf assistierte Selbstbestimmung, validiert durch die 13. Instanz.
 - **Expertenübersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, würdevollen übergangs.
 - **Laienverständnis:** Auch am Ende deines Weges lässt dich das System nicht allein und respektiert deine Entscheidung.
+

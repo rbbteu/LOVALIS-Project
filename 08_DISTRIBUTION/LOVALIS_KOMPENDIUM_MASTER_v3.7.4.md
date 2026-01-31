@@ -1872,7 +1872,7 @@ Workshop: 1. Jump to 2030 (We won). 2. Look back to 2028. 3. Define today's acti
 # 💰 TOOL: SPHERICAL-COMPENSATION (BASE)
 ## Zweck: Ganzheitliche Wertschätzung
 
-Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Beenergetische Kompensationung nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
+Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Energetische Kompensation nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
 
 ### Kern-Prinzipien
 1. **Entkopplung:** Existenz ist garantiert (Kernel). Kompensation dient der individuellen Entfaltung und Steuerung von Zusatz-Ressourcen.
@@ -1938,7 +1938,7 @@ Puls-Einheiten sind keine Puls-Standard, sondern **Steuerungs-Energie**. Du nutz
 - Delegation von Aufgaben an das System (Automatisierung deiner Bedürfnisse).
 
 ### 4. Transparenz-Dashboard
-Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Beenergetische Kompensationung immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
+Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Energetische Kompensation immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
 
 ---
 ### --- SYSTEM-KONTEXT ---
@@ -2245,6 +2245,7 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+
 
 
 

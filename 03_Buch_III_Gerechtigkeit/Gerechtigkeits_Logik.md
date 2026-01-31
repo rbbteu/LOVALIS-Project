@@ -16,3 +16,4 @@ Anstatt einer Freiheitsentziehung erfolgt eine Neuausrichtung des Beitrags-Vekto
 
 ### III. Schutz vor Axiomatischer Singularität
 Niemand darf über ein Mitglied des eigenen Clusters urteilen. Die Judikative Triade muss aus drei geografisch und sozial distanten Clustern bestehen.
+

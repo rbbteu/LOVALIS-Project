@@ -39,3 +39,4 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+

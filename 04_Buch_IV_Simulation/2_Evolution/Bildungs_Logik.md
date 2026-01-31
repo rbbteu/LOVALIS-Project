@@ -18,3 +18,4 @@ Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungs
     - Dieses tiefe Verständnis macht dich zu einem wertvollen Ratgeüber im Cluster, auch wenn du nie einen Nagel verkaufst.
 - **Kernbotschaft:** Du lernst für dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
 
+

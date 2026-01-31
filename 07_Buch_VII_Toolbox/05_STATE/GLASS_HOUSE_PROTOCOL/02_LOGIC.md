@@ -36,3 +36,4 @@ Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
 - **Transparenz-Dividende (TD):** Zugriffstiefe x Zeit x Entropie-Faktor = Puls-Transfer.
 - **V-Gate Kopplung:** Das V-Gate des Bürgers fungiert als Firewall-Interface. Es signalisiert jeden Auditversuch durch haptisches Feedback (Smart-Device).
 - **Missbrauchsschutz:** Ein Übermaß an Audits führt zur automatischen Suspendierung des Ratsmandats (Hand/Herz/Kopf).
+

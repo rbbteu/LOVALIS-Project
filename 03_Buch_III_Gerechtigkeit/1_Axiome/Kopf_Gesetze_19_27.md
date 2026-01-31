@@ -47,3 +47,4 @@
 - **Technische Spezifikation:** Automatischer Deep Scan des gesamten Codex alle §12 Monate auf Basis der realen Leid-Statistiken ({sum}$).
 - **Expertenübersetzung:** Dynamisches Recht. Gesetze, die ihren Zweck (Leidminimierung) nicht erfüllen, müssen gelöscht oder angepasst werden.
 - **Laienverständnis:** Einmal im Jahr prüfen wir alle Regeln. Was nicht hilft oder nur nervt, kommt weg.
+

@@ -17,3 +17,4 @@
 3. **Kopf (§19-27):** Die Regeln sind fair, für jeden gleich und für jeden einsehbar.
 
 *Kernbotschaft: §27 Schutzschilde für deine Freiheit.*
+

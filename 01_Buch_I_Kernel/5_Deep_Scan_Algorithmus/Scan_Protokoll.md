@@ -9,3 +9,4 @@ Ein Deep Scan prüft bei jeder Systemänderung nicht nur die technische Machbark
 
 ## II. Rekursions-Tiefe
 Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird generiert, wenn eine mathematische Wahrscheinlichkeit von >0.01% für eine Leid-Erhöhung ({inc}$) besteht.
+

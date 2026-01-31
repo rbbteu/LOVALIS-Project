@@ -9,3 +9,4 @@ Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige '
 ## III. Ökonomischer Hebel
 Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von überschuss-Pulsen in die Allmende, während Aktivität die Stabilität privater Ressourcen begünstigt.
 
+

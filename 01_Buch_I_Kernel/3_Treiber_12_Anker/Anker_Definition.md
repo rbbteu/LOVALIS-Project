@@ -23,3 +23,4 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 
 ## II. Haftung der Anker
 Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die 13. Instanz.
+
