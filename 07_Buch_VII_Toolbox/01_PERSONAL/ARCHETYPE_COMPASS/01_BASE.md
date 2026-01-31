@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch VII |  BASE
 
-# 🧭 TOOL: ARCHETYPE COMPASS (BASE)
+BASE
+
+01 BASE
+
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+🧭 TOOL: ARCHETYPE COMPASS (BASE)
 ## Zweck: Findung der System-Rolle
 
 Der Archetype Compass beendet das Konzept der "Karriere" (Aufstieg um jeden Preis) und ersetzt es durch "Berufung" (Platzierung nach Kompetenz und Freude).
@@ -19,6 +25,9 @@ Jeder Mensch hat eine Gravitation zu einer der drei Säulen:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
+
+
 
 
 

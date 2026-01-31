@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch IV | Bildungs Logik
 
-# Buch IV | Kapitel §2: Bildung & Wissens-Evolution (Pädagogik der Ineffizienz)
+Bildungs Logik
+
+Bildungs Logik
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+Kapitel §2: Bildung & Wissens-Evolution (Pädagogik der Ineffizienz)
 
 ## I. Technische Spezifikation (System-Ebene: *Knowledge-Architecture*)
 Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungszwang.
@@ -19,6 +25,9 @@ Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungs
     - Logica: Du lernst Schmieden, weil dich die Materie fasziniert. Du nimmst dir alle Zeit der Welt. Dabei verstehst du Physik, Ästhetik und Ausdauer. 
     - Dieses tiefe Verständnis macht dich zu einem wertvollen Ratgeüber im Cluster, auch wenn du nie einen Nagel verkaufst.
 - **Kernbotschaft:** Du lernst für dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
+
+
+
 
 
 

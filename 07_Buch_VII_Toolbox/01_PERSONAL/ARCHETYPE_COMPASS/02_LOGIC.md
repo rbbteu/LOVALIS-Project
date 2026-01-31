@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch VII |  Logik
 
-# 🧭 TOOL: ARCHETYPE COMPASS (LOGIC)
+Logik
+
+02 LOGIC
+
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+🧭 TOOL: ARCHETYPE COMPASS (LOGIC)
 ## Der Matching-Algorithmus
 
 Der Kompass nutzt historische Daten aus deinem "Proof of Contribution" (Spherical Compensation), um dein Profil zu schärfen.
@@ -25,6 +31,9 @@ Vergleich deines Profils mit offenen Rollen im Cluster.
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
+
+
 
 
 

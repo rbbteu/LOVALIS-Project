@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+﻿# Buch III | InterCluster Austausch
 
-# Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
+InterCluster Austausch
+
+InterCluster Austausch
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
 
 ## I. Technische Spezifikation
 - Peering-Protokoll: Ressourcenausgleich statt Gewinnmaximierung.
@@ -20,6 +26,10 @@
 ---
 ### SYSTEM-INTEGRATION
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+
+
+
 
 
 

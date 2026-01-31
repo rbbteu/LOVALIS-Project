@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch VII |  BASE
 
-# ⏳ TOOL: SPACE-TIME CHARTER (BASE)
+BASE
+
+01 BASE
+
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+⏳ TOOL: SPACE-TIME CHARTER (BASE)
 ## Zweck: Schutz der Lebenszeit
 
 Zeit ist die einzige Ressource, die nicht regenerierbar ist. Die Verschwendung der Zeit anderer durch schlechte Organisation gilt in LOVALIS als Form von Diebstahl (Leid-Erzeugung).
@@ -21,6 +27,9 @@ Ein Treffen darf nur stattfinden, wenn:
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
+
+
 
 
 

@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+﻿# Buch III | Krisen Hierarchie
 
-# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
+Krisen Hierarchie
+
+Krisen Hierarchie
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
 
 ## I. Die Unantastbare Basis (Priorität §1)
 Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
@@ -19,6 +25,10 @@ Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser R
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
 
 > **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
+
+
+
+
 
 
 

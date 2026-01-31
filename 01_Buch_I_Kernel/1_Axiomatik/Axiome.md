@@ -1,9 +1,18 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch I | Axiome
+
+Axiome
+
+Axiome
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
 
 ## IV. Die Bio-Integral-Klausel (v4.0.0)
 Nicht-menschliche Organismen sind aktive Stakeholder.
 - **Formel:** $L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$.
 - **Veto:** Jede Op mit $L_{inc} > 0$ triggert einen Kernel-Panic.
+
+
+
 
 
 

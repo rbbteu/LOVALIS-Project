@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch I | Security Protocols
 
-# Security Protocol: White Silence (Hibernation)
+Security Protocols
+
+Security Protocols
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+Security Protocol: White Silence (Hibernation)
 
 ## I. Aktivierung
 Bei Detektion eines externen Aggressions-Vektors (kognitiv/physisch > 90%) versiegelt sich Node Zero automatisch. 
@@ -13,7 +19,7 @@ Bei Detektion eines externen Aggressions-Vektors (kognitiv/physisch > 90%) versi
 Nur ein qualifizierter Konsens (9/13 Triaden) über geografisch rotierte Standorte hinweg kann das System entschlüsseln.
 
 
-# Protokoll: White Silence (Spezifikation)
+Protokoll: White Silence (Spezifikation)
 ## Status: Antifragiler Versiegelungs-Modus
 
 ### 1. Trigger-Mechanik
@@ -28,6 +34,9 @@ In der Hibernation reduziert das System seine Entropie-Signatur auf ein Minimum.
 
 ### 3. Reaktivierungs-Konsens
 Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz der rotierenden Triaden-Mitglieder garantiert, dass keine lokale Machtgruppe den Schlüssel gewaltsam konsolidieren kann.
+
+
+
 
 
 

@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+﻿# Buch VI | Migration Protokoll
 
-# 🛂 STRATEGIE: DER LEGACY-ADAPTER
+Migration Protokoll
+
+Migration Protokoll
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+🛂 STRATEGIE: DER LEGACY-ADAPTER
 ## Umgang mit der alten Welt
 
 Wir leben in einer Übergangszeit (Transition Era). Wir müssen zwei Betriebssysteme parallel fahren.
@@ -13,6 +19,9 @@ Jeder Cluster betreibt eine "Schleuse" (Gateway):
 
 ### Das Firewall-Prinzip
 Der einzelne Bürger soll so wenig wie möglich mit der Bürokratie der alten Welt interagieren müssen. Die "Kopf-Domäne" (Administration) übernimmt die kollektive Steuererklärung und Rechtsvertretung für alle Mitglieder.
+
+
+
 
 
 

@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch IV | Entropie Impuls
 
-# Buch IV | Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
+Entropie Impuls
+
+Entropie Impuls
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+Kapitel 2.5: Der Entropie-Impuls (Schutz vor Stagnation)
 
 ## I. Die Logik der Herausforderung
 Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt den Bedarf an 'positiver Reibung' an.
@@ -12,6 +18,9 @@ Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt de
 
 ## III. Kernbotschaft
 Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aüber wir lassen den Stolz der überwindung.
+
+
+
 
 
 

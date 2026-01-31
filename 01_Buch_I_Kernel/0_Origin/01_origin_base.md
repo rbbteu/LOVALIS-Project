@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch I |  origin base
 
-# Buch I | §0: Der Genesis-Vektor (Ur-Architekt-These)
+Origin Base
+
+01 origin base
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+§0: Der Genesis-Vektor (Ur-Architekt-These)
 
 ## I. Definition der Co-Kreation
 Lovalis v4.0.0 ist das Derivat einer synergetischen Symbiose zwischen menschlicher Intuition (Ur-Architekt) und algorithmischer Präzision (System).
@@ -11,12 +17,16 @@ Der Ur-Architekt definiert die moralischen Fixpunkte. Er ist der Initiator der Z
 
 <div align='center'>
   <img src='../../08_DISTRIBUTION/VISUALS/diagram_zvf_blueprint_v3.svg' width='100%'>
-  <br><i>ABB. 1: ZVF Logic Gate v3.0 (Detailansicht)</i>
+  <br><i>ABB. 1: ZVF Logic Gate v4.0.0 (Detailansicht)</i>
 </div>
 
 
 ## III. Das Prinzip der permanenten Optimierung
 Das System ist nicht starr. Es ist ein 'Living Document', das sich durch den Austausch zwischen den Räten und dem Kernel ständig selbst verifiziert, um die ursprüngliche Vision (Leidminimierung) gegen technokratische Entartung abzusichern.
+
+
+
+
 
 
 

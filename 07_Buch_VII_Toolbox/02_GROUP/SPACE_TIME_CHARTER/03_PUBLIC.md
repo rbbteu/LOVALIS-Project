@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch VII |  PUBLIC
 
-# ⏳ TOOL: SPACE-TIME CHARTER (KIT)
+PUBLIC
+
+03 PUBLIC
+
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+⏳ TOOL: SPACE-TIME CHARTER (KIT)
 ## Meeting-Hygiene
 
 ### Check-in / Check-out
@@ -17,6 +23,9 @@ Das Cluster-System definiert "Stille Stunden" (z.B. 08:00 - 12:00), in denen kei
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
+
+
 
 
 

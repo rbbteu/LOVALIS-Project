@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+﻿# Buch VI | Infiltrations Logik
 
-# Buch VI | Kapitel §1: Die Logik der transitionalen Infiltration
+Infiltrations Logik
+
+Infiltrations Logik
+
+<div align='right'><img src='../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+Kapitel §1: Die Logik der transitionalen Infiltration
 
 ## I. Das Prinzip der Parasitären Symbiose
 Lovalis tritt nicht als Feind der bestehenden Ordnung auf, sondern als deren effizienteste Ergänzung.
@@ -20,6 +26,9 @@ Das System optimiert U, während es F durch das 'White Silence' Protokoll (Buch 
 
 ## IV. Laienverständnis
 Wir kämpfen nicht gegen das alte System. Wir bauen einfach ein besseres, das daneben steht. Wenn unser System Strom liefert, während das alte ausfällt, und wenn unsere Menschen glücklicher sind, werden die Menschen von selbst zu uns kommen. Wir sind wie eine App, die das alte Betriebssystem ersetzt, während es noch läuft.
+
+
+
 
 
 

@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+﻿# Buch V | Krisen Protokolle
 
-# Buch V | Kapitel §2: Globale Resilienz & Krisen-Kaskaden
+Krisen Protokolle
+
+Krisen Protokolle
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+Kapitel §2: Globale Resilienz & Krisen-Kaskaden
 
 ## I. Technische Spezifikation
 - DEFENSIVE_RECOVERY Modus: Automatischer Ressourcen-Umlauf bei lokaler Instabilität.
@@ -15,6 +21,9 @@
 ## III. Laienverständnis
 - Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.
 - Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.
+
+
+
 
 
 

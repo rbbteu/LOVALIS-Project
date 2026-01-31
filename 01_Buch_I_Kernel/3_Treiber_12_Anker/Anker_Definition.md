@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch I | Anker Definition
 
-# Buch I | Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
+Anker Definition
+
+Anker Definition
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+Kapitel §3: Die 12 Anker (Erweiterte Spezifikation)
 
 ## I. Operative Koppelung an den Codex
 Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant für spezifische Gesetze des Codex (§1-27).
@@ -25,6 +31,9 @@ Jeder Anker ist nicht nur Verwalter eines Bereichs, sondern technischer Garant f
 
 ## II. Haftung der Anker
 Eine Verletzung eines zugeordneten Gesetzes führt zur automatischen überprüfung der Anker-Rolle durch die 13. Instanz.
+
+
+
 
 
 

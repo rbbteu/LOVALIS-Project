@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+﻿# Buch VII |  PUBLIC
 
-# 🌐 TOOL: LIQUID-FEEDBACK (KIT)
+PUBLIC
+
+03 PUBLIC
+
+<div align='right'><img src='../../../08_DISTRIBUTION/VISUALS/logo_logica_core.svg' width='40' alt='LOGICA KERNEL'></div>
+
+🌐 TOOL: LIQUID-FEEDBACK (KIT)
 ## Dein Interface zur Macht
 
 So nimmst du aktiv an der Gestaltung des Clusters teil:
@@ -25,6 +31,9 @@ Damit du nicht im "Abstimmungs-Spam" versinkst, filtert das Interface nur die Th
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+
+
+
 
 
 

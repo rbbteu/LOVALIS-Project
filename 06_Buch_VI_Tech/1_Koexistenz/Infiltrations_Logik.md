@@ -1,6 +1,12 @@
-﻿<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+﻿# Buch VI | Infiltrations Logik
 
-# 🕵️ STRATEGIE: KOGNITIVE INFILTRATION
+Infiltrations Logik
+
+Infiltrations Logik
+
+<div align='right'><img src='../../08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
+
+🕵️ STRATEGIE: KOGNITIVE INFILTRATION
 ## Das Submarine-Prinzip
 
 LOVALIS kämpft nicht gegen das alte System. Kampf erzeugt Widerstand (Leid). LOVALIS macht das alte System obsolet, indem es eine attraktivere Alternative bietet.
@@ -14,6 +20,9 @@ Wir nutzen existierende juristische Strukturen als "Wirt":
 Wir werben nicht. Wir leben besser.
 - Wenn im Außen-System die Renten kollabieren und die Einsamkeit steigt, bietet der Cluster (durch *Spherical Compensation* und *Resonance Ledger*) soziale Sicherheit und Sinn.
 - **Der Sog-Effekt:** Menschen kommen nicht wegen der Ideologie, sondern wegen der gesteigerten Lebensqualität (V-Score).
+
+
+
 
 
 
