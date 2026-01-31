@@ -1,0 +1,63 @@
+﻿<svg width="1000" height="800" viewBox="0 0 1000 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="#7F8C8D" />
+        </marker>
+        <linearGradient id="tensionGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#E74C3C" stop-opacity="0.3"/>
+            <stop offset="100%" stop-color="#E74C3C" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+
+    <rect width="1000" height="800" fill="#0F1720"/>
+    
+    <path d="M100 700 V100" stroke="#FFFFFF" stroke-width="2"/> <path d="M100 400 H950" stroke="#FFFFFF" stroke-width="2"/> <path d="M100 100 H950" stroke="#1F2F3F" stroke-width="1" stroke-dasharray="5 5"/> <path d="M100 700 H950" stroke="#1F2F3F" stroke-width="1" stroke-dasharray="5 5"/> <path d="M300 700 V100 M500 700 V100 M700 700 V100 M900 700 V100" stroke="#1F2F3F" stroke-width="1"/>
+
+    <text x="60" y="400" transform="rotate(-90 60,400)" font-family="Consolas" font-size="14" fill="#AAAAAA" text-anchor="middle">REAL PURCHASING POWER (V)</text>
+    <text x="950" y="420" font-family="Consolas" font-size="14" fill="#AAAAAA" text-anchor="middle">TIME (t)</text>
+    <text x="80" y="400" font-family="Consolas" font-size="12" fill="#FFFFFF">1.0</text> <rect x="20" y="20" width="320" height="100" fill="#1F2F3F" stroke="#2C3E50" stroke-width="2"/>
+    <text x="35" y="45" font-family="Consolas" font-size="14" fill="#00D2FF" font-weight="bold">SIM: VALUE_DYNAMICS_V4</text>
+    <text x="35" y="70" font-family="Consolas" font-size="10" fill="#AAAAAA">MODEL: DYNAMIC EQUILIBRIUM</text>
+    <text x="35" y="85" font-family="Consolas" font-size="10" fill="#AAAAAA">PARAM: DEMURRAGE &#955; = 5%/p.a.</text>
+    <text x="35" y="100" font-family="Consolas" font-size="10" fill="#AAAAAA">PARAM: INTEREST r = 3%/p.a.</text>
+
+
+    <path d="M100 400 Q 400 380 900 150" stroke="#E74C3C" stroke-width="2" stroke-dasharray="10 5"/>
+    
+    <path d="M100 400 Q 400 380 900 150 V 400 H 100" fill="url(#tensionGrad)"/>
+    
+    <text x="750" y="180" font-family="Arial" font-size="12" fill="#E74C3C" font-weight="bold">FIAT (Compound Interest)</text>
+    <text x="750" y="195" font-family="Consolas" font-size="10" fill="#E74C3C">Formula: V(t) = V&#8320; * (1+r)^t</text>
+    <text x="750" y="210" font-family="Consolas" font-size="10" fill="#E74C3C">Result: SYSTEM CRASH (Gap)</text>
+
+
+    <path d="M100 400 Q 300 450 900 650" stroke="#F2994A" stroke-width="2" stroke-dasharray="5 2"/>
+    
+    <text x="750" y="620" font-family="Arial" font-size="12" fill="#F2994A" font-weight="bold">PASSIVE HOLDING (Hoarding)</text>
+    <text x="750" y="635" font-family="Consolas" font-size="10" fill="#F2994A">Formula: V(t) = V&#8320; * e^(-&#955;t)</text>
+    <text x="750" y="650" font-family="Consolas" font-size="10" fill="#F2994A">Result: LOSS OF ENERGY</text>
+
+
+    <path d="M100 400 Q 150 350 200 400 T 300 400 T 400 400 T 500 400 T 600 400 T 700 400 T 800 400 T 900 400" 
+          stroke="#00F260" stroke-width="4" stroke-linecap="round"/>
+    
+    <text x="910" y="405" font-family="Arial" font-size="12" fill="#00F260" font-weight="bold">ACTIVE CIRCULATION</text>
+    <text x="750" y="380" font-family="Consolas" font-size="10" fill="#00F260">Status: VALUE PRESERVATION</text>
+
+
+    <g transform="translate(450, 550)">
+        <text x="0" y="0" font-family="Consolas" font-size="10" fill="#AAAAAA" font-style="italic">"Energy must flow to maintain potential."</text>
+    </g>
+
+    <g transform="translate(50, 750)">
+        <rect x="0" y="0" width="10" height="10" fill="#F2994A"/>
+        <text x="15" y="9" font-family="Consolas" font-size="10" fill="#AAAAAA">STAGNATION = DECAY</text>
+
+        <rect x="150" y="0" width="10" height="10" fill="#E74C3C"/>
+        <text x="165" y="9" font-family="Consolas" font-size="10" fill="#AAAAAA">ACCUMULATION = UNSTABLE</text>
+
+        <rect x="330" y="0" width="10" height="10" fill="#00F260"/>
+        <text x="345" y="9" font-family="Consolas" font-size="10" fill="#AAAAAA">FLOW = STABLE (TARGET)</text>
+    </g>
+
+</svg>
