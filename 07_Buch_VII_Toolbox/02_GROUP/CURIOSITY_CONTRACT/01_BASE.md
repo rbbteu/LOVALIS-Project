@@ -16,3 +16,4 @@ Bevor eine Idee zerstört (kritisiert) werden darf, muss sie vollständig versta
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

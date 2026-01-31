@@ -13,3 +13,4 @@ Anschluss an das lokale Energienetz ist ein Grundrecht.
 Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
 
 
+

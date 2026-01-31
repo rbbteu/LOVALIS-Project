@@ -21,3 +21,4 @@ Das Tool bietet Echtzeit-Übungen an, um den V-Score zu verbessern (z.B. kohäre
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

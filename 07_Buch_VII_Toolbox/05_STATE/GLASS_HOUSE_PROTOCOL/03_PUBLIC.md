@@ -25,3 +25,4 @@ Dieser Bericht ist die alleinige Basis für die Wiederwahl oder Abwahl (Rotation
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

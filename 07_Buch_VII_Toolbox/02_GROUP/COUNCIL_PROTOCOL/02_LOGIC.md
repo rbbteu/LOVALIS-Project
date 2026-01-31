@@ -8,3 +8,4 @@ Separation of Charisma, Math, and Ethics.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+

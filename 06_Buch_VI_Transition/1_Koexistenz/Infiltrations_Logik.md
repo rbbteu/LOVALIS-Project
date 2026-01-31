@@ -14,3 +14,4 @@ Wir werben nicht. Wir leben besser.
 - **Der Sog-Effekt:** Menschen kommen nicht wegen der Ideologie, sondern wegen der gesteigerten Lebensqualität (V-Score).
 
 
+

@@ -25,3 +25,4 @@ Wird eine Partei durch eine notwendige Systementscheidung benachteiligt, errechn
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

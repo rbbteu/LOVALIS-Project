@@ -12,3 +12,4 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 
 
+

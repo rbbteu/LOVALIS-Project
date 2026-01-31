@@ -8,3 +8,4 @@ Roles: Proposer, Calculator, Guardian (Veto).
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+

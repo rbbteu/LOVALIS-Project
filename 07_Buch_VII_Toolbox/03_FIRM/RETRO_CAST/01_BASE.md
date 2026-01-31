@@ -8,3 +8,4 @@ Reverse Projection defines solutions.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+

@@ -18,3 +18,4 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

@@ -23,3 +23,4 @@ $$Solution_C = (BestOf_A + BestOf_B) - (Bias_A + Bias_B)$$
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

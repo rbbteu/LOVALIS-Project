@@ -21,3 +21,4 @@ Verhindert Kreis-Delegationen (A->B->C->A).
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

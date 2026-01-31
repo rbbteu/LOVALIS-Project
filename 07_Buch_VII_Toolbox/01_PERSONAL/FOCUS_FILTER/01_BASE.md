@@ -8,3 +8,4 @@ Value = (Impact * Scale) - Friction.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+

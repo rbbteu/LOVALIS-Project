@@ -13,3 +13,4 @@ Der Ausgleich erfolgt durch Proof of Contribution (PoC), der direkt dem geschäd
 
 
 
+

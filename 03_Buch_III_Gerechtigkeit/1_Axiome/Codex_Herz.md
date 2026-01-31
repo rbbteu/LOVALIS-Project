@@ -13,3 +13,4 @@ Monitoring der Interaktions-Rate durch Anker Inklusion. Niemand darf vergessen w
 Verbot von Leistungs-Tracking. Kinder lernen spielerisch.
 
 
+

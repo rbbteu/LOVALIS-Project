@@ -12,3 +12,4 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
+

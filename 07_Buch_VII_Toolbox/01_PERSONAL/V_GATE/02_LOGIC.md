@@ -25,3 +25,4 @@ Simulation in drei Zeitfenstern:
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

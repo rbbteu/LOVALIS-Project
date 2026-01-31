@@ -21,3 +21,4 @@ Reputation ist nicht statisch. Alte Lorbeeren verblassen (Halbwertszeit von 6 Mo
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

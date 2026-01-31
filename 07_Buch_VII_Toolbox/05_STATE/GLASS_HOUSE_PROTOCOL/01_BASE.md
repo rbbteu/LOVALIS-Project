@@ -18,3 +18,4 @@ Eliminierung von "Hinterzimmer-Deals", Lobbyismus und verdeckter Einflussnahme d
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

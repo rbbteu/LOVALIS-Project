@@ -13,3 +13,4 @@ Daten gehören dem Erzeuger. Recht auf 'Digitales Vergessen'.
 Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 
+

@@ -19,3 +19,4 @@ Alle biologischen Daten gehören **ausschließlich** dem Individuum. Sie verlass
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

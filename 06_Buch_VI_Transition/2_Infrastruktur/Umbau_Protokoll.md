@@ -15,3 +15,4 @@ Aufbau lokaler Micro-Grids (Solar, Wind, Biomasse).
 Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstversorgung (ineffizient), sondern Krisenfestigkeit (Notversorgung für 3 Monate).
 
 
+

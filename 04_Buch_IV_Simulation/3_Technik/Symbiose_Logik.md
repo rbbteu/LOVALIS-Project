@@ -20,3 +20,4 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 
 
 
+

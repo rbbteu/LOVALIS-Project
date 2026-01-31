@@ -15,3 +15,4 @@ Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der
 
 
 
+

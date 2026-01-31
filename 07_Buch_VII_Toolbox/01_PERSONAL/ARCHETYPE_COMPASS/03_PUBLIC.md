@@ -17,3 +17,4 @@ Du bekommst Benachrichtigungen, wenn im Cluster Aufgaben entstehen, die perfekt 
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

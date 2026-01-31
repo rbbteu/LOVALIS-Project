@@ -13,3 +13,4 @@ Jeder Cluster betreibt eine "Schleuse" (Gateway):
 Der einzelne Bürger soll so wenig wie möglich mit der Bürokratie der alten Welt interagieren müssen. Die "Kopf-Domäne" (Administration) übernimmt die kollektive Steuererklärung und Rechtsvertretung für alle Mitglieder.
 
 
+

@@ -29,3 +29,4 @@ Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz
 
 
 
+

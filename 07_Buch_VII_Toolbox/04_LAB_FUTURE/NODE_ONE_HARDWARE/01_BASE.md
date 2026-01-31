@@ -18,3 +18,4 @@ Jeder Bürger betreibt einen Node One.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

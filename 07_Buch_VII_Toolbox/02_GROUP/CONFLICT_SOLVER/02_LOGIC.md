@@ -24,3 +24,4 @@ Kann keine Einigung erzielt werden, wird die 13. Instanz (Ombudsperson) als asyn
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

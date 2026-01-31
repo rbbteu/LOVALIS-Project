@@ -8,3 +8,4 @@ Anxiety Loop: Fear without agency releases cortisol.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+

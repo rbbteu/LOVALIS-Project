@@ -19,3 +19,4 @@ Jeder Mensch hat eine Gravitation zu einer der drei Säulen:
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

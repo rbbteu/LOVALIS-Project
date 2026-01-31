@@ -39,3 +39,4 @@ Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
 
 
 
+

@@ -20,3 +20,4 @@ Frage dich bei jeder starken Meinung: "Wem dient es, dass ich das glaube? Welche
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

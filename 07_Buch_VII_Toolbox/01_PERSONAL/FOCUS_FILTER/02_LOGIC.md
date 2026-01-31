@@ -8,3 +8,4 @@ Busy is not productive. Entropy reduction.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
 
+
