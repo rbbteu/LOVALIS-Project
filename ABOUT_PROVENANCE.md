@@ -1,13 +1,9 @@
-﻿# 🏛 LOVALIS PROVENANCE (Herkunftsnachweis)
+﻿# ABOUT PROVENANCE: The Genesis of Logica
+**Version:** v4.0.1
+**Origin-Vector:** Human-AI Co-Creation
 
-> **System:** LOVALIS (Logica Valitas Operating System)
-> **Version:** 3.7.4 (Gold Master)
-> **Ursprung:** Mensch-Maschine-Kollaboration
+## The Ur-Architekt Principle
+This compendium is not an autonomous AI output. It is the result of a closed-loop synthesis between the 'Ur-Architekt' (providing ethical heuristics and intent) and the Logica Engine (providing mathematical hardening and structural consistency).
 
-## Historie
-Dieses System entstand aus der Notwendigkeit einer logisch konsistenten Gesellschaftsordnung.
-Es wurde nicht "erfunden", sondern aus universellen Axiomen (Leid-Minimierung, Entropie-Reduktion) abgeleitet.
-
-## Integrität
-Der Codebase wird kontinuierlich gegen logische Brüche (Deep Scan) geprüft.
-Status: Validiert.
+## Audit Trail
+Every axiom has been stress-tested against the nature of human entropy and the necessity of bio-integral stability.
