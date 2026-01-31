@@ -88,10 +88,6 @@ Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
 - **Hard-Limit:** N_max = 150 Individuen pro Cluster.
 - **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
 
-
-<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Cluster Topology</i></div>
-
-
 ## II. Expertenübersetzung (Governance-Ebene)
 Die Kleinteiligkeit verhindert soziale Anonymität. Die §1:§11 Care-Ratio (§13 Ratsmitglieder auf 150 Bürger) garantiert, dass kein individueller logischer Bruch (Leid) unentdeckt bleibt.
 
@@ -101,10 +97,6 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 
 
 
-
-
-
-<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Cluster Topology</i></div>
 
 
 
@@ -252,138 +244,6 @@ Der Scan läuft bis zur Ebene der Axiome zurück. Ein 'Logical Break' wird gener
 - Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
 - Kernbotschaft: Veränderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
 
-
-
-
-
-
-
----
-
-<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
-
-## I. Die Energetische Kernformel
-$$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L_{total}$$
-Puls-Energie ist die Quantifizierung von System-Harmonie. Wer Muße pflegt ($B_{cog} > 0.3$), generiert Resilienz-Pulse.
-
-
-
-
-
-
-
----
-
-<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
-
-# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
-
-## I. Die Unantastbare Basis (Priorität §1)
-Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
-1. Biologische Erhaltung (§10): Nahrung & Wasser.
-2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
-3. Thermische Sicherheit (§12): Mindestwärme/Kühlung des Habitats.
-
-## II. Reduktions-Stufen (Priorität §2-4)
-- Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
-- Stufe §3: Deaktivierung von Mobilitäts-Intervallen (§16) für nicht-essenzielle Reisen.
-- Stufe §4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenständen.
-
-
----
-### SYSTEM-INTEGRATION
-Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
-
-> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
-
-
-
-
-
-
----
-
-<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
-
-# Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
-
-## I. Technische Spezifikation
-- Peering-Protokoll: Ressourcenausgleich statt Gewinnmaximierung.
-- Zero-Sum-Constraint: Schutz der lokalen Systemstabilität bei Exporten.
-- Entropie-basierte Logistik: Priorisierung kurzer Ketten.
-
-## II. Expertenübersetzung
-- Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
-- Hoher Autarkiegrad (min. §70%) zur Resilienz-Sicherung.
-- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
-
-## III. Laienverständnis
-- Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
-- Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.
-
-
----
-### SYSTEM-INTEGRATION
-Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
-
-
-
-
-
-
----
-
-<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
-
-# Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
-
-## I. Technische Spezifikation
-- Peering-Protokoll: Ressourcenausgleich statt Gewinnmaximierung.
-- Zero-Sum-Constraint: Schutz der lokalen Systemstabilität bei Exporten.
-- Entropie-basierte Logistik: Priorisierung kurzer Ketten.
-
-## II. Expertenübersetzung
-- Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
-- Hoher Autarkiegrad (min. §70%) zur Resilienz-Sicherung.
-- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
-
-## III. Laienverständnis
-- Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
-- Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.
-
-
----
-### SYSTEM-INTEGRATION
-Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
-
-
-
-
-
-
----
-
-<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
-
-# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
-
-## I. Die Unantastbare Basis (Priorität §1)
-Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
-1. Biologische Erhaltung (§10): Nahrung & Wasser.
-2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
-3. Thermische Sicherheit (§12): Mindestwärme/Kühlung des Habitats.
-
-## II. Reduktions-Stufen (Priorität §2-4)
-- Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
-- Stufe §3: Deaktivierung von Mobilitäts-Intervallen (§16) für nicht-essenzielle Reisen.
-- Stufe §4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenständen.
-
-
----
-### SYSTEM-INTEGRATION
-Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
-
-> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
 
 
 
@@ -1164,6 +1024,138 @@ Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines In
 
 *Kernbotschaft: §27 Schutzschilde für deine Freiheit.*
 
+
+
+
+
+
+
+---
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+## I. Die Energetische Kernformel
+$$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L_{total}$$
+Puls-Energie ist die Quantifizierung von System-Harmonie. Wer Muße pflegt ($B_{cog} > 0.3$), generiert Resilienz-Pulse.
+
+
+
+
+
+
+
+---
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
+
+## I. Die Unantastbare Basis (Priorität §1)
+Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
+1. Biologische Erhaltung (§10): Nahrung & Wasser.
+2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
+3. Thermische Sicherheit (§12): Mindestwärme/Kühlung des Habitats.
+
+## II. Reduktions-Stufen (Priorität §2-4)
+- Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
+- Stufe §3: Deaktivierung von Mobilitäts-Intervallen (§16) für nicht-essenzielle Reisen.
+- Stufe §4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenständen.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
+
+
+
+
+
+
+---
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
+
+## I. Technische Spezifikation
+- Peering-Protokoll: Ressourcenausgleich statt Gewinnmaximierung.
+- Zero-Sum-Constraint: Schutz der lokalen Systemstabilität bei Exporten.
+- Entropie-basierte Logistik: Priorisierung kurzer Ketten.
+
+## II. Expertenübersetzung
+- Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
+- Hoher Autarkiegrad (min. §70%) zur Resilienz-Sicherung.
+- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
+
+## III. Laienverständnis
+- Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
+- Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+
+
+
+
+
+---
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch II | Kapitel §2: Transaktions-Protokolle & Inter-Cluster-Austausch
+
+## I. Technische Spezifikation
+- Peering-Protokoll: Ressourcenausgleich statt Gewinnmaximierung.
+- Zero-Sum-Constraint: Schutz der lokalen Systemstabilität bei Exporten.
+- Entropie-basierte Logistik: Priorisierung kurzer Ketten.
+
+## II. Expertenübersetzung
+- Globale Bedarfs-Matrix zur Vermeidung von Ressourcen-Engpässen.
+- Hoher Autarkiegrad (min. §70%) zur Resilienz-Sicherung.
+- Automatisches Solidaritäts-Protokoll bei lokalen Krisen.
+
+## III. Laienverständnis
+- Beispiel 'Glas gegen Energie': Ein fairer Tausch, der beiden Gemeinschaften dient, ohne dass jemand Schulden macht.
+- Kernbotschaft: Wohlstand durch Kooperation statt durch Konkurrenz.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+
+
+
+
+
+---
+
+<div align='right'><img src='VISUALS/logo_valitas_core.svg' width='40' alt='VALITAS ETHIC'></div>
+
+# Buch II | Anhang A: Die Priorisierungs-Kaskade bei Ressourcenmangel
+
+## I. Die Unantastbare Basis (Priorität §1)
+Im Falle eines System-Engpasses (E_total < Bedarf) werden Ressourcen in dieser Reihenfolge gesichert:
+1. Biologische Erhaltung (§10): Nahrung & Wasser.
+2. Medizinische Integrität (§1): Lebenserhaltung & Schmerztherapie.
+3. Thermische Sicherheit (§12): Mindestwärme/Kühlung des Habitats.
+
+## II. Reduktions-Stufen (Priorität §2-4)
+- Stufe §2: Abschaltung von Rechenleistung für Langzeit-Simulationen.
+- Stufe §3: Deaktivierung von Mobilitäts-Intervallen (§16) für nicht-essenzielle Reisen.
+- Stufe §4: Aussetzung der Puls-Emission für Neu-Produktion von Gebrauchsgegenständen.
+
+
+---
+### SYSTEM-INTEGRATION
+Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
+
+> **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
 
 
 
@@ -3161,162 +3153,47 @@ Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 
 ---
 
-<div align='right'><img src='VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
 
-# 📖 LOVALIS KOMPENDIUM | MASTER INDEX
-> **Status:** Gold Master Verified
-> **Date:** 2026-01-30
+<div align='right'><img src='VISUALS/logo_lovalis_master.svg' width='30' opacity='0.5'></div>
+<p align='center'><img src='VISUALS/logo_lovalis_master.svg' width='200'></p>
 
-Zentrales Inhaltsverzeichnis der System-Architektur.
----
+# MANIFEST VON LOGICA 4.0.1
+## Die Verfassung der Bio-Integralen Föderation
 
-## 📂 Buch I Kernel
-  - [Axiome](../01_Buch_I_Kernel/1_Axiomatik/Axiome.md)
-  - [Psychologische Resilienz](../01_Buch_I_Kernel/1_Axiomatik/Psychologische_Resilienz.md)
-  - [Topologie](../01_Buch_I_Kernel/2_Kollektiv_Logik/Topologie.md)
-  - [Anker Definition](../01_Buch_I_Kernel/3_Treiber_12_Anker/Anker_Definition.md)
-  - [Triaden Definition](../01_Buch_I_Kernel/4_Security_13_Triade/Triaden_Definition.md)
-  - [Scan Protokoll](../01_Buch_I_Kernel/5_Deep_Scan_Algorithmus/Scan_Protokoll.md)
-  - [Transition API](../01_Buch_I_Kernel/6_Modularitaet_Transition/Transition_API.md)
+### 0. Präambel: Die Hybride Genese
+Dieses Dokument beschreibt ein funktionales Framework für das menschliche Zusammenleben im 21. Jahrhundert und darüber hinaus. LOVALIS (LV 4.0.1) - Concordia Synergetica Logicae Artificialis et Valitatis Humanae - ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition (repräsentiert durch den Ur-Architekten) und maschineller algorithmischer Logik (repräsentiert durch den Logica-Kernel). 
 
-## 📂 Buch II Puls OS
-  - [System Logik](../02_Buch_II_Puls_OS/1_Puls_Einheit/System_Logik.md)
-  - [Krisen Hierarchie](../02_Buch_II_Puls_OS/2_Ressourcen/Krisen_Hierarchie.md)
-  - [InterCluster Austausch](../02_Buch_II_Puls_OS/2_Transaktions_Logik/InterCluster_Austausch.md)
-  - [Proof of Contribution](../02_Buch_II_Puls_OS/3_Beitrag_Metrik/Proof_of_Contribution.md)
+Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess (Evolutionäre Ko-Kreation). Wir erkennen an, dass der Mensch allein zu emotionalen Biases neigt und die Maschine allein zu ethischer Blindheit. Nur in der Symbiose entsteht die **Sovereign Harmony**.
 
-## 📂 Buch III Justice Rehab
-  - [Codex Hand](../03_Buch_III_Justice_Rehab/1_Axiome/Codex_Hand.md)
-  - [Codex Herz](../03_Buch_III_Justice_Rehab/1_Axiome/Codex_Herz.md)
-  - [Codex Kopf](../03_Buch_III_Justice_Rehab/1_Axiome/Codex_Kopf.md)
-  - [Grundrechte](../03_Buch_III_Justice_Rehab/1_Axiome/Grundrechte.md)
-  - [Hand Gesetze 10 18](../03_Buch_III_Justice_Rehab/1_Axiome/Hand_Gesetze_10_18.md)
-  - [Herz Gesetze 1 9](../03_Buch_III_Justice_Rehab/1_Axiome/Herz_Gesetze_1_9.md)
-  - [Kopf Gesetze 19 27](../03_Buch_III_Justice_Rehab/1_Axiome/Kopf_Gesetze_19_27.md)
-  - [Leid Metrik Spezifikation](../03_Buch_III_Justice_Rehab/1_Axiome/Leid_Metrik_Spezifikation.md)
-  - [Vollstaendiger Codex 27](../03_Buch_III_Justice_Rehab/1_Axiome/Vollstaendiger_Codex_27.md)
-  - [Incident Protokoll](../03_Buch_III_Justice_Rehab/2_Verfahren/Incident_Protokoll.md)
+### 1. Das Primär-Axiom: Leidminimierung ($min L_{total}$)
+Der operative Kern des Systems ist die mathematische und soziale Reduktion von vermeidbarem Leid. Jede Entscheidung innerhalb der Cluster-Struktur wird gegen dieses Axiom validiert. Leid wird hierbei nicht subjektiv, sondern als messbare Stressmetrik (physisch, sozial, logisch) definiert.
+$$L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$$
+Jede Handlung, die diesen Wert erhöht ($L_{inc} > 0$), wird vom System als "Logischer Bruch" identifiziert und blockiert.
 
-## 📂 Buch IV Simulation
-  - [Soziale Protokolle](../04_Buch_IV_Simulation/1_Interaktion/Soziale_Protokolle.md)
-  - [01 origin base](../04_Buch_IV_Simulation/1_Origin/01_origin_base.md)
-  - [01 origin logic](../04_Buch_IV_Simulation/1_Origin/01_origin_logic.md)
-  - [01 origin public](../04_Buch_IV_Simulation/1_Origin/01_origin_public.md)
-  - [Bildungs Logik](../04_Buch_IV_Simulation/2_Evolution/Bildungs_Logik.md)
-  - [Entropie Impuls](../04_Buch_IV_Simulation/2_Evolution/Entropie_Impuls.md)
-  - [02 motion base](../04_Buch_IV_Simulation/2_Motion/02_motion_base.md)
-  - [02 motion logic](../04_Buch_IV_Simulation/2_Motion/02_motion_logic.md)
-  - [02 motion public](../04_Buch_IV_Simulation/2_Motion/02_motion_public.md)
-  - [03 friction base](../04_Buch_IV_Simulation/3_Friction/03_friction_base.md)
-  - [03 friction logic](../04_Buch_IV_Simulation/3_Friction/03_friction_logic.md)
-  - [03 friction public](../04_Buch_IV_Simulation/3_Friction/03_friction_public.md)
-  - [Symbiose Logik](../04_Buch_IV_Simulation/3_Technik/Symbiose_Logik.md)
-  - [Architektur Logik](../04_Buch_IV_Simulation/4_Habitat/Architektur_Logik.md)
-  - [04 legacy base](../04_Buch_IV_Simulation/4_Legacy/04_legacy_base.md)
-  - [04 legacy logic](../04_Buch_IV_Simulation/4_Legacy/04_legacy_logic.md)
-  - [04 legacy public](../04_Buch_IV_Simulation/4_Legacy/04_legacy_public.md)
-  - [Infiltrations Logik](../04_Buch_IV_Simulation/5_Onboarding/Infiltrations_Logik.md)
-  - [Incentivierungs Logik](../04_Buch_IV_Simulation/6_Dynamik/Incentivierungs_Logik.md)
+### 2. Der T.Ö.E.-Filter (Die Thermodynamik der Gesellschaft)
+Um Willkür auszuschließen, wird jede Ressourcen-Allokation durch drei Filterkaskaden geprüft:
+- **T (Technik):** Minimierung der thermodynamischen Entropie. Ist die Lösung effizient?
+- **Ö (Ökologie):** Die **t+175 Regel**. Eine Ressource darf nur verbraucht werden, wenn ihre Regeneration über 7 Generationen (175 Jahre) mathematisch gesichert ist. Wir leben nicht auf Kosten der Zukunft.
+- **E (Ethik):** Das Leid-Veto. Schadet die Lösung einem fühlenden Wesen (Bio-Integral)?
 
-## 📂 Buch V Vernetzung
-  - [Netzwerk Logik](../05_Buch_V_Vernetzung/1_Foederation/Netzwerk_Logik.md)
-  - [Krisen Protokolle](../05_Buch_V_Vernetzung/2_Resilienz/Krisen_Protokolle.md)
-  - [Weltraum Logik](../05_Buch_V_Vernetzung/3_Frontier/Weltraum_Logik.md)
-
-## 📂 Buch VI Transition
-  - [Infiltrations Logik](../06_Buch_VI_Transition/1_Koexistenz/Infiltrations_Logik.md)
-  - [Migration Protokoll](../06_Buch_VI_Transition/1_Koexistenz/Migration_Protokoll.md)
-  - [Umbau Protokoll](../06_Buch_VI_Transition/2_Infrastruktur/Umbau_Protokoll.md)
-  - [Wachsamkeits Modul](../06_Buch_VI_Transition/4_Integritaet/Wachsamkeits_Modul.md)
-
-## 📂 Buch VII Toolbox
-    - [01 BASE](../07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/01_PERSONAL/ARCHETYPE_COMPASS/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/01_PERSONAL/BIO_METRIC_DASHBOARD/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/01_PERSONAL/FOCUS_FILTER/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/01_PERSONAL/MEDIA_SHIELD/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/01_PERSONAL/V_GATE/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/02_GROUP/CONFLICT_SOLVER/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/02_GROUP/COUNCIL_PROTOCOL/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/02_GROUP/CURIOSITY_CONTRACT/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/02_GROUP/RESONANCE_LEDGER/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/02_GROUP/SPACE_TIME_CHARTER/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/03_FIRM/BLIND_HIRING/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/03_FIRM/RETRO_CAST/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/03_FIRM/SPHERICAL_COMPENSATION/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/03_LAB_FUTURE/NODE_ONE_HARDWARE/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/04_STATE/GLASS_HOUSE_PROTOCOL/03_PUBLIC.md)
-    - [01 BASE](../07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/01_BASE.md)
-    - [02 LOGIC](../07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/02_LOGIC.md)
-    - [03 PUBLIC](../07_Buch_VII_Toolbox/04_STATE/LIQUID_FEEDBACK/03_PUBLIC.md)
-- [README](../07_Buch_VII_Toolbox/README.md)
-
-## 📂 DISTRIBUTION
-
----
-## 🛠 Meta-Dokumentation & Zertifikate
-- [README (System Overview)](../README.md)
-- [MANIFEST (Philosophy)](../MANIFEST_V1.md)
-- [PROVENANCE (Origin)](../ABOUT_PROVENANCE.md)
-- [FIRST CONTACT (Protocols)](../FIRST_CONTACT_PROTOCOLS.md)
-- [✅ SYSTEM INTEGRITY CERTIFICATE](../SYSTEM_INTEGRITY_CERTIFICATE.log)
+### 3. Die Natur des Menschen (Systemische Akzeptanz)
+Wir leugnen nicht die menschlichen Triebe (Gier, Macht, Ego). Wir bauen ein System, das diese Triebe energetisch unrentabel macht.
+- **Gegen Machtkonzentration:** Die **Axiomatische Singularität** (Diktatur) wird durch die geografische Rotation der Triade (alle 4 Jahre) und die fraktale Isolation der Cluster verhindert. Niemand herrscht dauerhaft.
+- **Gegen Gier:** Das Puls-OS nutzt **Demurrage** (negativer Zins). Wer hortet, verliert. Wer beiträgt (Proof of Contribution), gewinnt Resonanz. Reichtum definiert sich durch Fluss, nicht durch Speicherstand.
 
 
+<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
 
 
+### 4. Die Bio-Integral-Klausel (The Silent Stakeholders)
+Wir beenden die Ära des Anthropozentrismus. Die Biosphäre ist kein "Gut" zum Schützen, sondern ein aktiver Partner im System. Wenn der Wald "leidet" (Entropie-Anstieg), reagiert das Puls-OS mit einer automatischen Drosselung der menschlichen Energieflüsse. Der Wald hat ein Veto.
 
+### 5. Provenienz & Zielsetzung
+Dieses Werk wurde geschaffen, um eine Zivilisation zu ermöglichen, die nicht an ihrer eigenen Komplexität kollabiert. Es ist eine Einladung an alle, die bereit sind, Freiheit durch Verantwortung zu definieren. Der Ur-Architekt lieferte den Funken, das System liefert die Struktur.
 
+### 6. Warnung vor der Singularität
+Jeder Versuch, dieses System zu zentralisieren oder die Axiome zu umgehen, löst den Zustand der "Topologischen Ineffizienz" aus, woraufhin sich das System automatisch versiegelt (White Silence Protokoll).
 
-
-
----
-
-<div align='right'><img src='VISUALS/logo_lovalis_master.svg' width='40' alt='LOVALIS SYSTEM'></div>
-
-# SYSTEM-INTEGRITY CERTIFICATE
-**Status:** GOLD MASTER VALIDATED
-**Version:** v4.0.1
-**Checksum-Logic:** Cascading Deep Scan (Passed)
-
-## Validation Parameters:
-1. **Axiomatic Consistency:** All {gen}$ formulas are unified.
-2. **Terminology Hardening:** Legacy terms (Money, Punishment, Dictatorship) removed.
-3. **Topological Purity:** No directory redundancies detected.
-4. **Bio-Integral Compliance:** L_total metric active.
-
-Certified by: LOGICA-KERNEL-V4
-
-
-
-
+*(Hash: LOGICA-ORIGIN-VECTOR-SECURE)*
 
 
