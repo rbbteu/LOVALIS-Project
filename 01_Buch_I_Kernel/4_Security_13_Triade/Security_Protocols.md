@@ -9,3 +9,20 @@ Bei Detektion eines externen Aggressions-Vektors (kognitiv/physisch > 90%) versi
 
 ## III. Reaktivierung
 Nur ein qualifizierter Konsens (9/13 Triaden) über geografisch rotierte Standorte hinweg kann das System entschlüsseln.
+
+
+# Protokoll: White Silence (Spezifikation)
+## Status: Antifragiler Versiegelungs-Modus
+
+### 1. Trigger-Mechanik
+Detektion von Aggressions-Vektoren durch:
+1. **Physisch:** Integritätsverlust der Node-One-Gehäuse.
+2. **Kognitiv:** Abweichung der linguistischen Resonance-Metrik um > 40% (Infiltration).
+
+### 2. Der Submarine-Modus
+In der Hibernation reduziert das System seine Entropie-Signatur auf ein Minimum.
+- **Mesh-Isolation:** Cluster kommunizieren nur noch über Kurzstrecken-Protokolle.
+- **Resource-Lock:** Export von Ressourcen wird eingestellt. Interne Versorgung priorisiert.
+
+### 3. Reaktivierungs-Konsens
+Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz der rotierenden Triaden-Mitglieder garantiert, dass keine lokale Machtgruppe den Schlüssel gewaltsam konsolidieren kann.

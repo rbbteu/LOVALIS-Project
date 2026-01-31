@@ -29,3 +29,10 @@ Jede Transaktion von öffentlichem "Puls" (Energie-Puls-Standard) muss kryptogra
 Jeder Zugriff durch Instanzen auf personenbezogene Metriken löst einen Echtzeit-Trigger im 'Bio-Metric Dashboard' des betroffenen Bürgers aus.
 - **Transparenz-Dividende:** Für jeden autorisierten System-Audit erhält der Bürger eine Kompensation in Pulsen aus dem System-Budget.
 - **Veto-Recht:** Bürger können nicht-kritische Datenabfragen (Level 2 und tiefer) blockieren, sofern kein begründeter Verdacht auf Axiom-Verletzung vorliegt.
+
+
+## IV. Die Ökonomie der Transparenz (Citizen-Firewall)
+Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
+- **Transparenz-Dividende (TD):** Zugriffstiefe x Zeit x Entropie-Faktor = Puls-Transfer.
+- **V-Gate Kopplung:** Das V-Gate des Bürgers fungiert als Firewall-Interface. Es signalisiert jeden Auditversuch durch haptisches Feedback (Smart-Device).
+- **Missbrauchsschutz:** Ein Übermaß an Audits führt zur automatischen Suspendierung des Ratsmandats (Hand/Herz/Kopf).

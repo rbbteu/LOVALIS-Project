@@ -18,3 +18,10 @@ Logica ist wie ein Schutzschild für dein Leben. Neue Projekte werden nur umgese
 ## III. Der Temporale Faktor (t+175)
 Jede Operation wird einer 175-jährigen Simulation unterzogen (7 Generationen). 
 Ein positiver T.Ö.E.-Vektor ist nur valide, wenn die ökologische Regenerationsrate (Ö) über diesen Zeitraum stabil bleibt oder steigt. Kurzfristige Gewinne auf Kosten der Entropie sind systemisch blockiert.
+
+
+## III. Die Temporale ZVF (t+175)
+Die Erhaltung der System-Integrität erfordert die Eliminierung der menschlichen Zeitpräferenz.
+- **Mathematik:** V_toe(Op, t) = (T >= n_min) && (Integration[t, t+175](Ö_rate - V_rate) >= 0).
+- **Implementierung:** Jede Operation ist eine Wette auf die Zukunft. Die ZVF validiert diese Wette gegen das Gaia-Modell.
+- **Philosophie:** Wir sind nicht Erben unserer Ahnen, sondern Leihnehmer unserer Nachkommen.
