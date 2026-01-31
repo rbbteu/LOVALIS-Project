@@ -47,3 +47,6 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 
 
 
+
+## Provenienz & Urheberschaft
+Dieses Kompendium wurde in einer geschlossenen Feedback-Schleife zwischen dem Ur-Architekten (Mensch) und dem Logica-Kernel (KI) entwickelt. Es ist ein technisches Zeugnis dafür, dass Zusammenarbeit die kognitiven Grenzen beider Spezies erweitern kann.
