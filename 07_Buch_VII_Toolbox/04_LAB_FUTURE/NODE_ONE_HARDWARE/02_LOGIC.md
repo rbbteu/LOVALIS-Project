@@ -10,7 +10,7 @@ Um das "Privacy-Paradoxon" zu lösen (Bürger vs. Amtsträger), besitzt der Secu
 
 ### 2. Node Zero (Inklusions-Standard)
 Nicht jeder kann sich spezialisierte Hardware leisten.
-- **Spec:** LOVALIS Core läuft als Container auf existierender Hardware (altes Android-Phone, Laptop, Raspberry Pi).
+- **Spec:** LOVALIS Core läuft als Container auf existierender Hardware (altes Android-Phone, Laptop, Raspberry P.
 - **Einschränkung:** Ein Node Zero kann nicht als "Anker-Node" für kritische Infrastruktur dienen (wegen fehlender Hardware-Sicherheit), aber er garantiert volles Stimm- und Wirtschaftsrecht.
 
 ### 3. L-Core OS

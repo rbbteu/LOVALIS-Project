@@ -1,15 +1,15 @@
 ﻿# Buch II | §2: Das Puls-OS (Zentrale Logik)
-# Version: v3.7.9 (Unified)
+# Version: v3.8.2 (Sanitized & LaTeX Fixed)
 
 ## I. Die Energetische Kernformel
-Die Generierung von Pulsen ({gen}$) unterliegt der strengen Zustands-Validierung:
-}P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L}
-Ein Puls ist die Quantifizierung von System-Harmonie. Er entsteht nur, wenn die technische Effizienz ($) und die ökologische Regeneration ($) steigen, während das Leid ($) neutral bleibt.
+Die Generierung von Pulsen ($P_{gen}$) unterliegt der strengen Zustands-Validierung:
+$$P_{gen} = \Delta T + \Delta Ö(t_{+175}) - \Delta L$$
 
-## II. Proof of Contribution (PoC)
-Der PoC ist der einzige Minting-Algorithmus. 
-1. **Validierung:** Erfolgt dezentral durch den Node-One-Kernel.
-2. **Resilienz-Bonus:** Die Einhaltung des kognitiven Puffers ({cog} > 0.3$) generiert Basis-Pulse zur Vermeidung von System-Burnout.
+## II. Experten-Parameter
+1. **Delta T (Technik):** Steigerung der thermodynamischen Effizienz.
+2. **Delta Ö (Ökologie):** Ressourcen-Regeneration auf Basis des 175-Jahre-Vektors (7 Generationen).
+3. **Delta L (Ethik):** Jegliche Leid-Induktion ($L_{inc} > 0$) führt zum sofortigen Abbruch der Generierung.
 
-## III. Demurrage & Entropie
-Pulse verlieren an energetischem Potenzial ((?i)Diktatur\w*(t) = P(0) \cdot e^{-k \cdot t}$), um Hortung zu verhindern und den Ressourcenfluss zu erzwingen.
+## III. Entropie-Bremse (Demurrage)
+Um Machtkonzentration zu verhindern, verlieren Pulse über Zeit an energetischem Potenzial:
+$$P(t) = P(0) \cdot e^{-k \cdot t}$$

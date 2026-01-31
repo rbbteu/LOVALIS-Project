@@ -128,7 +128,7 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 - Fokus: Aufspüren von 'Toten Winkeln' in den Entscheidungen der 12 Anker.
 
 ## III. Laienverständnis
-- Beispiel 'Die Schiedsrichter': Ein Team aus drei Wächtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
+- Beispiel 'Die SchiedsJudikative Triade': Ein Team aus drei Wächtern, die zeitversetzt wechseln, damit sie immer wachsam bleiben und niemals mit den 'Spielern' (Ankern) unter einer Decke stecken.
 - Kernbotschaft: Deine Sicherheit vor Willkür durch ständige, unabhängige Kontrolle.
 --- END FILE: \01_Buch_I_Kernel\4_Security_13_Triade\Triaden_Definition.md ---
 
@@ -192,7 +192,7 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 - Automatisierungs-Dividende: Effizienzgewinne reduzieren die kollektive Arbeitslast.
 
 ## II. Expertenübersetzung
-- Transformation von Lohnarbeit in sinnstiftenden Systembeitrag.
+- Transformation von energetische Kompensationarbeit in sinnstiftenden Systembeitrag.
 - Incentive-Steuerung für systemkritische Infrastruktur-Aufgaben.
 - Entkopplung von Existenzsicherung und Produktivität.
 
@@ -212,7 +212,7 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 # Buch II | Kapitel §1: Die puls-kybernetik (Erweiterte Spezifikation)
 
 ## I. Mathematische Absicherung
-- Kopplung der Geldmenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
+- Kopplung der Puls-Energiemenge an regenerative Energie-Integrität (T.Ö.E.-Vektor).
 - Implementierung der progressiven Demurrage (§14 Verbot der Verschwendung/Hortung).
 - Automatischer Ressourcen-Stopp-Algorithmus bei Unterschreitung kritischer Reserven.
 
@@ -353,7 +353,7 @@ Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
 ## §18 Die Entropie-Grenze
 - **Technische Spezifikation:** Jede technische Operation muss eine positive Energiebilanz oder einen neutralen ökologischen Einfluss nachweisen.
-- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Richterin über technische Projekte (Limitierung der Umweltbelastung).
+- **Expertenübersetzung:** Die Thermodynamik ist die oüberste Judikative Triadein über technische Projekte (Limitierung der Umweltbelastung).
 - **Laienverständnis:** Wir tun nichts, was die Erde dauerhaft aufheizt oder vergiftet. Die Natur hat das letzte Wort.
 
 
@@ -427,7 +427,7 @@ Jede Anwendung dieser physischen Gesetze kann durch das Veto der **13. Instanz**
 
 ## II. Expertenübersetzung
 - Triaden-Gremium zur Konfliktlösung (Konflikt, Recht, 13. Instanz).
-- Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
+- Restitution statt Resonanz-Wiederherstellung: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombekämpfung.
 
 ## III. Laienverständnis
@@ -598,7 +598,7 @@ Reibung erzeugt Wärme (Energie), wenn man sie kanalisiert.
 --- START FILE: \04_Buch_IV_Simulation\4_Legacy\04_legacy_base.md ---
 # Simulation: Legacy Interaktion
 
-Das alte System (Nation, Fiat-Geld) existiert parallel weiter.
+Das alte System (Nation, Fiat-Puls-Energie) existiert parallel weiter.
 Die Simulation muss Schnittstellen (APIs) bereitstellen.
 --- END FILE: \04_Buch_IV_Simulation\4_Legacy\04_legacy_base.md ---
 
@@ -671,7 +671,7 @@ Ein leidfreies System darf nicht in Trägheit enden. LOVALIS (LV 3.7) erkennt de
 ## II. Implementierung
 - **Kreative Instabilität:** Das System fördert Projekte, deren Ausgang ungewiss ist (z.B. experimentelle Architektur, spekulative Forschung).
 - **Wettbewerb ohne Not:** Förderung von Wettbewerben, bei denen es nicht um Ressourcen (Puls), sondern um Anerkennung und Meisterschaft geht.
-- **Ludische Räume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu belohnen.
+- **Ludische Räume:** Integration von Spiel-Elementen in die Infrastruktur, um Neugier und Exploration dauerhaft zu beenergetische Kompensationen.
 
 ## III. Kernbotschaft
 Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der Not, aüber wir lassen den Stolz der überwindung.
@@ -682,7 +682,7 @@ Leidminimierung bedeutet nicht Anstrengungslosigkeit. Wir nehmen den Schmerz der
 # Buch IV | Kapitel §6: Das Ludische Prinzip & Soziale Resonanz
 
 ## I. Resonanz statt Zwang
-Aktivität wird durch soziale Sichtbarkeit belohnt. Das System nutzt das menschliche Bedürfnis nach Anerkennung und Wirksamkeit als primären Antrieb.
+Aktivität wird durch soziale Sichtbarkeit beenergetische Kompensationt. Das System nutzt das menschliche Bedürfnis nach Anerkennung und Wirksamkeit als primären Antrieb.
 
 ## II. System-Challenges
 Die KI identifiziert Optimierungspotenziale und formuliert sie als freiwillige 'Quests'. Dies transformiert notwendige Arbeit in ein kollektives Spiel.
@@ -703,7 +703,7 @@ LOVALIS (LV 3.7) verbreitet sich als funktionales Overlay. Ein Cluster ist kein 
 3. Souveränität: Interne Anwendung des Codex bei externer juristischer Tarnung.
 
 ## III. Lösung des Ego-Konflikts
-Algorithmische Erziehung: Kooperation wird durch das Puls-OS ökonomisch belohnt. Destruktivität führt zu systemischer Isolation durch mangelnde Peer-Validierung.
+Algorithmische Erziehung: Kooperation wird durch das Puls-OS ökonomisch beenergetische Kompensationt. Destruktivität führt zu systemischer Isolation durch mangelnde Peer-Validierung.
 
 --- END FILE: \04_Buch_IV_Simulation\5_Onboarding\Infiltrations_Logik.md ---
 
@@ -894,7 +894,7 @@ Zeit ist die einzige Ressource, die nicht regenerierbar ist. Die Verschwendung d
 
 ### Axiom der Asynchronität
 Informationen müssen wandern, nicht Menschen.
-- **Default-Modus:** Asynchron (Text, Video-Botschaft, Datei).
+- **Default-Modus:** Asynchron (Text, Video-Botschaft, Date.
 - **Ausnahme-Modus:** Synchron (Meeting, Treffen).
 
 ### Synchron-Rechtfertigung
@@ -960,7 +960,7 @@ Wiederherstellung des harmonischen Datenflusses und der kooperativen Resonanz in
 Vertrauen ist das Schmiermittel jeder Gesellschaft. Das Resonance Ledger macht "Soziales Kapital" sichtbar, ohne es zu einer Puls-Standard zu degradieren.
 
 ### Abgrenzung
-Dies ist KEIN "Social Credit System" zur Verhaltenssteuerung durch Bestrafung. Es ist ein **Bestätigungs-Netzwerk**. Es misst Zuverlässigkeit und Hilfsbereitschaft, nicht Konformität.
+Dies ist KEIN "Social Credit System" zur Verhaltenssteuerung durch Resonanz-Wiederherstellung. Es ist ein **Bestätigungs-Netzwerk**. Es misst Zuverlässigkeit und Hilfsbereitschaft, nicht Konformität.
 
 ### Kern-Mechanik
 Reputation entsteht nicht durch das, was man sagt, sondern durch das, was Peers (Gleichgesinnte) über einen bestätigen ("Endorsement").
@@ -1133,7 +1133,7 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 # 💰 TOOL: SPHERICAL-COMPENSATION (BASE)
 ## Zweck: Ganzheitliche Wertschätzung
 
-Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Belohnung nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
+Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Beenergetische Kompensationung nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
 
 ### Kern-Prinzipien
 1. **Entkopplung:** Existenz ist garantiert (Kernel). Kompensation dient der individuellen Entfaltung und Steuerung von Zusatz-Ressourcen.
@@ -1356,7 +1356,7 @@ Um das "Privacy-Paradoxon" zu lösen (Bürger vs. Amtsträger), besitzt der Secu
 
 ### 2. Node Zero (Inklusions-Standard)
 Nicht jeder kann sich spezialisierte Hardware leisten.
-- **Spec:** LOVALIS Core läuft als Container auf existierender Hardware (altes Android-Phone, Laptop, Raspberry Pi).
+- **Spec:** LOVALIS Core läuft als Container auf existierender Hardware (altes Android-Phone, Laptop, Raspberry P.
 - **Einschränkung:** Ein Node Zero kann nicht als "Anker-Node" für kritische Infrastruktur dienen (wegen fehlender Hardware-Sicherheit), aber er garantiert volles Stimm- und Wirtschaftsrecht.
 
 ### 3. L-Core OS
@@ -1564,7 +1564,7 @@ Puls-Einheiten sind keine Puls-Standard, sondern **Steuerungs-Energie**. Du nutz
 - Delegation von Aufgaben an das System (Automatisierung deiner Bedürfnisse).
 
 ### 4. Transparenz-Dashboard
-Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Belohnung immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
+Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Beenergetische Kompensationung immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
 
 ---
 ### --- SYSTEM-KONTEXT ---
@@ -1697,7 +1697,7 @@ Wenn du Hilfe brauchst ("Wer kann mein Dach reparieren?"), sortiert das System d
 
 ### 3. Transparenz-Check
 Bevor du eine Kooperation eingehst, checkst du das Ledger:
-- "Hat diese Person ihre letzten 5 Zusagen eingehalten?"
+- "Hat diese Person ihre letzten 5 Zusagen einenergetische Kompensationen?"
 Dies eliminiert Enttäuschungen und Trittbrettfahrer-Verhalten.
 
 ---
@@ -1887,7 +1887,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 * *Kern-Konzept:* **Energy-Cap** (Inflationsschutz) und **Demurrage** (Umlauf-Zwang).
 
 ### [03_Buch_III_Justice_Rehab](03_Buch_III_Justice_Rehab/)
-**Das Recht.** Ein Gesetzbuch, das nicht auf Bestrafung, sondern auf Rehabilitation und Schutz basiert.
+**Das Recht.** Ein Gesetzbuch, das nicht auf Resonanz-Wiederherstellung, sondern auf Rehabilitation und Schutz basiert.
 * *Struktur:* Die 27 Invarianten (Codex Herz, Hand, Kopf).
 
 ### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
@@ -1975,6 +1975,8 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 *Datum: 29. Januar 2026*
 
 --- END ROOT-FILE: MANIFEST_V1.md ---
+
+
 
 
 

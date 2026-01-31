@@ -4,7 +4,7 @@
 Vertrauen ist das Schmiermittel jeder Gesellschaft. Das Resonance Ledger macht "Soziales Kapital" sichtbar, ohne es zu einer Puls-Standard zu degradieren.
 
 ### Abgrenzung
-Dies ist KEIN "Social Credit System" zur Verhaltenssteuerung durch Bestrafung. Es ist ein **Bestätigungs-Netzwerk**. Es misst Zuverlässigkeit und Hilfsbereitschaft, nicht Konformität.
+Dies ist KEIN "Social Credit System" zur Verhaltenssteuerung durch Resonanz-Wiederherstellung. Es ist ein **Bestätigungs-Netzwerk**. Es misst Zuverlässigkeit und Hilfsbereitschaft, nicht Konformität.
 
 ### Kern-Mechanik
 Reputation entsteht nicht durch das, was man sagt, sondern durch das, was Peers (Gleichgesinnte) über einen bestätigen ("Endorsement").

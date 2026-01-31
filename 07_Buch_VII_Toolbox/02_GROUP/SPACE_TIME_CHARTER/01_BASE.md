@@ -5,7 +5,7 @@ Zeit ist die einzige Ressource, die nicht regenerierbar ist. Die Verschwendung d
 
 ### Axiom der Asynchronität
 Informationen müssen wandern, nicht Menschen.
-- **Default-Modus:** Asynchron (Text, Video-Botschaft, Datei).
+- **Default-Modus:** Asynchron (Text, Video-Botschaft, Date.
 - **Ausnahme-Modus:** Synchron (Meeting, Treffen).
 
 ### Synchron-Rechtfertigung

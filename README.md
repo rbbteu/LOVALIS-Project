@@ -31,7 +31,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 * *Kern-Konzept:* **Energy-Cap** (Inflationsschutz) und **Demurrage** (Umlauf-Zwang).
 
 ### [03_Buch_III_Justice_Rehab](03_Buch_III_Justice_Rehab/)
-**Das Recht.** Ein Gesetzbuch, das nicht auf Bestrafung, sondern auf Rehabilitation und Schutz basiert.
+**Das Recht.** Ein Gesetzbuch, das nicht auf Resonanz-Wiederherstellung, sondern auf Rehabilitation und Schutz basiert.
 * *Struktur:* Die 27 Invarianten (Codex Herz, Hand, Kopf).
 
 ### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
@@ -68,3 +68,4 @@ Dieses System wurde einem **Deep Scan (Level 5)** unterzogen.
 
 *Erstellt durch Mensch-Maschine-Kollaboration.*
 *Neuruppin, 2026.*
+

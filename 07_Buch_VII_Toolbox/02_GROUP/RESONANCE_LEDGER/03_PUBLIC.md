@@ -10,7 +10,7 @@ Wenn du Hilfe brauchst ("Wer kann mein Dach reparieren?"), sortiert das System d
 
 ### 3. Transparenz-Check
 Bevor du eine Kooperation eingehst, checkst du das Ledger:
-- "Hat diese Person ihre letzten 5 Zusagen eingehalten?"
+- "Hat diese Person ihre letzten 5 Zusagen einenergetische Kompensationen?"
 Dies eliminiert Enttäuschungen und Trittbrettfahrer-Verhalten.
 
 ---

@@ -14,3 +14,4 @@
 - Beispiel 'Jahrhundertflut': Hilfe kommt automatisch aus dem Netzwerk; dein Recht auf Sicherheit ist global garantiert.
 - Kernbotschaft: Die Welt als unzerbrechliche Versicherungsgemeinschaft.
 
+

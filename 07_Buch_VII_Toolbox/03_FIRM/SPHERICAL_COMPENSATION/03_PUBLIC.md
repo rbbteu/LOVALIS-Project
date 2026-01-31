@@ -16,7 +16,7 @@ Puls-Einheiten sind keine Puls-Standard, sondern **Steuerungs-Energie**. Du nutz
 - Delegation von Aufgaben an das System (Automatisierung deiner Bedürfnisse).
 
 ### 4. Transparenz-Dashboard
-Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Belohnung immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
+Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt Neid, da jeder sieht, dass hohe Beenergetische Kompensationung immer mit hohem (und ethisch sauberem) Einsatz gekoppelt ist.
 
 ---
 ### --- SYSTEM-KONTEXT ---

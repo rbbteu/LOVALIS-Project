@@ -10,9 +10,10 @@
 
 ## II. Expertenübersetzung
 - Triaden-Gremium zur Konfliktlösung (Konflikt, Recht, 13. Instanz).
-- Restitution statt Strafe: Energetischer Ausgleich des verursachten Schadens.
+- Restitution statt Resonanz-Wiederherstellung: Energetischer Ausgleich des verursachten Schadens.
 - Fokus auf Ursachenforschung (Stress, Mangel, Psyche) statt auf Symptombekämpfung.
 
 ## III. Laienverständnis
 - Beispiel 'Vandalismus': Reparatur der Hardware und Heilung der sozialen Ursache gehen Hand in Hand.
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.
+

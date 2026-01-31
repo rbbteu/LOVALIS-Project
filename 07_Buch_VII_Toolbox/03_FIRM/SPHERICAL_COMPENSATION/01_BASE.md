@@ -1,7 +1,7 @@
 ﻿# 💰 TOOL: SPHERICAL-COMPENSATION (BASE)
 ## Zweck: Ganzheitliche Wertschätzung
 
-Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Belohnung nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
+Spherical Compensation ist das ökonomische Gegenstück zum T.Ö.E.-Filter. Es stellt sicher, dass Beenergetische Kompensationung nur dort fließt, wo ein echter, positiver Gesamteffekt für das System entsteht.
 
 ### Kern-Prinzipien
 1. **Entkopplung:** Existenz ist garantiert (Kernel). Kompensation dient der individuellen Entfaltung und Steuerung von Zusatz-Ressourcen.
