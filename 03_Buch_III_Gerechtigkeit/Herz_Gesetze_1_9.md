@@ -48,3 +48,4 @@
 - **Expertenübersetzung:** Ethik am Lebensende. Sicherstellung eines schmerzfreien, würdevollen übergangs.
 - **Laienverständnis:** Auch am Ende deines Weges lässt dich das System nicht allein und respektiert deine Entscheidung.
 
+

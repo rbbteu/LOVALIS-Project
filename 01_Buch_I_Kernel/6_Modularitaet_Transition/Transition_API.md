@@ -13,3 +13,4 @@
 - Beispiel 'App-Installation': Logica als schrittweises Update für den Alltag, den Beruf oder die Gemeinde.
 - Kernbotschaft: Veränderung beginnt im Kleinen, mit Werkzeugen, die heute schon funktionieren.
 
+

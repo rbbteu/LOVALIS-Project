@@ -10,3 +10,4 @@ Jedes der 27 Gesetze wird durch folgende Sensoren validiert:
 
 Ein 'Logischer Bruch' liegt vor, wenn eine Entscheidung die Leid-Metrik eines Individuums erhöht, ohne ein nachweislich höheres Leid der Gemeinschaft abzuwenden.
 
+

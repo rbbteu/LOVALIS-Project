@@ -18,3 +18,4 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
     - Wenn du als Gärtner aüber weißt, dass es morgen regnet, kannst du den Vorschlag korrigieren. Die Technik ist dein kluger Gehilfe, nicht dein Aufseher.
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit für das Wesentliche haben. Sie beobachtet uns nicht, sie unterstützt uns.
 
+

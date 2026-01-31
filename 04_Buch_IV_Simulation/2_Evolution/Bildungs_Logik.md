@@ -19,3 +19,4 @@ Die Bildungslogik basiert auf der Entkoppelung von Wissenserwerb und Verwertungs
 - **Kernbotschaft:** Du lernst für dich, um die Welt besser zu verstehen. Zeitdruck gibt es nicht, denn Bildung ist kein Rennen, sondern eine Reise.
 
 
+

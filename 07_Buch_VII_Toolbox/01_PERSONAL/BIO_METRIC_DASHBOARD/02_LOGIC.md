@@ -27,3 +27,4 @@ In v4.0.0 ist das Dashboard nicht mehr nur anthropozentrisch.
 - **Sensor-Input:** Integration von Umweltdaten via Node One (Boden, Luft, Biota).
 - **Leid-Korrelation:** Wenn die lokale Biosphäre Stress-Signale (Entropie-Anstieg) zeigt, wird dies als Delta L_bio in die Puls-Formel des Nutzers eingerechnet.
 
+

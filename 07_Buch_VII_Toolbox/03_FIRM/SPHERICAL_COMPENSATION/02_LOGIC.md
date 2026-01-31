@@ -11,3 +11,4 @@ Die Sphärische Kompensation nutzt die Daten des Puls-OS (Buch II), um den energ
 Jeder Transfer innerhalb einer Firmeneinheit muss das White-Silence-Protokoll und die Citizen-Firewall respektieren. Transparenz über Energieflüsse ist absolut.
 
 
+

@@ -18,3 +18,4 @@
 - Kernbotschaft: Du bist Teil des Systems; wenn du einen Fehler machst, reparieren wir ihn gemeinsam.
 
 
+

@@ -7,3 +7,4 @@ Dieses Dokument enthält die vollständige Logik der Zivilisation 4.0.
 - **Ethik:** Bio-Integral & Leid-Veto (§1)
 - **Sicherheit:** White Silence & Triaden-Rotation (4y)
 
+

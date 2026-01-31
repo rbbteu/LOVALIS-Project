@@ -18,3 +18,4 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
     - Der Garten vor deiner Tür ist kein Privatbesitz, sondern Teil eines Parks, den du mit deinen §149 Nachbarn teilst und gestaltest.
 - **Kernbotschaft:** Wir bauen Nester, keine Käfige. Dein Zuhause schützt dich und die Natur gleichzeitig.
 
+

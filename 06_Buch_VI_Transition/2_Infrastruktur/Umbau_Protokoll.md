@@ -13,3 +13,4 @@ Aufbau lokaler Micro-Grids (Solar, Wind, Biomasse).
 
 ### Schritt 3: Food Sovereignty (Hand-Domäne)
 Umwandlung von Ziergärten in Permakultur-Zonen. Ziel ist nicht 100% Selbstversorgung (ineffizient), sondern Krisenfestigkeit (Notversorgung für 3 Monate).
+

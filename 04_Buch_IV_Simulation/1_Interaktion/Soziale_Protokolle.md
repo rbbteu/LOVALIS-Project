@@ -14,3 +14,4 @@
 - Beispiel 'Veto-Moment': Schnelle, unbürokratische Hilfe bei persönlichen Problemen durch direkte Anker-Kopplung.
 - Kernbotschaft: Eine Gemeinschaft, die dich sieht, dich hört und sich mit dir entwickelt.
 
+

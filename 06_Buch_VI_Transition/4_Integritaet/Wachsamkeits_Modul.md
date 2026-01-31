@@ -11,3 +11,4 @@ Neue Mitglieder erhalten nicht sofort vollen Schreibzugriff auf das *Liquid Feed
 
 ### Der Not-Aus (Circuit Breaker)
 Sollte ein Cluster durch interne Machtkämpfe das Axiom der Leidminimierung dauerhaft verletzen, wird er vom globalen Föderations-Netzwerk isoliert (kein Puls-Austausch mehr), bis er sich durch einen *Deep Scan* saniert hat.
+

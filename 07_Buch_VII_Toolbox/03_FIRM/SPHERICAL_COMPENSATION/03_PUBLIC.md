@@ -24,3 +24,4 @@ Jederzeit einsehbar: Wer trägt was bei? Dies fördert soziale Anerkennung statt
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

@@ -20,3 +20,4 @@ Das System optimiert U, während es F durch das 'White Silence' Protokoll (Buch 
 Wir kämpfen nicht gegen das alte System. Wir bauen einfach ein besseres, das daneben steht. Wenn unser System Strom liefert, während das alte ausfällt, und wenn unsere Menschen glücklicher sind, werden die Menschen von selbst zu uns kommen. Wir sind wie eine App, die das alte Betriebssystem ersetzt, während es noch läuft.
 
 
+

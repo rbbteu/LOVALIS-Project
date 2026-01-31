@@ -14,3 +14,4 @@
 - Beispiel 'Weltreise': Deine Rechte und dein Puls-Status sind global gültig. 
 - Kernbotschaft: Eine verbundene Menschheit ohne Grenzen, basierend auf geteilten Werten.
 
+
