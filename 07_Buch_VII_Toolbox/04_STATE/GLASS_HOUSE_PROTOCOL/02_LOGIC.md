@@ -25,3 +25,7 @@ Jede Transaktion von öffentlichem "Puls" (Energie-Puls-Standard) muss kryptogra
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+### 2.4 Die Citizen-Firewall
+Jeder Zugriff durch Instanzen auf personenbezogene Metriken löst einen Echtzeit-Trigger im 'Bio-Metric Dashboard' des betroffenen Bürgers aus.
+- **Transparenz-Dividende:** Für jeden autorisierten System-Audit erhält der Bürger eine Kompensation in Pulsen aus dem System-Budget.
+- **Veto-Recht:** Bürger können nicht-kritische Datenabfragen (Level 2 und tiefer) blockieren, sofern kein begründeter Verdacht auf Axiom-Verletzung vorliegt.
