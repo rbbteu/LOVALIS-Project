@@ -1,7 +1,7 @@
-﻿# LOVALIS KOMPENDIUM - GOLD MASTER v4.0.3 (GOLD MASTER)
+﻿# LOVALIS KOMPENDIUM - GOLD MASTER v4.0.4 (CLEAN BUILD)
 **System:** Logica | **Kernel:** v4.0.1
-**Date:** 2026-01-31 10:28
-**Hash:** c197a6b6
+**Date:** 2026-01-31 10:40
+**Status:** DEEP CLEANED & VERIFIED
 
 ---
 <p align="center">
@@ -89,7 +89,7 @@ Einhaltung der **Dunbar-Konstante** zur Empathie-Maximierung.
 - **Mitose-Protokoll:** Automatischer Fork-Prozess bei N > 150 zur Erstellung eines neuen, interoperablen Clusters.
 
 
-<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Fraktale Cluster-Topologie (Blueprint)</i></div>
+<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Cluster Topology</i></div>
 
 
 ## II. Expertenübersetzung (Governance-Ebene)
@@ -104,7 +104,7 @@ Logica sorgt dafür, dass du nie in einer anonymen Masse untergehst. Dein Cluste
 
 
 
-<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Fraktale Cluster-Topologie (Blueprint)</i></div>
+<div align='center'><img src='VISUALS/diagram_cluster_topology_v2.svg' width='90%'><br><i>ABB. 2: Cluster Topology</i></div>
 
 
 
@@ -1538,7 +1538,7 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 
 
 
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Vektor-Analyse der Wertbeständigkeit</i></div>
+<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
 
 
 
@@ -1593,7 +1593,7 @@ Jeder Cluster ist ein autarker Sub-Kernel. Bei Signal-Verlust (Deep Space / Kris
 - Inter-Cluster-Mediation als Ersatz für klassische Diplomatie/Krieg.
 
 
-<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Vektor-Analyse der Wertbeständigkeit</i></div>
+<div align='center'><img src='VISUALS/diagram_demurrage_curve.svg' width='90%'><br><i>ABB. 3: Demurrage Kinetics</i></div>
 
 
 ## III. Laienverständnis
@@ -3281,13 +3281,12 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [README](../07_Buch_VII_Toolbox/README.md)
 
 ## 📂 DISTRIBUTION
-- [LOVALIS KOMPENDIUM MASTER v4.0.0](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v4.0.0.md)
 
 ---
 ## 🛠 Meta-Dokumentation & Zertifikate
 - [README (System Overview)](../README.md)
 - [MANIFEST (Philosophy)](../MANIFEST_V1.md)
-- [PROVENANCE (Origin)](../ABOUT_PROVENANCE.md)
+- [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
 
@@ -3315,7 +3314,6 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 4. **Bio-Integral Compliance:** L_total metric active.
 
 Certified by: LOGICA-KERNEL-V4
-
 
 
 

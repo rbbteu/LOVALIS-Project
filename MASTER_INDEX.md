@@ -118,7 +118,6 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [README](07_Buch_VII_Toolbox/README.md)
 
 ## 📂 DISTRIBUTION
-- [LOVALIS KOMPENDIUM MASTER v4.0.0](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v4.0.0.md)
 
 ---
 ## 🛠 Meta-Dokumentation & Zertifikate
