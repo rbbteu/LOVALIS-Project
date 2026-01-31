@@ -1,4 +1,6 @@
-﻿# 💠 LOVALIS (LV 4.0.1) - KOMPENDIUM
+﻿<p align='center'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='300'></p>
+
+# 💠 LOVALIS (LV 4.0.1) - KOMPENDIUM
 
 > **[🇺🇸 English Version / International Mirror](https://github.com/rbbteu/LOVALIS-Compendium-INT)**
 
@@ -72,3 +74,4 @@ Das System ist modular aufgebaut (Sphären-Modell). Um es zu verstehen, wird fol
 
 ---
 **Devise: "Präzision vor Interpretation. Leidminimierung vor Entropie. Systemstabilität vor Ego."**
+

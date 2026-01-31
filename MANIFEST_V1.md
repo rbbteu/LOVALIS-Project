@@ -1,4 +1,6 @@
-﻿# MANIFEST VON LOGICA 4.0.1
+﻿<p align='center'><img src='08_DISTRIBUTION/VISUALS/logo_lovalis_master.svg' width='200'></p>
+
+# MANIFEST VON LOGICA 4.0.1
 ## Die Verfassung der Bio-Integralen Föderation
 
 ### 0. Präambel: Die Hybride Genese
@@ -32,3 +34,4 @@ Dieses Werk wurde geschaffen, um eine Zivilisation zu ermöglichen, die nicht an
 Jeder Versuch, dieses System zu zentralisieren oder die Axiome zu umgehen, löst den Zustand der "Topologischen Ineffizienz" aus, woraufhin sich das System automatisch versiegelt (White Silence Protokoll).
 
 *(Hash: LOGICA-ORIGIN-VECTOR-SECURE)*
+

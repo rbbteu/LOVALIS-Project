@@ -1,0 +1,16 @@
+﻿<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient id="bioWarm" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 256) scale(200)">
+            <stop offset="0%" stop-color="#FFD700" /> <stop offset="70%" stop-color="#FF8C00" /> <stop offset="100%" stop-color="#228B22" /> </radialGradient>
+        <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="6" result="blur"/>
+            <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+        </filter>
+    </defs>
+    
+    <g filter="url(#softGlow)" fill="none" stroke="url(#bioWarm)" stroke-width="6" stroke-linecap="round">
+        <circle cx="256" cy="256" r="40" fill="url(#bioWarm)" fill-opacity="0.2"/>
+        
+        <path d="M256 160 C 280 160, 310 210, 256 256 C 202 210, 232 160, 256 160 Z" /> <path d="M256 352 C 280 352, 310 302, 256 256 C 202 302, 232 352, 256 352 Z" /> <path d="M160 256 C 160 232, 210 202, 256 256 C 210 310, 160 280, 160 256 Z" /> <path d="M352 256 C 352 232, 302 202, 256 256 C 302 310, 352 280, 352 256 Z" /> <circle cx="256" cy="256" r="130" stroke-width="4" stroke-dasharray="20 10"/>
+    </g>
+</svg>
