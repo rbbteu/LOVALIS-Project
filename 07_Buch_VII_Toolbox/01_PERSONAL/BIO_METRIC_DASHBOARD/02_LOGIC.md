@@ -22,4 +22,7 @@ Steigt der $L_{index}$ über einen kritischen Schwellenwert (z.B. 3 Tage in Folg
 ### --- SYSTEM-KONTEXT ---
 > **Rechtliche Bindung:** Dieses Modul unterliegt den in **[Buch I: Kernel]** definierten Axiomen der Leidminimierung.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
-> **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
+> **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.### 3. Der Gaia-Vektor (Bio-Feedback)
+In v4.0.0 ist das Dashboard nicht mehr nur anthropozentrisch.
+- **Sensor-Input:** Integration von Umweltdaten via Node One (Boden, Luft, Biota).
+- **Leid-Korrelation:** Wenn die lokale Biosphäre Stress-Signale (Entropie-Anstieg) zeigt, wird dies als Delta L_bio in die Puls-Formel des Nutzers eingerechnet.
