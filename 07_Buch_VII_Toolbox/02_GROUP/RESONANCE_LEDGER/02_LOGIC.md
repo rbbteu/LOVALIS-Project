@@ -20,3 +20,4 @@ Reputation ist nicht statisch. Alte Lorbeeren verblassen (Halbwertszeit von 6 Mo
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

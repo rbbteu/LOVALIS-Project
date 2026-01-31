@@ -12,3 +12,4 @@ Daten gehören dem Erzeuger. Recht auf 'Digitales Vergessen'.
 ## §21 Verbot der Verhaltens-Profilierung
 Verbot von Charakter-Scores. Keine algorithmische Vorverurteilung.
 
+

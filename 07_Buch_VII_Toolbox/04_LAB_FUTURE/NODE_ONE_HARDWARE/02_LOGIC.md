@@ -24,3 +24,4 @@ Nicht jeder kann sich spezialisierte Hardware leisten.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

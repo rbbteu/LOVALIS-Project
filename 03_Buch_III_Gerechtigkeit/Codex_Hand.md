@@ -12,3 +12,4 @@ Anschluss an das lokale Energienetz ist ein Grundrecht.
 ## §17 Das Prinzip der Wartbarkeit
 Verbot von geplanter Obsoleszenz. Alles muss reparierbar sein.
 
+

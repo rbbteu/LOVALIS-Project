@@ -7,3 +7,4 @@ Audit: Delete Type §4 Tasks (Low Impact/High Friction).
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

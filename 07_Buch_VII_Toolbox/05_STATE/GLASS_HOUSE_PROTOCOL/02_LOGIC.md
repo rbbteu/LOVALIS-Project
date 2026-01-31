@@ -38,3 +38,4 @@ Informationelle Symmetrie wird durch monetäre Kopplung erreicht.
 - **Missbrauchsschutz:** Ein Übermaß an Audits führt zur automatischen Suspendierung des Ratsmandats (Hand/Herz/Kopf).
 
 
+

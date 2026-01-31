@@ -7,3 +7,4 @@ Meeting Rules: 1. Idea 2. ROI Check 3. Veto Check.
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

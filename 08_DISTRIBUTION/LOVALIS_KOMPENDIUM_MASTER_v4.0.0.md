@@ -8,3 +8,4 @@ Dieses Dokument enthält die vollständige Logik der Zivilisation 4.0.
 - **Sicherheit:** White Silence & Triaden-Rotation (4y)
 
 
+

@@ -19,3 +19,4 @@ Die Architektur folgt dem Prinzip der 'Atmenden Infrastruktur'.
 - **Kernbotschaft:** Wir bauen Nester, keine Käfige. Dein Zuhause schützt dich und die Natur gleichzeitig.
 
 
+

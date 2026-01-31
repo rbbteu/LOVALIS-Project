@@ -16,3 +16,4 @@ Reputation entsteht nicht durch das, was man sagt, sondern durch das, was Peers 
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

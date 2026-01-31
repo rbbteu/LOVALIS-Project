@@ -28,3 +28,4 @@ In der Hibernation reduziert das System seine Entropie-Signatur auf ein Minimum.
 Der Shamir-Threshold (9/13) verhindert Einzel-Willkür. Die geografische Distanz der rotierenden Triaden-Mitglieder garantiert, dass keine lokale Machtgruppe den Schlüssel gewaltsam konsolidieren kann.
 
 
+

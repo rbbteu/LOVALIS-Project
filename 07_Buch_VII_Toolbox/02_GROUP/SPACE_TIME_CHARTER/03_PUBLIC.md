@@ -16,3 +16,4 @@ Das Cluster-System definiert "Stille Stunden" (z.B. 08:00 - 12:00), in denen kei
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

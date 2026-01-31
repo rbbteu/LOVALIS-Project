@@ -18,3 +18,4 @@ Meetings haben keine "Open End". Der Timer ist sichtbar. Ist die Zeit um, wird d
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

@@ -19,3 +19,4 @@
 ### SYSTEM-INTEGRATION
 Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-Signatur und bezieht Wertschöpfungs-Daten aus der **[Spherical Compensation]**.
 
+

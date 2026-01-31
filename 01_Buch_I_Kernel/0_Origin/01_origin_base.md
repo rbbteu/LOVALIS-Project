@@ -10,3 +10,4 @@ Der Ur-Architekt definiert die moralischen Fixpunkte. Er ist der Initiator der Z
 Das System ist nicht starr. Es ist ein 'Living Document', das sich durch den Austausch zwischen den Räten und dem Kernel ständig selbst verifiziert, um die ursprüngliche Vision (Leidminimierung) gegen technokratische Entartung abzusichern.
 
 
+

@@ -18,3 +18,4 @@ Dieses Modul nutzt die Hardware-Sicherheit von **[Node One]** zur Transaktions-S
 
 > **System-Hinweis:** Alle hier genannten Ressourcen-Werte sind direkt an die verfügbare **Energie** (kWh) im Cluster-Pool gekoppelt.
 
+

@@ -18,3 +18,4 @@ Anstatt einer Freiheitsentziehung erfolgt eine Neuausrichtung des Beitrags-Vekto
 Niemand darf über ein Mitglied des eigenen Clusters urteilen. Die Judikative Triade muss aus drei geografisch und sozial distanten Clustern bestehen.
 
 
+

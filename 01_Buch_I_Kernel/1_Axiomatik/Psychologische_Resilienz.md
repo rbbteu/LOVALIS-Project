@@ -10,3 +10,4 @@ Ein Fehler ist eine Information. Das System schützt das Individuum vor Schuldzu
 Einführung der 'Delegierten Pause': Temporäre Abgabe von Verantwortung an das logische Gerüst des Systems zur mentalen Regeneration.
 
 
+

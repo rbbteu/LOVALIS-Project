@@ -4,3 +4,4 @@ Nicht-menschliche Organismen sind aktive Stakeholder.
 - **Veto:** Jede Op mit $L_{inc} > 0$ triggert einen Kernel-Panic.
 
 
+

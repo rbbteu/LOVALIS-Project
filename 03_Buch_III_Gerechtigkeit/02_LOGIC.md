@@ -12,3 +12,4 @@ Die Last der Wiedergutmachung folgt der Formel: RP = Delta L * Faktor_Entropie.
 Der Ausgleich erfolgt durch Proof of Contribution (PoC), der direkt dem geschädigten Knoten zugutekommt.
 
 
+

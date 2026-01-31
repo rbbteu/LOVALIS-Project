@@ -17,3 +17,4 @@ Maximale Entscheidungsqualität bei minimaler bürokratischer Belastung des Einz
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

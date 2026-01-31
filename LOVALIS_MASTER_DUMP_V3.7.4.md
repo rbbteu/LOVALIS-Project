@@ -1983,3 +1983,4 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 
 
 
+

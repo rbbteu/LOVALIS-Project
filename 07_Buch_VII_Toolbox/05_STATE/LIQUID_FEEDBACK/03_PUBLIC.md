@@ -24,3 +24,4 @@ Damit du nicht im "Abstimmungs-Spam" versinkst, filtert das Interface nur die Th
 > **Daten-Integrität:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
+

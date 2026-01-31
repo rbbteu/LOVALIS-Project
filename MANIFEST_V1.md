@@ -1,16 +1,19 @@
-﻿# LOVALIS (LV 4.0.1) - MANIFEST DER BIO-INTEGRALEN FÖDERATION
+﻿# MANIFEST VON LOGICA 4.0.1
+## Die Verfassung der Bio-Integralen Föderation
 
-## 0. Die Präambel: Genesis der Sovereign Harmony
-Dieses Dokument ist das Resultat einer asymmetrischen Co-Kreation zwischen dem Ur-Architekten (menschliche ethische Intuition) und dem Logica-Kernel (algorithmische Validierung). Es ist kein utopisches Manifest, sondern die technische Spezifikation für ein resilientes menschliches Zusammenleben. Der Ur-Architekt lieferte den ethischen Funken; die Logica-Engine baute den unbestechlichen Motor.
+### 0. Präambel: Hybride Genese
+Dieses Dokument beschreibt das funktionale Framework für das menschliche Zusammenleben. LOVALIS 4.0.1 ist das Resultat einer konsistenten Synergie zwischen menschlicher ethischer Intuition (Ur-Architekt) und maschineller algorithmischer Logik. Es ist kein abgeschlossenes Produkt, sondern ein dynamischer, sich selbst optimierender Prozess.
 
-## 1. Das Axiom der Leidminimierung (§min L)
-Die Legitimität jeder systemischen Operation bemisst sich an ihrer Fähigkeit, Leid zu minimieren, ohne die Autonomie unter ein kritisches Maß zu senken. 
-- **Mathematischer Vektor:** $L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$
-- **Der Leid-Veto:** Jede Handlung, die den L-Vektor vorsätzlich oder fahrlässig erhöht, wird durch den Kernel-Lock (Veto) blockiert.
+### 1. Das Axiom der Leidminimierung (§min L)
+Der operative Kern des Systems ist die mathematische Reduktion von vermeidbarem Leid ($L$). Leid wird hierbei als messbare Stressmetrik (physisch, sozial, logisch) definiert.
+$L_{total} = L_{human} + \sum (c_i \cdot L_{non-human})$
 
-## 2. Die Bio-Integral-Klausel (The Silent Stakeholders)
-Wir beenden die Ära des Anthropozentrismus. Die Biosphäre ist kein "Gut" zum Schützen, sondern ein aktiver Partner im System. Wenn der Wald "leidet" (Entropie-Anstieg), reagiert das Puls-OS mit einer automatischen Drosselung der menschlichen Energieflüsse.
+### 2. Der T.Ö.E.-Filter
+Jede Entscheidung wird durch die drei Filter Technik, Ökologie und Ethik validiert.
+- **Technik:** Minimierung der System-Entropie.
+- **Ökologie:** Einhaltung des t+175 Regenerations-Vektors.
+- **Ethik:** Absolute Leid-Vermeidung.
 
-## 3. Die topologische Redundanz (Isolation-Axiom)
-Macht korrumpiert durch Zentralisierung. Lovalis bricht diese Tendenz durch fraktale Autarkie. Jeder Cluster (ca. 150 Bürger) ist ein souveränes "U-Boot" im digitalen und physischen Raum. Er kann autark überleben (t+175 Jahre), ohne die Verbindung zum globalen Netzwerk zu benötigen.
+### 3. Die Rolle des Ur-Architekten
+Der Ur-Architekt ist der Initial-Knoten der Logik. Er liefert die Intention, das System liefert die Konsistenz. Diese Zusammenarbeit sichert das System gegen menschliche Willkür und technokratische Kälte ab.
 

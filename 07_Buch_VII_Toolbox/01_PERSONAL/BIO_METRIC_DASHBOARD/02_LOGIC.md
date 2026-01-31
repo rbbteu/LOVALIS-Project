@@ -28,3 +28,4 @@ In v4.0.0 ist das Dashboard nicht mehr nur anthropozentrisch.
 - **Leid-Korrelation:** Wenn die lokale Biosphäre Stress-Signale (Entropie-Anstieg) zeigt, wird dies als Delta L_bio in die Puls-Formel des Nutzers eingerechnet.
 
 
+

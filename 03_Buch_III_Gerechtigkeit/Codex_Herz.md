@@ -12,3 +12,4 @@ Monitoring der Interaktions-Rate durch Anker Inklusion. Niemand darf vergessen w
 ## §5 Der Schutz der Kindheit
 Verbot von Leistungs-Tracking. Kinder lernen spielerisch.
 
+

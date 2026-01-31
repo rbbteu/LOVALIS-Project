@@ -18,3 +18,4 @@ Motivation zur Exzellenz ohne den Druck der existenziellen Vernichtung.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

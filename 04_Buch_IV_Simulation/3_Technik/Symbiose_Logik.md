@@ -19,3 +19,4 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 - **Kernbotschaft:** Technik nimmt uns die Last ab, damit wir Zeit für das Wesentliche haben. Sie beobachtet uns nicht, sie unterstützt uns.
 
 
+

@@ -13,3 +13,4 @@ Wir werben nicht. Wir leben besser.
 - Wenn im Außen-System die Renten kollabieren und die Einsamkeit steigt, bietet der Cluster (durch *Spherical Compensation* und *Resonance Ledger*) soziale Sicherheit und Sinn.
 - **Der Sog-Effekt:** Menschen kommen nicht wegen der Ideologie, sondern wegen der gesteigerten Lebensqualität (V-Score).
 
+

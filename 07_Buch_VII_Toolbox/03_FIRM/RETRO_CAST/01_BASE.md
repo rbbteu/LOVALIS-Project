@@ -7,3 +7,4 @@ Reverse Projection defines solutions.
 > **Daten-IntegritÃ¤t:** Alle generierten Daten verbleiben gem. **[Node One Protokoll]** im Besitz des Nutzers.
 > **Validierung:** Konflikte werden durch das **[T.Ã–.E.-Verfahren]** gelÃ¶st.
 
+

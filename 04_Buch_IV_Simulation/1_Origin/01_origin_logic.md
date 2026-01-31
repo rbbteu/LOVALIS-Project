@@ -5,3 +5,4 @@ Start-Parameter:
 - E_init = 100% (Volle Regeneration)
 - T_init = Lokales Minimum
 
+

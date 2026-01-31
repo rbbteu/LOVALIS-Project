@@ -41,3 +41,4 @@ der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden.
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
 
 
+

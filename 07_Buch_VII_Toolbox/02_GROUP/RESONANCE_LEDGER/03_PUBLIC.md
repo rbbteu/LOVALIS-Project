@@ -20,3 +20,4 @@ Dies eliminiert Enttäuschungen und Trittbrettfahrer-Verhalten.
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+

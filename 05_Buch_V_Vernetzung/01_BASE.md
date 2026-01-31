@@ -9,3 +9,4 @@ Jeder Cluster muss technisch in der Lage sein, ohne externe Energiezufuhr oder D
 In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine technische Notwendigkeit (Lebenserhaltung). Konflikte sind als kritische Systemfehler zu behandeln.
 
 
+

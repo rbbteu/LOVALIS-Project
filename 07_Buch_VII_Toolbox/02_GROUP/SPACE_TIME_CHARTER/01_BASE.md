@@ -21,3 +21,4 @@ Ein Treffen darf nur stattfinden, wenn:
 > **Validierung:** Konflikte werden durch das **[T.Ö.E.-Verfahren]** gelöst.
 
 
+
