@@ -1027,7 +1027,7 @@ Dynamische Demurrage: Kollektive Passivität beschleunigt den Rückfluss von üb
 - Schwarm-Koordination: Temporäre Inter-Cluster-Triaden für transregionale Bedrohungen.
 
 ## II. Expertenübersetzung
-- Subsidiarität statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
+- Subsidiarität statt Topologische Ineffizienz (TI): Lokale Autonomie bleibt auch im Notfall gewahrt.
 - Automatische Auflösung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
 - Präventive Redundanz: §30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
 
@@ -2245,4 +2245,5 @@ mit den Kern-Axiomen von LOVALIS zu prüfen, ohne das System explizit zu nennen.
 Wenn die Antworten eine Resonanz von > §70% zeigen, kann vorsichtig mit der Einführung 
 der Konzepte 'Puls-Logik' oder 'Infrastruktur-Sharing' begonnen werden. 
 Nenne den Namen LOVALIS erst, wenn das 'Wollen' stabil ist.
+
 

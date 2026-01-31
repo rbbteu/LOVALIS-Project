@@ -38,7 +38,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 **Die Gesellschaft.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
 
 ### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
-**Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne zentralistisch zu werden.
+**Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne topologisch ineffizient zu werden.
 
 ### [06_Buch_VI_Transition](06_Buch_VI_Transition/)
 **Der Masterplan.** Die Strategie zur Implementierung in der realen Welt (Submarine-Modus, Kognitive Infiltration).

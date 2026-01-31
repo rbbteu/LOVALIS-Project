@@ -762,7 +762,7 @@ Technik dient der Reduktion von Entropie und Leid, niemals der Steuerung von Bew
 - Schwarm-Koordination: Temporäre Inter-Cluster-Triaden für transregionale Bedrohungen.
 
 ## II. Expertenübersetzung
-- Subsidiarität statt Zentralismus: Lokale Autonomie bleibt auch im Notfall gewahrt.
+- Subsidiarität statt Topologische Ineffizienz: Lokale Autonomie bleibt auch im Notfall gewahrt.
 - Automatische Auflösung von Notfall-Governance zur Vermeidung von Macht-Akkumulation.
 - Präventive Redundanz: §30-Tage-Autarkie-Puffer in jedem Cluster als Weltstandard.
 
@@ -1894,7 +1894,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 **Die Gesellschaft.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
 
 ### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
-**Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne zentralistisch zu werden.
+**Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne topologisch ineffizient zu werden.
 
 ### [06_Buch_VI_Transition](06_Buch_VI_Transition/)
 **Der Masterplan.** Die Strategie zur Implementierung in der realen Welt (Submarine-Modus, Kognitive Infiltration).
@@ -1975,4 +1975,6 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 *Datum: 29. Januar 2026*
 
 --- END ROOT-FILE: MANIFEST_V1.md ---
+
+
 
