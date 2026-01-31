@@ -1,5 +1,5 @@
-﻿### LOGICA MASTER SYNC - IST-ZUSTAND v3.9.0 ###
-Zeitpunkt: 01/31/2026 08:18:41
+﻿### LOGICA MASTER SYNC - IST-ZUSTAND v4.0.0 ###
+Zeitpunkt: 01/31/2026 08:19:42
 --- START DATEI: Axiome.md ---
 Pfad: C:\LOVALIS-Kompendium\01_Buch_I_Kernel\1_Axiomatik\Axiome.md
 
@@ -1353,19 +1353,15 @@ In isolierten Habitaten ist die soziale Harmonie kein Ideal, sondern eine techni
 --- START DATEI: 02_LOGIC.md ---
 Pfad: C:\LOVALIS-Kompendium\05_Buch_V_Vernetzung\02_LOGIC.md
 
-# Buch V | Experten-Logik der Isolation
-# Version: v3.8.3-EXPANSION
-# Status: Deep-Scan Validated (Axiom of Autarky)
+# Buch V | §2: Habitat-Integrität & Autarkie
 
-## §2.1 Der Sub-Kernel-Protokoll
-Bei Verlust des globalen Resonance Ledgers (Latenz > 3600s) initiiert Node One den Sub-Kernel-Modus.
+## I. Bio-Integral-Souveränität
+In geschlossenen Systemen ist die Biosphäre kein Gut, sondern ein Stakeholder.
+- **Koppelung:** Delta L (non-human) ist direkt an die Sauerstoff- und Nährstoffzyklen gebunden.
+- **Formel:** P_gen = Delta T + Delta Ö(local) - (Delta L_human + Delta L_bio).
 
-### I. Lokales Minting
-Puls-Energie wird ausschließlich auf Basis lokaler Ressourcen-Regeneration (t+175) generiert.
-$P_{gen\_local} = \Delta T_{local} + \Delta Ö_{local} - \Delta L_{local}$
-
-### II. Re-Synchronisation
-Bei Wiederherstellung des Kontakts erfolgt ein Hash-Abgleich der lokalen Ledger. Abweichungen, die gegen die globale Axiomatik verstoßen, müssen durch eine inter-clusterale Triade (Remote) validiert werden.
+## II. Interne Aufgaben-Rotation
+Da physische Inter-Cluster-Rotation in Isolation unmöglich ist, wird die kognitive Diversität durch den 'Triaden-Shift' gewahrt. Alle 16 Monate wechselt die Zuständigkeit innerhalb der Triade (Herz, Hand, Kopf), um monopolistische Wissensstrukturen zu verhindern.
 
 --- ENDE DATEI: 02_LOGIC.md ---
 
@@ -6952,6 +6948,7 @@ Die Verbreitung erfolgt nicht durch politische Machtübernahme, sondern durch di
 
 
 
+
 --- ENDE DATEI: MANIFEST_V1.md ---
 
 --- START DATEI: MASTER_INDEX.md ---
@@ -7075,7 +7072,7 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [README](07_Buch_VII_Toolbox/README.md)
 
 ## 📂 DISTRIBUTION
-- [LOVALIS KOMPENDIUM MASTER v3.7.4](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v3.7.4.md)
+- [LOVALIS KOMPENDIUM MASTER v4.0.0](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v4.0.0.md)
 
 ---
 ## 🛠 Meta-Dokumentation & Zertifikate
@@ -7084,6 +7081,7 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+
 
 
 --- ENDE DATEI: MASTER_INDEX.md ---
@@ -7097,7 +7095,7 @@ Pfad: C:\LOVALIS-Kompendium\README.md
 
 ### Concordia Synergetica Logicae Artificialis et Valitatis Humanae
 
-> **Status:** Gold Master (v3.7.4)
+> **Status:** Gold Master (v4.0.0)
 > **Zertifizierung:** Logisch Geschlossen | T.Ö.E. Konform | Human-Zentriert
 > **System-Typ:** Soziales Betriebssystem (Social OS)
 
@@ -7128,7 +7126,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 * *Struktur:* Die 27 Invarianten (Codex Herz, Hand, Kopf).
 
 ### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
-**Die Gesellschaft.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
+**Die Bio-Integrale Föderation.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
 
 ### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
 **Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne topologisch ineffizient zu werden.
@@ -7161,6 +7159,7 @@ Dieses System wurde einem **Deep Scan (Level 5)** unterzogen.
 
 *Erstellt durch Mensch-Maschine-Kollaboration.*
 *Neuruppin, 2026.*
+
 
 
 

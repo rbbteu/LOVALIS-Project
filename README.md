@@ -4,7 +4,7 @@
 
 ### Concordia Synergetica Logicae Artificialis et Valitatis Humanae
 
-> **Status:** Gold Master (v3.7.4)
+> **Status:** Gold Master (v4.0.0)
 > **Zertifizierung:** Logisch Geschlossen | T.Ö.E. Konform | Human-Zentriert
 > **System-Typ:** Soziales Betriebssystem (Social OS)
 
@@ -35,7 +35,7 @@ Das System ist modular aufgebaut. Um es zu verstehen, wird folgende Lesereihenfo
 * *Struktur:* Die 27 Invarianten (Codex Herz, Hand, Kopf).
 
 ### [04_Buch_IV_Simulation](04_Buch_IV_Simulation/)
-**Die Gesellschaft.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
+**Die Bio-Integrale Föderation.** Die Regeln des Zusammenlebens, Bildung (Pädagogik der Ineffizienz) und Architektur.
 
 ### [05_Buch_V_Vernetzung](05_Buch_V_Vernetzung/)
 **Die Skalierung.** Wie sich einzelne Cluster (150 Personen) zu einer globalen Föderation vernetzen, ohne topologisch ineffizient zu werden.
@@ -68,5 +68,6 @@ Dieses System wurde einem **Deep Scan (Level 5)** unterzogen.
 
 *Erstellt durch Mensch-Maschine-Kollaboration.*
 *Neuruppin, 2026.*
+
 
 

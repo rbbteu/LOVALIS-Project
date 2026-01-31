@@ -1,13 +1,9 @@
-﻿# Buch V | Experten-Logik der Isolation
-# Version: v3.8.3-EXPANSION
-# Status: Deep-Scan Validated (Axiom of Autarky)
+﻿# Buch V | §2: Habitat-Integrität & Autarkie
 
-## §2.1 Der Sub-Kernel-Protokoll
-Bei Verlust des globalen Resonance Ledgers (Latenz > 3600s) initiiert Node One den Sub-Kernel-Modus.
+## I. Bio-Integral-Souveränität
+In geschlossenen Systemen ist die Biosphäre kein Gut, sondern ein Stakeholder.
+- **Koppelung:** Delta L (non-human) ist direkt an die Sauerstoff- und Nährstoffzyklen gebunden.
+- **Formel:** P_gen = Delta T + Delta Ö(local) - (Delta L_human + Delta L_bio).
 
-### I. Lokales Minting
-Puls-Energie wird ausschließlich auf Basis lokaler Ressourcen-Regeneration (t+175) generiert.
-$P_{gen\_local} = \Delta T_{local} + \Delta Ö_{local} - \Delta L_{local}$
-
-### II. Re-Synchronisation
-Bei Wiederherstellung des Kontakts erfolgt ein Hash-Abgleich der lokalen Ledger. Abweichungen, die gegen die globale Axiomatik verstoßen, müssen durch eine inter-clusterale Triade (Remote) validiert werden.
+## II. Interne Aufgaben-Rotation
+Da physische Inter-Cluster-Rotation in Isolation unmöglich ist, wird die kognitive Diversität durch den 'Triaden-Shift' gewahrt. Alle 16 Monate wechselt die Zuständigkeit innerhalb der Triade (Herz, Hand, Kopf), um monopolistische Wissensstrukturen zu verhindern.

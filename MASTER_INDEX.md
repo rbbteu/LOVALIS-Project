@@ -116,7 +116,7 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [README](07_Buch_VII_Toolbox/README.md)
 
 ## 📂 DISTRIBUTION
-- [LOVALIS KOMPENDIUM MASTER v3.7.4](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v3.7.4.md)
+- [LOVALIS KOMPENDIUM MASTER v4.0.0](08_DISTRIBUTION/LOVALIS_KOMPENDIUM_MASTER_v4.0.0.md)
 
 ---
 ## 🛠 Meta-Dokumentation & Zertifikate
@@ -125,4 +125,5 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 - [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
 - [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
 - [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+
 
