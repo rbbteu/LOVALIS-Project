@@ -1,7 +1,7 @@
-﻿# LOVALIS KOMPENDIUM - GOLD MASTER v4.0.4 (CLEAN BUILD)
-**System:** Logica | **Kernel:** v4.0.1
-**Date:** 2026-01-31 10:40
-**Status:** DEEP CLEANED & VERIFIED
+﻿# LOVALIS KOMPENDIUM - GOLD MASTER
+**System:** Logica | **Kernel:** v4.0.1 (Stable)
+**Date:** 2026-01-31
+**Status:** FINAL DISTRIBUTION BUILD
 
 ---
 <p align="center">
@@ -3286,9 +3286,9 @@ Zentrales Inhaltsverzeichnis der System-Architektur.
 ## 🛠 Meta-Dokumentation & Zertifikate
 - [README (System Overview)](../README.md)
 - [MANIFEST (Philosophy)](../MANIFEST_V1.md)
-- [PROVENANCE (Origin)](ABOUT_PROVENANCE.md)
-- [FIRST CONTACT (Protocols)](FIRST_CONTACT_PROTOCOLS.md)
-- [✅ SYSTEM INTEGRITY CERTIFICATE](SYSTEM_INTEGRITY_CERTIFICATE.log)
+- [PROVENANCE (Origin)](../ABOUT_PROVENANCE.md)
+- [FIRST CONTACT (Protocols)](../FIRST_CONTACT_PROTOCOLS.md)
+- [✅ SYSTEM INTEGRITY CERTIFICATE](../SYSTEM_INTEGRITY_CERTIFICATE.log)
 
 
 
